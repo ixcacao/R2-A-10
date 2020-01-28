@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+
+<body>
+<p> Info: </p>
+<p id="info"></p>
+<script>
+var info = "ddd";
+
+document.getElementById("demo").innerHTML = info;
+</script>
+</body>
+
+</html>
+
+
+const cheerio = require('cheerio')
+const $ = cheerio.load('<h2 class="title">Hello world</h2>')
+
+$('h2.title').text('Hello there!')
+$('h2').addClass('welcome')
+
+$.html()
