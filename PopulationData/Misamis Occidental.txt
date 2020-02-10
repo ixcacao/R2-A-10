@@ -1,0 +1,490 @@
+Balintonga, Aloran, 411
+Banisilon, Aloran, 688
+Burgos, Aloran, 506
+Calube, Aloran, 373
+Caputol, Aloran, 954
+Casusan, Aloran, 1,053
+Conat, Aloran, 1,280
+Culpan, Aloran, 589
+Dalisay, Aloran, 744
+Dullan, Aloran, 1,073
+Ibabao, Aloran, 821
+Labo, Aloran, 1,084
+Lawa‑an, Aloran, 888
+Lobogon, Aloran, 1,240
+Lumbayao, Aloran, 632
+Macubon (Sina-ad), Aloran, 283
+Makawa, Aloran, 910
+Manamong, Aloran, 430
+Matipaz, Aloran, 502
+Maular, Aloran, 1,206
+Mitazan, Aloran, 667
+Mohon, Aloran, 1,023
+Monterico, Aloran, 527
+Nabuna, Aloran, 426
+Ospital (Poblacion), Aloran, 515
+Palayan, Aloran, 1,193
+Pelong, Aloran, 1,382
+Roxas, Aloran, 188
+San Pedro, Aloran, 196
+Santa Ana, Aloran, 601
+Sinampongan, Aloran, 586
+Taguanao, Aloran, 272
+Tawi‑tawi, Aloran, 867
+Toril, Aloran, 509
+Tubod (Juan Bacayo), Aloran, 793
+Tuburan, Aloran, 1,158
+Tugaya, Aloran, 314
+Zamora, Aloran, 741
+Del Pilar, Baliangao, 830
+Landing, Baliangao, 1,466
+Lumipac, Baliangao, 818
+Lusot, Baliangao, 1,703
+Mabini, Baliangao, 1,319
+Magsaysay, Baliangao, 451
+Misom, Baliangao, 1,772
+Mitacas, Baliangao, 795
+Naburos, Baliangao, 468
+Northern Poblacion, Baliangao, 996
+Punta Miray, Baliangao, 1,601
+Punta Sulong, Baliangao, 1,165
+Sinian, Baliangao, 1,511
+Southern Poblacion, Baliangao, 765
+Tugas, Baliangao, 1,432
+Bag‑ong Anonang, Bonifacio, 706
+Bagumbang, Bonifacio, 2,061
+Baybay, Bonifacio, 1,199
+Bolinsong, Bonifacio, 1,397
+Buenavista, Bonifacio, 1,261
+Buracan, Bonifacio, 936
+Calolot, Bonifacio, 756
+Demetrio Fernan, Bonifacio, 1,099
+Digson, Bonifacio, 2,012
+Dimalco, Bonifacio, 823
+Dullan, Bonifacio, 642
+Kanaokanao, Bonifacio, 800
+Liloan, Bonifacio, 2,307
+Linconan, Bonifacio, 1,315
+Lodiong, Bonifacio, 394
+Lower Usugan, Bonifacio, 1,339
+Mapurog (Migsale), Bonifacio, 1,490
+Migpange, Bonifacio, 2,086
+Montol, Bonifacio, 678
+Pisa‑an, Bonifacio, 1,589
+Poblacion (Centro), Bonifacio, 1,791
+Remedios, Bonifacio, 539
+Rufino Lumapas, Bonifacio, 901
+Sibuyon, Bonifacio, 451
+Tangab, Bonifacio, 419
+Tiaman, Bonifacio, 1,599
+Tusik, Bonifacio, 1,163
+Upper Usogan, Bonifacio, 592
+Bonifacio, Calamba, 588
+Bunawan, Calamba, 1,513
+Calaran, Calamba, 1,266
+Dapacan Alto, Calamba, 1,040
+Dapacan Bajo, Calamba, 617
+Don Bernardo Nery Poblacion (Tres de Mayo), Calamba, 3,630
+Langub, Calamba, 1,192
+Libertad, Calamba, 319
+Magcamiguing, Calamba, 1,194
+Mamalad, Calamba, 578
+Mauswagon, Calamba, 572
+Northern Poblacion, Calamba, 1,681
+Salvador, Calamba, 583
+San Isidro (San Isidro-San Pedro), Calamba, 456
+Siloy, Calamba, 748
+Singalat, Calamba, 240
+Solinog, Calamba, 2,053
+Southwestern Poblacion, Calamba, 2,546
+Sulipat, Calamba, 860
+Bernad, Clarin, 312
+Bito‑on, Clarin, 359
+Cabunga‑an, Clarin, 482
+Canibungan Daku, Clarin, 785
+Canibungan Putol, Clarin, 580
+Canipacan, Clarin, 1,168
+Dalingap, Clarin, 1,108
+Dela Paz, Clarin, 1,582
+Dolores, Clarin, 1,296
+Gata Daku, Clarin, 1,820
+Gata Diot, Clarin, 646
+Guba (Ozamis), Clarin, 986
+Kinangay Norte, Clarin, 839
+Kinangay Sur, Clarin, 1,785
+Lapasan, Clarin, 4,428
+Lupagan, Clarin, 1,272
+Malibangcao, Clarin, 858
+Masabud, Clarin, 959
+Mialen, Clarin, 3,014
+Pan‑ay, Clarin, 2,461
+Penacio, Clarin, 172
+Poblacion I, Clarin, 2,026
+Poblacion II, Clarin, 1,279
+Poblacion III, Clarin, 1,620
+Poblacion IV, Clarin, 2,417
+Sebasi, Clarin, 661
+Segatic Daku, Clarin, 861
+Segatic Diot, Clarin, 557
+Tinacla‑an, Clarin, 1,215
+Bagong Nayon, Concepcion, 1,030
+Capule, Concepcion, 385
+Guiban, Concepcion, 434
+Laya‑an, Concepcion, 620
+Lingatongan, Concepcion, 298
+Maligubaan, Concepcion, 930
+Mantukoy, Concepcion, 641
+Marugang, Concepcion, 356
+New Casul, Concepcion, 460
+Poblacion, Concepcion, 911
+Pogan, Concepcion, 1,161
+Small Potongan, Concepcion, 630
+Soso‑on, Concepcion, 462
+Upper Dapitan, Concepcion, 428
+Upper Dioyo, Concepcion, 568
+Upper Potongan, Concepcion, 693
+Upper Salimpono, Concepcion, 464
+Virayan, Concepcion, 466
+Bagong Clarin, Don Victoriano Chiongbian, 694
+Gandawan, Don Victoriano Chiongbian, 373
+Lake Duminagat, Don Victoriano Chiongbian, 231
+Lalud, Don Victoriano Chiongbian, 2,138
+Lampasan, Don Victoriano Chiongbian, 1,085
+Liboron, Don Victoriano Chiongbian, 212
+Maramara, Don Victoriano Chiongbian, 487
+Napangan, Don Victoriano Chiongbian, 1,053
+Nueva Vista (Masawan), Don Victoriano Chiongbian, 1,465
+Petianan, Don Victoriano Chiongbian, 1,117
+Tuno, Don Victoriano Chiongbian, 1,328
+Adorable, Jimenez, 277
+Butuay, Jimenez, 2,012
+Carmen, Jimenez, 1,703
+Corrales, Jimenez, 1,234
+Dicoloc, Jimenez, 1,559
+Gata, Jimenez, 522
+Guintomoyan, Jimenez, 625
+Macabayao, Jimenez, 1,288
+Malibacsan, Jimenez, 517
+Matugas Alto, Jimenez, 621
+Matugas Bajo, Jimenez, 730
+Mialem, Jimenez, 1,342
+Nacional (Poblacion), Jimenez, 1,569
+Naga (Poblacion), Jimenez, 1,159
+Palilan, Jimenez, 2,137
+Rizal (Poblacion), Jimenez, 1,108
+San Isidro, Jimenez, 401
+Santa Cruz (Poblacion), Jimenez, 1,500
+Seti, Jimenez, 490
+Sibaroc, Jimenez, 862
+Sinara Alto, Jimenez, 697
+Sinara Bajo, Jimenez, 603
+Tabo‑o, Jimenez, 3,339
+Taraka (Poblacion), Jimenez, 1,359
+Alegria, Lopez Jaena, 797
+Bagong Silang, Lopez Jaena, 247
+Biasong, Lopez Jaena, 896
+Bonifacio, Lopez Jaena, 249
+Burgos, Lopez Jaena, 468
+Dalacon, Lopez Jaena, 303
+Dampalan, Lopez Jaena, 614
+Don Andres Soriano, Lopez Jaena, 352
+Eastern Poblacion, Lopez Jaena, 2,767
+Estante, Lopez Jaena, 292
+Jasa‑an, Lopez Jaena, 1,001
+Katipa, Lopez Jaena, 1,428
+Luzaran, Lopez Jaena, 696
+Mabas, Lopez Jaena, 92
+Macalibre Alto, Lopez Jaena, 583
+Macalibre Bajo, Lopez Jaena, 233
+Mahayahay, Lopez Jaena, 286
+Manguehan, Lopez Jaena, 453
+Mansabay Alto, Lopez Jaena, 743
+Mansabay Bajo, Lopez Jaena, 2,152
+Molatuhan Alto, Lopez Jaena, 860
+Molatuhan Bajo, Lopez Jaena, 832
+Peniel, Lopez Jaena, 153
+Puntod, Lopez Jaena, 2,829
+Rizal, Lopez Jaena, 1,055
+Sibugon, Lopez Jaena, 1,418
+Sibula, Lopez Jaena, 1,385
+Western Poblacion, Lopez Jaena, 1,871
+Apil, Oroquieta, 723
+Binuangan, Oroquieta, 1,103
+Bolibol, Oroquieta, 817
+Buenavista, Oroquieta, 1,060
+Bunga, Oroquieta, 1,266
+Buntawan, Oroquieta, 462
+Burgos, Oroquieta, 663
+Canubay, Oroquieta, 3,313
+Ciriaco C. Pastrano (Nilabo), Oroquieta, 408
+Clarin Settlement, Oroquieta, 600
+Dolipos Alto, Oroquieta, 669
+Dolipos Bajo, Oroquieta, 1,059
+Dulapo, Oroquieta, 712
+Dullan Norte, Oroquieta, 605
+Dullan Sur, Oroquieta, 403
+Lamac Lower, Oroquieta, 3,366
+Lamac Upper, Oroquieta, 1,623
+Langcangan Lower, Oroquieta, 1,519
+Langcangan Proper, Oroquieta, 1,884
+Langcangan Upper, Oroquieta, 2,590
+Layawan, Oroquieta, 777
+Loboc Lower, Oroquieta, 2,167
+Loboc Upper, Oroquieta, 1,879
+Malindang, Oroquieta, 323
+Mialen, Oroquieta, 253
+Mobod, Oroquieta, 6,108
+Paypayan, Oroquieta, 320
+Pines, Oroquieta, 2,988
+Poblacion I, Oroquieta, 2,640
+Poblacion II, Oroquieta, 967
+Rizal Lower, Oroquieta, 447
+Rizal Upper, Oroquieta, 420
+San Vicente Alto, Oroquieta, 1,914
+San Vicente Bajo, Oroquieta, 1,746
+Sebucal, Oroquieta, 219
+Senote, Oroquieta, 888
+Taboc Norte, Oroquieta, 2,565
+Taboc Sur, Oroquieta, 2,633
+Talairon, Oroquieta, 4,147
+Talic, Oroquieta, 3,531
+Tipan, Oroquieta, 1,216
+Toliyok, Oroquieta, 842
+Tuyabang Alto, Oroquieta, 586
+Tuyabang Bajo, Oroquieta, 372
+Tuyabang Proper, Oroquieta, 354
+Victoria, Oroquieta, 320
+Villaflor, Oroquieta, 5,290
+50th District (Poblacion), Ozamiz, 1,138
+Aguada (Poblacion), Ozamiz, 7,543
+Bacolod, Ozamiz, 2,226
+Bagakay, Ozamiz, 3,955
+Balintawak, Ozamiz, 660
+Banadero (Poblacion), Ozamiz, 8,000
+Baybay San Roque, Ozamiz, 3,527
+Baybay Santa Cruz, Ozamiz, 1,852
+Baybay Triunfo, Ozamiz, 2,817
+Bongbong, Ozamiz, 2,742
+Calabayan, Ozamiz, 3,353
+Capucao C., Ozamiz, 652
+Capucao P., Ozamiz, 1,419
+Carangan, Ozamiz, 5,223
+Carmen (Misamis Annex), Ozamiz, 6,135
+Catadman‑Manabay, Ozamiz, 7,422
+Cavinte, Ozamiz, 620
+Cogon, Ozamiz, 1,417
+Dalapang, Ozamiz, 636
+Diguan, Ozamiz, 1,503
+Dimaluna, Ozamiz, 3,020
+Doña Consuelo, Ozamiz, 4,178
+Embargo, Ozamiz, 863
+Gala, Ozamiz, 935
+Gango, Ozamiz, 5,686
+Gotokan Daku, Ozamiz, 531
+Gotokan Diot, Ozamiz, 413
+Guimad, Ozamiz, 750
+Guingona, Ozamiz, 596
+Kinuman Norte, Ozamiz, 1,484
+Kinuman Sur, Ozamiz, 1,172
+Labinay, Ozamiz, 1,600
+Labo, Ozamiz, 3,065
+Lam‑an, Ozamiz, 2,961
+Liposong, Ozamiz, 823
+Litapan, Ozamiz, 898
+Malaubang, Ozamiz, 7,867
+Manaka, Ozamiz, 898
+Maningcol, Ozamiz, 6,951
+Mentering, Ozamiz, 430
+Molicay, Ozamiz, 3,581
+Pantaon, Ozamiz, 1,083
+Pulot, Ozamiz, 4,328
+San Antonio, Ozamiz, 4,353
+Sangay Daku, Ozamiz, 777
+Sangay Diot, Ozamiz, 445
+Sinuza, Ozamiz, 1,724
+Stimson Abordo (Montol), Ozamiz, 2,246
+Tabid, Ozamiz, 3,958
+Tinago, Ozamiz, 10,596
+Trigos, Ozamiz, 776
+Baga, Panaon, 369
+Bangko, Panaon, 309
+Camanucan, Panaon, 248
+Dela Paz, Panaon, 509
+Lutao, Panaon, 709
+Magsaysay, Panaon, 212
+Map‑an, Panaon, 487
+Mohon, Panaon, 286
+Poblacion, Panaon, 1,616
+Punta, Panaon, 1,531
+Salimpuno, Panaon, 596
+San Andres, Panaon, 493
+San Juan, Panaon, 739
+San Roque, Panaon, 888
+Sumasap, Panaon, 804
+Villalin, Panaon, 413
+Agunod, Plaridel, 446
+Bato, Plaridel, 3,680
+Buena Voluntad, Plaridel, 387
+Calaca‑an, Plaridel, 841
+Cartagena Proper, Plaridel, 682
+Catarman, Plaridel, 656
+Cebulin, Plaridel, 995
+Clarin, Plaridel, 1,218
+Danao, Plaridel, 968
+Deboloc, Plaridel, 546
+Divisoria, Plaridel, 294
+Eastern Looc, Plaridel, 1,410
+Ilisan, Plaridel, 504
+Katipunan, Plaridel, 1,246
+Kauswagan, Plaridel, 1,197
+Lao Proper, Plaridel, 1,041
+Lao Santa Cruz, Plaridel, 764
+Looc Proper, Plaridel, 1,897
+Mamanga Daku, Plaridel, 1,949
+Mamanga Gamay, Plaridel, 644
+Mangidkid, Plaridel, 903
+New Cartagena, Plaridel, 382
+New Look, Plaridel, 403
+Northern Poblacion, Plaridel, 915
+Panalsalan, Plaridel, 3,006
+Puntod, Plaridel, 551
+Quirino, Plaridel, 428
+Santa Cruz, Plaridel, 864
+Southern Looc, Plaridel, 1,495
+Southern Poblacion, Plaridel, 1,894
+Tipolo, Plaridel, 1,843
+Unidos, Plaridel, 2,712
+Usocan, Plaridel, 2,139
+Agapito Yap, Sr., Sr. (Napilan), 701
+Bautista, Sapang Dalaga, 426
+Bitibut, Sapang Dalaga, 1,933
+Boundary, Sapang Dalaga, 809
+Caluya, Sapang Dalaga, 736
+Capundag, Sapang Dalaga, 418
+Casul, Sapang Dalaga, 840
+Dalumpinas, Sapang Dalaga, 530
+Dasa, Sapang Dalaga, 369
+Dioyo, Sapang Dalaga, 568
+Disoy, Sapang Dalaga, 236
+El Paraiso, Sapang Dalaga, 598
+Guinabot, Sapang Dalaga, 1,069
+Libertad, Sapang Dalaga, 815
+Locus, Sapang Dalaga, 640
+Macabibo, Sapang Dalaga, 341
+Manla, Sapang Dalaga, 671
+Masubong, Sapang Dalaga, 315
+Medallo, Sapang Dalaga, 754
+Poblacion, Sapang Dalaga, 2,670
+Salimpuno, Sapang Dalaga, 444
+San Agustin, Sapang Dalaga, 578
+Sapang Ama, Sapang Dalaga, 645
+Sinaad, Sapang Dalaga, 657
+Sipac, Sapang Dalaga, 1,103
+Sixto Velez, Sr., Sr., 387
+Upper Bautista, Sapang Dalaga, 178
+Ventura, Sapang Dalaga, 552
+Cagay‑anon, Sinacaban, 1,307
+Camanse, Sinacaban, 519
+Colupan Alto, Sinacaban, 761
+Colupan Bajo, Sinacaban, 1,377
+Dinas, Sinacaban, 710
+Estrella, Sinacaban, 871
+Katipunan, Sinacaban, 1,046
+Libertad Alto, Sinacaban, 996
+Libertad Bajo, Sinacaban, 1,690
+Poblacion, Sinacaban, 2,787
+San Isidro Alto, Sinacaban, 353
+San Isidro Bajo, Sinacaban, 492
+San Lorenzo Ruiz (Sungan), Sinacaban, 288
+San Vicente, Sinacaban, 1,087
+Señor, Sinacaban, 663
+Sinonoc, Sinacaban, 2,819
+Tipan, Sinacaban, 625
+Aquino (Marcos), Tangub, 1,484
+Balatacan, Tangub, 1,296
+Baluk, Tangub, 491
+Banglay, Tangub, 773
+Barangay I‑City Hall (Poblacion), Tangub, 590
+Barangay III‑ Market Kalubian (Poblacion), Tangub, 778
+Barangay II‑Marilou Annex (Poblacion), Tangub, 739
+Barangay IV‑Saint Michael (Poblacion), Tangub, 892
+Barangay VII‑Upper Polao (Poblacion), Tangub, 562
+Barangay VI‑Lower Polao (Poblacion), Tangub, 920
+Barangay V‑Malubog (Poblacion), Tangub, 923
+Bintana, Tangub, 1,373
+Bocator, Tangub, 1,795
+Bongabong, Tangub, 753
+Caniangan, Tangub, 1,086
+Capalaran, Tangub, 1,010
+Catagan, Tangub, 561
+Garang, Tangub, 1,661
+Guinabot, Tangub, 426
+Guinalaban, Tangub, 771
+Huyohoy, Tangub, 577
+Isidro D. Tan (Dimaloc-oc), Tangub, 2,127
+Kauswagan, Tangub, 762
+Kimat, Tangub, 587
+Labuyo, Tangub, 1,465
+Lorenzo Tan, Tangub, 2,718
+Lumban, Tangub, 531
+Maloro, Tangub, 2,736
+Manga, Tangub, 1,428
+Mantic, Tangub, 1,770
+Maquilao, Tangub, 3,469
+Matugnaw, Tangub, 246
+Migcanaway, Tangub, 2,791
+Minsubong, Tangub, 1,191
+Owayan, Tangub, 330
+Paiton, Tangub, 862
+Panalsalan, Tangub, 1,008
+Pangabuan, Tangub, 3,103
+Prenza, Tangub, 1,119
+Salimpuno, Tangub, 442
+San Antonio, Tangub, 379
+San Apolinario, Tangub, 1,540
+San Vicente, Tangub, 697
+Santa Cruz, Tangub, 1,855
+Santa Maria (Baga), Tangub, 1,605
+Santo Niño, Tangub, 471
+Sicot, Tangub, 425
+Silanga, Tangub, 1,601
+Silangit, Tangub, 961
+Simasay, Tangub, 842
+Sumirap, Tangub, 1,531
+Taguite, Tangub, 456
+Tituron, Tangub, 513
+Tugas, Tangub, 1,025
+Villaba, Tangub, 964
+Balon, Tudela, 967
+Barra, Tudela, 1,457
+Basirang, Tudela, 1,360
+Bongabong, Tudela, 420
+Buenavista, Tudela, 547
+Cabol‑anonan, Tudela, 1,671
+Cahayag, Tudela, 472
+Calambutan Bajo, Tudela, 735
+Calambutan Settlement, Tudela, 691
+Camating, Tudela, 293
+Canibungan Proper, Tudela, 574
+Casilak San Agustin, Tudela, 607
+Centro Hulpa (Poblacion), Tudela, 626
+Centro Napu (Poblacion), Tudela, 1,874
+Centro Upper (Poblacion), Tudela, 875
+Duanguican, Tudela, 798
+Gala, Tudela, 500
+Gumbil, Tudela, 976
+Locso‑on, Tudela, 995
+Maikay, Tudela, 501
+Maribojoc, Tudela, 414
+Mitugas, Tudela, 612
+Nailon, Tudela, 1,268
+Namut, Tudela, 1,595
+Napurog, Tudela, 1,080
+Pan‑ay Diot, Tudela, 940
+San Nicolas, Tudela, 648
+Sebac, Tudela, 1,415
+Silongon, Tudela, 842
+Sinuza, Tudela, 666
+Taguima, Tudela, 1,117
+Tigdok, Tudela, 817
+Yahong, Tudela, 579

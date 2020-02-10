@@ -1,0 +1,720 @@
+Baclayon, Bacacay, 2,703
+Banao, Bacacay, 1,491
+Barangay 1 (Poblacion), Bacacay, 1,308
+Barangay 10 (Poblacion), Bacacay, 773
+Barangay 11 (Poblacion), Bacacay, 197
+Barangay 12 (Poblacion), Bacacay, 298
+Barangay 13 (Poblacion), Bacacay, 1,315
+Barangay 14 (Poblacion), Bacacay, 1,237
+Barangay 2 (Poblacion), Bacacay, 285
+Barangay 3 (Poblacion), Bacacay, 545
+Barangay 4 (Poblacion), Bacacay, 274
+Barangay 5 (Poblacion), Bacacay, 276
+Barangay 6 (Poblacion), Bacacay, 248
+Barangay 7 (Poblacion), Bacacay, 267
+Barangay 8 (Poblacion), Bacacay, 147
+Barangay 9 (Poblacion), Bacacay, 646
+Bariw, Bacacay, 625
+Basud, Bacacay, 1,746
+Bayandong, Bacacay, 1,650
+Bonga (Upper), Bacacay, 7,649
+Buang, Bacacay, 1,337
+Busdac (San Jose), Bacacay, 1,182
+Cabasan, Bacacay, 2,028
+Cagbulacao, Bacacay, 862
+Cagraray, Bacacay, 703
+Cajogutan, Bacacay, 1,130
+Cawayan, Bacacay, 1,247
+Damacan, Bacacay, 431
+Gubat Ilawod, Bacacay, 1,080
+Gubat Iraya, Bacacay, 1,159
+Hindi, Bacacay, 3,800
+Igang, Bacacay, 2,332
+Langaton, Bacacay, 765
+Manaet, Bacacay, 836
+Mapulang Daga, Bacacay, 453
+Mataas, Bacacay, 518
+Misibis, Bacacay, 1,007
+Nahapunan, Bacacay, 402
+Namanday, Bacacay, 1,482
+Namantao, Bacacay, 778
+Napao, Bacacay, 1,883
+Panarayon, Bacacay, 1,848
+Pigcobohan, Bacacay, 817
+Pili Ilawod, Bacacay, 1,522
+Pili Iraya, Bacacay, 997
+Pongco (Lower Bonga), Bacacay, 1,022
+San Pablo, Bacacay, 1,274
+San Pedro, Bacacay, 1,605
+Sogod, Bacacay, 4,552
+Sula, Bacacay, 873
+Tambilagao (Tambognon), Bacacay, 906
+Tambongon (Tambilagao), Bacacay, 795
+Tanagan, Bacacay, 1,388
+Uson, Bacacay, 644
+Vinisitahan‑Basud (Mainland), Bacacay, 621
+Vinisitahan‑Napao (lsland), Bacacay, 947
+Anoling, Camalig, 964
+Baligang, Camalig, 3,389
+Bantonan, Camalig, 586
+Barangay 1 (Poblacion), Camalig, 1,086
+Barangay 2 (Poblacion), Camalig, 407
+Barangay 3 (Poblacion), Camalig, 534
+Barangay 4 (Poblacion), Camalig, 316
+Barangay 5 (Poblacion), Camalig, 361
+Barangay 6 (Poblacion), Camalig, 385
+Barangay 7 (Poblacion), Camalig, 401
+Bariw, Camalig, 2,047
+Binanderahan, Camalig, 583
+Binitayan, Camalig, 590
+Bongabong, Camalig, 865
+Cabagñan, Camalig, 2,820
+Cabraran Pequeño, Camalig, 852
+Caguiba, Camalig, 1,566
+Calabidongan, Camalig, 717
+Comun, Camalig, 1,704
+Cotmon, Camalig, 2,750
+Del Rosario, Camalig, 842
+Gapo, Camalig, 1,665
+Gotob, Camalig, 635
+Ilawod, Camalig, 2,807
+Iluluan, Camalig, 1,631
+Libod, Camalig, 3,233
+Ligban, Camalig, 714
+Mabunga, Camalig, 137
+Magogon, Camalig, 566
+Manawan, Camalig, 879
+Maninila, Camalig, 1,085
+Mina, Camalig, 651
+Miti, Camalig, 926
+Palanog, Camalig, 3,148
+Panoypoy, Camalig, 1,304
+Pariaan, Camalig, 863
+Quinartilan, Camalig, 924
+Quirangay, Camalig, 2,721
+Quitinday, Camalig, 259
+Salugan, Camalig, 1,750
+Solong, Camalig, 433
+Sua, Camalig, 1,377
+Sumlang, Camalig, 2,025
+Tagaytay, Camalig, 5,652
+Tagoytoy, Camalig, 620
+Taladong, Camalig, 1,547
+Taloto, Camalig, 998
+Taplacon, Camalig, 1,181
+Tinago, Camalig, 2,072
+Tumpa, Camalig, 1,336
+Alcala, Daraga, 2,935
+Alobo, Daraga, 841
+Anislag, Daraga, 11,461
+Bagumbayan, Daraga, 3,416
+Balinad, Daraga, 2,606
+Bañadero, Daraga, 1,643
+Bañag, Daraga, 2,800
+Bascaran, Daraga, 4,335
+Bigao, Daraga, 1,073
+Binitayan, Daraga, 4,447
+Bongalon, Daraga, 1,148
+Budiao, Daraga, 288
+Burgos, Daraga, 1,227
+Busay, Daraga, 2,065
+Canarom, Daraga, 513
+Cullat, Daraga, 1,492
+Dela Paz, Daraga, 909
+Dinoronan, Daraga, 691
+Gabawan, Daraga, 2,151
+Gapo, Daraga, 2,062
+Ibaugan, Daraga, 621
+Ilawod Area Poblacion (Dist. 2), Daraga, 2,243
+Inarado, Daraga, 1,804
+Kidaco, Daraga, 1,373
+Kilicao, Daraga, 4,328
+Kimantong, Daraga, 2,144
+Kinawitan, Daraga, 451
+Kiwalo, Daraga, 1,387
+Lacag, Daraga, 2,533
+Mabini, Daraga, 673
+Malabog, Daraga, 4,243
+Malobago, Daraga, 663
+Maopi, Daraga, 1,197
+Market Area Poblacion (Dist. 1), Daraga, 2,681
+Maroroy, Daraga, 5,518
+Matnog, Daraga, 1,772
+Mayon, Daraga, 1,794
+Mi‑isi, Daraga, 1,108
+Nabasan, Daraga, 663
+Namantao, Daraga, 1,608
+Pandan, Daraga, 1,859
+Peñafrancia, Daraga, 3,041
+Sagpon, Daraga, 6,587
+Salvacion, Daraga, 3,648
+San Rafael, Daraga, 288
+San Ramon, Daraga, 1,481
+San Roque, Daraga, 4,500
+San Vicente Grande, Daraga, 1,088
+San Vicente Pequeño, Daraga, 336
+Sipi, Daraga, 3,750
+Tabon‑tabon, Daraga, 3,124
+Tagas, Daraga, 6,901
+Talahib, Daraga, 643
+Villahermosa, Daraga, 2,442
+Agpay, Guinobatan, 482
+Balite, Guinobatan, 585
+Banao, Guinobatan, 1,074
+Batbat, Guinobatan, 1,373
+Binogsacan Lower, Guinobatan, 1,889
+Binogsacan Upper, Guinobatan, 1,131
+Bololo, Guinobatan, 1,442
+Bubulusan, Guinobatan, 1,399
+Calzada, Guinobatan, 2,787
+Catomag, Guinobatan, 796
+Doña Mercedes, Guinobatan, 1,411
+Doña Tomasa (Magatol), Guinobatan, 1,352
+Ilawod, Guinobatan, 2,209
+Inamnan Grande, Guinobatan, 2,177
+Inamnan Pequeño, Guinobatan, 1,756
+Inascan, Guinobatan, 1,481
+Iraya, Guinobatan, 1,771
+Lomacao, Guinobatan, 2,096
+Maguiron, Guinobatan, 2,118
+Maipon, Guinobatan, 3,944
+Malabnig, Guinobatan, 1,145
+Malipo, Guinobatan, 1,760
+Malobago, Guinobatan, 1,867
+Maninila, Guinobatan, 1,482
+Mapaco, Guinobatan, 1,460
+Marcial O. Rañola (Cabaloaon), Guinobatan, 537
+Masarawag, Guinobatan, 3,760
+Mauraro, Guinobatan, 5,980
+Minto, Guinobatan, 1,726
+Morera, Guinobatan, 2,602
+Muladbucad Grande, Guinobatan, 2,079
+Muladbucad Pequeño, Guinobatan, 2,051
+Ongo, Guinobatan, 942
+Palanas, Guinobatan, 427
+Poblacion, Guinobatan, 1,336
+Pood, Guinobatan, 583
+Quibongbongan, Guinobatan, 2,595
+Quitago, Guinobatan, 2,236
+San Francisco, Guinobatan, 3,302
+San Jose (Ogsong), Guinobatan, 853
+San Rafael, Guinobatan, 3,884
+Sinungtan, Guinobatan, 1,312
+Tandarora, Guinobatan, 1,291
+Travesia, Guinobatan, 3,878
+Aurora Poblacion (Barangay 6), Jovellar, 96
+Bagacay, Jovellar, 985
+Bautista, Jovellar, 920
+Cabraran, Jovellar, 1,636
+Calzada Poblacion (Barangay 7), Jovellar, 523
+Del Rosario, Jovellar, 679
+Estrella, Jovellar, 513
+Florista, Jovellar, 790
+Mabini Poblacion (Barangay 2), Jovellar, 636
+Magsaysay Poblacion (Barangay 4), Jovellar, 126
+Mamlad, Jovellar, 1,044
+Maogog, Jovellar, 1,297
+Mercado Poblacion (Barangay 5), Jovellar, 221
+Plaza Poblacion (Barangay 3), Jovellar, 168
+Quitinday Poblacion (Barangay 8), Jovellar, 254
+Rizal Poblacion (Barangay 1), Jovellar, 360
+Salvacion, Jovellar, 400
+San Isidro, Jovellar, 1,020
+San Roque, Jovellar, 1,470
+San Vicente, Jovellar, 1,976
+Sinagaran, Jovellar, 570
+Villa Paz, Jovellar, 872
+White Deer Poblacion (Barangay 9), Jovellar, 752
+Barangay 10‑Cabugao, Legazpi, 547
+Barangay 11‑Maoyod Poblacion (Barangay 10 & 11), Legazpi, 1,110
+Barangay 12‑Tula‑tula (Poblacion), Legazpi, 2,586
+Barangay 13‑Ilawod West Poblacion (Ilawod 1), Legazpi, 721
+Barangay 14‑Ilawod Poblacion (Ilawod 2), Legazpi, 854
+Barangay 15‑Ilawod East Poblacion (Ilawod 3), Legazpi, 2,879
+Barangay 16‑Kawit‑East Washington Drive (Poblacion), Legazpi, 5,372
+Barangay 17‑Rizal Street, Ilawod, Ilawod (Poblacion), 2,048
+Barangay 18‑Cabagñan West (Poblacion), Legazpi, 3,856
+Barangay 19‑Cabagñan, Legazpi, 1,427
+Barangay 1‑Em's Barrio (Poblacion), Legazpi, 3,725
+Barangay 20‑Cabagñan East (Poblacion), Legazpi, 641
+Barangay 21‑Binanuahan West (Poblacion), Legazpi, 917
+Barangay 22‑Binanuahan East (Poblacion), Legazpi, 1,619
+Barangay 23‑Imperial Court Subd. (Poblacion), Legazpi, 746
+Barangay 24‑Rizal Street, Legazpi, 2,695
+Barangay 25‑Lapu‑lapu (Poblacion), Legazpi, 1,398
+Barangay 26‑Dinagaan (Poblacion), Legazpi, 798
+Barangay 27‑Victory Village South (Poblacion), Legazpi, 1,418
+Barangay 28‑Victory Village North (Poblacion), Legazpi, 2,399
+Barangay 29‑Sabang (Poblacion), Legazpi, 1,656
+Barangay 2‑Em's Barrio South (Poblacion), Legazpi, 1,820
+Barangay 30‑Pigcale (Poblacion), Legazpi, 1,688
+Barangay 31‑Centro‑Baybay (Poblacion), Legazpi, 1,415
+Barangay 32‑San Roque, Legazpi, 5,632
+Barangay 33‑PNR‑Peñaranda St.‑Iraya (Poblacion), Legazpi, 2,773
+Barangay 34‑Oro Site‑Magallanes St. (Poblacion), Legazpi, 1,633
+Barangay 35‑Tinago (Poblacion), Legazpi, 375
+Barangay 36‑Kapantawan (Poblacion), Legazpi, 644
+Barangay 37‑Bitano (Poblacion), Legazpi, 8,559
+Barangay 38‑Gogon (Barangay 54), Legazpi, 5,752
+Barangay 39‑Bonot (Poblacion), Legazpi, 3,521
+Barangay 3‑Em's Barrio East (Poblacion), Legazpi, 900
+Barangay 40‑Cruzada (Barangay 52), Legazpi, 5,853
+Barangay 41‑Bogtong (Barangay 45), Legazpi, 4,753
+Barangay 42‑Rawis (Barangay 65), Legazpi, 8,868
+Barangay 43‑Tamaoyan (Barangay 67), Legazpi, 1,642
+Barangay 44‑Pawa (Barangay 61), Legazpi, 3,469
+Barangay 45‑Dita (Barangay 51), Legazpi, 1,791
+Barangay 46‑San Joaquin (Barangay 64), Legazpi, 2,260
+Barangay 47‑Arimbay, Legazpi, 3,753
+Barangay 48‑Bagong Abre (Barangay 42), Legazpi, 1,627
+Barangay 49‑Bigaa (Barangay 44), Legazpi, 6,730
+Barangay 4‑Sagpon Poblacion (Sagpon 1), Legazpi, 953
+Barangay 50‑Padang (Barangay 60), Legazpi, 1,653
+Barangay 51‑Buyuan (Barangay 49), Legazpi, 3,895
+Barangay 52‑Matanag, Legazpi, 1,895
+Barangay 53‑Bonga (Barangay 48), Legazpi, 3,503
+Barangay 54‑Mabinit (Barangay 59), Legazpi, 1,640
+Barangay 55‑Estanza (Barangay 53), Legazpi, 4,237
+Barangay 56‑Taysan (Barangay 68), Legazpi, 12,330
+Barangay 57‑Dap‑dap (Barangay 69), Legazpi, 2,287
+Barangay 58‑Buragwis, Legazpi, 4,549
+Barangay 59‑Puro (Barangay 63), Legazpi, 4,756
+Barangay 5‑Sagmin Poblacion (Sagpon 2), Legazpi, 1,375
+Barangay 60‑Lamba, Legazpi, 1,352
+Barangay 61‑Maslog (Barangay 58), Legazpi, 4,796
+Barangay 62‑Homapon (Barangay 55), Legazpi, 4,832
+Barangay 63‑Mariawa (Barangay 56), Legazpi, 1,664
+Barangay 64‑Bagacay (Barangay 41 Bagacay), Legazpi, 1,616
+Barangay 65‑Imalnod (Barangay 57), Legazpi, 2,146
+Barangay 66‑Banquerohan (Barangay 43), Legazpi, 6,976
+Barangay 67‑Bariis (Barangay 46), Legazpi, 1,812
+Barangay 68‑San Francisco (Barangay 62), Legazpi, 2,479
+Barangay 69‑Buenavista (Barangay 47), Legazpi, 1,319
+Barangay 6‑Bañadero Poblacion (Sagpon 3), Legazpi, 1,390
+Barangay 70‑Cagbacong (Barangay 50), Legazpi, 2,776
+Barangay 7‑Baño (Poblacion), Legazpi, 645
+Barangay 8‑Bagumbayan (Poblacion), Legazpi, 3,400
+Barangay 9‑Pinaric (Poblacion), Legazpi, 1,493
+Alongong, Libon, 1,529
+Apud, Libon, 1,938
+Bacolod, Libon, 1,450
+Bariw, Libon, 1,297
+Bonbon, Libon, 3,820
+Buga, Libon, 3,748
+Bulusan, Libon, 2,169
+Burabod, Libon, 2,057
+Caguscos, Libon, 1,051
+East Carisac, Libon, 947
+Harigue, Libon, 876
+Libtong, Libon, 886
+Linao, Libon, 1,544
+Mabayawas, Libon, 404
+Macabugos, Libon, 2,840
+Magallang, Libon, 512
+Malabiga, Libon, 857
+Marayag, Libon, 966
+Matara, Libon, 894
+Molosbolos, Libon, 1,084
+Natasan, Libon, 1,033
+Niño Jesus (Santo Niño Jesus), Libon, 342
+Nogpo, Libon, 2,281
+Pantao, Libon, 6,930
+Rawis, Libon, 2,250
+Sagrada Familia, Libon, 1,666
+Salvacion, Libon, 518
+Sampongan, Libon, 458
+San Agustin, Libon, 2,570
+San Antonio, Libon, 1,519
+San Isidro, Libon, 1,883
+San Jose, Libon, 2,982
+San Pascual, Libon, 1,229
+San Ramon, Libon, 764
+San Vicente, Libon, 2,989
+Santa Cruz, Libon, 1,514
+Talin‑talin, Libon, 1,555
+Tambo, Libon, 862
+Villa Petrona, Libon, 1,497
+West Carisac, Libon, 1,053
+Zone I (Poblacion), Libon, 1,486
+Zone II (Poblacion), Libon, 1,249
+Zone III (Poblacion), Libon, 670
+Zone IV (Poblacion), Libon, 1,769
+Zone V (Poblacion), Libon, 1,068
+Zone VI (Poblacion), Libon, 531
+Zone VII (Poblacion), Libon, 1,635
+Abella, Ligao, 1,047
+Allang, Ligao, 1,472
+Amtic, Ligao, 1,930
+Bacong, Ligao, 1,874
+Bagumbayan, Ligao, 2,453
+Balanac, Ligao, 742
+Baligang, Ligao, 1,463
+Barayong, Ligao, 2,438
+Basag, Ligao, 2,194
+Batang, Ligao, 3,672
+Bay, Ligao, 1,383
+Binanowan, Ligao, 1,208
+Binatagan (Poblacion), Ligao, 3,191
+Bobonsuran, Ligao, 659
+Bonga, Ligao, 3,196
+Busac, Ligao, 1,229
+Busay, Ligao, 1,386
+Cabarian, Ligao, 2,569
+Calzada (Poblacion), Ligao, 1,717
+Catburawan, Ligao, 1,747
+Cavasi, Ligao, 929
+Culliat, Ligao, 806
+Dunao, Ligao, 760
+Francia, Ligao, 812
+Guilid, Ligao, 3,848
+Herrera, Ligao, 2,655
+Layon, Ligao, 3,152
+Macalidong, Ligao, 1,289
+Mahaba, Ligao, 3,560
+Malama, Ligao, 1,864
+Maonon, Ligao, 3,042
+Nabonton, Ligao, 2,203
+Nasisi, Ligao, 1,879
+Oma‑oma, Ligao, 1,761
+Palapas, Ligao, 1,469
+Pandan, Ligao, 4,519
+Paulba, Ligao, 2,464
+Paulog, Ligao, 2,424
+Pinamaniquian, Ligao, 2,088
+Pinit, Ligao, 2,714
+Ranao‑ranao, Ligao, 1,773
+San Vicente, Ligao, 787
+Santa Cruz (Poblacion), Ligao, 2,192
+Tagpo, Ligao, 987
+Tambo, Ligao, 1,525
+Tandarura, Ligao, 452
+Tastas, Ligao, 2,272
+Tinago, Ligao, 4,800
+Tinampo, Ligao, 2,644
+Tiongson, Ligao, 944
+Tomolin, Ligao, 1,458
+Tuburan, Ligao, 5,682
+Tula‑tula Grande, Ligao, 1,825
+Tula‑tula Pequeño, Ligao, 1,224
+Tupas, Ligao, 1,026
+Barangay I (Poblacion), Malilipot, 2,152
+Barangay II (Poblacion), Malilipot, 597
+Barangay III (Poblacion), Malilipot, 1,295
+Barangay IV (Poblacion), Malilipot, 1,614
+Barangay V (Poblacion), Malilipot, 1,264
+Binitayan, Malilipot, 1,834
+Calbayog, Malilipot, 2,094
+Canaway, Malilipot, 2,599
+Salvacion, Malilipot, 1,176
+San Antonio Santicon (Poblacion), Malilipot, 791
+San Antonio Sulong, Malilipot, 794
+San Francisco, Malilipot, 1,565
+San Isidro Ilawod, Malilipot, 3,705
+San Isidro Iraya, Malilipot, 4,686
+San Jose, Malilipot, 5,110
+San Roque, Malilipot, 2,277
+Santa Cruz, Malilipot, 1,659
+Santa Teresa, Malilipot, 2,573
+Awang, Malinao, 347
+Bagatangki, Malinao, 772
+Bagumbayan, Malinao, 788
+Balading, Malinao, 3,104
+Balza, Malinao, 2,084
+Bariw, Malinao, 1,524
+Baybay, Malinao, 1,730
+Bulang, Malinao, 1,028
+Burabod, Malinao, 837
+Cabunturan, Malinao, 577
+Comun, Malinao, 1,772
+Diaro, Malinao, 889
+Estancia, Malinao, 4,293
+Jonop, Malinao, 2,024
+Labnig, Malinao, 3,479
+Libod, Malinao, 1,065
+Malolos, Malinao, 856
+Matalipni, Malinao, 1,939
+Ogob, Malinao, 1,992
+Pawa, Malinao, 1,217
+Payahan, Malinao, 1,414
+Poblacion, Malinao, 657
+Quinarabasahan, Malinao, 821
+Santa Elena, Malinao, 1,133
+Soa, Malinao, 1,352
+Sugcad, Malinao, 1,784
+Tagoytoy, Malinao, 2,323
+Tanawan, Malinao, 1,739
+Tuliw, Malinao, 1,761
+Balabagon, Manito, 507
+Balasbas, Manito, 1,581
+Bamban, Manito, 1,010
+Buyo, Manito, 4,038
+Cabacongan, Manito, 945
+Cabit, Manito, 1,093
+Cawayan, Manito, 1,805
+Cawit, Manito, 1,013
+Holugan, Manito, 1,199
+It‑Ba (Poblacion), Manito, 3,588
+Malobago, Manito, 958
+Manumbalay, Manito, 998
+Nagotgot, Manito, 2,510
+Pawa, Manito, 2,297
+Tinapian, Manito, 1,165
+Badbad, Oas, 602
+Badian, Oas, 2,681
+Bagsa, Oas, 862
+Bagumbayan, Oas, 879
+Balogo, Oas, 4,236
+Banao, Oas, 470
+Bangiawon, Oas, 910
+Bogtong, Oas, 367
+Bongoran, Oas, 1,816
+Busac, Oas, 2,079
+Cadawag, Oas, 485
+Cagmanaba, Oas, 3,305
+Calaguimit, Oas, 867
+Calpi, Oas, 1,335
+Calzada, Oas, 911
+Camagong, Oas, 1,167
+Casinagan, Oas, 617
+Centro Poblacion, Oas, 225
+Coliat, Oas, 723
+Del Rosario, Oas, 733
+Gumabao, Oas, 793
+Ilaor Norte, Oas, 1,495
+Ilaor Sur, Oas, 2,202
+Iraya Norte, Oas, 1,982
+Iraya Sur, Oas, 774
+Manga, Oas, 2,322
+Maporong, Oas, 1,184
+Maramba, Oas, 3,301
+Matambo, Oas, 489
+Mayag, Oas, 452
+Mayao, Oas, 1,618
+Moroponros, Oas, 357
+Nagas, Oas, 1,631
+Obaliw‑Rinas, Oas, 1,504
+Pistola, Oas, 1,135
+Ramay, Oas, 734
+Rizal, Oas, 864
+Saban, Oas, 1,908
+San Agustin, Oas, 1,285
+San Antonio, Oas, 939
+San Isidro, Oas, 1,529
+San Jose, Oas, 744
+San Juan, Oas, 1,503
+San Miguel, Oas, 772
+San Pascual (Nale), Oas, 841
+San Ramon, Oas, 1,710
+San Vicente (Suca), Oas, 938
+Tablon, Oas, 940
+Talisay, Oas, 779
+Talongog, Oas, 1,192
+Tapel, Oas, 1,813
+Tobgon, Oas, 1,648
+Tobog, Oas, 1,312
+Agol, Pio Duran, 1,135
+Alabangpuro, Pio Duran, 835
+Banawan (Binawan), Pio Duran, 3,235
+Barangay I (Poblacion), Pio Duran, 4,070
+Barangay II (Poblacion), Pio Duran, 1,796
+Barangay III (Poblacion), Pio Duran, 986
+Barangay IV (Poblacion), Pio Duran, 1,472
+Barangay V (Poblacion), Pio Duran, 2,362
+Basicao Coastal, Pio Duran, 2,300
+Basicao Interior, Pio Duran, 599
+Binodegahan, Pio Duran, 2,517
+Buenavista, Pio Duran, 1,247
+Buyo, Pio Duran, 452
+Caratagan, Pio Duran, 4,536
+Cuyaoyao, Pio Duran, 1,618
+Flores, Pio Duran, 1,410
+La Medalla, Pio Duran, 1,837
+Lawinon, Pio Duran, 1,280
+Macasitas, Pio Duran, 508
+Malapay, Pio Duran, 1,087
+Malidong, Pio Duran, 2,062
+Mamlad, Pio Duran, 503
+Marigondon, Pio Duran, 1,562
+Matanglad, Pio Duran, 681
+Nablangbulod, Pio Duran, 657
+Oringon, Pio Duran, 667
+Palapas, Pio Duran, 1,181
+Panganiran, Pio Duran, 621
+Rawis, Pio Duran, 875
+Salvacion, Pio Duran, 621
+Santo Cristo, Pio Duran, 451
+Sukip, Pio Duran, 868
+Tibabo, Pio Duran, 662
+Agos, Polangui, 3,631
+Alnay, Polangui, 2,398
+Alomon, Polangui, 1,285
+Amoguis, Polangui, 506
+Anopol, Polangui, 1,155
+Apad, Polangui, 1,665
+Balaba, Polangui, 1,697
+Balangibang, Polangui, 1,716
+Balinad, Polangui, 3,256
+Basud, Polangui, 3,752
+Binagbangan (Pintor), Polangui, 922
+Buyo, Polangui, 1,066
+Centro Occidental (Poblacion), Polangui, 3,578
+Centro Oriental (Poblacion), Polangui, 2,393
+Cepres, Polangui, 1,529
+Cotmon, Polangui, 652
+Cotnogan, Polangui, 1,652
+Danao, Polangui, 1,131
+Gabon, Polangui, 3,381
+Gamot, Polangui, 1,424
+Itaran, Polangui, 1,902
+Kinale, Polangui, 2,402
+Kinuartilan, Polangui, 594
+La Medalla, Polangui, 855
+La Purisima, Polangui, 572
+Lanigay, Polangui, 3,830
+Lidong, Polangui, 1,563
+Lourdes, Polangui, 733
+Magpanambo, Polangui, 1,342
+Magurang, Polangui, 3,884
+Matacon, Polangui, 4,398
+Maynaga, Polangui, 1,349
+Maysua, Polangui, 1,004
+Mendez, Polangui, 1,025
+Napo, Polangui, 3,448
+Pinagdapugan, Polangui, 969
+Ponso, Polangui, 5,039
+Salvacion, Polangui, 1,208
+San Roque, Polangui, 1,687
+Santa Cruz, Polangui, 639
+Santa Teresita, Polangui, 855
+Santicon, Polangui, 2,878
+Sugcad, Polangui, 3,986
+Ubaliw, Polangui, 3,270
+Bagaobawan, Rapu-Rapu, 769
+Batan, Rapu-Rapu, 1,093
+Bilbao, Rapu-Rapu, 1,265
+Binosawan, Rapu-Rapu, 747
+Bogtong, Rapu-Rapu, 1,072
+Buenavista, Rapu-Rapu, 820
+Buhatan, Rapu-Rapu, 1,016
+Calanaga, Rapu-Rapu, 927
+Caracaran, Rapu-Rapu, 1,387
+Carogcog, Rapu-Rapu, 421
+Dap‑dap, Rapu-Rapu, 1,024
+Gaba, Rapu-Rapu, 836
+Galicia, Rapu-Rapu, 2,020
+Guadalupe, Rapu-Rapu, 346
+Hamorawon, Rapu-Rapu, 1,118
+Lagundi, Rapu-Rapu, 696
+Liguan, Rapu-Rapu, 958
+Linao, Rapu-Rapu, 484
+Malobago, Rapu-Rapu, 869
+Mananao, Rapu-Rapu, 1,178
+Mancao, Rapu-Rapu, 1,146
+Manila, Rapu-Rapu, 840
+Masaga, Rapu-Rapu, 517
+Morocborocan, Rapu-Rapu, 929
+Nagcalsot, Rapu-Rapu, 899
+Pagcolbon, Rapu-Rapu, 244
+Poblacion, Rapu-Rapu, 5,840
+Sagrada, Rapu-Rapu, 723
+San Ramon, Rapu-Rapu, 2,230
+Santa Barbara, Rapu-Rapu, 198
+Tinocawan, Rapu-Rapu, 753
+Tinopan, Rapu-Rapu, 713
+Viga, Rapu-Rapu, 543
+Villahermosa, Rapu-Rapu, 2,299
+Alimsog, Santo Domingo, 1,082
+Bagong San Roque, Santo Domingo, 1,410
+Buhatan, Santo Domingo, 1,215
+Calayucay, Santo Domingo, 1,663
+Del Rosario Poblacion (Barangay 3), Santo Domingo, 730
+Fidel Surtida, Santo Domingo, 2,780
+Lidong, Santo Domingo, 3,076
+Market Site Poblacion (Barangay 9), Santo Domingo, 200
+Nagsiya Poblacion (Barangay 8), Santo Domingo, 995
+Pandayan Poblacion (Barangay 10), Santo Domingo, 493
+Salvacion, Santo Domingo, 1,946
+San Andres, Santo Domingo, 3,280
+San Fernando, Santo Domingo, 2,193
+San Francisco Poblacion (Barangay 1), Santo Domingo, 654
+San Isidro, Santo Domingo, 2,843
+San Juan Poblacion (Barangay 2), Santo Domingo, 1,072
+San Pedro Poblacion (Barangay 5), Santo Domingo, 471
+San Rafael Poblacion (Barangay 7), Santo Domingo, 615
+San Roque, Santo Domingo, 1,636
+San Vicente Poblacion (Barangay 6), Santo Domingo, 1,356
+Santa Misericordia, Santo Domingo, 2,714
+Santo Domingo Poblacion (Barangay 4), Santo Domingo, 673
+Santo Niño, Santo Domingo, 1,870
+Agnas (San Miguel Island), Tabaco, 1,377
+Bacolod, Tabaco, 1,907
+Bangkilingan, Tabaco, 4,542
+Bantayan, Tabaco, 1,645
+Baranghawon, Tabaco, 4,357
+Basagan, Tabaco, 1,190
+Basud (Poblacion), Tabaco, 2,561
+Bogñabong, Tabaco, 2,527
+Bombon (Poblacion), Tabaco, 1,788
+Bonot, Tabaco, 1,188
+Buang, Tabaco, 2,949
+Buhian, Tabaco, 1,599
+Cabagñan, Tabaco, 2,277
+Cobo, Tabaco, 3,592
+Comon, Tabaco, 2,497
+Cormidal, Tabaco, 2,187
+Divino Rostro (Poblacion), Tabaco, 1,257
+Fatima, Tabaco, 3,923
+Guinobat, Tabaco, 1,918
+Hacienda (San Miguel Island), Tabaco, 5,655
+Magapo, Tabaco, 1,063
+Mariroc, Tabaco, 5,344
+Matagbac, Tabaco, 4,895
+Oras, Tabaco, 1,356
+Oson, Tabaco, 1,184
+Panal, Tabaco, 3,317
+Pawa, Tabaco, 4,248
+Pinagbobong, Tabaco, 2,992
+Quinale Cabasan (Poblacion), Tabaco, 1,536
+Quinastillojan, Tabaco, 1,805
+Rawis (San Miguel Island), Tabaco, 1,516
+Sagurong (San Miguel Island), Tabaco, 2,921
+Salvacion, Tabaco, 2,525
+San Antonio, Tabaco, 5,393
+San Carlos, Tabaco, 3,859
+San Isidro (Boring), Tabaco, 1,306
+San Juan (Poblacion), Tabaco, 1,521
+San Lorenzo, Tabaco, 7,892
+San Ramon, Tabaco, 3,408
+San Roque, Tabaco, 5,173
+San Vicente, Tabaco, 3,891
+Santo Cristo (Poblacion), Tabaco, 5,530
+Sua‑Igot, Tabaco, 1,148
+Tabiguian, Tabaco, 1,642
+Tagas, Tabaco, 2,431
+Tayhi (Poblacion), Tabaco, 3,389
+Visita (San Miguel Island), Tabaco, 1,647
+Bagumbayan, Tiwi, 2,315
+Bariis, Tiwi, 1,092
+Baybay, Tiwi, 2,265
+Belen (Malabog), Tiwi, 1,406
+Biyong, Tiwi, 1,680
+Bolo, Tiwi, 1,205
+Cale, Tiwi, 5,557
+Cararayan, Tiwi, 2,012
+Coro‑coro, Tiwi, 1,747
+Dap‑dap, Tiwi, 891
+Gajo, Tiwi, 1,536
+Joroan, Tiwi, 2,741
+Libjo, Tiwi, 2,936
+Libtong, Tiwi, 2,304
+Matalibong, Tiwi, 1,397
+Maynonong, Tiwi, 824
+Mayong, Tiwi, 1,632
+Misibis, Tiwi, 2,192
+Naga, Tiwi, 4,629
+Nagas, Tiwi, 3,206
+Oyama, Tiwi, 1,289
+Putsan, Tiwi, 1,234
+San Bernardo, Tiwi, 1,759
+Sogod, Tiwi, 2,103
+Tigbi (Poblacion), Tiwi, 3,168

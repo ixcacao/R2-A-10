@@ -1,0 +1,152 @@
+Ababa‑an, Balbalan, 444
+Balantoy, Balbalan, 1,508
+Balbalan Proper, Balbalan, 974
+Balbalasang, Balbalan, 997
+Buaya, Balbalan, 816
+Dao‑angan, Balbalan, 616
+Gawa‑an, Balbalan, 997
+Mabaca, Balbalan, 611
+Maling (Kabugao), Balbalan, 402
+Pantikian, Balbalan, 1,109
+Poblacion (Salegseg), Balbalan, 1,296
+Poswoy, Balbalan, 1,073
+Talalang, Balbalan, 495
+Tawang, Balbalan, 857
+Antonio Canao, Lubuagan, 912
+Dangoy, Lubuagan, 1,229
+Lower Uma, Lubuagan, 691
+Mabilong, Lubuagan, 1,419
+Mabongtot, Lubuagan, 635
+Poblacion, Lubuagan, 1,421
+Tanglag, Lubuagan, 592
+Uma del Norte (Western Luna Uma), Lubuagan, 1,106
+Upper Uma, Lubuagan, 728
+Ableg, Pasil, 546
+Bagtayan, Pasil, 456
+Balatoc, Pasil, 1,623
+Balenciagao Sur, Pasil, 401
+Balinciagao Norte, Pasil, 747
+Cagaluan, Pasil, 1,276
+Colayo, Pasil, 366
+Dalupa, Pasil, 480
+Dangtalan, Pasil, 580
+Galdang (Casaloan), Pasil, 397
+Guina‑ang (Poblacion), Pasil, 960
+Magsilay, Pasil, 704
+Malucsad, Pasil, 429
+Pugong, Pasil, 679
+Aciga, Pinukpuk, 883
+Allaguia, Pinukpuk, 1,640
+Ammacian, Pinukpuk, 1,756
+Apatan, Pinukpuk, 2,067
+Asibanglan, Pinukpuk, 970
+Ba‑ay, Pinukpuk, 534
+Ballayangon, Pinukpuk, 1,508
+Bayao, Pinukpuk, 2,084
+Camalog, Pinukpuk, 859
+Cawagayan, Pinukpuk, 1,049
+Dugpa, Pinukpuk, 1,147
+Katabbogan, Pinukpuk, 1,773
+Limos, Pinukpuk, 825
+Magaogao, Pinukpuk, 907
+Malagnat, Pinukpuk, 1,869
+Mapaco, Pinukpuk, 877
+Pakawit, Pinukpuk, 1,020
+Pinococ, Pinukpuk, 789
+Pinukpuk Junction, Pinukpuk, 2,989
+Socbot, Pinukpuk, 1,736
+Taga (Poblacion), Pinukpuk, 2,488
+Taggay, Pinukpuk, 1,178
+Wagud, Pinukpuk, 1,078
+Babalag East (Poblacion), Rizal, 1,164
+Babalag West (Poblacion), Rizal, 1,901
+Bulbol, Rizal, 918
+Calaocan, Rizal, 1,278
+Kinama, Rizal, 854
+Liwan East, Rizal, 1,412
+Liwan West, Rizal, 2,672
+Macutay, Rizal, 1,720
+Romualdez, Rizal, 665
+San Francisco, Rizal, 599
+San Pascual, Rizal, 1,194
+San Pedro, Rizal, 622
+San Quintin, Rizal, 544
+Santor, Rizal, 1,495
+Agbannawag, Tabuk, 4,599
+Amlao, Tabuk, 894
+Appas, Tabuk, 2,741
+Bado Dangwa, Tabuk, 2,078
+Bagumbayan, Tabuk, 843
+Balawag, Tabuk, 1,686
+Balong, Tabuk, 1,998
+Bantay, Tabuk, 1,194
+Bulanao, Tabuk, 19,636
+Bulanao Norte, Tabuk, 6,329
+Bulo, Tabuk, 4,053
+Cabaritan, Tabuk, 1,001
+Cabaruan, Tabuk, 2,036
+Calaccad, Tabuk, 1,528
+Calanan, Tabuk, 1,562
+Casigayan, Tabuk, 2,872
+Cudal, Tabuk, 3,001
+Dagupan Centro (Poblacion), Tabuk, 3,019
+Dagupan Weste, Tabuk, 4,581
+Dilag, Tabuk, 4,101
+Dupag, Tabuk, 997
+Gobgob, Tabuk, 1,943
+Guilayon, Tabuk, 923
+Ipil, Tabuk, 3,295
+Lacnog, Tabuk, 4,420
+Lanna, Tabuk, 1,339
+Laya East, Tabuk, 2,576
+Laya West, Tabuk, 2,683
+Lucog, Tabuk, 1,395
+Magnao, Tabuk, 906
+Magsaysay, Tabuk, 4,072
+Malalao, Tabuk, 465
+Malin‑awa, Tabuk, 2,013
+Masablang, Tabuk, 988
+Nambaran, Tabuk, 3,751
+Nambucayan, Tabuk, 1,062
+Naneng, Tabuk, 691
+New Tanglag, Tabuk, 1,533
+San Juan, Tabuk, 2,785
+San Julian, Tabuk, 1,215
+Suyang, Tabuk, 459
+Tuga, Tabuk, 1,379
+Anggacan, Tanudan, 400
+Anggacan Sur, Tanudan, 281
+Babbanoy, Tanudan, 620
+Dacalan, Tanudan, 482
+Dupligan, Tanudan, 1,798
+Gaang, Tanudan, 541
+Lay‑asan, Tanudan, 602
+Lower Lubo, Tanudan, 612
+Lower Mangali, Tanudan, 286
+Lower Taloctoc, Tanudan, 351
+Mabaca, Tanudan, 806
+Mangali Centro, Tanudan, 376
+Pangol, Tanudan, 916
+Poblacion, Tanudan, 515
+Upper Lubo, Tanudan, 586
+Upper Taloctoc, Tanudan, 362
+Ambato Legleg, Tinglayan, 467
+Bangad Centro, Tinglayan, 535
+Basao, Tinglayan, 1,203
+Belong Manubal, Tinglayan, 437
+Bugnay, Tinglayan, 1,025
+Buscalan (Buscalan-Locong), Tinglayan, 732
+Butbut (Butbut-Ngibat), Tinglayan, 598
+Dananao, Tinglayan, 692
+Loccong, Tinglayan, 507
+Lower Bangad, Tinglayan, 1,062
+Luplupa, Tinglayan, 631
+Mallango, Tinglayan, 690
+Ngibat, Tinglayan, 297
+Old Tinglayan, Tinglayan, 327
+Poblacion, Tinglayan, 948
+Sumadel 1, Tinglayan, 566
+Sumadel 2, Tinglayan, 568
+Tulgao East, Tinglayan, 570
+Tulgao West, Tinglayan, 523
+Upper Bangad, Tinglayan, 490

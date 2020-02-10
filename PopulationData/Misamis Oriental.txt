@@ -1,0 +1,424 @@
+Baybay, Alubijid, 1,959
+Benigwayan, Alubijid, 1,249
+Calatcat, Alubijid, 1,430
+Lagtang, Alubijid, 1,183
+Lanao, Alubijid, 2,142
+Loguilo, Alubijid, 3,074
+Lourdes, Alubijid, 3,188
+Lumbo, Alubijid, 1,879
+Molocboloc, Alubijid, 910
+Poblacion, Alubijid, 2,986
+Sampatulog, Alubijid, 1,885
+Sungay, Alubijid, 1,760
+Talaba, Alubijid, 1,294
+Taparak, Alubijid, 1,697
+Tugasnon, Alubijid, 2,188
+Tula, Alubijid, 900
+Balagnan, Balingasag, 1,007
+Baliwagan, Balingasag, 3,544
+Barangay 1 (Poblacion), Balingasag, 2,173
+Barangay 2 (Poblacion), Balingasag, 1,023
+Barangay 3 (Poblacion), Balingasag, 2,529
+Barangay 4 (Poblacion), Balingasag, 1,220
+Barangay 5 (Poblacion), Balingasag, 916
+Barangay 6 (Poblacion), Balingasag, 2,018
+Binitinan, Balingasag, 3,439
+Blanco, Balingasag, 2,524
+Calawag, Balingasag, 1,031
+Camuayan, Balingasag, 1,602
+Cogon, Balingasag, 5,722
+Dansuli, Balingasag, 523
+Dumarait, Balingasag, 2,349
+Hermano, Balingasag, 2,039
+Kibanban, Balingasag, 2,020
+Linabu, Balingasag, 2,761
+Linggangao, Balingasag, 2,651
+Mambayaan, Balingasag, 1,608
+Mandangoa, Balingasag, 3,975
+Napaliran, Balingasag, 2,961
+Quezon, Balingasag, 1,249
+Rosario, Balingasag, 1,116
+Samay, Balingasag, 1,521
+San Francisco, Balingasag, 727
+San Isidro, Balingasag, 3,078
+San Juan, Balingasag, 2,050
+Talusan, Balingasag, 2,656
+Waterfall, Balingasag, 5,027
+Baukbauk Poblacion (G. E. Antonino), Balingoan, 2,983
+Dahilig, Balingoan, 309
+Kabangasan, Balingoan, 404
+Kabulakan, Balingoan, 711
+Kauswagan, Balingoan, 582
+Lapinig (Poblacion), Balingoan, 1,972
+Mantangale, Balingoan, 1,691
+Mapua, Balingoan, 831
+San Alonzo, Balingoan, 1,568
+Dampias, Binuangan, 1,217
+Kitamban, Binuangan, 550
+Kitambis, Binuangan, 389
+Mabini, Binuangan, 1,170
+Mosangot, Binuangan, 1,384
+Nabataan, Binuangan, 301
+Poblacion, Binuangan, 1,952
+Valdeconcha, Binuangan, 552
+Ani‑e, Claveria, 3,442
+Aposkahoy, Claveria, 2,188
+Bulahan, Claveria, 1,158
+Cabacungan, Claveria, 1,657
+Gumaod, Claveria, 1,428
+Hinaplanan, Claveria, 3,586
+Kalawitan, Claveria, 536
+Lanise, Claveria, 2,059
+Luna, Claveria, 1,527
+Madaguing, Claveria, 958
+Malagana, Claveria, 2,370
+Mat‑i, Claveria, 3,716
+Minalwang, Claveria, 1,608
+Pambugas, Claveria, 871
+Panampawan, Claveria, 865
+Patrocenio, Claveria, 3,930
+Pelaez (Don Gregorio Pelaez), Claveria, 988
+Plaridel, Claveria, 1,785
+Poblacion, Claveria, 9,527
+Punong, Claveria, 616
+Rizal, Claveria, 1,041
+Santa Cruz, Claveria, 1,170
+Tamboboan, Claveria, 1,152
+Tipolohon, Claveria, 728
+Amoros, El Salvador, 4,096
+Bolisong, El Salvador, 1,509
+Bolobolo, El Salvador, 4,191
+Calongonan, El Salvador, 1,459
+Cogon, El Salvador, 2,705
+Himaya, El Salvador, 1,797
+Hinigdaan, El Salvador, 1,749
+Kalabaylabay, El Salvador, 1,194
+Kibonbon, El Salvador, 1,723
+Molugan, El Salvador, 10,547
+Poblacion, El Salvador, 8,372
+Sambulawan, El Salvador, 1,763
+Sinaloc, El Salvador, 4,033
+Taytay, El Salvador, 3,718
+Ulaliman, El Salvador, 1,348
+Agay‑ayan, Gingoog, 3,812
+Alagatan, Gingoog, 453
+Anakan, Gingoog, 3,683
+Bagubad, Gingoog, 677
+Bakidbakid, Gingoog, 554
+Bal‑ason, Gingoog, 2,921
+Bantaawan, Gingoog, 638
+Barangay 1 (Poblacion), Gingoog, 241
+Barangay 10 (Poblacion), Gingoog, 113
+Barangay 11 (Poblacion), Gingoog, 298
+Barangay 12 (Poblacion), Gingoog, 319
+Barangay 13 (Poblacion), Gingoog, 610
+Barangay 14 (Poblacion), Gingoog, 342
+Barangay 15 (Poblacion), Gingoog, 112
+Barangay 16 (Poblacion), Gingoog, 829
+Barangay 17 (Poblacion), Gingoog, 2,270
+Barangay 18 (Poblacion), Gingoog, 2,059
+Barangay 18‑A (Poblacion), Gingoog, 5,611
+Barangay 19 (Poblacion), Gingoog, 5,486
+Barangay 2 (Poblacion), Gingoog, 299
+Barangay 20 (Poblacion), Gingoog, 2,902
+Barangay 21 (Poblacion), Gingoog, 485
+Barangay 22 (Poblacion), Gingoog, 477
+Barangay 22‑A (Poblacion), Gingoog, 1,804
+Barangay 23 (Poblacion), Gingoog, 2,416
+Barangay 24 (Poblacion), Gingoog, 3,669
+Barangay 24‑A (Poblacion), Gingoog, 3,535
+Barangay 25 (Poblacion), Gingoog, 3,923
+Barangay 26 (Poblacion), Gingoog, 4,874
+Barangay 3 (Poblacion), Gingoog, 157
+Barangay 4 (Poblacion), Gingoog, 241
+Barangay 5 (Poblacion), Gingoog, 222
+Barangay 6 (Poblacion), Gingoog, 257
+Barangay 7 (Poblacion), Gingoog, 301
+Barangay 8 (Poblacion), Gingoog, 379
+Barangay 9 (Poblacion), Gingoog, 363
+Binakalan, Gingoog, 704
+Capitulangan, Gingoog, 410
+Daan‑Lungsod, Gingoog, 2,011
+Dinawehan, Gingoog, 701
+Eureka, Gingoog, 2,123
+Hindangon, Gingoog, 902
+Kalagonoy, Gingoog, 599
+Kalipay, Gingoog, 3,142
+Kamanikan, Gingoog, 1,369
+Kianlagan, Gingoog, 630
+Kibuging, Gingoog, 337
+Kipuntos, Gingoog, 510
+Lawaan, Gingoog, 1,020
+Lawit, Gingoog, 490
+Libertad, Gingoog, 1,327
+Libon, Gingoog, 623
+Lunao, Gingoog, 7,496
+Lunotan, Gingoog, 1,600
+Malibud, Gingoog, 1,042
+Malinao, Gingoog, 3,910
+Maribucao, Gingoog, 560
+Mimbalagon, Gingoog, 575
+Mimbunga, Gingoog, 1,526
+Mimbuntong, Gingoog, 589
+Minsapinit, Gingoog, 1,247
+Murallon, Gingoog, 1,140
+Odiongan, Gingoog, 3,881
+Pangasihan, Gingoog, 2,130
+Pigsaluhan, Gingoog, 1,218
+Punong, Gingoog, 1,022
+Ricoro, Gingoog, 477
+Samay, Gingoog, 795
+San Jose, Gingoog, 679
+San Juan, Gingoog, 3,977
+San Luis, Gingoog, 5,286
+San Miguel, Gingoog, 827
+Sangalan, Gingoog, 1,546
+Santiago, Gingoog, 2,928
+Tagpako, Gingoog, 1,814
+Talisay, Gingoog, 2,132
+Talon, Gingoog, 1,076
+Tinabalan, Gingoog, 521
+Tinulongan, Gingoog, 424
+Burnay, Gitagum, 1,315
+Carlos P. Garcia, Gitagum, 764
+Cogon, Gitagum, 1,470
+Gregorio Pelaez (Lagutay), Gitagum, 1,087
+Kilangit, Gitagum, 562
+Matangad, Gitagum, 3,386
+Pangayawan, Gitagum, 1,199
+Poblacion, Gitagum, 3,294
+Quezon, Gitagum, 1,166
+Tala‑o, Gitagum, 1,197
+Ulab, Gitagum, 933
+Aluna, Initao, 1,288
+Andales, Initao, 920
+Apas, Initao, 1,163
+Calacapan, Initao, 1,208
+Gimangpang, Initao, 2,576
+Jampason, Initao, 2,124
+Kamelon, Initao, 1,198
+Kanitoan, Initao, 1,640
+Oguis, Initao, 948
+Pagahan, Initao, 1,020
+Poblacion, Initao, 7,817
+Pontacon, Initao, 799
+San Pedro, Initao, 3,146
+Sinalac, Initao, 1,585
+Tawantawan, Initao, 1,874
+Tubigan, Initao, 3,064
+Aplaya, Jasaan, 5,816
+Bobontugan, Jasaan, 6,055
+Corrales, Jasaan, 1,106
+Danao, Jasaan, 2,793
+I. S. Cruz, Jasaan, 1,085
+Jampason, Jasaan, 2,815
+Kimaya, Jasaan, 5,398
+Lower Jasaan (Poblacion), Jasaan, 6,055
+Luz Banzon, Jasaan, 3,762
+Natubo, Jasaan, 2,356
+San Antonio, Jasaan, 6,085
+San Isidro, Jasaan, 1,153
+San Nicolas, Jasaan, 1,679
+Solana, Jasaan, 4,136
+Upper Jasaan (Poblacion), Jasaan, 4,184
+Beray, Kinoguitan, 622
+Bolisong, Kinoguitan, 974
+Buko, Kinoguitan, 2,635
+Calubo, Kinoguitan, 1,215
+Campo, Kinoguitan, 490
+Esperanza, Kinoguitan, 1,441
+Kagumahan, Kinoguitan, 260
+Kalitian, Kinoguitan, 472
+Kitotok, Kinoguitan, 417
+Panabol, Kinoguitan, 1,037
+Poblacion, Kinoguitan, 2,249
+Salicapawan, Kinoguitan, 449
+Salubsob, Kinoguitan, 412
+Suarez, Kinoguitan, 738
+Sumalag, Kinoguitan, 980
+Banglay, Lagonglong, 998
+Dampil, Lagonglong, 2,708
+Gaston, Lagonglong, 790
+Kabulawan, Lagonglong, 3,197
+Kauswagan, Lagonglong, 2,812
+Lumbo, Lagonglong, 2,512
+Manaol, Lagonglong, 616
+Poblacion, Lagonglong, 3,862
+Tabok, Lagonglong, 2,150
+Umagos, Lagonglong, 2,014
+Aromahon, Laguindingan, 1,299
+Gasi, Laguindingan, 1,454
+Kibaghot, Laguindingan, 3,826
+Lapad, Laguindingan, 1,380
+Liberty, Laguindingan, 1,528
+Mauswagon, Laguindingan, 3,477
+Moog, Laguindingan, 1,275
+Poblacion, Laguindingan, 3,787
+Sambulawan, Laguindingan, 1,432
+Sinai, Laguindingan, 2,209
+Tubajon, Laguindingan, 2,738
+Dulong, Libertad, 1,678
+Gimaylan, Libertad, 2,082
+Kimalok, Libertad, 420
+Lubluban, Libertad, 857
+Poblacion, Libertad, 5,196
+Retablo, Libertad, 484
+Santo Niño, Libertad, 279
+Tangcub, Libertad, 853
+Taytayan, Libertad, 505
+Aya‑aya, Lugait, 1,547
+Betahon, Lugait, 1,015
+Biga, Lugait, 3,293
+Calangahan, Lugait, 2,436
+Kaluknayan, Lugait, 814
+Lower Talacogon, Lugait, 916
+Poblacion, Lugait, 8,435
+Upper Talacogon, Lugait, 1,302
+Abunda, Magsaysay, 694
+Artadi, Magsaysay, 1,429
+Bonifacio Aquino, Magsaysay, 1,675
+Cabalawan, Magsaysay, 760
+Cabantian, Magsaysay, 1,373
+Cabubuhan, Magsaysay, 1,579
+Candiis, Magsaysay, 2,823
+Consuelo, Magsaysay, 3,846
+Damayuhan, Magsaysay, 1,268
+Gumabon, Magsaysay, 677
+Katipunan, Magsaysay, 594
+Kauswagan, Magsaysay, 672
+Kibungsod, Magsaysay, 3,155
+Mahayahay, Magsaysay, 697
+Mindulao, Magsaysay, 1,087
+Pag‑asa, Magsaysay, 610
+Poblacion, Magsaysay, 1,698
+San Isidro, Magsaysay, 2,259
+San Vicente, Magsaysay, 1,544
+Santa Cruz, Magsaysay, 2,059
+Tama, Magsaysay, 720
+Tibon‑tibon, Magsaysay, 855
+Tinaan, Magsaysay, 624
+Tulang (Cadena de Amor), Magsaysay, 520
+Villa Felipa, Magsaysay, 1,387
+Argayoso, Manticao, 1,050
+Balintad, Manticao, 531
+Cabalantian, Manticao, 3,294
+Camanga, Manticao, 970
+Digkilaan, Manticao, 484
+Mahayahay, Manticao, 631
+Pagawan, Manticao, 2,209
+Paniangan, Manticao, 1,537
+Patag, Manticao, 1,526
+Poblacion, Manticao, 8,367
+Punta Silum, Manticao, 4,154
+Tuod, Manticao, 3,034
+Upper Malubog, Manticao, 635
+Bangbang, Medina, 807
+Bulwa, Medina, 1,593
+Cabug, Medina, 3,380
+Dig‑aguyan, Medina, 690
+Duka, Medina, 1,433
+Gasa, Medina, 541
+Maanas, Medina, 4,316
+Mananum Bag‑o, Medina, 1,363
+Mananum Daan, Medina, 861
+North Poblacion, Medina, 4,729
+Pahindong, Medina, 1,066
+Portulin, Medina, 1,730
+San Isidro, Medina, 794
+San Jose, Medina, 1,175
+San Roque, Medina, 662
+San Vicente, Medina, 857
+South Poblacion, Medina, 3,471
+Tambagan, Medina, 1,459
+Tup‑on, Medina, 1,980
+Don Pedro, Naawan, 1,345
+Linangkayan, Naawan, 2,922
+Lubilan, Naawan, 911
+Mapulog, Naawan, 2,040
+Maputi, Naawan, 2,918
+Mat‑i, Naawan, 1,904
+Patag, Naawan, 1,338
+Poblacion, Naawan, 4,876
+Tagbalogo, Naawan, 2,118
+Tuboran, Naawan, 841
+Awang, Opol, 1,492
+Bagocboc, Opol, 2,739
+Barra, Opol, 14,665
+Bonbon, Opol, 3,056
+Cauyonan, Opol, 1,110
+Igpit, Opol, 11,800
+Limonda, Opol, 726
+Luyongbonbon, Opol, 3,628
+Malanang, Opol, 6,657
+Nangcaon, Opol, 903
+Patag, Opol, 5,570
+Poblacion, Opol, 3,558
+Taboc, Opol, 3,400
+Tingalan, Opol, 2,199
+Alipuaton, Salay, 1,205
+Ampenican, Salay, 1,182
+Bunal, Salay, 380
+Casulog, Salay, 3,168
+Dinagsaan, Salay, 630
+Guinalaban, Salay, 1,007
+Ili‑ilihon, Salay, 1,165
+Inobulan, Salay, 3,066
+Looc, Salay, 3,118
+Matampa, Salay, 447
+Membuli, Salay, 959
+Poblacion, Salay, 6,071
+Salagsag, Salay, 522
+Salay River I, Salay, 1,718
+Salay River II, Salay, 1,422
+Saray, Salay, 1,073
+Tinagaan, Salay, 971
+Yungod, Salay, 601
+Alicomohan, Sugbongcogon, 793
+Ampianga, Sugbongcogon, 577
+Kaulayanan, Sugbongcogon, 480
+Kidampas, Sugbongcogon, 463
+Kiraging, Sugbongcogon, 669
+Mangga, Sugbongcogon, 1,599
+Mimbuahan, Sugbongcogon, 473
+Poblacion, Sugbongcogon, 3,347
+Santa Cruz (Mabini), Sugbongcogon, 335
+Silad, Sugbongcogon, 490
+Baluarte, Tagoloan, 9,612
+Casinglot, Tagoloan, 9,711
+Gracia, Tagoloan, 2,574
+Mohon, Tagoloan, 4,037
+Natumolan, Tagoloan, 8,466
+Poblacion, Tagoloan, 10,235
+Rosario, Tagoloan, 1,045
+Santa Ana, Tagoloan, 8,140
+Santa Cruz, Tagoloan, 14,758
+Sugbongcogon, Tagoloan, 4,572
+Bugdang, Talisayan, 648
+Calamcam, Talisayan, 1,090
+Casibole, Talisayan, 299
+Macopa, Talisayan, 799
+Magkarila, Talisayan, 614
+Mahayag, Talisayan, 319
+Mandahilag, Talisayan, 1,763
+Mintabon, Talisayan, 1,767
+Pangpangon, Talisayan, 1,192
+Poblacion, Talisayan, 4,899
+Pook, Talisayan, 966
+Punta Santiago, Talisayan, 1,161
+Puting Balas, Talisayan, 954
+San Jose, Talisayan, 3,379
+Santa Ines, Talisayan, 1,818
+Sibantang, Talisayan, 835
+Sindangan, Talisayan, 715
+Tagbocboc, Talisayan, 1,287
+Balacanas, Villanueva, 2,524
+Dayawan, Villanueva, 6,702
+Imelda, Villanueva, 3,391
+Katipunan, Villanueva, 5,655
+Kimaya, Villanueva, 1,100
+Looc, Villanueva, 4,238
+Poblacion 1, Villanueva, 2,539
+Poblacion 2, Villanueva, 2,355
+Poblacion 3, Villanueva, 3,944
+San Martin, Villanueva, 6,924
+Tambobong, Villanueva, 6

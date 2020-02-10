@@ -1,0 +1,315 @@
+Antipolo, Bagamanoc, 827
+Bacak, Bagamanoc, 501
+Bagatabao, Bagamanoc, 772
+Bugao, Bagamanoc, 737
+Cahan, Bagamanoc, 225
+Hinipaan, Bagamanoc, 634
+Magsaysay, Bagamanoc, 654
+Poblacion, Bagamanoc, 969
+Quezon (Pancayanan), Bagamanoc, 341
+Quigaray, Bagamanoc, 283
+Sagrada, Bagamanoc, 873
+Salvacion (Panuto), Bagamanoc, 626
+San Isidro, Bagamanoc, 843
+San Rafael (Mahantod), Bagamanoc, 588
+San Vicente, Bagamanoc, 961
+Santa Mesa, Bagamanoc, 288
+Santa Teresa, Bagamanoc, 702
+Suchan, Bagamanoc, 727
+Abihao, Baras, 377
+Agban, Baras, 912
+Bagong Sirang, Baras, 382
+Batolinao, Baras, 176
+Benticayan, Baras, 787
+Buenavista, Baras, 309
+Caragumihan, Baras, 368
+Danao, Baras, 885
+Eastern Poblacion, Baras, 327
+Ginitligan, Baras, 1,035
+Guinsaanan, Baras, 457
+J. M. Alberto, Baras, 721
+Macutal, Baras, 367
+Moning, Baras, 410
+Nagbarorong, Baras, 399
+Osmeña, Baras, 515
+P. Teston, Baras, 85
+Paniquihan, Baras, 547
+Puraran, Baras, 336
+Putsan, Baras, 499
+Quezon, Baras, 131
+Rizal, Baras, 364
+Sagrada, Baras, 159
+Salvacion, Baras, 297
+San Lorenzo, Baras, 173
+San Miguel, Baras, 615
+Santa Maria, Baras, 210
+Tilod, Baras, 772
+Western Poblacion, Baras, 233
+Aroyao Pequeño, Bato, 201
+Bagumbayan, Bato, 405
+Banawang, Bato, 677
+Batalay, Bato, 1,548
+Binanuahan, Bato, 1,897
+Bote, Bato, 1,126
+Buenavista, Bato, 433
+Cabugao, Bato, 3,418
+Cagraray, Bato, 632
+Carorian, Bato, 427
+Guinobatan, Bato, 1,040
+Ilawod (Poblacion), Bato, 987
+Libjo, Bato, 358
+Libod Poblacion, Bato, 1,024
+Marinawa, Bato, 607
+Mintay, Bato, 384
+Oguis, Bato, 363
+Pananaogan, Bato, 668
+San Andres, Bato, 363
+San Pedro, Bato, 424
+San Roque, Bato, 1,558
+Santa Isabel, Bato, 124
+Sibacungan, Bato, 636
+Sipi, Bato, 822
+Talisay, Bato, 271
+Tamburan, Bato, 553
+Tilis, Bato, 333
+Baybay (Poblacion), Caramoran, 715
+Bocon, Caramoran, 330
+Bothoan (Poblacion), Caramoran, 928
+Buenavista, Caramoran, 610
+Bulalacao, Caramoran, 558
+Camburo, Caramoran, 681
+Dariao, Caramoran, 2,180
+Datag East, Caramoran, 1,032
+Datag West, Caramoran, 952
+Guiamlong, Caramoran, 682
+Hitoma, Caramoran, 585
+Icanbato (Poblacion), Caramoran, 743
+Inalmasinan, Caramoran, 709
+Iyao, Caramoran, 669
+Mabini, Caramoran, 2,415
+Maui, Caramoran, 354
+Maysuran, Caramoran, 1,092
+Milaviga, Caramoran, 1,741
+Obi, Caramoran, 1,425
+Panique, Caramoran, 1,244
+Sabangan, Caramoran, 1,428
+Sabloyon, Caramoran, 1,252
+Salvacion, Caramoran, 625
+Supang, Caramoran, 966
+Toytoy (Poblacion), Caramoran, 2,633
+Tubli, Caramoran, 2,760
+Tucao, Caramoran, 747
+Biong, Gigmoto, 880
+Dororian, Gigmoto, 1,312
+Poblacion District I, Gigmoto, 774
+Poblacion District II, Gigmoto, 1,763
+Poblacion District III, Gigmoto, 873
+San Pedro, Gigmoto, 493
+San Vicente, Gigmoto, 528
+Sicmil, Gigmoto, 981
+Sioron, Gigmoto, 764
+Bagawang, Pandan, 940
+Balagñonan, Pandan, 1,108
+Baldoc, Pandan, 802
+Canlubi, Pandan, 502
+Catamban, Pandan, 574
+Cobo, Pandan, 855
+Hiyop, Pandan, 460
+Libod (Poblacion), Pandan, 1,646
+Lourdes, Pandan, 461
+Lumabao, Pandan, 672
+Marambong, Pandan, 799
+Napo (Poblacion), Pandan, 1,585
+Oga, Pandan, 1,031
+Pandan del Norte (Poblacion), Pandan, 993
+Pandan del Sur (Poblacion), Pandan, 923
+Panuto, Pandan, 444
+Porot (San Jose), Pandan, 853
+Salvacion (Tariwara), Pandan, 1,331
+San Andres (Dinungsuran), Pandan, 638
+San Isidro (Langob), Pandan, 343
+San Rafael (Bogtong), Pandan, 271
+San Roque, Pandan, 653
+Santa Cruz (Catagbacan), Pandan, 431
+Tabugoc, Pandan, 794
+Tokio, Pandan, 730
+Wagdas, Pandan, 677
+Alinawan, Panganiban, 350
+Babaguan, Panganiban, 167
+Bagong Bayan, Panganiban, 247
+Burabod, Panganiban, 303
+Cabuyoan, Panganiban, 855
+Cagdarao, Panganiban, 693
+Mabini, Panganiban, 549
+Maculiw, Panganiban, 340
+Panay, Panganiban, 318
+Salvacion (Poblacion), Panganiban, 475
+San Antonio, Panganiban, 337
+San Joaquin (Poblacion), Panganiban, 363
+San Jose (Poblacion), Panganiban, 228
+San Juan (Poblacion), Panganiban, 163
+San Miguel, Panganiban, 1,038
+San Nicolas (Poblacion), Panganiban, 484
+San Pedro (Poblacion), Panganiban, 466
+San Vicente (Poblacion), Panganiban, 213
+Santa Ana (Poblacion), Panganiban, 344
+Santa Maria (Poblacion), Panganiban, 309
+Santo Santiago (Poblacion), Panganiban, 288
+Taopon (Pangcayanan), Panganiban, 243
+Tibo, Panganiban, 514
+Agojo, San Andres, 1,258
+Alibuag, San Andres, 607
+Asgad (Juan M. Alberto), San Andres, 431
+Bagong Sirang, San Andres, 593
+Barihay, San Andres, 265
+Batong Paloway, San Andres, 1,443
+Belmonte (Poblacion), San Andres, 1,173
+Bislig, San Andres, 1,349
+Bon‑ot, San Andres, 520
+Cabcab, San Andres, 2,912
+Cabungahan, San Andres, 547
+Carangag, San Andres, 1,240
+Catagbacan, San Andres, 772
+Codon, San Andres, 2,049
+Comagaycay, San Andres, 1,289
+Datag, San Andres, 879
+Divino Rostro (Poblacion), San Andres, 903
+Esperanza (Poblacion), San Andres, 686
+Hilawan, San Andres, 474
+Lictin, San Andres, 2,229
+Lubas, San Andres, 241
+Manambrag, San Andres, 2,792
+Mayngaway, San Andres, 2,415
+Palawig, San Andres, 1,303
+Puting Baybay, San Andres, 404
+Rizal, San Andres, 824
+Salvacion (Poblacion), San Andres, 330
+San Isidro, San Andres, 726
+San Jose, San Andres, 443
+San Roque (Poblacion), San Andres, 178
+San Vicente, San Andres, 188
+Santa Cruz (Poblacion), San Andres, 274
+Sapang Palay (Poblacion), San Andres, 844
+Tibang, San Andres, 523
+Timbaan, San Andres, 1,620
+Tominawog, San Andres, 538
+Wagdas (Poblacion), San Andres, 669
+Yocti, San Andres, 848
+Atsan (District I), San Miguel, 445
+Balatohan, San Miguel, 597
+Boton, San Miguel, 526
+Buhi, San Miguel, 473
+Dayawa, San Miguel, 241
+J. M. Alberto, San Miguel, 815
+Katipunan, San Miguel, 563
+Kilikilihan, San Miguel, 1,110
+Mabato, San Miguel, 1,076
+Obo, San Miguel, 708
+Pacogon, San Miguel, 382
+Pagsangahan, San Miguel, 868
+Pangilao, San Miguel, 274
+Paraiso, San Miguel, 1,033
+Poblacion District II, San Miguel, 583
+Poblacion District III, San Miguel, 1,090
+Progreso, San Miguel, 996
+Salvacion (Patagan), San Miguel, 360
+San Juan (Aroyao), San Miguel, 723
+San Marcos, San Miguel, 225
+Santa Elena (Patagan), San Miguel, 163
+Siay, San Miguel, 498
+Solong, San Miguel, 717
+Tobrehon, San Miguel, 540
+Almojuela, Viga, 651
+Ananong, Viga, 409
+Asuncion (Poblacion), Viga, 556
+Batohonan, Viga, 198
+Begonia, Viga, 675
+Botinagan, Viga, 273
+Buenavista, Viga, 779
+Burgos, Viga, 1,003
+Del Pilar, Viga, 366
+Mabini, Viga, 396
+Magsaysay, Viga, 612
+Ogbong, Viga, 1,042
+Osmeña, Viga, 422
+Pedro Vera (Summit), Viga, 1,427
+Peñafrancia (Poblacion), Viga, 354
+Quezon, Viga, 797
+Quirino (Abugan), Viga, 255
+Rizal, Viga, 1,329
+Roxas, Viga, 581
+Sagrada, Viga, 666
+San Isidro (Poblacion), Viga, 284
+San Jose Oco, Viga, 1,183
+San Jose Poblacion, Viga, 870
+San Pedro (Poblacion), Viga, 571
+San Roque (Poblacion), Viga, 829
+San Vicente (Poblacion), Viga, 800
+Santa Rosa, Viga, 634
+Soboc, Viga, 869
+Tambongon, Viga, 1,163
+Tinago, Viga, 1,080
+Villa Aurora, Viga, 550
+Antipolo del Norte, Virac, 695
+Antipolo del Sur, Virac, 535
+Balite, Virac, 761
+Batag, Virac, 436
+Bigaa, Virac, 3,193
+Buenavista, Virac, 397
+Buyo, Virac, 1,589
+Cabihian, Virac, 486
+Calabnigan, Virac, 603
+Calampong, Virac, 288
+Calatagan Proper, Virac, 3,075
+Calatagan Tibang, Virac, 2,162
+Capilihan, Virac, 1,463
+Casoocan, Virac, 471
+Cavinitan, Virac, 4,514
+Concepcion (Poblacion), Virac, 1,084
+Constantino (Poblacion), Virac, 866
+Danicop, Virac, 2,074
+Dugui San Isidro, Virac, 402
+Dugui San Vicente, Virac, 726
+Dugui Too, Virac, 1,346
+F. Tacorda Village, Virac, 363
+Francia (Poblacion), Virac, 1,957
+Gogon Centro, Virac, 2,208
+Gogon Sirangan, Virac, 979
+Hawan Grande, Virac, 887
+Hawan Ilaya, Virac, 643
+Hicming, Virac, 1,068
+Ibong Sapa (San Vicente Sur), Virac, 847
+Igang, Virac, 738
+Juan M. Alberto (Poniton), Virac, 371
+Lanao (Poblacion), Virac, 1,094
+Magnesia del Norte, Virac, 779
+Magnesia del Sur, Virac, 757
+Marcelo Alberto (Poblacion), Virac, 863
+Marilima, Virac, 338
+Pajo Baguio, Virac, 519
+Pajo San Isidro, Virac, 1,208
+Palnab del Norte, Virac, 1,870
+Palnab del Sur, Virac, 1,787
+Palta Big, Virac, 410
+Palta Salvacion, Virac, 1,175
+Palta Small, Virac, 844
+Rawis (Poblacion), Virac, 2,016
+Salvacion, Virac, 537
+San Isidro Village, Virac, 4,905
+San Jose (Poblacion), Virac, 122
+San Juan (Poblacion), Virac, 677
+San Pablo (Poblacion), Virac, 1,085
+San Pedro (Poblacion), Virac, 285
+San Roque (Poblacion), Virac, 1,101
+San Vicente, Virac, 2,214
+Santa Cruz, Virac, 1,185
+Santa Elena (Poblacion), Virac, 786
+Santo Cristo, Virac, 1,078
+Santo Domingo, Virac, 1,350
+Santo Niño, Virac, 1,428
+Simamla, Virac, 848
+Sogod‑Simamla, Virac, 286
+Sogod‑Tibgao, Virac, 1,831
+Talisoy, Virac, 506
+Tubaon, Virac, 942
+Valencia, Virac, 1,597

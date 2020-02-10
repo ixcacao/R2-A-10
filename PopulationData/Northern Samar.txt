@@ -1,0 +1,569 @@
+Alejandro Village (Santiago), Allen, 302
+Bonifacio, Allen, 690
+Cabacungan, Allen, 2,176
+Calarayan, Allen, 807
+Frederic, Allen, 765
+Guin‑arawayan, Allen, 630
+Imelda, Allen, 388
+Jubasan, Allen, 3,228
+Kinabranan Zone I (Poblacion), Allen, 1,023
+Kinabranan Zone II (Poblacion), Allen, 2,894
+Kinaguitman, Allen, 1,187
+Lagundi, Allen, 1,380
+Lipata, Allen, 1,940
+Londres, Allen, 1,047
+Lo‑oc, Allen, 816
+Sabang Zone I (Poblacion), Allen, 1,015
+Sabang Zone II (Poblacion), Allen, 3,680
+Santa Rita, Allen, 394
+Tasvilla, Allen, 607
+Victoria, Allen, 500
+Kauswagan (Basud), Biri, 760
+MacArthur, Biri, 525
+Pio del Pilar, Biri, 1,103
+Poblacion (Biri), Biri, 3,605
+Progresso, Biri, 750
+San Antonio, Biri, 1,752
+San Pedro, Biri, 1,272
+Santo Niño, Biri, 2,000
+Acerida, Bobon, 1,450
+Arellano, Bobon, 821
+Balat‑balud, Bobon, 769
+Calantiao (Pangobi-an), Bobon, 478
+Dancalan, Bobon, 2,245
+E. Duran, Bobon, 665
+Gen. Lucban (Poblacion), Bobon, 1,784
+Jose Abad Santos, Bobon, 495
+Jose P. Laurel (Casulgan), Bobon, 525
+Magsaysay (Doce), Bobon, 1,571
+Quezon (Panicayan), Bobon, 940
+Salvacion, Bobon, 3,263
+San Isidro, Bobon, 1,490
+San Juan (Poblacion), Bobon, 936
+Santa Clara (Poblacion), Bobon, 3,661
+Santander, Bobon, 907
+Somoroy, Bobon, 927
+Trojello, Bobon, 741
+Aguin, Capul, 962
+Jubang, Capul, 591
+Landusan, Capul, 1,473
+Oson, Capul, 842
+Poblacion Barangay 1, Capul, 683
+Poblacion Barangay 2, Capul, 566
+Poblacion Barangay 3, Capul, 567
+Poblacion Barangay 4, Capul, 522
+Poblacion Barangay 5, Capul, 2,725
+Sagaosawan, Capul, 275
+San Luis, Capul, 2,040
+Sawang, Capul, 1,433
+Acacia (Poblacion), Catarman, 259
+Aguinaldo, Catarman, 504
+Airport Village, Catarman, 2,224
+Bangkerohan, Catarman, 2,262
+Baybay, Catarman, 6,055
+Bocsol, Catarman, 620
+Cabayhan, Catarman, 239
+Cag‑abaca, Catarman, 1,998
+Calachuchi (Poblacion), Catarman, 1,797
+Cal‑igang, Catarman, 1,047
+Cawayan, Catarman, 4,317
+Cervantes, Catarman, 3,255
+Cularima, Catarman, 344
+Daganas, Catarman, 2,351
+Dalakit (Poblacion), Catarman, 11,962
+Doña Pulqueria (Himbang), Catarman, 1,310
+Galutan, Catarman, 1,797
+Gebalagnan (Hibalagnan), Catarman, 323
+Gebulwangan, Catarman, 699
+General Malvar, Catarman, 919
+Guba, Catarman, 423
+Hinatad, Catarman, 1,217
+Imelda (Elimbo), Catarman, 866
+Ipil‑ipil (Poblacion), Catarman, 2,225
+Jose Abad Santos (Poblacion), Catarman, 2,221
+Jose P. Rizal (Poblacion), Catarman, 451
+Kasoy (Poblacion), Catarman, 1,074
+Lapu‑lapu (Poblacion), Catarman, 402
+Liberty, Catarman, 801
+Libjo (Binog), Catarman, 2,166
+Mabini, Catarman, 1,232
+Mabolo (Poblacion), Catarman, 381
+Macagtas, Catarman, 3,087
+Mckinley, Catarman, 2,443
+Molave (Poblacion), Catarman, 1,811
+Narra (Poblacion), Catarman, 3,190
+New Rizal, Catarman, 1,241
+Old Rizal, Catarman, 1,947
+Paticua, Catarman, 1,319
+Polangi, Catarman, 3,905
+Quezon, Catarman, 762
+Salvacion, Catarman, 411
+Sampaguita (Poblacion), Catarman, 600
+San Julian, Catarman, 313
+San Pascual, Catarman, 403
+Santol (Poblacion), Catarman, 404
+Somoge, Catarman, 1,402
+Talisay (Poblacion), Catarman, 1,522
+Tinowaran, Catarman, 554
+Trangue, Catarman, 609
+UEP I, Catarman, 1,653
+UEP II, Catarman, 1,412
+UEP III, Catarman, 2,717
+Washington, Catarman, 1,872
+Yakal (Poblacion), Catarman, 2,719
+Anongo, Catubig, 857
+Barangay 1 (Poblacion), Catubig, 2,074
+Barangay 2 (Poblacion), Catubig, 582
+Barangay 3 (Poblacion), Catubig, 563
+Barangay 4 (Poblacion), Catubig, 336
+Barangay 5 (Poblacion), Catubig, 367
+Barangay 6 (Poblacion), Catubig, 333
+Barangay 7 (Poblacion), Catubig, 320
+Barangay 8 (Poblacion), Catubig, 774
+Bonifacio, Catubig, 403
+Boring, Catubig, 183
+Cagbugna, Catubig, 517
+Cagmanaba, Catubig, 955
+Cagogobngan, Catubig, 479
+Calingnan, Catubig, 1,230
+Canuctan, Catubig, 290
+Claro M. Recto (Lobedico), Catubig, 500
+D. Mercader (Bongog), Catubig, 625
+Guibwangan, Catubig, 422
+Hinagonoyan, Catubig, 867
+Hiparayan, Catubig, 788
+Hitapi‑an, Catubig, 1,107
+Inoburan, Catubig, 129
+Irawahan, Catubig, 901
+Lenoyahan, Catubig, 423
+Libon, Catubig, 310
+Magongon, Catubig, 445
+Magtuad, Catubig, 927
+Manering, Catubig, 349
+Nabulo, Catubig, 405
+Nagoocan, Catubig, 867
+Nahulid, Catubig, 183
+Opong, Catubig, 821
+Osang, Catubig, 362
+Osmeña, Catubig, 291
+P. Rebadulla, Catubig, 488
+Roxas, Catubig, 1,127
+Sagudsuron, Catubig, 568
+San Antonio, Catubig, 460
+San Francisco, Catubig, 1,405
+San Jose (Hebobollao), Catubig, 2,991
+San Vicente, Catubig, 1,968
+Santa Fe, Catubig, 1,110
+Sulitan, Catubig, 906
+Tangbo, Catubig, 555
+Tungodnon, Catubig, 187
+Vienna Maria, Catubig, 275
+Anito, Gamay, 2,112
+Bangon, Gamay, 1,361
+Bato, Gamay, 1,119
+Baybay District (Poblacion), Gamay, 2,142
+Bonifacio, Gamay, 483
+Burabod (Poblacion), Gamay, 1,591
+Cabarasan, Gamay, 456
+Cadac‑an (Calingnan), Gamay, 843
+Cade‑an, Gamay, 544
+Cagamutan del Norte, Gamay, 1,552
+Cagamutan del Sur, Gamay, 1,235
+Dao, Gamay, 1,100
+G. M. Osias, Gamay, 682
+Gamay Central (Poblacion), Gamay, 727
+Gamay Occidental I (Poblacion), Gamay, 629
+Gamay Oriental I (Poblacion), Gamay, 1,389
+Guibuangan, Gamay, 554
+Henogawe, Gamay, 445
+Libertad (Poblacion), Gamay, 960
+Lonoy, Gamay, 149
+Luneta, Gamay, 314
+Malidong, Gamay, 495
+Occidental II (Poblacion), Gamay, 859
+Oriental II (Poblacion), Gamay, 823
+Rizal, Gamay, 576
+San Antonio, Gamay, 371
+Abaton, Laoang, 577
+Aguadahan, Laoang, 730
+Aroganga, Laoang, 797
+Atipolo, Laoang, 755
+Bawang, Laoang, 832
+Baybay (Poblacion), Laoang, 1,536
+Binatiklan, Laoang, 515
+Bobolosan, Laoang, 1,470
+Bongliw, Laoang, 741
+Burabud, Laoang, 938
+Cabadiangan, Laoang, 2,938
+Cabagngan, Laoang, 508
+Cabago‑an, Laoang, 942
+Cabulaloan, Laoang, 958
+Cagaasan, Laoang, 593
+Cagdara‑o, Laoang, 596
+Cahayagan, Laoang, 2,098
+Calintaan Poblacion (Santo Niño), Laoang, 1,397
+Calomotan, Laoang, 1,142
+Candawid, Laoang, 864
+Cangcahipos, Laoang, 946
+Canyomanao, Laoang, 507
+Catigbian, Laoang, 873
+E. J. Dulay, Laoang, 742
+G. B. Tan, Laoang, 207
+Gibatangan, Laoang, 552
+Guilaoangi (Poblacion), Laoang, 2,514
+Inamlan, Laoang, 848
+La Perla, Laoang, 1,483
+Langob, Laoang, 555
+Lawaan, Laoang, 798
+Little Venice (Poblacion), Laoang, 3,510
+Magsaysay, Laoang, 709
+Marubay, Laoang, 1,442
+Mualbual, Laoang, 574
+Napotiocan (Salvacion), Laoang, 1,695
+Oleras, Laoang, 1,924
+Onay (Doña Luisa), Laoang, 1,043
+Palmera, Laoang, 409
+Pangdan, Laoang, 527
+Rawis, Laoang, 4,610
+Rombang, Laoang, 942
+San Antonio (Son-og), Laoang, 536
+San Miguel Heights (Poblacion), Laoang, 2,837
+Sangcol, Laoang, 462
+Sibunot, Laoang, 471
+Simora, Laoang, 826
+Suba, Laoang, 691
+Talisay, Laoang, 1,574
+Tan‑awan, Laoang, 644
+Tarusan, Laoang, 430
+Tinoblan, Laoang, 540
+Tumaguingting (Poblacion), Laoang, 854
+Vigo, Laoang, 2,041
+Yabyaban (San Vicente), Laoang, 612
+Yapas, Laoang, 504
+Alang‑alang, Lapinig, 534
+Bagacay, Lapinig, 498
+Cahagwayan, Lapinig, 689
+Can Maria, Lapinig, 698
+Can Omanio, Lapinig, 393
+Imelda, Lapinig, 672
+Lapinig del Norte (Poblacion), Lapinig, 2,587
+Lapinig del Sur (Poblacion), Lapinig, 1,617
+Lo‑ok, Lapinig, 882
+Mabini, Lapinig, 746
+May‑igot, Lapinig, 357
+Palanas, Lapinig, 253
+Pio del Pilar, Lapinig, 502
+Potong, Lapinig, 1,225
+Potong del Sur, Lapinig, 1,367
+Balugo, Las Navas, 409
+Bugay, Las Navas, 773
+Bugtosan, Las Navas, 473
+Bukid, Las Navas, 1,051
+Bulao, Las Navas, 1,372
+Caputoan, Las Navas, 312
+Catoto‑ogan, Las Navas, 307
+Cuenco, Las Navas, 340
+Dapdap, Las Navas, 1,665
+Del Pilar, Las Navas, 987
+Dolores, Las Navas, 227
+Epaw, Las Navas, 278
+Geguinta, Las Navas, 528
+Geracdo, Las Navas, 406
+Guyo, Las Navas, 385
+H. Jolejole, Las Navas, 487
+H. Jolejole District (Poblacion), Las Navas, 2,129
+Hangi, Las Navas, 446
+Imelda, Las Navas, 382
+L. Empon, Las Navas, 520
+Lakandula, Las Navas, 328
+Lourdes, Las Navas, 856
+Lumala‑og, Las Navas, 514
+Mabini, Las Navas, 514
+Macarthur, Las Navas, 326
+Magsaysay, Las Navas, 730
+Matelarag, Las Navas, 343
+Osmeña, Las Navas, 332
+Paco, Las Navas, 509
+Palanas, Las Navas, 350
+Perez, Las Navas, 450
+Poponton, Las Navas, 675
+Quezon, Las Navas, 304
+Quirino, Las Navas, 1,252
+Quirino District (Poblacion), Las Navas, 2,027
+Rebong, Las Navas, 764
+Rizal, Las Navas, 589
+Roxas, Las Navas, 843
+Rufino, Las Navas, 208
+Sag‑od, Las Navas, 256
+San Andres, Las Navas, 552
+San Antonio, Las Navas, 319
+San Fernando, Las Navas, 1,156
+San Francisco, Las Navas, 761
+San Isidro, Las Navas, 2,913
+San Jorge, Las Navas, 1,200
+San Jose, Las Navas, 288
+San Miguel, Las Navas, 1,514
+Santo Tomas, Las Navas, 162
+Tagab‑iran, Las Navas, 1,193
+Tagan‑ayan, Las Navas, 293
+Taylor, Las Navas, 1,003
+Victory, Las Navas, 946
+Balicuatro, Lavezares, 341
+Bani, Lavezares, 902
+Barobaybay, Lavezares, 1,294
+Caburihan (Poblacion), Lavezares, 1,552
+Caragas (Poblacion), Lavezares, 1,331
+Cataogan (Poblacion), Lavezares, 525
+Chansvilla, Lavezares, 107
+Datag, Lavezares, 383
+Enriqueta, Lavezares, 1,989
+Libas, Lavezares, 2,618
+Libertad, Lavezares, 1,306
+Macarthur, Lavezares, 1,604
+Magsaysay, Lavezares, 1,077
+Maravilla, Lavezares, 981
+Ocad (Poblacion), Lavezares, 998
+Sabong‑Tabok, Lavezares, 1,803
+Salvacion, Lavezares, 507
+San Agustin, Lavezares, 554
+San Isidro, Lavezares, 429
+San Jose, Lavezares, 396
+San Juan, Lavezares, 1,261
+San Miguel, Lavezares, 1,336
+To‑og, Lavezares, 601
+Urdaneta, Lavezares, 2,318
+Villa, Lavezares, 2,056
+Villahermosa, Lavezares, 501
+Bayho, Lope de Vega, 1,721
+Bonifacio, Lope de Vega, 888
+Cag‑aguingay, Lope de Vega, 381
+Cagamesarag, Lope de Vega, 225
+Curry, Lope de Vega, 746
+Gebonawan, Lope de Vega, 536
+Gen. Luna, Lope de Vega, 347
+Getigo, Lope de Vega, 854
+Henaronagan, Lope de Vega, 253
+Lope de Vega (Poblacion), Lope de Vega, 3,379
+Lower Caynaga, Lope de Vega, 920
+Maghipid, Lope de Vega, 486
+Magsaysay, Lope de Vega, 473
+Osmeña, Lope de Vega, 712
+Paguite, Lope de Vega, 333
+Roxas, Lope de Vega, 313
+Sampaguita, Lope de Vega, 193
+San Francisco, Lope de Vega, 164
+San Jose, Lope de Vega, 458
+San Miguel, Lope de Vega, 355
+Somoroy, Lope de Vega, 361
+Upper Caynaga, Lope de Vega, 589
+Burgos, Mapanas, 386
+Del Norte (Poblacion), Mapanas, 1,689
+Del Sur (Poblacion), Mapanas, 747
+E. Laodenio, Mapanas, 588
+Jubasan, Mapanas, 857
+Magsaysay, Mapanas, 508
+Magtaon, Mapanas, 2,306
+Manaybanay, Mapanas, 1,389
+Naparasan, Mapanas, 503
+Quezon, Mapanas, 863
+San Jose, Mapanas, 596
+Santa Potenciana (Poblacion), Mapanas, 2,198
+Siljagon, Mapanas, 1,395
+Bagasbas, Mondragon, 1,336
+Bugko, Mondragon, 4,313
+Cablangan, Mondragon, 1,348
+Cagmanaba, Mondragon, 251
+Cahicsan, Mondragon, 832
+Chitongco (Poblacion), Mondragon, 3,671
+De Maria, Mondragon, 525
+Doña Lucia, Mondragon, 1,124
+Eco (Poblacion), Mondragon, 2,976
+Flormina, Mondragon, 512
+Hinabangan, Mondragon, 392
+Imelda, Mondragon, 3,248
+La Trinidad, Mondragon, 595
+Makiwalo, Mondragon, 5,459
+Mirador, Mondragon, 1,490
+Nenita, Mondragon, 3,470
+Roxas, Mondragon, 1,190
+San Agustin, Mondragon, 1,093
+San Antonio, Mondragon, 716
+San Isidro, Mondragon, 614
+San Jose, Mondragon, 1,072
+San Juan, Mondragon, 1,404
+Santa Catalina, Mondragon, 388
+Talolora, Mondragon, 707
+Asum (Poblacion), Palapag, 1,240
+Bagacay, Palapag, 1,564
+Bangon, Palapag, 484
+Benigno S. Aquino, Jr., Jr., 2,078
+Binay, Palapag, 551
+Cabariwan, Palapag, 653
+Cabatuan, Palapag, 2,556
+Campedico, Palapag, 454
+Capacujan, Palapag, 1,467
+Jangtud, Palapag, 603
+Laniwan (Poblacion), Palapag, 1,706
+Mabaras, Palapag, 250
+Magsaysay, Palapag, 697
+Manajao, Palapag, 957
+Mapno, Palapag, 1,425
+Maragano, Palapag, 343
+Matambag, Palapag, 409
+Monbon, Palapag, 1,238
+Nagbobtac, Palapag, 594
+Napo, Palapag, 493
+Natawo, Palapag, 622
+Nipa, Palapag, 1,229
+Osmeña, Palapag, 1,265
+Pangpang, Palapag, 2,193
+Paysud, Palapag, 734
+Sangay, Palapag, 815
+Simora, Palapag, 678
+Sinalaran, Palapag, 691
+Sumoroy, Palapag, 939
+Talolora, Palapag, 1,362
+Tambangan (Poblacion), Palapag, 1,310
+Tinampo (Poblacion), Palapag, 2,686
+Cababto‑an, Pambujan, 2,116
+Cabari‑an, Pambujan, 671
+Cagbigajo, Pambujan, 508
+Camparanga, Pambujan, 2,074
+Canjumadal, Pambujan, 604
+Doña Anecita, Pambujan, 819
+Ge‑adgawan, Pambujan, 762
+Geparayan, Pambujan, 1,377
+Ginulgan, Pambujan, 2,145
+Igot, Pambujan, 766
+Inanahawan, Pambujan, 613
+Manahao, Pambujan, 421
+Paninirongan, Pambujan, 1,571
+Poblacion District 1, Pambujan, 3,478
+Poblacion District 2, Pambujan, 1,104
+Poblacion District 3, Pambujan, 480
+Poblacion District 4, Pambujan, 1,127
+Poblacion District 5, Pambujan, 937
+Poblacion District 6, Pambujan, 1,753
+Poblacion District 7, Pambujan, 1,857
+Poblacion District 8, Pambujan, 3,585
+San Ramon, Pambujan, 563
+Senonogan, Pambujan, 629
+Sixto T. Balanguit, Sr., Sr., 341
+Tula, Pambujan, 1,729
+Ynaguingayan, Pambujan, 1,032
+Aguada, Rosario, 277
+Bantolinao, Rosario, 639
+Buenavista, Rosario, 1,246
+Commonwealth, Rosario, 1,957
+Guindaulan, Rosario, 877
+Jamoog, Rosario, 553
+Kailingan, Rosario, 258
+Ligaya, Rosario, 750
+Poblacion, Rosario, 997
+Salhag, Rosario, 1,715
+San Lorenzo, Rosario, 1,251
+Burabod, San Antonio, 995
+Dalupirit, San Antonio, 1,874
+Manraya, San Antonio, 728
+Pilar, San Antonio, 716
+Rizal, San Antonio, 315
+San Nicolas, San Antonio, 504
+Vinisitahan, San Antonio, 715
+Ward I (Poblacion), San Antonio, 828
+Ward II (Poblacion), San Antonio, 787
+Ward III (Poblacion), San Antonio, 1,596
+Alegria, San Isidro, 3,479
+Balite, San Isidro, 3,417
+Buenavista, San Isidro, 1,046
+Caglanipao, San Isidro, 1,210
+Happy Valley, San Isidro, 1,615
+Mabuhay, San Isidro, 929
+Palanit, San Isidro, 3,218
+Poblacion Norte, San Isidro, 2,230
+Poblacion Sur, San Isidro, 1,123
+Salvacion, San Isidro, 1,178
+San Juan, San Isidro, 2,426
+San Roque, San Isidro, 1,766
+Seven Hills, San Isidro, 806
+Veriato, San Isidro, 2,207
+Aguadahan, San Jose, 1,661
+Bagong Sabang, San Jose, 663
+Balite, San Jose, 1,920
+Barangay East (Poblacion), San Jose, 818
+Barangay North (Poblacion), San Jose, 1,428
+Barangay South (Poblacion), San Jose, 418
+Barangay West (Poblacion), San Jose, 1,039
+Bonglas, San Jose, 502
+Da‑o, San Jose, 1,395
+Gengarog, San Jose, 925
+Geratag, San Jose, 2,143
+Layuhan, San Jose, 740
+Mandugang, San Jose, 503
+P. Tingzon, San Jose, 2,116
+San Lorenzo, San Jose, 729
+Tubigdanao, San Jose, 561
+Balnasan, San Roque, 1,364
+Balud, San Roque, 920
+Bantayan, San Roque, 5,238
+Coroconog, San Roque, 1,610
+Dale, San Roque, 1,549
+Ginagdanan, San Roque, 1,342
+Lao‑angan, San Roque, 1,930
+Lawaan, San Roque, 790
+Malobago, San Roque, 1,289
+Pagsang‑an, San Roque, 1,768
+Zone 1 (Poblacion), San Roque, 3,537
+Zone 2 (Poblacion), San Roque, 1,134
+Zone 3 (Poblacion), San Roque, 2,746
+Zone 4 (Poblacion), San Roque, 655
+Zone 5 (Poblacion), San Roque, 2,445
+Zone 6 (Poblacion), San Roque, 2,263
+Destacado Poblacion (Barangay 2), San Vicente, 1,073
+Maragat, San Vicente, 1,348
+Mongol Bongol Poblacion (Barangay 1), San Vicente, 1,434
+Punta Poblacion (Barangay 3), San Vicente, 1,077
+Sangputan, San Vicente, 952
+Sila, San Vicente, 465
+Tarnate, San Vicente, 1,507
+Balud, Silvino Lobos, 288
+Cababayogan, Silvino Lobos, 745
+Cabunga‑an, Silvino Lobos, 1,261
+Cagda‑o, Silvino Lobos, 368
+Caghilot, Silvino Lobos, 382
+Camanggaran, Silvino Lobos, 181
+Camaya‑an, Silvino Lobos, 186
+Deit de Suba, Silvino Lobos, 797
+Deit de Turag, Silvino Lobos, 750
+Gebolwangan, Silvino Lobos, 928
+Gebonawan, Silvino Lobos, 315
+Gecbo‑an, Silvino Lobos, 465
+Genagasan, Silvino Lobos, 722
+Geparayan de Turag, Silvino Lobos, 1,158
+Giguimitan, Silvino Lobos, 419
+Gusaran, Silvino Lobos, 574
+Imelda, Silvino Lobos, 291
+Montalban, Silvino Lobos, 160
+Poblacion I, Silvino Lobos, 1,309
+Poblacion II, Silvino Lobos, 843
+San Antonio, Silvino Lobos, 140
+San Isidro, Silvino Lobos, 441
+Senonogan de Tubang, Silvino Lobos, 372
+Suba (Poblacion), Silvino Lobos, 1,497
+Tobgon, Silvino Lobos, 121
+Victory, Silvino Lobos, 586
+Acedillo, Victoria, 314
+Buenasuerte, Victoria, 452
+Buenos Aires, Victoria, 1,213
+Colab‑og, Victoria, 1,166
+Erenas, Victoria, 2,624
+Libertad, Victoria, 1,829
+Luisita, Victoria, 585
+Lungib, Victoria, 681
+Maxvilla, Victoria, 481
+Pasabuena, Victoria, 390
+San Lazaro, Victoria, 982
+San Miguel, Victoria, 562
+San Roman, Victoria, 441
+Zone I (Poblacion), Victoria, 933
+Zone II (Poblacion), Victoria, 496
+Zone III (Poblacion), Victoria, 1,668

@@ -1,0 +1,557 @@
+Bio‑os, Amlan, 3,639
+Jantianon, Amlan, 2,993
+Jugno, Amlan, 3,929
+Mag‑abo, Amlan, 1,935
+Poblacion, Amlan, 1,531
+Silab, Amlan, 3,606
+Tambojangin, Amlan, 2,317
+Tandayag, Amlan, 3,674
+Amdus, Ayungon, 1,160
+Anibong, Ayungon, 2,047
+Atabay, Ayungon, 1,274
+Awa‑an, Ayungon, 2,870
+Ban‑ban, Ayungon, 2,603
+Calagcalag, Ayungon, 1,764
+Candana‑ay, Ayungon, 1,349
+Carol‑an, Ayungon, 2,928
+Gomentoc, Ayungon, 2,159
+Inacban, Ayungon, 1,376
+Iniban, Ayungon, 1,390
+Jandalamanon, Ayungon, 1,148
+Kilaban, Ayungon, 819
+Lamigan, Ayungon, 897
+Maaslum, Ayungon, 1,721
+Mabato, Ayungon, 3,385
+Manogtong, Ayungon, 1,500
+Nabhang, Ayungon, 1,189
+Poblacion, Ayungon, 2,025
+Tambo, Ayungon, 3,940
+Tampocon I, Ayungon, 2,061
+Tampocon II, Ayungon, 2,165
+Tibyawan, Ayungon, 1,808
+Tiguib, Ayungon, 2,725
+Balayagmanok, Bacong, 1,381
+Banilad, Bacong, 4,573
+Buntis, Bacong, 3,096
+Buntod, Bacong, 1,895
+Calangag, Bacong, 690
+Combado, Bacong, 2,587
+Doldol, Bacong, 1,022
+Isugan, Bacong, 1,645
+Liptong, Bacong, 852
+Lutao, Bacong, 1,181
+Magsuhot, Bacong, 359
+Malabago, Bacong, 329
+Mampas, Bacong, 253
+North Poblacion, Bacong, 1,161
+Sacsac, Bacong, 3,789
+San Miguel, Bacong, 4,488
+South Poblacion, Bacong, 1,641
+Sulodpan, Bacong, 1,466
+Timbanga, Bacong, 1,161
+Timbao, Bacong, 1,149
+Tubod, Bacong, 1,087
+West Poblacion, Bacong, 722
+Barangay I (Poblacion), Bais, 3,427
+Barangay II (Poblacion), Bais, 8,639
+Basak, Bais, 1,792
+Biñohon, Bais, 1,208
+Cabanlutan, Bais, 2,367
+Calasga‑an, Bais, 2,255
+Cambagahan, Bais, 6,025
+Cambaguio, Bais, 1,060
+Cambanjao, Bais, 1,517
+Cambuilao, Bais, 1,748
+Canlargo, Bais, 1,735
+Capiñahan, Bais, 1,661
+Consolacion, Bais, 554
+Dansulan, Bais, 1,168
+Hangyad, Bais, 204
+Katacgahan (Tacgahan), Bais, 1,390
+La Paz, Bais, 1,144
+Lonoy, Bais, 3,018
+Lo‑oc, Bais, 2,206
+Mabunao, Bais, 1,371
+Manlipac, Bais, 2,524
+Mansangaban, Bais, 1,244
+Okiot, Bais, 3,762
+Olympia, Bais, 854
+Panala‑an, Bais, 4,033
+Panam‑angan, Bais, 1,094
+Rosario, Bais, 274
+Sab‑ahan, Bais, 5,953
+San Isidro, Bais, 399
+Tagpo, Bais, 2,665
+Talungon, Bais, 2,927
+Tamisu, Bais, 3,514
+Tamogong, Bais, 494
+Tangculogan, Bais, 1,218
+Valencia, Bais, 847
+Actin, Basay, 2,217
+Bal‑os, Basay, 3,452
+Bongalonan, Basay, 4,123
+Cabalayongan, Basay, 1,190
+Cabatuanan, Basay, 831
+Linantayan, Basay, 1,199
+Maglinao, Basay, 2,866
+Nagbo‑alao, Basay, 4,884
+Olandao, Basay, 1,085
+Poblacion, Basay, 4,719
+Ali‑is, Bayawan, 2,771
+Banaybanay, Bayawan, 4,258
+Banga, Bayawan, 6,877
+Boyco, Bayawan, 1,581
+Bugay, Bayawan, 5,048
+Cansumalig, Bayawan, 2,298
+Dawis, Bayawan, 4,836
+Kalamtukan, Bayawan, 3,657
+Kalumboyan, Bayawan, 7,206
+Malabugas, Bayawan, 5,127
+Mandu‑ao, Bayawan, 4,581
+Maninihon, Bayawan, 6,488
+Minaba, Bayawan, 2,481
+Nangka, Bayawan, 10,123
+Narra, Bayawan, 5,573
+Pagatban, Bayawan, 2,009
+Poblacion, Bayawan, 3,012
+San Isidro, Bayawan, 1,067
+San Jose, Bayawan, 2,236
+San Miguel, Bayawan, 1,651
+San Roque, Bayawan, 1,554
+Suba (Poblacion), Bayawan, 2,514
+Tabuan, Bayawan, 4,780
+Tayawan, Bayawan, 5,834
+Tinago (Poblacion), Bayawan, 3,276
+Ubos (Poblacion), Bayawan, 1,664
+Villareal, Bayawan, 11,265
+Villasol (Bato), Bayawan, 4,133
+Atotes, Bindoy, 2,024
+Batangan, Bindoy, 799
+Bulod, Bindoy, 1,990
+Cabcaban, Bindoy, 3,121
+Cabugan, Bindoy, 1,623
+Camudlas, Bindoy, 891
+Canluto, Bindoy, 1,345
+Danao, Bindoy, 1,187
+Danawan, Bindoy, 1,166
+Domolog, Bindoy, 1,773
+Malaga, Bindoy, 1,878
+Manseje, Bindoy, 1,030
+Matobato, Bindoy, 2,248
+Nagcasunog, Bindoy, 577
+Nalundan, Bindoy, 7,288
+Pangalaycayan, Bindoy, 1,220
+Peñahan, Bindoy, 618
+Poblacion (Payabon), Bindoy, 3,182
+Salong, Bindoy, 692
+Tagaytay, Bindoy, 1,596
+Tinaogan, Bindoy, 2,843
+Tubod, Bindoy, 728
+Bayog, Canlaon, 2,831
+Binalbagan, Canlaon, 2,345
+Bucalan (East Budsalan), Canlaon, 2,876
+Budlasan (West Budlasan), Canlaon, 4,446
+Linothangan, Canlaon, 3,714
+Lumapao, Canlaon, 2,933
+Mabigo (Poblacion), Canlaon, 12,260
+Malaiba, Canlaon, 4,037
+Masulog, Canlaon, 5,369
+Ninoy Aquino, Canlaon, 1,929
+Panubigan, Canlaon, 6,768
+Pula, Canlaon, 5,001
+Anahawan, Dauin, 378
+Apo Island, Dauin, 823
+Bagacay, Dauin, 832
+Baslay, Dauin, 708
+Batuhon Dacu, Dauin, 584
+Boloc‑boloc, Dauin, 674
+Bulak, Dauin, 1,576
+Bunga, Dauin, 840
+Casile, Dauin, 868
+Libjo, Dauin, 659
+Lipayo, Dauin, 2,503
+Maayongtubig, Dauin, 3,340
+Mag‑aso, Dauin, 890
+Magsaysay, Dauin, 1,290
+Malongcay Dacu, Dauin, 1,234
+Masaplod Norte, Dauin, 1,448
+Masaplod Sur, Dauin, 1,526
+Panubtuban, Dauin, 937
+Poblacion I, Dauin, 1,502
+Poblacion II, Dauin, 1,175
+Poblacion III, Dauin, 1,299
+Tugawe, Dauin, 1,776
+Tunga‑tunga, Dauin, 924
+Bagacay, Dumaguete, 9,862
+Bajumpandan, Dumaguete, 6,178
+Balugo, Dumaguete, 3,452
+Banilad, Dumaguete, 8,850
+Bantayan, Dumaguete, 5,042
+Batinguel, Dumaguete, 9,333
+Bunao, Dumaguete, 2,788
+Cadawinonan, Dumaguete, 5,549
+Calindagan, Dumaguete, 7,535
+Camanjac, Dumaguete, 4,397
+Candau‑ay, Dumaguete, 7,509
+Cantil‑e, Dumaguete, 4,265
+Daro, Dumaguete, 6,580
+Junob, Dumaguete, 6,900
+Looc, Dumaguete, 4,717
+Mangnao‑Canal, Dumaguete, 3,932
+Motong, Dumaguete, 2,260
+Piapi, Dumaguete, 6,053
+Poblacion No. 1 (Barangay 1), Dumaguete, 2,213
+Poblacion No. 2 (Barangay 2), Dumaguete, 1,336
+Poblacion No. 3 (Barangay 3), Dumaguete, 195
+Poblacion No. 4 (Barangay 4), Dumaguete, 135
+Poblacion No. 5 (Barangay 5), Dumaguete, 109
+Poblacion No. 6 (Barangay 6), Dumaguete, 236
+Poblacion No. 7 (Barangay 7), Dumaguete, 365
+Poblacion No. 8 (Barangay 8), Dumaguete, 2,214
+Pulantubig, Dumaguete, 3,333
+Tabuctubig, Dumaguete, 1,704
+Taclobo, Dumaguete, 9,742
+Talay, Dumaguete, 4,593
+Bakid, Guihulngan, 1,288
+Balogo, Guihulngan, 2,602
+Banwaque, Guihulngan, 1,446
+Basak, Guihulngan, 4,146
+Binobohan, Guihulngan, 1,592
+Buenavista, Guihulngan, 4,436
+Bulado, Guihulngan, 3,310
+Calamba, Guihulngan, 3,205
+Calupa‑an, Guihulngan, 1,750
+Hibaiyo, Guihulngan, 5,196
+Hilaitan, Guihulngan, 5,235
+Hinakpan, Guihulngan, 2,230
+Humayhumay, Guihulngan, 1,505
+Imelda, Guihulngan, 1,240
+Kagawasan, Guihulngan, 1,607
+Linantuyan, Guihulngan, 2,246
+Luz, Guihulngan, 1,643
+Mabunga, Guihulngan, 1,826
+Magsaysay, Guihulngan, 1,848
+Malusay, Guihulngan, 3,499
+Maniak, Guihulngan, 2,173
+Mckinley, Guihulngan, 2,394
+Nagsaha, Guihulngan, 1,584
+Padre Zamora, Guihulngan, 2,455
+Plagatasanon, Guihulngan, 964
+Planas, Guihulngan, 1,602
+Poblacion, Guihulngan, 14,214
+Sandayao, Guihulngan, 3,376
+Tacpao, Guihulngan, 1,480
+Tinayunan Beach, Guihulngan, 3,387
+Tinayunan Hill, Guihulngan, 2,489
+Trinidad, Guihulngan, 6,030
+Villegas, Guihulngan, 1,971
+Aglahug, Jimalalud, 784
+Agutayon, Jimalalud, 482
+Apanangon, Jimalalud, 2,242
+Bae, Jimalalud, 890
+Bala‑as, Jimalalud, 543
+Bangcal, Jimalalud, 1,126
+Banog, Jimalalud, 822
+Buto, Jimalalud, 754
+Cabang, Jimalalud, 534
+Camandayon, Jimalalud, 934
+Cangharay, Jimalalud, 1,259
+Canlahao, Jimalalud, 535
+Dayoyo, Jimalalud, 1,776
+Eli, Jimalalud, 1,670
+Lacaon, Jimalalud, 1,214
+Mahanlud, Jimalalud, 907
+Malabago, Jimalalud, 478
+Mambaid, Jimalalud, 778
+Mongpong, Jimalalud, 861
+North Poblacion, Jimalalud, 1,148
+Owacan, Jimalalud, 1,427
+Pacuan, Jimalalud, 1,900
+Panglaya‑an, Jimalalud, 1,084
+Polopantao, Jimalalud, 1,280
+Sampiniton, Jimalalud, 1,510
+South Poblacion, Jimalalud, 1,862
+Talamban, Jimalalud, 696
+Tamao, Jimalalud, 1,449
+Aniniaw, La Libertad, 1,082
+Aya, La Libertad, 974
+Bagtic, La Libertad, 1,361
+Biga‑a, La Libertad, 1,061
+Busilak, La Libertad, 1,206
+Cangabo, La Libertad, 1,166
+Cantupa, La Libertad, 1,260
+Elecia (Talostos), La Libertad, 1,585
+Eli, La Libertad, 1,276
+Guihob, La Libertad, 1,878
+Kansumandig, La Libertad, 1,218
+Mambulod, La Libertad, 606
+Mandapaton, La Libertad, 1,817
+Manghulyawon, La Libertad, 1,333
+Manluminsag, La Libertad, 770
+Mapalasan, La Libertad, 531
+Maragondong, La Libertad, 765
+Martilo, La Libertad, 2,019
+Nasungan, La Libertad, 1,487
+Pacuan, La Libertad, 2,616
+Pangca, La Libertad, 505
+Pisong, La Libertad, 1,299
+Pitogo, La Libertad, 1,273
+Poblacion North, La Libertad, 2,364
+Poblacion South, La Libertad, 1,464
+San Jose, La Libertad, 1,660
+Solongon, La Libertad, 2,306
+Tala‑on, La Libertad, 831
+Talayong, La Libertad, 889
+Abis, Mabinay, 2,797
+Arebasore, Mabinay, 1,858
+Bagtic, Mabinay, 3,215
+Banban, Mabinay, 1,166
+Barras, Mabinay, 2,677
+Bato, Mabinay, 2,125
+Bugnay, Mabinay, 771
+Bulibulihan, Mabinay, 1,422
+Bulwang, Mabinay, 2,381
+Campanun‑an, Mabinay, 2,362
+Canggohob, Mabinay, 1,601
+Cansal‑ing, Mabinay, 1,408
+Dagbasan, Mabinay, 2,294
+Dahile, Mabinay, 3,958
+Hagtu, Mabinay, 1,652
+Himocdongon, Mabinay, 2,597
+Inapoy, Mabinay, 2,877
+Lamdas, Mabinay, 1,461
+Lumbangan, Mabinay, 5,016
+Luyang, Mabinay, 1,742
+Manlingay, Mabinay, 761
+Mayaposi, Mabinay, 2,653
+Napasu‑an, Mabinay, 895
+New Namangka, Mabinay, 456
+Old Namangka, Mabinay, 1,336
+Pandanon, Mabinay, 2,641
+Paniabonan, Mabinay, 3,503
+Pantao, Mabinay, 4,130
+Poblacion, Mabinay, 6,774
+Samac, Mabinay, 3,437
+Tadlong, Mabinay, 2,157
+Tara, Mabinay, 4,741
+Alangilanan, Manjuyod, 2,120
+Bagtic, Manjuyod, 1,668
+Balaas, Manjuyod, 845
+Bantolinao, Manjuyod, 2,072
+Bolisong, Manjuyod, 3,232
+Butong, Manjuyod, 1,987
+Campuyo, Manjuyod, 3,032
+Candabong, Manjuyod, 2,300
+Concepcion, Manjuyod, 837
+Dungo‑an, Manjuyod, 1,306
+Kauswagan, Manjuyod, 1,186
+Lamogong, Manjuyod, 2,011
+Libjo, Manjuyod, 989
+Maaslum, Manjuyod, 2,078
+Mandalupang, Manjuyod, 2,123
+Panciao, Manjuyod, 2,300
+Poblacion, Manjuyod, 1,118
+Sac‑sac, Manjuyod, 715
+Salvacion, Manjuyod, 1,052
+San Isidro, Manjuyod, 774
+San Jose, Manjuyod, 1,439
+Santa Monica, Manjuyod, 225
+Suba, Manjuyod, 950
+Sundo‑an, Manjuyod, 1,887
+Tanglad, Manjuyod, 1,494
+Tubod, Manjuyod, 929
+Tupas, Manjuyod, 1,663
+Abante, Pamplona, 761
+Balayong, Pamplona, 2,128
+Banawe, Pamplona, 1,815
+Calicanan, Pamplona, 2,514
+Datagon, Pamplona, 2,721
+Fatima, Pamplona, 1,745
+Inawasan, Pamplona, 1,337
+Magsusunog, Pamplona, 1,421
+Malalangsi, Pamplona, 3,266
+Mamburao, Pamplona, 1,963
+Mangoto, Pamplona, 1,476
+Poblacion, Pamplona, 6,191
+San Isidro, Pamplona, 3,147
+Santa Agueda, Pamplona, 3,232
+Simborio, Pamplona, 1,735
+Yupisan, Pamplona, 2,144
+Basak, San Jose, 827
+Basiao, San Jose, 673
+Cambaloctot, San Jose, 652
+Cancawas, San Jose, 1,746
+Janayjanay, San Jose, 938
+Jilocon, San Jose, 1,944
+Naiba, San Jose, 790
+Poblacion, San Jose, 939
+San Roque, San Jose, 942
+Santo Niño, San Jose, 2,132
+Señora Ascion (Calo), San Jose, 1,913
+Siapo, San Jose, 2,182
+Tampi, San Jose, 2,058
+Tapon Norte, San Jose, 2,677
+Alangilan, Santa Catalina, 4,390
+Amio, Santa Catalina, 2,014
+Buenavista, Santa Catalina, 1,171
+Caigangan, Santa Catalina, 1,569
+Caranoche, Santa Catalina, 4,056
+Cawitan, Santa Catalina, 5,990
+Fatima, Santa Catalina, 1,363
+Kabulacan, Santa Catalina, 2,733
+Mabuhay, Santa Catalina, 1,795
+Manalongon, Santa Catalina, 4,940
+Mansagomayon, Santa Catalina, 1,172
+Milagrosa, Santa Catalina, 3,508
+Nagbalaye, Santa Catalina, 4,992
+Nagbinlod, Santa Catalina, 3,083
+Obat, Santa Catalina, 2,524
+Poblacion, Santa Catalina, 13,503
+San Francisco, Santa Catalina, 4,386
+San Jose, Santa Catalina, 2,661
+San Miguel, Santa Catalina, 1,319
+San Pedro, Santa Catalina, 3,252
+Santo Rosario, Santa Catalina, 1,175
+Talalak, Santa Catalina, 4,160
+Albiga, Siaton, 1,747
+Apoloy, Siaton, 2,439
+Bonawon, Siaton, 9,277
+Bonbonon, Siaton, 2,000
+Cabangahan, Siaton, 3,510
+Canaway, Siaton, 3,606
+Casala‑an, Siaton, 3,853
+Caticugan, Siaton, 2,473
+Datag, Siaton, 1,949
+Giliga‑on, Siaton, 5,034
+Inalad, Siaton, 1,946
+Malabuhan, Siaton, 3,228
+Maloh, Siaton, 5,607
+Mantiquil, Siaton, 2,543
+Mantuyop, Siaton, 2,092
+Napacao, Siaton, 2,812
+Poblacion I, Siaton, 2,082
+Poblacion II, Siaton, 2,303
+Poblacion III, Siaton, 2,910
+Poblacion IV, Siaton, 2,011
+Salag, Siaton, 2,819
+San Jose, Siaton, 971
+Sandulot, Siaton, 3,365
+Si‑it, Siaton, 2,152
+Sumaliring, Siaton, 2,111
+Tayak, Siaton, 2,856
+Agan‑an, Sibulan, 3,392
+Ajong, Sibulan, 3,427
+Balugo, Sibulan, 2,239
+Bolocboloc, Sibulan, 8,971
+Calabnugan, Sibulan, 1,670
+Cangmating, Sibulan, 5,436
+Enrique Villanueva, Sibulan, 1,330
+Looc, Sibulan, 4,423
+Magatas, Sibulan, 5,697
+Maningcao, Sibulan, 2,055
+Maslog, Sibulan, 5,822
+Poblacion, Sibulan, 5,495
+San Antonio, Sibulan, 2,774
+Tubigon, Sibulan, 1,074
+Tubtubon, Sibulan, 5,650
+Azagra, Tanjay, 5,191
+Bahi‑an, Tanjay, 2,003
+Luca, Tanjay, 2,978
+Manipis, Tanjay, 2,245
+Novallas, Tanjay, 5,207
+Obogon, Tanjay, 3,458
+Pal‑ew, Tanjay, 4,977
+Poblacion I (Barangay 1), Tanjay, 2,034
+Poblacion II (Barangay 2), Tanjay, 1,560
+Poblacion III (Barangay 3), Tanjay, 1,974
+Poblacion IV (Barangay 4), Tanjay, 2,883
+Poblacion IX (Barangay 9), Tanjay, 1,590
+Poblacion V (Barangay 5), Tanjay, 1,069
+Poblacion VI (Barangay 6), Tanjay, 3,172
+Poblacion VII (Barangay 7), Tanjay, 1,433
+Poblacion VIII (Barangay 8), Tanjay, 2,536
+Polo, Tanjay, 3,669
+San Isidro, Tanjay, 4,058
+San Jose, Tanjay, 4,115
+San Miguel, Tanjay, 2,574
+Santa Cruz Nuevo, Tanjay, 4,500
+Santa Cruz Viejo, Tanjay, 5,186
+Santo Niño, Tanjay, 6,577
+Tugas, Tanjay, 5,543
+Bacong, Tayasan, 387
+Bago, Tayasan, 2,938
+Banga, Tayasan, 983
+Cabulotan, Tayasan, 936
+Cambaye, Tayasan, 1,026
+Dalaupon, Tayasan, 797
+Guincalaban, Tayasan, 2,154
+Ilaya‑Tayasan, Tayasan, 879
+Jilabangan, Tayasan, 1,228
+Lag‑it, Tayasan, 1,645
+Linao, Tayasan, 1,165
+Lutay, Tayasan, 1,106
+Maglihe, Tayasan, 578
+Magtuhao, Tayasan, 575
+Matauta, Tayasan, 613
+Matuog, Tayasan, 2,060
+Numnum, Tayasan, 451
+Palaslan, Tayasan, 1,762
+Pinalubngan, Tayasan, 916
+Pindahan, Tayasan, 2,104
+Pinocawan, Tayasan, 1,928
+Poblacion, Tayasan, 2,179
+Santa Cruz, Tayasan, 721
+Saying, Tayasan, 539
+Suquib, Tayasan, 757
+Tamao, Tayasan, 1,445
+Tambulan, Tayasan, 2,532
+Tanlad, Tayasan, 1,066
+Apolong, Valencia, 1,623
+Balabag East, Valencia, 3,186
+Balabag West, Valencia, 1,965
+Balayagmanok, Valencia, 1,343
+Balili, Valencia, 556
+Balugo, Valencia, 1,780
+Bong‑ao, Valencia, 2,637
+Bongbong, Valencia, 1,538
+Caidiocan, Valencia, 1,617
+Calayugan, Valencia, 1,114
+Cambucad, Valencia, 593
+Dobdob, Valencia, 1,347
+Jawa, Valencia, 2,109
+Liptong, Valencia, 1,193
+Lunga, Valencia, 940
+Malabo, Valencia, 783
+Malaunay, Valencia, 2,065
+Mampas, Valencia, 517
+North Poblacion, Valencia, 763
+Palinpinon, Valencia, 2,933
+Puhagan, Valencia, 1,800
+Pulangbato, Valencia, 998
+Sagbang, Valencia, 854
+South Poblacion, Valencia, 598
+Bagawines, Vallehermoso, 5,719
+Bairan, Vallehermoso, 510
+Cabulihan, Vallehermoso, 1,369
+Don Espiridion Villegas, Vallehermoso, 1,878
+Guba, Vallehermoso, 2,038
+Macapso, Vallehermoso, 1,509
+Maglahos, Vallehermoso, 1,327
+Malangsa, Vallehermoso, 1,915
+Molobolo, Vallehermoso, 2,030
+Pinocawan, Vallehermoso, 4,364
+Poblacion, Vallehermoso, 4,717
+Puan, Vallehermoso, 1,844
+Tabon, Vallehermoso, 2,892
+Tagbino, Vallehermoso, 3,833
+Ulay, Vallehermoso, 2,314
+Basac, Zamboanguita, 2,145
+Calango, Zamboanguita, 1,582
+Lotuban, Zamboanguita, 2,053
+Malongcay Diot, Zamboanguita, 1,123
+Maluay, Zamboanguita, 3,650
+Mayabon, Zamboanguita, 6,883
+Nabago, Zamboanguita, 1,113
+Najandig, Zamboanguita, 1,518
+Nasig‑id, Zamboanguita, 1,389
+Poblacion, Zamboanguita, 6,096

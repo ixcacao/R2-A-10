@@ -1,0 +1,223 @@
+Binancian, Asuncion, 2,230
+Buan, Asuncion, 1,230
+Buclad, Asuncion, 2,479
+Cabaywa, Asuncion, 3,343
+Camansa, Asuncion, 1,481
+Cambanogoy (Poblacion), Asuncion, 9,857
+Camoning, Asuncion, 3,158
+Canatan, Asuncion, 2,645
+Concepcion, Asuncion, 2,861
+Doña Andrea, Asuncion, 3,595
+Magatos, Asuncion, 6,769
+Napungas, Asuncion, 2,230
+New Bantayan, Asuncion, 2,376
+New Loon, Asuncion, 1,465
+New Santiago, Asuncion, 1,615
+Pamacaun, Asuncion, 2,216
+Sagayen, Asuncion, 4,565
+San Vicente, Asuncion, 2,194
+Santa Filomena, Asuncion, 760
+Sonlon, Asuncion, 2,253
+Cabay‑angan, Braulio E. Dujali, 4,893
+Dujali, Braulio E. Dujali, 7,438
+Magupising, Braulio E. Dujali, 2,194
+New Casay, Braulio E. Dujali, 1,842
+Tanglaw, Braulio E. Dujali, 13,737
+Alejal, Carmen, 8,148
+Anibongan, Carmen, 2,846
+Asuncion (Cuatro-Cuatro), Carmen, 1,404
+Cebulano, Carmen, 2,266
+Guadalupe, Carmen, 2,337
+Ising (Poblacion), Carmen, 12,426
+La Paz, Carmen, 3,551
+Mabaus, Carmen, 1,626
+Mabuhay, Carmen, 2,916
+Magsaysay, Carmen, 4,053
+Mangalcal, Carmen, 3,729
+Minda, Carmen, 1,071
+New Camiling, Carmen, 2,601
+Salvacion, Carmen, 1,644
+San Isidro, Carmen, 2,150
+Santo Niño, Carmen, 5,784
+Taba, Carmen, 1,670
+Tibulao, Carmen, 1,445
+Tubod, Carmen, 8,944
+Tuganay, Carmen, 4,068
+Capungagan, Kapalong, 5,146
+Florida, Kapalong, 4,268
+Gabuyan, Kapalong, 5,398
+Gupitan, Kapalong, 11,134
+Katipunan, Kapalong, 2,840
+Luna, Kapalong, 4,039
+Mabantao, Kapalong, 3,526
+Mamacao, Kapalong, 1,841
+Maniki (Poblacion), Kapalong, 19,175
+Pag‑asa, Kapalong, 3,572
+Sampao (Bienvenida), Kapalong, 5,999
+Semong (Sampao), Kapalong, 3,788
+Sua‑on, Kapalong, 3,544
+Tiburcia, Kapalong, 2,064
+Cabidianan, New Corella, 1,500
+Carcor, New Corella, 1,524
+Del Monte, New Corella, 1,028
+Del Pilar, New Corella, 4,875
+El Salvador, New Corella, 1,163
+Limba‑an, New Corella, 5,399
+Macgum, New Corella, 1,991
+Mambing, New Corella, 1,703
+Mesaoy, New Corella, 8,925
+New Bohol, New Corella, 1,952
+New Cortez, New Corella, 2,766
+New Sambog, New Corella, 1,038
+Patrocenio, New Corella, 1,049
+Poblacion, New Corella, 8,861
+San Jose, New Corella, 1,187
+San Roque, New Corella, 3,212
+Santa Cruz, New Corella, 1,391
+Santa Fe, New Corella, 1,686
+Santo Niño, New Corella, 1,273
+Suawon, New Corella, 2,321
+A. O. Floirendo, Panabo, 4,848
+Buenavista, Panabo, 800
+Cacao, Panabo, 1,196
+Cagangohan, Panabo, 13,776
+Consolacion, Panabo, 1,747
+Dapco, Panabo, 4,068
+Datu Abdul Dadia, Panabo, 5,793
+Gredu (Poblacion), Panabo, 16,543
+J. P. Laurel, Panabo, 6,561
+Kasilak, Panabo, 2,787
+Katipunan, Panabo, 1,836
+Katualan, Panabo, 744
+Kauswagan, Panabo, 1,419
+Kiotoy, Panabo, 1,501
+Little Panay, Panabo, 2,434
+Lower Panaga (Roxas), Panabo, 1,522
+Mabunao, Panabo, 1,912
+Maduao, Panabo, 3,114
+Malativas, Panabo, 2,401
+Manay, Panabo, 5,406
+Nanyo, Panabo, 3,847
+New Malaga (Dalisay), Panabo, 1,835
+New Malitbog, Panabo, 3,276
+New Pandan (Poblacion), Panabo, 6,636
+New Visayas, Panabo, 16,566
+Quezon, Panabo, 4,649
+Salvacion, Panabo, 9,521
+San Francisco (Poblacion), Panabo, 12,832
+San Nicolas, Panabo, 2,071
+San Pedro, Panabo, 4,193
+San Roque, Panabo, 480
+San Vicente, Panabo, 14,449
+Santa Cruz, Panabo, 1,221
+Santo Niño (Poblacion), Panabo, 4,332
+Sindaton, Panabo, 3,396
+Southern Davao, Panabo, 9,021
+Tagpore, Panabo, 1,643
+Tibungol, Panabo, 1,664
+Upper Licanan, Panabo, 1,588
+Waterfall, Panabo, 971
+Adecor, Samal, 1,884
+Anonang, Samal, 2,493
+Aumbay, Samal, 2,017
+Aundanao, Samal, 1,288
+Balet, Samal, 2,889
+Bandera, Samal, 1,748
+Caliclic (Dangca-an), Samal, 2,383
+Camudmud, Samal, 2,564
+Catagman, Samal, 1,297
+Cawag, Samal, 2,585
+Cogon, Samal, 2,042
+Cogon (Talicod), Samal, 2,042
+Dadatan, Samal, 1,421
+Del Monte, Samal, 1,915
+Guilon, Samal, 1,553
+Kanaan, Samal, 1,450
+Kinawitnon, Samal, 1,973
+Libertad, Samal, 2,382
+Libuak, Samal, 1,472
+Licup, Samal, 889
+Limao, Samal, 2,497
+Linosutan, Samal, 853
+Mambago‑A, Samal, 1,833
+Mambago‑B, Samal, 2,648
+Miranda (Poblacion), Samal, 7,113
+Moncado (Poblacion), Samal, 3,744
+Pangubatan (Talicod I), Samal, 1,385
+Peñaplata (Poblacion), Samal, 6,097
+Poblacion (Kaputian), Samal, 3,983
+San Agustin, Samal, 1,799
+San Antonio, Samal, 2,098
+San Isidro (Babak), Samal, 2,250
+San Isidro (Kaputian), Samal, 2,250
+San Jose (San Lapuz), Samal, 1,754
+San Miguel (Magamono), Samal, 1,644
+San Remigio, Samal, 2,187
+Santa Cruz (Talicod II), Samal, 3,814
+Santo Niño, Samal, 1,558
+Sion (Zion), Samal, 690
+Tagbaobo, Samal, 2,179
+Tagbay, Samal, 1,407
+Tagbitan‑ag, Samal, 2,183
+Tagdaliao, Samal, 765
+Tagpopongan, Samal, 1,409
+Tambo, Samal, 4,371
+Toril, Samal, 3,128
+Dacudao, San Isidro, 1,604
+Datu Balong, San Isidro, 1,445
+Igangon, San Isidro, 3,030
+Kipalili, San Isidro, 2,688
+Libuton, San Isidro, 963
+Linao, San Isidro, 2,248
+Mamangan, San Isidro, 2,559
+Monte Dujali, San Isidro, 1,593
+Pinamuno, San Isidro, 2,065
+Sabangan, San Isidro, 1,766
+San Miguel, San Isidro, 1,567
+Santo Niño, San Isidro, 1,178
+Sawata, San Isidro, 3,945
+Balagunan, Santo Tomas, 6,151
+Bobongon, Santo Tomas, 6,551
+Casig‑Ang, Santo Tomas, 3,504
+Esperanza, Santo Tomas, 2,935
+Kimamon, Santo Tomas, 7,411
+Kinamayan, Santo Tomas, 5,890
+La Libertad, Santo Tomas, 6,401
+Lungaog, Santo Tomas, 3,598
+Magwawa, Santo Tomas, 1,610
+New Katipunan, Santo Tomas, 6,372
+New Visayas, Santo Tomas, 2,716
+Pantaron, Santo Tomas, 2,711
+Salvacion, Santo Tomas, 3,493
+San Jose, Santo Tomas, 3,376
+San Miguel, Santo Tomas, 3,399
+San Vicente, Santo Tomas, 2,307
+Talomo, Santo Tomas, 4,589
+Tibal‑og (Poblacion), Santo Tomas, 41,354
+Tulalian, Santo Tomas, 4,382
+Apokon, Tagum, 29,743
+Bincungan, Tagum, 4,227
+Busaon, Tagum, 2,847
+Canocotan, Tagum, 8,136
+Cuambogan, Tagum, 10,612
+La Filipina, Tagum, 15,390
+Liboganon, Tagum, 2,279
+Madaum, Tagum, 10,721
+Magdum, Tagum, 10,216
+Magugpo East, Tagum, 14,427
+Magugpo North, Tagum, 9,344
+Magugpo Poblacion, Tagum, 3,165
+Magugpo South, Tagum, 10,832
+Magugpo West, Tagum, 13,965
+Mankilam, Tagum, 38,963
+New Balamban, Tagum, 1,464
+Nueva Fuerza, Tagum, 1,952
+Pagsabangan, Tagum, 5,250
+Pandapan, Tagum, 2,386
+San Agustin, Tagum, 1,115
+San Isidro, Tagum, 4,796
+San Miguel (Camp 4), Tagum, 17,317
+Visayan Village, Tagum, 40,297
+Dagohoy, Talaingod, 6,116
+Palma Gil, Talaingod, 8,038
+Santo Niño, Talaingod, 13,328

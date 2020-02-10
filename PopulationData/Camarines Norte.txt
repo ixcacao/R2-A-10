@@ -1,0 +1,282 @@
+Angas, Basud, 1,368
+Bactas, Basud, 1,797
+Binatagan, Basud, 323
+Caayunan, Basud, 1,421
+Guinatungan, Basud, 770
+Hinampacan, Basud, 821
+Langa, Basud, 947
+Laniton, Basud, 1,680
+Lidong, Basud, 387
+Mampili, Basud, 1,240
+Mandazo, Basud, 742
+Mangcamagong, Basud, 1,305
+Manmuntay, Basud, 642
+Mantugawe, Basud, 1,118
+Matnog, Basud, 3,565
+Mocong, Basud, 924
+Oliva, Basud, 856
+Pagsangahan, Basud, 1,433
+Pinagwarasan, Basud, 1,228
+Plaridel, Basud, 1,128
+Poblacion 1, Basud, 3,231
+Poblacion 2, Basud, 2,780
+San Felipe, Basud, 3,632
+San Jose, Basud, 1,042
+San Pascual, Basud, 1,571
+Taba‑taba, Basud, 642
+Tacad, Basud, 1,095
+Taisan, Basud, 1,335
+Tuaca, Basud, 1,994
+Alayao, Capalonga, 2,837
+Binawangan, Capalonga, 1,707
+Calabaca, Capalonga, 2,872
+Camagsaan, Capalonga, 1,031
+Catabaguangan, Capalonga, 728
+Catioan, Capalonga, 3,237
+Del Pilar, Capalonga, 1,602
+Itok, Capalonga, 1,882
+Lucbanan, Capalonga, 605
+Mabini, Capalonga, 633
+Mactang, Capalonga, 811
+Magsaysay, Capalonga, 1,854
+Mataque, Capalonga, 1,211
+Old Camp, Capalonga, 1,444
+Poblacion, Capalonga, 3,366
+San Antonio, Capalonga, 591
+San Isidro, Capalonga, 219
+San Roque, Capalonga, 835
+Tanawan, Capalonga, 872
+Ubang, Capalonga, 2,003
+Villa Aurora, Capalonga, 1,184
+Villa Belen, Capalonga, 691
+Alawihao, Daet, 10,913
+Awitan, Daet, 1,555
+Bagasbas, Daet, 5,227
+Barangay I (Poblacion), Daet, 2,365
+Barangay II (Poblacion), Daet, 3,122
+Barangay III (Poblacion), Daet, 2,236
+Barangay IV (Poblacion), Daet, 7,834
+Barangay V (Poblacion), Daet, 4,953
+Barangay VI (Poblacion), Daet, 2,081
+Barangay VII (Poblacion), Daet, 2,205
+Barangay VIII (Poblacion), Daet, 2,966
+Bibirao, Daet, 1,731
+Borabod, Daet, 4,033
+Calasgasan, Daet, 3,686
+Camambugan, Daet, 8,528
+Cobangbang (Carumpit), Daet, 3,943
+Dogongan, Daet, 3,354
+Gahonon, Daet, 3,527
+Gubat, Daet, 7,520
+Lag‑On, Daet, 6,584
+Magang, Daet, 6,066
+Mambalite, Daet, 2,317
+Mancruz (Mangcruz), Daet, 1,858
+Pamorangon, Daet, 3,195
+San Isidro, Daet, 3,000
+Bagong Bayan, Jose Panganiban, 3,324
+Calero, Jose Panganiban, 2,060
+Dahican, Jose Panganiban, 1,587
+Dayhagan, Jose Panganiban, 523
+Larap, Jose Panganiban, 6,155
+Luklukan Norte, Jose Panganiban, 2,160
+Luklukan Sur, Jose Panganiban, 4,185
+Motherlode, Jose Panganiban, 2,894
+Nakalaya, Jose Panganiban, 1,689
+North Poblacion, Jose Panganiban, 1,971
+Osmeña, Jose Panganiban, 2,446
+Pag‑asa, Jose Panganiban, 796
+Parang, Jose Panganiban, 6,463
+Plaridel, Jose Panganiban, 2,635
+Salvacion, Jose Panganiban, 793
+San Isidro, Jose Panganiban, 1,121
+San Jose, Jose Panganiban, 903
+San Martin, Jose Panganiban, 515
+San Pedro, Jose Panganiban, 1,007
+San Rafael, Jose Panganiban, 1,850
+Santa Cruz, Jose Panganiban, 1,939
+Santa Elena, Jose Panganiban, 1,621
+Santa Milagrosa, Jose Panganiban, 1,347
+Santa Rosa Norte, Jose Panganiban, 3,861
+Santa Rosa Sur, Jose Panganiban, 2,925
+South Poblacion, Jose Panganiban, 1,735
+Tamisan, Jose Panganiban, 1,134
+Anahaw (Poblacion), Labo, 2,434
+Anameam, Labo, 1,446
+Awitan, Labo, 620
+Baay, Labo, 2,108
+Bagacay, Labo, 1,173
+Bagong Silang I, Labo, 3,151
+Bagong Silang II, Labo, 1,761
+Bagong Silang III (Silang), Labo, 531
+Bakiad, Labo, 1,767
+Bautista, Labo, 2,846
+Bayabas, Labo, 1,457
+Bayan‑bayan, Labo, 377
+Benit, Labo, 874
+Bulhao, Labo, 2,090
+Cabatuhan, Labo, 1,891
+Cabusay, Labo, 1,625
+Calabasa, Labo, 1,727
+Canapawan, Labo, 2,199
+Daguit, Labo, 4,113
+Dalas, Labo, 5,351
+Dumagmang, Labo, 3,007
+Exciban, Labo, 3,650
+Fundado, Labo, 1,879
+Guinacutan, Labo, 1,094
+Guisican, Labo, 1,822
+Gumamela (Poblacion), Labo, 2,213
+Iberica, Labo, 1,838
+Kalamunding (Poblacion), Labo, 1,024
+Lugui, Labo, 2,673
+Mabilo I, Labo, 1,559
+Mabilo II, Labo, 1,598
+Macogon, Labo, 2,486
+Mahawan‑hawan, Labo, 1,114
+Malangcao‑Basud, Labo, 1,466
+Malasugui, Labo, 3,454
+Malatap, Labo, 2,499
+Malaya, Labo, 1,599
+Malibago, Labo, 1,248
+Maot, Labo, 463
+Masalong, Labo, 3,268
+Matanlang, Labo, 579
+Napaod, Labo, 1,279
+Pag‑asa, Labo, 1,122
+Pangpang, Labo, 569
+Pinya (Poblacion), Labo, 1,537
+San Antonio, Labo, 1,438
+San Francisco (Poblacion), Labo, 506
+Santa Cruz, Labo, 1,122
+Submakin, Labo, 510
+Talobatib, Labo, 3,934
+Tigbinan, Labo, 3,155
+Tulay na Lupa, Labo, 5,836
+Apuao, Mercedes, 647
+Barangay I (Poblacion), Mercedes, 2,076
+Barangay II (Poblacion), Mercedes, 3,143
+Barangay III (Poblacion), Mercedes, 2,756
+Barangay IV (Poblacion), Mercedes, 1,692
+Barangay V (Poblacion), Mercedes, 737
+Barangay VI (Poblacion), Mercedes, 1,561
+Barangay VII (Poblacion), Mercedes, 1,715
+Caringo, Mercedes, 1,138
+Catandunganon, Mercedes, 348
+Cayucyucan, Mercedes, 1,164
+Colasi, Mercedes, 2,063
+Del Rosario (Tagongtong), Mercedes, 2,457
+Gaboc, Mercedes, 1,106
+Hamoraon, Mercedes, 1,356
+Hinipaan, Mercedes, 2,120
+Lalawigan, Mercedes, 1,645
+Lanot, Mercedes, 1,133
+Mambungalon, Mercedes, 2,327
+Manguisoc, Mercedes, 4,332
+Masalongsalong, Mercedes, 1,291
+Matoogtoog, Mercedes, 1,303
+Pambuhan, Mercedes, 2,998
+Quinapaguian, Mercedes, 840
+San Roque, Mercedes, 7,448
+Tarum, Mercedes, 1,445
+Awitan, Paracale, 327
+Bagumbayan, Paracale, 5,668
+Bakal, Paracale, 917
+Batobalani, Paracale, 5,326
+Calaburnay, Paracale, 1,214
+Capacuan, Paracale, 2,530
+Casalugan, Paracale, 1,415
+Dagang, Paracale, 644
+Dalnac, Paracale, 2,428
+Dancalan, Paracale, 687
+Gumaus, Paracale, 4,000
+Labnig, Paracale, 582
+Macolabo Island, Paracale, 655
+Malacbang, Paracale, 1,570
+Malaguit, Paracale, 2,226
+Mampungo, Paracale, 827
+Mangkasay, Paracale, 1,269
+Maybato, Paracale, 758
+Palanas, Paracale, 4,311
+Pinagbirayan Malaki, Paracale, 1,961
+Pinagbirayan Munti, Paracale, 664
+Poblacion Norte, Paracale, 3,915
+Poblacion Sur, Paracale, 1,932
+Tabas, Paracale, 1,968
+Talusan, Paracale, 683
+Tawig, Paracale, 4,261
+Tugos, Paracale, 6,411
+Daculang Bolo, San Lorenzo Ruiz, 1,540
+Dagotdotan, San Lorenzo Ruiz, 1,031
+Langga, San Lorenzo Ruiz, 290
+Laniton, San Lorenzo Ruiz, 760
+Maisog, San Lorenzo Ruiz, 471
+Mampurog, San Lorenzo Ruiz, 2,663
+Manlimonsito, San Lorenzo Ruiz, 647
+Matacong (Poblacion), San Lorenzo Ruiz, 3,725
+Salvacion, San Lorenzo Ruiz, 456
+San Antonio, San Lorenzo Ruiz, 476
+San Isidro, San Lorenzo Ruiz, 1,300
+San Ramon, San Lorenzo Ruiz, 704
+Asdum, San Vicente, 572
+Cabanbanan, San Vicente, 1,158
+Calabagas, San Vicente, 1,169
+Fabrica, San Vicente, 1,107
+Iraya Sur, San Vicente, 318
+Man‑Ogob, San Vicente, 2,538
+Poblacion District I (Silangan/Barangay 1), San Vicente, 653
+Poblacion District II (Kanluran/Barangay 2), San Vicente, 909
+San Jose (Iraya Norte), San Vicente, 1,972
+Basiad, Santa Elena, 3,002
+Bulala, Santa Elena, 2,061
+Don Tomas, Santa Elena, 1,943
+Guitol, Santa Elena, 484
+Kabuluan, Santa Elena, 2,062
+Kagtalaba, Santa Elena, 1,131
+Maulawin, Santa Elena, 2,316
+Patag Ibaba, Santa Elena, 534
+Patag Iraya, Santa Elena, 502
+Plaridel, Santa Elena, 1,607
+Polungguitguit, Santa Elena, 1,632
+Rizal, Santa Elena, 2,864
+Salvacion, Santa Elena, 652
+San Lorenzo, Santa Elena, 5,584
+San Pedro, Santa Elena, 1,837
+San Vicente, Santa Elena, 1,192
+Santa Elena (Poblacion), Santa Elena, 9,278
+Tabugon, Santa Elena, 1,803
+Villa San Isidro, Santa Elena, 302
+Binanuaan, Talisay, 2,789
+Caawigan, Talisay, 1,467
+Cahabaan, Talisay, 721
+Calintaan, Talisay, 1,422
+Del Carmen, Talisay, 1,066
+Gabon, Talisay, 2,077
+Itomang, Talisay, 1,557
+Poblacion, Talisay, 2,587
+San Francisco, Talisay, 2,268
+San Isidro, Talisay, 2,353
+San Jose, Talisay, 2,289
+San Nicolas, Talisay, 1,365
+Santa Cruz, Talisay, 1,621
+Santa Elena, Talisay, 1,427
+Santo Niño, Talisay, 832
+Aguit‑It, Vinzons, 1,566
+Banocboc, Vinzons, 3,557
+Barangay I (Poblacion), Vinzons, 2,188
+Barangay II (Poblacion), Vinzons, 1,870
+Barangay III (Poblacion), Vinzons, 2,132
+Cagbalogo, Vinzons, 987
+Calangcawan Norte, Vinzons, 4,104
+Calangcawan Sur, Vinzons, 4,882
+Guinacutan, Vinzons, 3,041
+Mangcawayan, Vinzons, 1,203
+Mangcayo, Vinzons, 1,050
+Manlucugan, Vinzons, 1,170
+Matango, Vinzons, 1,567
+Napilihan, Vinzons, 2,259
+Pinagtigasan, Vinzons, 1,466
+Sabang, Vinzons, 3,537
+Santo Domingo, Vinzons, 4,145
+Singi, Vinzons, 1,295
+Sula, Vinzons, 1,466

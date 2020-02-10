@@ -1,0 +1,140 @@
+Abiang, Atok, 1,757
+Caliking, Atok, 3,402
+Cattubo, Atok, 2,482
+Naguey, Atok, 1,723
+Paoay, Atok, 4,395
+Pasdong, Atok, 1,193
+Poblacion, Atok, 2,077
+Topdac, Atok, 2,639
+Ampusongan, Bakun, 2,625
+Bagu, Bakun, 820
+Dalipey, Bakun, 2,392
+Gambang, Bakun, 4,367
+Kayapa, Bakun, 1,741
+Poblacion (Central), Bakun, 1,894
+Sinacbat, Bakun, 1,518
+Ambuclao, Bokod, 3,167
+Bila, Bokod, 1,405
+Bobok‑Bisal, Bokod, 1,254
+Daclan, Bokod, 1,824
+Ekip, Bokod, 834
+Karao, Bokod, 989
+Nawal, Bokod, 581
+Pito, Bokod, 1,092
+Poblacion, Bokod, 2,036
+Tikey, Bokod, 574
+Abatan, Buguias, 3,375
+Amgaleyguey, Buguias, 3,480
+Amlimay, Buguias, 2,206
+Baculongan Norte, Buguias, 2,778
+Baculongan Sur, Buguias, 3,556
+Bangao, Buguias, 4,730
+Buyacaoan, Buguias, 3,326
+Calamagan, Buguias, 816
+Catlubong, Buguias, 3,125
+Lengaoan, Buguias, 2,049
+Loo, Buguias, 5,262
+Natubleng, Buguias, 2,670
+Poblacion (Central), Buguias, 3,507
+Sebang, Buguias, 2,747
+Ampucao, Itogon, 11,118
+Dalupirip, Itogon, 3,058
+Gumatdang, Itogon, 2,163
+Loacan, Itogon, 7,740
+Poblacion (Central), Itogon, 3,663
+Tinongdan, Itogon, 3,596
+Tuding, Itogon, 8,082
+Ucab, Itogon, 9,410
+Virac, Itogon, 10,990
+Adaoay, Kabayan, 621
+Anchukey, Kabayan, 270
+Ballay, Kabayan, 2,904
+Bashoy, Kabayan, 2,207
+Batan, Kabayan, 1,110
+Duacan, Kabayan, 684
+Eddet, Kabayan, 883
+Gusaran, Kabayan, 1,429
+Kabayan Barrio, Kabayan, 343
+Lusod, Kabayan, 861
+Pacso, Kabayan, 1,254
+Poblacion (Central), Kabayan, 1,816
+Tawangan, Kabayan, 878
+Balakbak, Kapangan, 1,322
+Beleng‑Belis, Kapangan, 974
+Boklaoan, Kapangan, 478
+Cayapes, Kapangan, 817
+Cuba, Kapangan, 1,006
+Datakan, Kapangan, 1,774
+Gadang, Kapangan, 1,513
+Gasweling, Kapangan, 908
+Labueg, Kapangan, 1,613
+Paykek, Kapangan, 1,279
+Poblacion Central, Kapangan, 1,652
+Pongayan, Kapangan, 786
+Pudong, Kapangan, 1,380
+Sagubo, Kapangan, 1,923
+Taba‑ao, Kapangan, 1,936
+Badeo, Kibungan, 894
+Lubo, Kibungan, 1,230
+Madaymen, Kibungan, 5,738
+Palina, Kibungan, 1,363
+Poblacion, Kibungan, 2,504
+Sagpat, Kibungan, 3,502
+Tacadang, Kibungan, 2,061
+Alapang, La Trinidad, 4,477
+Alno, La Trinidad, 2,883
+Ambiong, La Trinidad, 7,149
+Bahong, La Trinidad, 5,188
+Balili, La Trinidad, 18,962
+Beckel, La Trinidad, 3,918
+Betag, La Trinidad, 9,747
+Bineng, La Trinidad, 1,624
+Cruz, La Trinidad, 3,721
+Lubas, La Trinidad, 6,159
+Pico, La Trinidad, 23,282
+Poblacion, La Trinidad, 13,196
+Puguis, La Trinidad, 9,038
+Shilan, La Trinidad, 4,833
+Tawang, La Trinidad, 9,014
+Wangal, La Trinidad, 5,942
+Balili, Mankayan, 6,537
+Bedbed, Mankayan, 1,058
+Bulalacao, Mankayan, 3,205
+Cabiten, Mankayan, 2,129
+Colalo, Mankayan, 1,268
+Guinaoang, Mankayan, 2,249
+Paco, Mankayan, 5,744
+Palasaan, Mankayan, 2,358
+Poblacion, Mankayan, 2,572
+Sapid, Mankayan, 3,218
+Tabio, Mankayan, 3,855
+Taneg, Mankayan, 1,760
+Bagong, Sablan, 705
+Balluay, Sablan, 536
+Banangan, Sablan, 1,808
+Banengbeng, Sablan, 1,072
+Bayabas, Sablan, 2,467
+Kamog, Sablan, 1,468
+Pappa, Sablan, 593
+Poblacion, Sablan, 2,808
+Ansagan, Tuba, 2,386
+Camp 3, Tuba, 10,033
+Camp 4, Tuba, 7,136
+Camp One, Tuba, 1,773
+Nangalisan, Tuba, 2,433
+Poblacion, Tuba, 7,711
+San Pascual, Tuba, 1,148
+Tabaan Norte, Tuba, 1,422
+Tabaan Sur, Tuba, 1,315
+Tadiangan, Tuba, 6,721
+Taloy Norte, Tuba, 1,396
+Taloy Sur, Tuba, 2,990
+Twin Peaks, Tuba, 1,184
+Ambassador, Tublay, 5,160
+Ambongdolan, Tublay, 968
+Ba‑ayan, Tublay, 1,784
+Basil, Tublay, 1,278
+Caponga (Poblacion), Tublay, 4,295
+Daclan, Tublay, 2,378
+Tublay Central, Tublay, 858
+Tuel, Tublay, 1,171

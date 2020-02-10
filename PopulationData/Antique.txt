@@ -1,0 +1,590 @@
+Bayo Grande, Anini-y, 670
+Bayo Pequeño, Anini-y, 600
+Butuan, Anini-y, 1,352
+Casay, Anini-y, 1,134
+Casay Viejo, Anini-y, 421
+Iba, Anini-y, 1,119
+Igbarabatuan, Anini-y, 371
+Igpalge, Anini-y, 612
+Igtumarom, Anini-y, 423
+Lisub A, Anini-y, 801
+Lisub B, Anini-y, 1,184
+Mabuyong, Anini-y, 1,385
+Magdalena, Anini-y, 2,168
+Nasuli C, Anini-y, 645
+Nato, Anini-y, 999
+Poblacion, Anini-y, 789
+Sagua, Anini-y, 1,150
+Salvacion, Anini-y, 750
+San Francisco, Anini-y, 1,378
+San Ramon, Anini-y, 368
+San Roque, Anini-y, 1,277
+Tagaytay, Anini-y, 264
+Talisayan, Anini-y, 1,341
+Baghari, Barbaza, 286
+Bahuyan, Barbaza, 773
+Beri, Barbaza, 889
+Biga‑a, Barbaza, 244
+Binangbang, Barbaza, 201
+Binangbang Centro, Barbaza, 829
+Binanu‑an, Barbaza, 451
+Cadiao, Barbaza, 184
+Calapadan, Barbaza, 125
+Capoyuan, Barbaza, 2,026
+Cubay, Barbaza, 792
+Embrangga‑an, Barbaza, 341
+Esparar, Barbaza, 1,076
+Gua, Barbaza, 1,309
+Idao, Barbaza, 242
+Igpalge, Barbaza, 978
+Igtunarum, Barbaza, 131
+Integasan, Barbaza, 114
+Ipil, Barbaza, 1,002
+Jinalinan, Barbaza, 1,661
+Lanas, Barbaza, 129
+Langcaon (Evelio Javier), Barbaza, 184
+Lisub, Barbaza, 764
+Lombuyan, Barbaza, 706
+Mablad, Barbaza, 609
+Magtulis, Barbaza, 477
+Marigne, Barbaza, 203
+Mayabay, Barbaza, 274
+Mayos, Barbaza, 219
+Nalusdan, Barbaza, 197
+Narirong, Barbaza, 215
+Palma, Barbaza, 1,417
+Poblacion, Barbaza, 1,428
+San Antonio, Barbaza, 677
+San Ramon, Barbaza, 167
+Soligao, Barbaza, 277
+Tabongtabong, Barbaza, 465
+Tig‑Alaran, Barbaza, 121
+Yapo, Barbaza, 521
+Borocboroc, Belison, 1,261
+Buenavista, Belison, 504
+Concepcion, Belison, 1,263
+Delima, Belison, 790
+Ipil, Belison, 744
+Maradiona, Belison, 1,613
+Mojon, Belison, 461
+Poblacion, Belison, 4,503
+Rombang, Belison, 1,016
+Salvacion, Belison, 497
+Sinaja, Belison, 887
+Anilawan, Bugasong, 223
+Arangote, Bugasong, 510
+Bagtason, Bugasong, 1,786
+Camangahan, Bugasong, 1,139
+Centro Ilawod (Poblacion), Bugasong, 2,020
+Centro Ilaya (Poblacion), Bugasong, 2,190
+Centro Pojo (Poblacion), Bugasong, 2,259
+Cubay North, Bugasong, 1,813
+Cubay South, Bugasong, 1,330
+Guija, Bugasong, 1,140
+Igbalangao, Bugasong, 1,773
+Igsoro, Bugasong, 1,368
+Ilaures, Bugasong, 1,391
+Jinalinan, Bugasong, 1,053
+Lacayon, Bugasong, 1,307
+Maray, Bugasong, 468
+Paliwan, Bugasong, 1,303
+Pangalcagan, Bugasong, 2,053
+Sabang East, Bugasong, 835
+Sabang West, Bugasong, 801
+Tagudtud North, Bugasong, 1,102
+Tagudtud South, Bugasong, 1,044
+Talisay, Bugasong, 982
+Tica, Bugasong, 540
+Tono‑an, Bugasong, 745
+Yapu, Bugasong, 551
+Zaragoza, Bugasong, 1,916
+Alegria, Caluya, 2,468
+Bacong, Caluya, 640
+Banago, Caluya, 1,155
+Bonbon, Caluya, 662
+Dawis, Caluya, 785
+Dionela, Caluya, 316
+Harigue, Caluya, 3,292
+Hininga‑an, Caluya, 1,350
+Imba, Caluya, 1,385
+Masanag, Caluya, 1,169
+Poblacion, Caluya, 1,856
+Sabang, Caluya, 873
+Salamento, Caluya, 1,122
+Semirara, Caluya, 12,434
+Sibato, Caluya, 1,164
+Sibay, Caluya, 916
+Sibolo, Caluya, 1,323
+Tinogboc, Caluya, 2,586
+Alojipan, Culasi, 462
+Bagacay, Culasi, 1,480
+Balac‑balac, Culasi, 660
+Batbatan Island, Culasi, 2,851
+Batonan Norte, Culasi, 620
+Batonan Sur, Culasi, 749
+Bita, Culasi, 431
+Bitadton Norte, Culasi, 788
+Bitadton Sur, Culasi, 2,166
+Buenavista, Culasi, 726
+Buhi, Culasi, 619
+Camancijan, Culasi, 1,938
+Caridad, Culasi, 882
+Carit‑an, Culasi, 628
+Centro Norte (Poblacion), Culasi, 2,114
+Centro Poblacion, Culasi, 2,477
+Centro Sur (Poblacion), Culasi, 1,654
+Condes, Culasi, 420
+Esperanza, Culasi, 1,132
+Fe, Culasi, 770
+Flores, Culasi, 822
+Jalandoni, Culasi, 1,485
+Janlagasi, Culasi, 215
+Lamputong, Culasi, 628
+Lipata, Culasi, 1,962
+Magsaysay (Balua), Culasi, 578
+Malacañang, Culasi, 1,572
+Malalison Island, Culasi, 649
+Maniguin, Culasi, 719
+Naba, Culasi, 1,628
+Osorio, Culasi, 524
+Paningayan, Culasi, 354
+Salde, Culasi, 203
+San Antonio, Culasi, 962
+San Gregorio, Culasi, 476
+San Juan, Culasi, 751
+San Luis, Culasi, 715
+San Pascual, Culasi, 416
+San Vicente, Culasi, 396
+Simbola, Culasi, 229
+Tigbobolo, Culasi, 460
+Tinabusan, Culasi, 177
+Tomao, Culasi, 751
+Valderama, Culasi, 989
+Apdo, Hamtic, 818
+Asluman, Hamtic, 2,296
+Banawon, Hamtic, 1,069
+Bia‑an, Hamtic, 1,089
+Bongbongan III, Hamtic, 764
+Bongbongan I‑II, Hamtic, 475
+Botbot, Hamtic, 449
+Budbudan, Hamtic, 1,076
+Buhang, Hamtic, 2,159
+Calacja I, Hamtic, 878
+Calacja II, Hamtic, 904
+Calala, Hamtic, 802
+Cantulan, Hamtic, 180
+Caridad, Hamtic, 2,043
+Caromangay, Hamtic, 627
+Casalngan, Hamtic, 613
+Dangcalan, Hamtic, 398
+Del Pilar, Hamtic, 277
+Fabrica, Hamtic, 688
+Funda, Hamtic, 2,298
+General Fullon (Tina), Hamtic, 703
+Gov. Evelio B. Javier (Lanag), Hamtic, 1,844
+Guintas, Hamtic, 2,264
+Igbical, Hamtic, 618
+Igbucagay, Hamtic, 561
+Inabasan, Hamtic, 787
+Ingwan‑Batangan, Hamtic, 989
+La Paz, Hamtic, 2,000
+Linaban, Hamtic, 1,538
+Malandog, Hamtic, 1,959
+Mapatag, Hamtic, 1,979
+Masanag, Hamtic, 800
+Nalihawan, Hamtic, 276
+Pamandayan (Botbot), Hamtic, 172
+Pasu‑Jungao, Hamtic, 151
+Piape I, Hamtic, 1,442
+Piape II, Hamtic, 612
+Piape III, Hamtic, 1,101
+Pili 1, 2, 3, Hamtic, 337
+Poblacion 1, Hamtic, 964
+Poblacion 2, Hamtic, 887
+Poblacion 3, Hamtic, 658
+Poblacion 4, Hamtic, 1,020
+Poblacion 5, Hamtic, 1,680
+Pu‑ao, Hamtic, 1,040
+Suloc, Hamtic, 117
+Villavert‑Jimenez, Hamtic, 2,190
+Bagongbayan, Laua-an, 706
+Banban, Laua-an, 147
+Bongbongan, Laua-an, 250
+Cabariwan, Laua-an, 660
+Cadajug, Laua-an, 1,153
+Canituan, Laua-an, 568
+Capnayan, Laua-an, 365
+Casit‑an, Laua-an, 1,200
+Guiamon, Laua-an, 249
+Guinbanga‑an, Laua-an, 1,879
+Guisijan, Laua-an, 2,404
+Igtadiao, Laua-an, 294
+Intao, Laua-an, 660
+Jaguikican, Laua-an, 874
+Jinalinan, Laua-an, 202
+Lactudan, Laua-an, 247
+Latazon, Laua-an, 476
+Laua‑an, Laua-an, 379
+Liberato, Laua-an, 411
+Lindero, Laua-an, 1,649
+Liya‑liya, Laua-an, 422
+Loon, Laua-an, 743
+Lugta, Laua-an, 719
+Lupa‑an, Laua-an, 559
+Magyapo, Laua-an, 257
+Maria, Laua-an, 1,311
+Mauno, Laua-an, 524
+Maybunga, Laua-an, 525
+Necesito (Paniatan), Laua-an, 307
+Oloc, Laua-an, 1,168
+Omlot, Laua-an, 260
+Pandanan, Laua-an, 359
+Paningayan, Laua-an, 384
+Pascuala, Laua-an, 194
+Poblacion (Centro), Laua-an, 1,975
+San Ramon, Laua-an, 167
+Santiago, Laua-an, 670
+Tibacan, Laua-an, 177
+Tigunhao, Laua-an, 343
+Virginia, Laua-an, 235
+Barusbus, Libertad, 1,270
+Bulanao, Libertad, 384
+Centro Este (Poblacion), Libertad, 1,094
+Centro Weste (Poblacion), Libertad, 1,120
+Codiong, Libertad, 517
+Cubay, Libertad, 1,037
+Igcagay, Libertad, 550
+Inyawan, Libertad, 454
+Lindero, Libertad, 608
+Maramig, Libertad, 321
+Pajo, Libertad, 648
+Panangkilon, Libertad, 505
+Paz, Libertad, 681
+Pucio, Libertad, 661
+San Roque, Libertad, 1,076
+Taboc, Libertad, 1,273
+Tinigbas, Libertad, 1,120
+Tinindugan, Libertad, 371
+Union, Libertad, 2,739
+Aracay, Pandan, 167
+Badiangan, Pandan, 444
+Bagumbayan, Pandan, 1,685
+Baybay, Pandan, 996
+Botbot, Pandan, 1,037
+Buang, Pandan, 379
+Cabugao, Pandan, 629
+Candari, Pandan, 569
+Carmen, Pandan, 571
+Centro Norte (Poblacion), Pandan, 651
+Centro Sur (Poblacion), Pandan, 1,267
+Dionela, Pandan, 886
+Dumrog, Pandan, 812
+Duyong, Pandan, 767
+Fragante, Pandan, 1,575
+Guia, Pandan, 1,017
+Idiacacan, Pandan, 1,736
+Jinalinan, Pandan, 1,013
+Luhod‑Bayang, Pandan, 580
+Maadios, Pandan, 137
+Mag‑aba, Pandan, 1,794
+Napuid, Pandan, 198
+Nauring, Pandan, 2,018
+Patria, Pandan, 3,022
+Perfecta, Pandan, 226
+San Andres, Pandan, 1,314
+San Joaquin, Pandan, 582
+Santa Ana, Pandan, 590
+Santa Cruz, Pandan, 817
+Santa Fe, Pandan, 1,668
+Santo Rosario, Pandan, 1,722
+Talisay, Pandan, 1,755
+Tingib, Pandan, 691
+Zaldivar, Pandan, 1,018
+Alvañiz, Patnongon, 257
+Amparo, Patnongon, 725
+Apgahan, Patnongon, 1,671
+Aureliana, Patnongon, 2,551
+Badiangan, Patnongon, 725
+Bernaldo A. Julagting (Bitas), Patnongon, 786
+Carit‑an, Patnongon, 2,018
+Cuyapiao, Patnongon, 1,050
+Gella, Patnongon, 416
+Igbarawan, Patnongon, 1,565
+Igbobon, Patnongon, 742
+Igburi, Patnongon, 1,260
+La Rioja, Patnongon, 2,278
+Mabasa, Patnongon, 1,151
+Macarina, Patnongon, 689
+Magarang, Patnongon, 441
+Magsaysay, Patnongon, 1,533
+Padang, Patnongon, 1,663
+Pandanan, Patnongon, 953
+Patlabawon, Patnongon, 494
+Poblacion, Patnongon, 6,044
+Quezon, Patnongon, 346
+Salaguiawan, Patnongon, 539
+Samalague, Patnongon, 970
+San Rafael, Patnongon, 829
+Tamayoc, Patnongon, 1,330
+Tigbalogo, Patnongon, 570
+Tobias Fornier, Patnongon, 441
+Villa Crespo, Patnongon, 463
+Villa Cruz, Patnongon, 543
+Villa Elio, Patnongon, 429
+Villa Flores, Patnongon, 191
+Villa Laua‑an, Patnongon, 340
+Villa Sal, Patnongon, 271
+Villa Salomon, Patnongon, 423
+Vista Alegre, Patnongon, 479
+Atabay, San Jose de Buenavista, 2,266
+Badiang, San Jose de Buenavista, 2,995
+Barangay 1 (Poblacion), San Jose de Buenavista, 2,808
+Barangay 2 (Poblacion), San Jose de Buenavista, 1,804
+Barangay 3 (Poblacion), San Jose de Buenavista, 3,384
+Barangay 4 (Poblacion), San Jose de Buenavista, 2,943
+Barangay 5 (Poblacion), San Jose de Buenavista, 969
+Barangay 6 (Poblacion), San Jose de Buenavista, 489
+Barangay 7 (Poblacion), San Jose de Buenavista, 395
+Barangay 8 (Poblacion), San Jose de Buenavista, 4,689
+Bariri, San Jose de Buenavista, 1,209
+Bugarot (Catungan-Bugarot), San Jose de Buenavista, 946
+Cansadan (Cansadan-Tubudan), San Jose de Buenavista, 1,978
+Durog, San Jose de Buenavista, 496
+Funda‑Dalipe, San Jose de Buenavista, 5,879
+Igbonglo, San Jose de Buenavista, 1,401
+Inabasan, San Jose de Buenavista, 1,382
+Madrangca, San Jose de Buenavista, 2,630
+Magcalon, San Jose de Buenavista, 1,132
+Malaiba, San Jose de Buenavista, 1,712
+Maybato Norte, San Jose de Buenavista, 4,219
+Maybato Sur, San Jose de Buenavista, 2,185
+Mojon, San Jose de Buenavista, 1,517
+Pantao, San Jose de Buenavista, 756
+San Angel, San Jose de Buenavista, 2,468
+San Fernando, San Jose de Buenavista, 2,708
+San Pedro, San Jose de Buenavista, 5,735
+Supa, San Jose de Buenavista, 1,439
+Agricula, San Remigio, 547
+Alegria, San Remigio, 431
+Aningalan, San Remigio, 607
+Atabay, San Remigio, 178
+Bagumbayan, San Remigio, 612
+Baladjay, San Remigio, 660
+Banbanan, San Remigio, 269
+Barangbang, San Remigio, 1,362
+Bawang, San Remigio, 470
+Bugo, San Remigio, 1,600
+Bulan‑bulan, San Remigio, 565
+Cabiawan, San Remigio, 502
+Cabunga‑an, San Remigio, 457
+Cadolonan, San Remigio, 954
+Carawisan I, San Remigio, 556
+Carawisan II, San Remigio, 567
+Carmelo I, San Remigio, 485
+Carmelo II, San Remigio, 392
+General Fullon, San Remigio, 630
+General Luna, San Remigio, 672
+Iguirindon, San Remigio, 1,117
+Insubuan, San Remigio, 299
+La Union, San Remigio, 629
+Lapak, San Remigio, 427
+Lumpatan, San Remigio, 646
+Magdalena, San Remigio, 637
+Maragubdub, San Remigio, 692
+Nagbangi I (Amatong), San Remigio, 664
+Nagbangi II, San Remigio, 491
+Nasuli, San Remigio, 502
+Orquia (Igcatumbal), San Remigio, 218
+Osorio I, San Remigio, 757
+Osorio II, San Remigio, 865
+Panpanan I, San Remigio, 1,302
+Panpanan II, San Remigio, 475
+Poblacion (Calag-itan), San Remigio, 1,836
+Ramon Magsaysay, San Remigio, 701
+Rizal, San Remigio, 280
+San Rafael, San Remigio, 1,228
+Sinundolan, San Remigio, 1,875
+Sumaray, San Remigio, 497
+Trinidad, San Remigio, 1,092
+Tubudan, San Remigio, 610
+Vilvar, San Remigio, 477
+Walker, San Remigio, 1,102
+Abiera, Sebaste, 2,832
+Aguila, Sebaste, 1,427
+Alegre, Sebaste, 575
+Aras‑Asan, Sebaste, 1,693
+Bacalan, Sebaste, 2,470
+Callan, Sebaste, 1,797
+Idio, Sebaste, 2,229
+Nauhon, Sebaste, 957
+P. Javier, Sebaste, 269
+Poblacion, Sebaste, 3,658
+Alangan, Sibalom, 834
+Bari, Sibalom, 1,009
+Biga‑a, Sibalom, 329
+Bongbongan I, Sibalom, 760
+Bongbongan II, Sibalom, 524
+Bongsod, Sibalom, 601
+Bontol, Sibalom, 849
+Bugnay, Sibalom, 253
+Bulalacao, Sibalom, 475
+Cabanbanan, Sibalom, 278
+Cabariuan, Sibalom, 714
+Cabladan, Sibalom, 875
+Cadoldolan, Sibalom, 651
+Calog, Sibalom, 400
+Calo‑oy, Sibalom, 228
+Catmon, Sibalom, 1,069
+Catungan I, Sibalom, 614
+Catungan II, Sibalom, 420
+Catungan III, Sibalom, 589
+Catungan IV, Sibalom, 1,128
+Cubay‑Napultan, Sibalom, 1,101
+Cubay‑Sermon, Sibalom, 949
+District I (Poblacion), Sibalom, 1,542
+District II (Poblacion), Sibalom, 1,398
+District III (Poblacion), Sibalom, 3,740
+District IV (Poblacion), Sibalom, 2,266
+Egaña, Sibalom, 3,333
+Esperanza I, Sibalom, 425
+Esperanza II, Sibalom, 460
+Esperanza III, Sibalom, 425
+Igcococ, Sibalom, 673
+Igdagmay, Sibalom, 360
+Igdalaquit, Sibalom, 1,076
+Iglanot, Sibalom, 974
+Igpanolong, Sibalom, 450
+Igparas, Sibalom, 347
+Igsuming, Sibalom, 659
+Ilabas, Sibalom, 1,293
+Imparayan, Sibalom, 579
+Inabasan, Sibalom, 616
+Indag‑an, Sibalom, 359
+Initan, Sibalom, 515
+Insarayan, Sibalom, 556
+Lacaron, Sibalom, 2,009
+Lagdo, Sibalom, 491
+Lambayagan, Sibalom, 487
+Luna, Sibalom, 328
+Luyang, Sibalom, 410
+Maasin, Sibalom, 435
+Mabini, Sibalom, 673
+Millamena, Sibalom, 340
+Mojon, Sibalom, 328
+Nagdayao, Sibalom, 1,198
+Nazareth, Sibalom, 787
+Odiong, Sibalom, 838
+Olaga, Sibalom, 472
+Pangpang, Sibalom, 665
+Panlagangan, Sibalom, 472
+Pantao, Sibalom, 245
+Pasong, Sibalom, 686
+Pis‑Anan, Sibalom, 2,355
+Rombang, Sibalom, 502
+Salvacion, Sibalom, 639
+San Juan, Sibalom, 1,318
+Sido, Sibalom, 849
+Solong, Sibalom, 1,007
+Tabongtabong, Sibalom, 389
+Tigbalua I, Sibalom, 717
+Tigbalua II, Sibalom, 264
+Tig‑Ohot, Sibalom, 516
+Tordesillas, Sibalom, 418
+Tulatula, Sibalom, 771
+Valentin Grasparil (Bad-as), Sibalom, 483
+Villafont, Sibalom, 696
+Villahermosa, Sibalom, 633
+Villar, Sibalom, 1,189
+Alegre, Tibiao, 280
+Amar, Tibiao, 1,025
+Bandoja (Lupa-an), Tibiao, 618
+Castillo, Tibiao, 182
+Esparagoza, Tibiao, 414
+Importante, Tibiao, 1,322
+La Paz, Tibiao, 1,316
+Malabor, Tibiao, 3,602
+Martinez, Tibiao, 1,896
+Natividad, Tibiao, 921
+Pitac, Tibiao, 1,228
+Poblacion, Tibiao, 3,850
+Salazar, Tibiao, 585
+San Francisco Norte, Tibiao, 1,690
+San Francisco Sur, Tibiao, 1,776
+San Isidro, Tibiao, 1,126
+Santa Ana, Tibiao, 598
+Santa Justa, Tibiao, 1,365
+Santo Rosario, Tibiao, 1,061
+Tigbaboy, Tibiao, 379
+Tuno, Tibiao, 1,514
+Abaca, Tobias Fornier, 1,888
+Aras‑Asan, Tobias Fornier, 1,120
+Arobo, Tobias Fornier, 556
+Atabay, Tobias Fornier, 892
+Atiotes, Tobias Fornier, 481
+Bagumbayan, Tobias Fornier, 506
+Balloscas, Tobias Fornier, 523
+Balud, Tobias Fornier, 565
+Barasanan A, Tobias Fornier, 659
+Barasanan B, Tobias Fornier, 512
+Barasanan C, Tobias Fornier, 301
+Bariri, Tobias Fornier, 179
+Camandagan, Tobias Fornier, 515
+Cato‑ogan, Tobias Fornier, 1,174
+Danawan, Tobias Fornier, 612
+Diclum, Tobias Fornier, 711
+Fatima, Tobias Fornier, 1,295
+Gamad (Igdamacio), Tobias Fornier, 490
+Igbalogo, Tobias Fornier, 493
+Igbangcal‑A, Tobias Fornier, 475
+Igbangcal‑B, Tobias Fornier, 577
+Igbangcal‑C, Tobias Fornier, 320
+Igcabuad, Tobias Fornier, 243
+Igcadac, Tobias Fornier, 456
+Igcado, Tobias Fornier, 941
+Igcalawagan, Tobias Fornier, 520
+Igcapuyas, Tobias Fornier, 200
+Igcasicad (San Pedro), Tobias Fornier, 239
+Igdalaguit, Tobias Fornier, 1,445
+Igdanlog, Tobias Fornier, 872
+Igdurarog, Tobias Fornier, 553
+Igtugas, Tobias Fornier, 410
+Lawigan, Tobias Fornier, 275
+Lindero, Tobias Fornier, 385
+Manaling (Cata-an), Tobias Fornier, 287
+Masayo, Tobias Fornier, 1,124
+Nagsubuan, Tobias Fornier, 272
+Nasuli‑A (San Ramon), Tobias Fornier, 818
+Opsan (San Jose), Tobias Fornier, 624
+Paciencia, Tobias Fornier, 1,099
+Poblacion Norte, Tobias Fornier, 1,683
+Poblacion Sur, Tobias Fornier, 1,352
+Portillo, Tobias Fornier, 212
+Quezon, Tobias Fornier, 338
+Salamague (Santa Maria), Tobias Fornier, 395
+Santo Tomas, Tobias Fornier, 725
+Tacbuyan, Tobias Fornier, 204
+Tene, Tobias Fornier, 334
+Villaflor, Tobias Fornier, 1,480
+Ysulat, Tobias Fornier, 716
+Alon, Valderrama, 222
+Bakiang, Valderrama, 588
+Binanogan, Valderrama, 673
+Borocboroc, Valderrama, 820
+Bugnay, Valderrama, 953
+Buluangan I, Valderrama, 1,800
+Buluangan II, Valderrama, 479
+Bunsod, Valderrama, 772
+Busog, Valderrama, 259
+Cananghan, Valderrama, 274
+Canipayan, Valderrama, 587
+Cansilayan, Valderrama, 269
+Culyat, Valderrama, 162
+Iglinab, Valderrama, 925
+Igmasandig, Valderrama, 273
+Lublub, Valderrama, 991
+Manlacbo, Valderrama, 1,092
+Pandanan, Valderrama, 1,993
+San Agustin, Valderrama, 1,232
+Takas (Poblacion), Valderrama, 1,878
+Tigmamale, Valderrama, 871
+Ubos (Poblacion), Valderrama, 2,011

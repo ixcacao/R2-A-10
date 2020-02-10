@@ -1,0 +1,509 @@
+Dicalongan (Poblacion), Ampatuan, 4,243
+Kakal, Ampatuan, 1,537
+Kamasi, Ampatuan, 2,738
+Kapinpilan, Ampatuan, 1,915
+Kauran, Ampatuan, 5,001
+Malatimon, Ampatuan, 1,361
+Matagabong, Ampatuan, 881
+Salman, Ampatuan, 3,989
+Saniag, Ampatuan, 1,158
+Tomicor, Ampatuan, 1,076
+Tubak, Ampatuan, 902
+Barira (Poblacion), Barira, 5,688
+Bualan, Barira, 1,306
+Gadung, Barira, 1,031
+Korosoyan, Barira, 1,942
+Lamin, Barira, 2,062
+Liong, Barira, 2,252
+Lipa, Barira, 1,847
+Lipawan, Barira, 2,370
+Marang, Barira, 1,429
+Minabay, Barira, 1,855
+Nabalawag, Barira, 2,836
+Panggao, Barira, 1,190
+Rominimbang, Barira, 1,762
+Togaig, Barira, 2,434
+Ampuan, Buldon, 1,099
+Aratuc, Buldon, 1,079
+Cabayuan, Buldon, 2,314
+Calaan (Poblacion), Buldon, 3,998
+Dinganen, Buldon, 3,966
+Edcor (Gallego Edcor), Buldon, 2,555
+Karim, Buldon, 3,803
+Kulimpang, Buldon, 2,277
+Mataya, Buldon, 2,925
+Minabay, Buldon, 2,134
+Nuyo, Buldon, 2,279
+Oring, Buldon, 1,819
+Pantawan, Buldon, 1,782
+Piers, Buldon, 1,278
+Rumidas, Buldon, 1,974
+Digal, Buluan, 7,690
+Lower Siling, Buluan, 1,488
+Maslabeng, Buluan, 8,940
+Poblacion, Buluan, 25,370
+Popol, Buluan, 1,904
+Talitay, Buluan, 2,408
+Upper Siling, Buluan, 2,208
+Banaba, Datu Abdullah Sangki, 2,714
+Dimampao, Datu Abdullah Sangki, 2,022
+Guinibon, Datu Abdullah Sangki, 2,012
+Kaya‑kaya, Datu Abdullah Sangki, 2,993
+Maganoy, Datu Abdullah Sangki, 2,022
+Mao, Datu Abdullah Sangki, 1,795
+Maranding, Datu Abdullah Sangki, 2,059
+Sugadol, Datu Abdullah Sangki, 3,003
+Talisawa, Datu Abdullah Sangki, 2,242
+Tukanolocong (Tukanologong), Datu Abdullah Sangki, 3,016
+Adaon, Datu Anggal Midtimbang, 3,455
+Brar, Datu Anggal Midtimbang, 5,380
+Mapayag, Datu Anggal Midtimbang, 3,501
+Midtimbang (Poblacion), Datu Anggal Midtimbang, 3,423
+Nunangan (Nunangen), Datu Anggal Midtimbang, 3,841
+Tugal, Datu Anggal Midtimbang, 3,639
+Tulunan, Datu Anggal Midtimbang, 1,777
+Kinimi, Datu Blah T. Sinsuat, 2,121
+Laguitan, Datu Blah T. Sinsuat, 1,569
+Lapaken, Datu Blah T. Sinsuat, 1,148
+Matuber, Datu Blah T. Sinsuat, 3,088
+Meti, Datu Blah T. Sinsuat, 1,703
+Nalkan, Datu Blah T. Sinsuat, 2,139
+Penansaran, Datu Blah T. Sinsuat, 3,048
+Pura, Datu Blah T. Sinsuat, 1,663
+Resa, Datu Blah T. Sinsuat, 2,007
+Sedem, Datu Blah T. Sinsuat, 1,226
+Sinipak, Datu Blah T. Sinsuat, 1,382
+Tambak, Datu Blah T. Sinsuat, 1,124
+Tubuan, Datu Blah T. Sinsuat, 2,806
+Kubentong, Datu Hoffer Ampatuan, 1,648
+Labu‑labu I, Datu Hoffer Ampatuan, 2,386
+Labu‑labu II, Datu Hoffer Ampatuan, 3,173
+Limpongo, Datu Hoffer Ampatuan, 3,557
+Macalag, Datu Hoffer Ampatuan, 1,103
+Sayap, Datu Hoffer Ampatuan, 2,015
+Taib, Datu Hoffer Ampatuan, 1,428
+Talibadok, Datu Hoffer Ampatuan, 3,056
+Tuayan, Datu Hoffer Ampatuan, 3,536
+Tuayan I, Datu Hoffer Ampatuan, 1,737
+Tuntungan, Datu Hoffer Ampatuan, 1,373
+Balatungkayo (Batungkayo), Datu Montawal, 2,000
+Bulit, Datu Montawal, 2,376
+Bulod, Datu Montawal, 3,023
+Dungguan, Datu Montawal, 5,999
+Limbalud, Datu Montawal, 2,062
+Maridagao, Datu Montawal, 2,817
+Nabundas, Datu Montawal, 2,521
+Pagagawan, Datu Montawal, 4,047
+Talapas, Datu Montawal, 1,791
+Talitay, Datu Montawal, 3,208
+Tunggol, Datu Montawal, 4,976
+Ambolodto, Datu Odin Sinsuat, 1,392
+Awang, Datu Odin Sinsuat, 11,897
+Badak, Datu Odin Sinsuat, 1,722
+Bagoenged, Datu Odin Sinsuat, 2,056
+Baka, Datu Odin Sinsuat, 2,775
+Benolen, Datu Odin Sinsuat, 1,720
+Bitu, Datu Odin Sinsuat, 1,285
+Bongued, Datu Odin Sinsuat, 1,838
+Bugawas, Datu Odin Sinsuat, 1,942
+Capiton, Datu Odin Sinsuat, 2,897
+Dados, Datu Odin Sinsuat, 2,087
+Dalican Poblacion, Datu Odin Sinsuat, 14,094
+Dinaig Proper, Datu Odin Sinsuat, 3,947
+Dulangan, Datu Odin Sinsuat, 950
+Kakar, Datu Odin Sinsuat, 491
+Kenebeka, Datu Odin Sinsuat, 1,262
+Kurintem, Datu Odin Sinsuat, 3,229
+Kusiong, Datu Odin Sinsuat, 1,499
+Labungan, Datu Odin Sinsuat, 2,712
+Linek, Datu Odin Sinsuat, 1,929
+Makir, Datu Odin Sinsuat, 3,974
+Margues, Datu Odin Sinsuat, 1,678
+Mompong, Datu Odin Sinsuat, 1,494
+Nekitan, Datu Odin Sinsuat, 1,885
+Sapalan, Datu Odin Sinsuat, 1,321
+Semba, Datu Odin Sinsuat, 5,988
+Sibuto, Datu Odin Sinsuat, 1,310
+Sifaren (Sifaran), Datu Odin Sinsuat, 1,239
+Tambak, Datu Odin Sinsuat, 893
+Tamontaka, Datu Odin Sinsuat, 10,058
+Tanuel, Datu Odin Sinsuat, 1,637
+Tapian, Datu Odin Sinsuat, 2,167
+Taviran, Datu Odin Sinsuat, 2,650
+Tenonggos, Datu Odin Sinsuat, 1,192
+Alip (Poblacion), Datu Paglas, 1,740
+Bonawan, Datu Paglas, 830
+Bulod, Datu Paglas, 997
+Damalusay, Datu Paglas, 1,288
+Damawato, Datu Paglas, 2,009
+Datang, Datu Paglas, 1,522
+Elbebe, Datu Paglas, 556
+Kalumenga (Kalumanga), Datu Paglas, 956
+Katil, Datu Paglas, 831
+Lipao, Datu Paglas, 914
+Lomoyon, Datu Paglas, 1,033
+Madidis, Datu Paglas, 1,365
+Makat, Datu Paglas, 762
+Malala, Datu Paglas, 1,088
+Mangadeg, Datu Paglas, 1,008
+Manindolo, Datu Paglas, 1,041
+Mao, Datu Paglas, 712
+Napok, Datu Paglas, 914
+Palao sa Buto, Datu Paglas, 1,004
+Poblacion, Datu Paglas, 4,985
+Puya, Datu Paglas, 705
+Salendab, Datu Paglas, 870
+Sepaka, Datu Paglas, 1,257
+Alonganan, Datu Piang, 837
+Ambadao, Datu Piang, 557
+Balanakan, Datu Piang, 921
+Balong, Datu Piang, 654
+Buayan, Datu Piang, 3,207
+Dado, Datu Piang, 1,085
+Damabalas, Datu Piang, 402
+Duaminanga, Datu Piang, 1,513
+Kalipapa, Datu Piang, 752
+Kanguan, Datu Piang, 2,706
+Liong, Datu Piang, 507
+Magaslong, Datu Piang, 881
+Masigay, Datu Piang, 554
+Montay, Datu Piang, 512
+Poblacion (Dulawan), Datu Piang, 9,463
+Reina Regente, Datu Piang, 1,049
+Alonganan, Datu Salibo, 608
+Andavit, Datu Salibo, 437
+Balanakan, Datu Salibo, 136
+Buayan, Datu Salibo, 1,496
+Butilen, Datu Salibo, 1,664
+Dado, Datu Salibo, 529
+Damabalas, Datu Salibo, 206
+Duaminanga, Datu Salibo, 415
+Kalipapa, Datu Salibo, 491
+Liong, Datu Salibo, 182
+Magaslong, Datu Salibo, 812
+Masigay, Datu Salibo, 132
+Pagatin, Datu Salibo, 2,458
+Pandi, Datu Salibo, 491
+Penditen, Datu Salibo, 669
+Sambulawan, Datu Salibo, 4,000
+Tee, Datu Salibo, 221
+Dapiawan, Datu Saudi-Ampatuan, 3,012
+Elian, Datu Saudi-Ampatuan, 3,086
+Gawang, Datu Saudi-Ampatuan, 2,155
+Kabengi, Datu Saudi-Ampatuan, 2,041
+Kitango, Datu Saudi-Ampatuan, 5,483
+Kitapok, Datu Saudi-Ampatuan, 3,986
+Madia, Datu Saudi-Ampatuan, 3,024
+Salbu, Datu Saudi-Ampatuan, 3,640
+Bulayan, Datu Unsay, 655
+Iganagampong, Datu Unsay, 2,547
+Macalag, Datu Unsay, 678
+Maitumaig, Datu Unsay, 2,186
+Malangog, Datu Unsay, 1,378
+Meta, Datu Unsay, 3,071
+Panangeti, Datu Unsay, 781
+Tuntungan, Datu Unsay, 517
+Badak, General Salipada K. Pendatun, 4,005
+Bulod, General Salipada K. Pendatun, 1,631
+Kaladturan, General Salipada K. Pendatun, 1,248
+Kulasi, General Salipada K. Pendatun, 1,295
+Lao‑lao, General Salipada K. Pendatun, 1,060
+Lasangan, General Salipada K. Pendatun, 1,856
+Lower Idtig, General Salipada K. Pendatun, 1,762
+Lumabao, General Salipada K. Pendatun, 1,536
+Makainis, General Salipada K. Pendatun, 1,349
+Midconding, General Salipada K. Pendatun, 2,040
+Midpandacan, General Salipada K. Pendatun, 1,896
+Panosolen, General Salipada K. Pendatun, 934
+Pidtiguian, General Salipada K. Pendatun, 680
+Quipolot, General Salipada K. Pendatun, 686
+Ramcor, General Salipada K. Pendatun, 2,511
+Sadangen, General Salipada K. Pendatun, 546
+Sumakubay, General Salipada K. Pendatun, 713
+Tonggol, General Salipada K. Pendatun, 1,759
+Upper Lasangan, General Salipada K. Pendatun, 596
+Ahan, Guindulungan, 1,002
+Bagan, Guindulungan, 3,372
+Datalpandan, Guindulungan, 1,700
+Kalumamis, Guindulungan, 1,641
+Kateman, Guindulungan, 839
+Lambayao, Guindulungan, 1,392
+Macasampen, Guindulungan, 2,480
+Muslim, Guindulungan, 1,203
+Muti, Guindulungan, 2,034
+Sampao, Guindulungan, 927
+Tambunan II, Guindulungan, 3,321
+Bagumbayan, Kabuntalan, 969
+Buterin, Kabuntalan, 916
+Dadtumog (Dadtumeg), Kabuntalan, 1,228
+Gambar, Kabuntalan, 1,545
+Ganta, Kabuntalan, 1,056
+Katidtuan, Kabuntalan, 798
+Langeban, Kabuntalan, 945
+Liong, Kabuntalan, 836
+Lower Taviran, Kabuntalan, 1,007
+Maitong, Kabuntalan, 1,424
+Matilak, Kabuntalan, 748
+Pagalungan, Kabuntalan, 842
+Payan, Kabuntalan, 416
+Pedtad, Kabuntalan, 1,161
+Pened, Kabuntalan, 665
+Poblacion, Kabuntalan, 932
+Upper Taviran, Kabuntalan, 1,788
+Bagumbong, Mamasapano, 1,188
+Dabenayan, Mamasapano, 1,359
+Daladap, Mamasapano, 1,044
+Dasikil, Mamasapano, 902
+Liab, Mamasapano, 752
+Libutan, Mamasapano, 2,143
+Lusay, Mamasapano, 803
+Mamasapano, Mamasapano, 3,173
+Manongkaling, Mamasapano, 7,017
+Pidsandawan, Mamasapano, 756
+Pimbalakan, Mamasapano, 1,224
+Sapakan, Mamasapano, 1,281
+Tuka, Mamasapano, 878
+Tukanalipao, Mamasapano, 2,280
+Daladagan, Mangudadatu, 3,216
+Kalian, Mangudadatu, 2,663
+Luayan, Mangudadatu, 2,615
+Paitan, Mangudadatu, 3,192
+Panapan, Mangudadatu, 3,352
+Tenok, Mangudadatu, 2,052
+Tinambulan, Mangudadatu, 2,326
+Tumbao, Mangudadatu, 5,630
+Bayanga Norte, Matanog, 2,306
+Bayanga Sur, Matanog, 3,645
+Bugasan Norte, Matanog, 4,088
+Bugasan Sur (Poblacion), Matanog, 6,412
+Kidama, Matanog, 1,931
+Langco, Matanog, 2,485
+Langkong, Matanog, 2,862
+Sapad, Matanog, 6,041
+Balong, Northern Kabuntalan, 1,557
+Damatog, Northern Kabuntalan, 1,831
+Gayonga, Northern Kabuntalan, 3,019
+Guiawa, Northern Kabuntalan, 1,658
+Indatuan, Northern Kabuntalan, 1,982
+Kapimpilan, Northern Kabuntalan, 1,470
+Libungan, Northern Kabuntalan, 1,249
+Montay, Northern Kabuntalan, 2,092
+Paulino Labio, Northern Kabuntalan, 4,693
+Sabaken, Northern Kabuntalan, 2,548
+Tumaguinting, Northern Kabuntalan, 3,133
+Bagoenged, Pagalungan, 2,643
+Buliok, Pagalungan, 3,795
+Dalgan, Pagalungan, 1,453
+Damalasak, Pagalungan, 2,549
+Galakit, Pagalungan, 2,030
+Inug‑ug, Pagalungan, 1,951
+Kalbugan, Pagalungan, 4,244
+Kilangan, Pagalungan, 3,715
+Kudal, Pagalungan, 1,733
+Layog, Pagalungan, 3,886
+Linandangan, Pagalungan, 2,369
+Poblacion, Pagalungan, 9,285
+Campo, Paglat, 2,056
+Damakling, Paglat, 1,990
+Damalusay, Paglat, 2,847
+Kakal, Paglat, 1,301
+Paglat, Paglat, 4,021
+Salam, Paglat, 1,056
+Tual, Paglat, 1,507
+Upper Idtig, Paglat, 1,142
+Kabuling, Pandag, 4,072
+Kayaga, Pandag, 4,103
+Kayupo (Cuyapo), Pandag, 1,898
+Lepak, Pandag, 2,602
+Lower Dilag, Pandag, 2,158
+Malangit, Pandag, 4,376
+Pandag, Pandag, 3,028
+Upper Dilag, Pandag, 2,820
+Bongo Island (Litayen), Parang, 3,421
+Campo Islam, Parang, 1,837
+Cotongan, Parang, 1,537
+Datu Macarimbang Biruar, Parang, 1,406
+Gadungan, Parang, 1,547
+Gadunganpedpandaran, Parang, 521
+Guiday T. Biruar, Parang, 3,515
+Gumagadong Calawag, Parang, 1,513
+Kabuan, Parang, 1,278
+Landasan (Sarmiento), Parang, 16,971
+Limbayan, Parang, 2,233
+Macasandag, Parang, 1,837
+Magsaysay, Parang, 4,393
+Making, Parang, 5,989
+Manion, Parang, 1,941
+Moro Point, Parang, 767
+Nituan, Parang, 3,764
+Orandang, Parang, 1,330
+Pinantao, Parang, 2,081
+Poblacion, Parang, 11,980
+Poblacion II, Parang, 9,835
+Polloc, Parang, 5,161
+Samberen, Parang, 668
+Tagudtongan, Parang, 1,738
+Tuca‑Maror, Parang, 1,931
+Baital, Rajah Buayan, 2,416
+Bakat, Rajah Buayan, 1,646
+Dapantis, Rajah Buayan, 2,747
+Gaunan, Rajah Buayan, 1,517
+Malibpolok, Rajah Buayan, 2,017
+Mileb, Rajah Buayan, 2,565
+Panadtaban, Rajah Buayan, 2,492
+Pidsandawan, Rajah Buayan, 1,199
+Sampao, Rajah Buayan, 1,556
+Sapakan (Poblacion), Rajah Buayan, 2,464
+Tabungao, Rajah Buayan, 3,033
+Bagong, Shariff Aguak, 2,081
+Bialong, Shariff Aguak, 1,981
+Kuloy, Shariff Aguak, 1,163
+Labu‑labu, Shariff Aguak, 5,239
+Lapok (Lepok), Shariff Aguak, 1,207
+Malingao, Shariff Aguak, 872
+Poblacion, Shariff Aguak, 7,010
+Poblacion I, Shariff Aguak, 3,280
+Poblacion II, Shariff Aguak, 2,477
+Satan, Shariff Aguak, 2,320
+Tapikan, Shariff Aguak, 804
+Timbangan, Shariff Aguak, 2,055
+Tina, Shariff Aguak, 1,203
+Bakat, Shariff Saydona Mustapha, 1,236
+Dale‑Bong, Shariff Saydona Mustapha, 956
+Dasawao, Shariff Saydona Mustapha, 1,335
+Datu Bakal, Shariff Saydona Mustapha, 234
+Datu Kilay, Shariff Saydona Mustapha, 439
+Duguengen, Shariff Saydona Mustapha, 524
+Ganta, Shariff Saydona Mustapha, 1,182
+Inaladan, Shariff Saydona Mustapha, 1,075
+Libutan, Shariff Saydona Mustapha, 1,038
+Linantangan, Shariff Saydona Mustapha, 1,334
+Nabundas, Shariff Saydona Mustapha, 1,822
+Pagatin, Shariff Saydona Mustapha, 1,558
+Pagatin, Shariff Saydona Mustapha, 1,558
+Pamalian, Shariff Saydona Mustapha, 1,116
+Pikeg, Shariff Saydona Mustapha, 2,353
+Pusao, Shariff Saydona Mustapha, 1,579
+Biarong, South Upi, 1,335
+Bongo, South Upi, 2,149
+Itaw, South Upi, 1,426
+Kigan, South Upi, 2,623
+Kuya, South Upi, 5,510
+Lamud, South Upi, 1,944
+Looy, South Upi, 3,937
+Pandan, South Upi, 4,340
+Pilar, South Upi, 5,266
+Romangaob (Poblacion), South Upi, 10,026
+San Jose, South Upi, 1,622
+Alamada, Sultan Kudarat, 1,584
+Banatin, Sultan Kudarat, 1,886
+Banubo, Sultan Kudarat, 1,614
+Bulalo, Sultan Kudarat, 7,503
+Bulibod, Sultan Kudarat, 1,577
+Calsada, Sultan Kudarat, 5,732
+Crossing Simuay, Sultan Kudarat, 5,510
+Dalumangcob (Poblacion), Sultan Kudarat, 6,800
+Damaniog, Sultan Kudarat, 1,003
+Darapanan, Sultan Kudarat, 1,787
+Gang, Sultan Kudarat, 3,547
+Inawan, Sultan Kudarat, 593
+Kabuntalan, Sultan Kudarat, 678
+Kakar, Sultan Kudarat, 1,534
+Kapimpilan, Sultan Kudarat, 1,880
+Katamlangan (Matampay), Sultan Kudarat, 1,386
+Katidtuan, Sultan Kudarat, 3,291
+Katuli, Sultan Kudarat, 4,752
+Ladia, Sultan Kudarat, 1,200
+Limbo, Sultan Kudarat, 5,292
+Maidapa, Sultan Kudarat, 1,554
+Makaguiling, Sultan Kudarat, 2,596
+Matengen, Sultan Kudarat, 2,465
+Mulaug, Sultan Kudarat, 833
+Nalinan, Sultan Kudarat, 949
+Nara, Sultan Kudarat, 1,593
+Nekitan, Sultan Kudarat, 700
+Olas, Sultan Kudarat, 943
+Panatan, Sultan Kudarat, 2,446
+Pigcalagan, Sultan Kudarat, 2,816
+Pigkelegan (Ibotegen), Sultan Kudarat, 2,713
+Pinaring, Sultan Kudarat, 2,429
+Pingping, Sultan Kudarat, 1,027
+Raguisi, Sultan Kudarat, 2,031
+Rebuken, Sultan Kudarat, 2,365
+Salimbao, Sultan Kudarat, 4,694
+Sambolawan, Sultan Kudarat, 1,081
+Senditan, Sultan Kudarat, 532
+Ungap, Sultan Kudarat, 2,285
+Balut, Sultan Mastura, 2,134
+Boliok, Sultan Mastura, 1,944
+Bungabong, Sultan Mastura, 1,167
+Dagurongan, Sultan Mastura, 849
+Kirkir, Sultan Mastura, 952
+Macabico (Macabiso), Sultan Mastura, 3,379
+Namuken, Sultan Mastura, 958
+Simuay/Seashore, Sultan Mastura, 1,866
+Solon, Sultan Mastura, 2,089
+Tambo, Sultan Mastura, 893
+Tapayan, Sultan Mastura, 4,259
+Tariken, Sultan Mastura, 941
+Tuka, Sultan Mastura, 830
+Angkayamat, Sultan sa Barongis, 1,386
+Barurao, Sultan sa Barongis, 4,078
+Bulod, Sultan sa Barongis, 2,300
+Darampua, Sultan sa Barongis, 2,022
+Gadungan, Sultan sa Barongis, 1,546
+Kulambog, Sultan sa Barongis, 3,135
+Langgapanan, Sultan sa Barongis, 505
+Masulot, Sultan sa Barongis, 2,447
+Paldong, Sultan sa Barongis, 1,945
+Papakan, Sultan sa Barongis, 1,375
+Tugal, Sultan sa Barongis, 732
+Tukanakuden, Sultan sa Barongis, 954
+Bintan (Bentan), Sultan Sumagka, 1,669
+Gadungan, Sultan Sumagka, 1,345
+Kiladap, Sultan Sumagka, 1,210
+Kilalan, Sultan Sumagka, 1,807
+Kuden, Sultan Sumagka, 1,803
+Makadayon, Sultan Sumagka, 1,058
+Manggay, Sultan Sumagka, 1,090
+Pageda, Sultan Sumagka, 1,538
+Talitay, Sultan Sumagka, 3,343
+Binangga North, Talayan, 1,391
+Binangga South, Talayan, 5,179
+Boboguiron, Talayan, 904
+Damablac, Talayan, 1,284
+Fugotan, Talayan, 758
+Fukol, Talayan, 875
+Katibpuan, Talayan, 3,029
+Kedati, Talayan, 891
+Lanting, Talayan, 2,047
+Linamunan, Talayan, 2,544
+Marader, Talayan, 1,233
+Talayan, Talayan, 3,383
+Tamar, Talayan, 2,027
+Tambunan I, Talayan, 3,541
+Timbaluan, Talayan, 946
+Bantek, Upi, 1,420
+Bayabas, Upi, 1,202
+Blensong, Upi, 4,178
+Borongotan, Upi, 3,529
+Bugabungan, Upi, 2,164
+Bungcog, Upi, 2,252
+Darugao, Upi, 2,979
+Ganasi, Upi, 1,341
+Kabakaba, Upi, 1,839
+Kibleg, Upi, 2,147
+Kibucay, Upi, 1,678
+Kiga, Upi, 1,472
+Kinitan (Kinitaan), Upi, 1,184
+Mirab, Upi, 1,842
+Nangi, Upi, 3,684
+Nuro Poblacion, Upi, 7,507
+Ranao Pilayan, Upi, 898
+Rempes, Upi, 4,857
+Renede, Upi, 1,174
+Renti, Upi, 1,197
+Rifao, Upi, 1,114
+Sefegefen, Upi, 1,459
+Tinungkaan, Upi, 2,466
+Agot, Boac, 697

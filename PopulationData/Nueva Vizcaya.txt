@@ -1,0 +1,275 @@
+Abuyo, Alfonso Castañeda, 1,521
+Cauayan, Alfonso Castañeda, 415
+Galintuja, Alfonso Castañeda, 770
+Lipuga, Alfonso Castañeda, 410
+Lublub (Poblacion), Alfonso Castañeda, 3,634
+Pelaway, Alfonso Castañeda, 1,190
+Ammueg, Ambaguio, 2,110
+Camandag, Ambaguio, 1,540
+Dulli, Ambaguio, 1,767
+Labang, Ambaguio, 1,826
+Napo, Ambaguio, 1,760
+Poblacion, Ambaguio, 2,758
+Salingsingan, Ambaguio, 1,366
+Tiblac, Ambaguio, 2,123
+Anayo, Aritao, 522
+Baan, Aritao, 525
+Balite, Aritao, 684
+Banganan, Aritao, 2,788
+Beti, Aritao, 2,033
+Bone North, Aritao, 2,337
+Bone South, Aritao, 3,866
+Calitlitan, Aritao, 2,030
+Canabuan, Aritao, 721
+Canarem, Aritao, 919
+Comon, Aritao, 3,831
+Cutar, Aritao, 1,956
+Darapidap, Aritao, 2,151
+Kirang, Aritao, 2,525
+Latar‑Nocnoc‑San Francisco, Aritao, 509
+Nagcuartelan, Aritao, 1,189
+Ocao‑Capiniaan, Aritao, 888
+Poblacion, Aritao, 4,030
+Santa Clara, Aritao, 1,100
+Tabueng, Aritao, 610
+Tucanon, Aritao, 1,226
+Yaway, Aritao, 785
+Bakir, Bagabag, 1,008
+Baretbet, Bagabag, 4,846
+Careb, Bagabag, 2,241
+Lantap, Bagabag, 2,593
+Murong, Bagabag, 2,711
+Nangalisan, Bagabag, 1,297
+Paniki, Bagabag, 1,858
+Pogonsino, Bagabag, 1,656
+Quirino (Poblacion), Bagabag, 1,526
+San Geronimo (Poblacion), Bagabag, 1,546
+San Pedro (Poblacion), Bagabag, 2,171
+Santa Cruz, Bagabag, 931
+Santa Lucia, Bagabag, 2,635
+Tuao North, Bagabag, 1,717
+Tuao South, Bagabag, 2,397
+Villa Coloma (Poblacion), Bagabag, 2,739
+Villaros, Bagabag, 1,629
+Abian, Bambang, 1,890
+Abinganan, Bambang, 1,151
+Aliaga, Bambang, 1,846
+Almaguer North, Bambang, 2,148
+Almaguer South, Bambang, 1,953
+Banggot (Poblacion), Bambang, 4,405
+Barat, Bambang, 1,819
+Buag (Poblacion), Bambang, 3,688
+Calaocan (Poblacion), Bambang, 3,336
+Dullao, Bambang, 1,355
+Homestead, Bambang, 3,555
+Indiana, Bambang, 2,059
+Mabuslo, Bambang, 2,720
+Macate, Bambang, 1,548
+Magsaysay Hills, Bambang, 1,679
+Manamtam, Bambang, 855
+Mauan, Bambang, 1,115
+Pallas, Bambang, 1,153
+Salinas, Bambang, 2,840
+San Antonio North, Bambang, 1,992
+San Antonio South, Bambang, 1,609
+San Fernando, Bambang, 2,395
+San Leonardo, Bambang, 1,907
+Santo Domingo (Tabangan), Bambang, 3,206
+Santo Domingo West, Bambang, 1,209
+Bansing, Bayombong, 920
+Bonfal East, Bayombong, 2,547
+Bonfal Proper, Bayombong, 4,793
+Bonfal West, Bayombong, 4,484
+Buenavista (Vista Hills), Bayombong, 2,943
+Busilac, Bayombong, 3,101
+Cabuaan, Bayombong, 1,003
+Casat, Bayombong, 1,688
+District III Poblacion (Don M. Perez), Bayombong, 2,215
+District IV (Poblacion), Bayombong, 3,424
+Don Domingo Maddela Poblacion (District I), Bayombong, 1,335
+Don Mariano Marcos, Bayombong, 2,230
+Don Tomas Maddela Poblacion (District II), Bayombong, 1,050
+Ipil‑Cuneg, Bayombong, 582
+La Torre North, Bayombong, 1,865
+La Torre South, Bayombong, 2,136
+Luyang, Bayombong, 1,231
+Magapuy, Bayombong, 1,104
+Magsaysay, Bayombong, 4,721
+Masoc, Bayombong, 3,357
+Paitan, Bayombong, 1,762
+Salvacion, Bayombong, 4,394
+San Nicolas North (Luyang), Bayombong, 2,290
+Santa Rosa, Bayombong, 2,443
+Vista Alegre (B. Baringin), Bayombong, 3,894
+Ampakling, Diadi, 759
+Arwas, Diadi, 814
+Balete, Diadi, 1,314
+Bugnay, Diadi, 1,334
+Butao, Diadi, 1,076
+Decabacan, Diadi, 703
+Duruarog, Diadi, 924
+Escoting, Diadi, 983
+Langca, Diadi, 259
+Lurad, Diadi, 526
+Nagsabaran, Diadi, 1,276
+Namamparan, Diadi, 1,321
+Pinya, Diadi, 665
+Poblacion, Diadi, 3,320
+Rosario, Diadi, 313
+San Luis, Diadi, 580
+San Pablo, Diadi, 829
+Villa Aurora, Diadi, 457
+Villa Florentino, Diadi, 669
+Belance, Dupax Del Norte, 2,748
+Binnuangan, Dupax Del Norte, 1,846
+Bitnong, Dupax Del Norte, 2,641
+Bulala, Dupax Del Norte, 721
+Inaban, Dupax Del Norte, 2,042
+Ineangan, Dupax Del Norte, 3,357
+Lamo, Dupax Del Norte, 1,660
+Mabasa, Dupax Del Norte, 2,319
+Macabenga, Dupax Del Norte, 1,307
+Malasin (Poblacion), Dupax Del Norte, 3,972
+Munguia, Dupax Del Norte, 1,032
+New Gumiad, Dupax Del Norte, 324
+Oyao, Dupax Del Norte, 2,215
+Parai, Dupax Del Norte, 781
+Yabbi, Dupax Del Norte, 549
+Abaca, Dupax Del Sur, 571
+Bagumbayan, Dupax Del Sur, 788
+Balsain, Dupax Del Sur, 609
+Banila, Dupax Del Sur, 728
+Biruk, Dupax Del Sur, 926
+Canabay, Dupax Del Sur, 1,039
+Carolotan, Dupax Del Sur, 1,016
+Domang, Dupax Del Sur, 1,449
+Dopaj, Dupax Del Sur, 1,722
+Gabut, Dupax Del Sur, 1,268
+Ganao (Lingad), Dupax Del Sur, 1,045
+Kimbutan, Dupax Del Sur, 1,240
+Kinabuan, Dupax Del Sur, 1,059
+Lukidnon, Dupax Del Sur, 369
+Mangayang, Dupax Del Sur, 2,140
+Palabotan, Dupax Del Sur, 1,083
+Sanguit, Dupax Del Sur, 1,033
+Santa Maria, Dupax Del Sur, 555
+Talbek, Dupax Del Sur, 471
+Alimit, Kasibu, 1,057
+Alloy, Kasibu, 1,167
+Antutot, Kasibu, 1,469
+Bilet, Kasibu, 420
+Binogawan, Kasibu, 799
+Biyoy, Kasibu, 1,906
+Bua, Kasibu, 1,422
+Camamasi, Kasibu, 429
+Capisaan, Kasibu, 1,046
+Catarawan, Kasibu, 804
+Cordon, Kasibu, 1,274
+Didipio, Kasibu, 3,233
+Dine, Kasibu, 997
+Kakiduguen, Kasibu, 817
+Kongkong, Kasibu, 2,401
+Lupa, Kasibu, 1,048
+Macalong, Kasibu, 1,552
+Malabing, Kasibu, 755
+Muta, Kasibu, 1,927
+Nantawacan, Kasibu, 1,703
+Pacquet (Ilongot Res.), Kasibu, 1,302
+Pao, Kasibu, 1,170
+Papaya, Kasibu, 1,195
+Poblacion (Alloy), Kasibu, 2,092
+Pudi, Kasibu, 1,361
+Seguem, Kasibu, 801
+Tadji, Kasibu, 844
+Tokod, Kasibu, 304
+Wangal, Kasibu, 1,091
+Watwat, Kasibu, 1,319
+Acacia, Kayapa, 865
+Alang‑Salacsac, Kayapa, 590
+Amilong Labeng, Kayapa, 224
+Ansipsip, Kayapa, 204
+Baan, Kayapa, 847
+Babadi, Kayapa, 1,135
+Balangabang, Kayapa, 529
+Balete, Kayapa, 674
+Banao, Kayapa, 753
+Besong, Kayapa, 921
+Binalian, Kayapa, 746
+Buyasyas, Kayapa, 406
+Cabalatan‑Alang, Kayapa, 181
+Cabanglasan, Kayapa, 676
+Cabayo, Kayapa, 725
+Castillo Village, Kayapa, 567
+Kayapa Proper East, Kayapa, 252
+Kayapa Proper West, Kayapa, 1,239
+Latbang, Kayapa, 880
+Lawigan, Kayapa, 580
+Mapayao, Kayapa, 1,775
+Nansiakan, Kayapa, 1,635
+Pampang (Poblacion), Kayapa, 987
+Pangawan, Kayapa, 632
+Pinayag, Kayapa, 2,004
+Pingkian, Kayapa, 1,508
+San Fabian, Kayapa, 825
+Talecabcab, Kayapa, 333
+Tidang Village, Kayapa, 392
+Tubongan, Kayapa, 629
+Aurora, Quezon, 1,578
+Baresbes, Quezon, 1,419
+Bonifacio, Quezon, 855
+Buliwao, Quezon, 2,723
+Calaocan, Quezon, 1,090
+Caliat (Poblacion), Quezon, 1,875
+Dagupan, Quezon, 1,254
+Darubba, Quezon, 1,581
+Maasin, Quezon, 953
+Maddiangat, Quezon, 2,353
+Nalubbunan, Quezon, 1,604
+Runruno, Quezon, 3,771
+Atbu, Santa Fe, 448
+Bacneng, Santa Fe, 1,428
+Balete, Santa Fe, 716
+Baliling, Santa Fe, 1,980
+Bantinan, Santa Fe, 1,310
+Baracbac, Santa Fe, 693
+Buyasyas, Santa Fe, 921
+Canabuan, Santa Fe, 1,650
+Imugan, Santa Fe, 751
+Malico, Santa Fe, 226
+Poblacion, Santa Fe, 1,084
+Santa Rosa, Santa Fe, 209
+Sinapaoan, Santa Fe, 1,087
+Tactac, Santa Fe, 1,274
+Unib, Santa Fe, 326
+Villa Flores, Santa Fe, 2,077
+Aggub, Solano, 2,881
+Bagahabag, Solano, 3,219
+Bangaan, Solano, 1,185
+Bangar, Solano, 1,112
+Bascaran, Solano, 3,388
+Communal, Solano, 2,179
+Concepcion (Calalabangan), Solano, 1,401
+Curifang, Solano, 3,756
+Dadap, Solano, 993
+Lactawan, Solano, 1,354
+Osmeña, Solano, 5,343
+Pilar D. Galima, Solano, 1,013
+Poblacion North, Solano, 1,085
+Poblacion South, Solano, 1,184
+Quezon, Solano, 5,009
+Quirino, Solano, 6,220
+Roxas, Solano, 7,954
+San Juan, Solano, 1,690
+San Luis, Solano, 2,405
+Tucal, Solano, 1,151
+Uddiawan, Solano, 3,712
+Wacal, Solano, 1,283
+Bintawan Norte, Villaverde, 2,498
+Bintawan Sur, Villaverde, 2,895
+Cabuluan, Villaverde, 1,658
+Ibung, Villaverde, 4,334
+Nagbitin, Villaverde, 2,233
+Ocapon, Villaverde, 970
+Pieza, Villaverde, 1,396
+Poblacion (Turod), Villaverde, 946
+Sawmill, Villaverde, 1,577

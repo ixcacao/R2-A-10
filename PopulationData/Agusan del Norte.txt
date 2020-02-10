@@ -1,0 +1,167 @@
+Abilan, Buenavista, 2,769
+Agong‑ong, Buenavista, 1,531
+Alubijid, Buenavista, 3,259
+Guinabsan, Buenavista, 3,833
+Lower Olave, Buenavista, 1,688
+Macalang, Buenavista, 2,037
+Malapong, Buenavista, 1,661
+Malpoc, Buenavista, 1,567
+Manapa, Buenavista, 5,074
+Matabao, Buenavista, 4,268
+Poblacion 1, Buenavista, 2,216
+Poblacion 10, Buenavista, 2,481
+Poblacion 2, Buenavista, 1,435
+Poblacion 3, Buenavista, 3,351
+Poblacion 4, Buenavista, 1,780
+Poblacion 5, Buenavista, 1,099
+Poblacion 6, Buenavista, 1,783
+Poblacion 7, Buenavista, 1,060
+Poblacion 8, Buenavista, 1,043
+Poblacion 9, Buenavista, 1,484
+Rizal, Buenavista, 3,329
+Sacol, Buenavista, 3,038
+Sangay, Buenavista, 3,815
+Simbalan, Buenavista, 4,188
+Talo‑ao, Buenavista, 1,825
+Antonio Luna, Cabadbaran, 1,208
+Bayabas, Cabadbaran, 1,329
+Bay‑ang, Cabadbaran, 1,368
+Caasinan, Cabadbaran, 1,543
+Cabinet, Cabadbaran, 1,965
+Calamba, Cabadbaran, 2,684
+Calibunan, Cabadbaran, 3,919
+Comagascas, Cabadbaran, 3,907
+Concepcion, Cabadbaran, 1,114
+Del Pilar, Cabadbaran, 5,967
+Katugasan, Cabadbaran, 1,508
+Kauswagan, Cabadbaran, 2,902
+La Union, Cabadbaran, 6,530
+Mabini, Cabadbaran, 5,875
+Mahaba, Cabadbaran, 1,450
+Poblacion 1, Cabadbaran, 872
+Poblacion 10, Cabadbaran, 364
+Poblacion 11, Cabadbaran, 561
+Poblacion 12, Cabadbaran, 2,263
+Poblacion 2, Cabadbaran, 599
+Poblacion 3, Cabadbaran, 2,124
+Poblacion 4, Cabadbaran, 1,731
+Poblacion 5, Cabadbaran, 911
+Poblacion 6, Cabadbaran, 1,368
+Poblacion 7, Cabadbaran, 2,301
+Poblacion 8, Cabadbaran, 385
+Poblacion 9, Cabadbaran, 3,841
+Puting Bato, Cabadbaran, 2,710
+Sanghan, Cabadbaran, 2,926
+Soriano, Cabadbaran, 1,979
+Tolosa, Cabadbaran, 5,435
+Cahayagan, Carmen, 2,395
+Gosoon, Carmen, 1,806
+Manoligao, Carmen, 1,356
+Poblacion (Carmen), Carmen, 5,988
+Rojales, Carmen, 2,542
+San Agustin, Carmen, 1,183
+Tagcatong, Carmen, 3,462
+Vinapor, Carmen, 2,107
+A. Beltran (Camalig), Jabonga, 1,083
+Baleguian, Jabonga, 2,232
+Bangonay, Jabonga, 3,122
+Bunga, Jabonga, 638
+Colorado, Jabonga, 1,683
+Cuyago, Jabonga, 1,883
+Libas, Jabonga, 1,384
+Magdagooc, Jabonga, 1,482
+Magsaysay, Jabonga, 1,031
+Maraiging, Jabonga, 518
+Poblacion (Jabonga), Jabonga, 3,822
+San Jose, Jabonga, 784
+San Pablo, Jabonga, 1,136
+San Vicente, Jabonga, 1,534
+Santo Niño, Jabonga, 852
+Bangayan, Kitcharao, 1,254
+Canaway, Kitcharao, 1,259
+Crossing, Kitcharao, 3,274
+Hinimbangan, Kitcharao, 299
+Jaliobong, Kitcharao, 1,551
+Mahayahay, Kitcharao, 2,632
+Poblacion, Kitcharao, 2,198
+San Isidro, Kitcharao, 1,227
+San Roque, Kitcharao, 1,947
+Sangay, Kitcharao, 1,038
+Songkoy, Kitcharao, 1,980
+Ambacon, Las Nieves, 1,395
+Balungagan, Las Nieves, 814
+Bonifacio, Las Nieves, 1,585
+Casiklan, Las Nieves, 2,066
+Consorcia, Las Nieves, 1,276
+Durian, Las Nieves, 2,085
+Eduardo G. Montilla, Las Nieves, 1,372
+Ibuan, Las Nieves, 1,134
+Katipunan, Las Nieves, 1,031
+Lingayao, Las Nieves, 2,687
+Malicato, Las Nieves, 1,084
+Maningalao, Las Nieves, 1,527
+Marcos Calo, Las Nieves, 1,100
+Mat‑i, Las Nieves, 2,081
+Pinana‑an, Las Nieves, 1,515
+Poblacion, Las Nieves, 1,428
+Rosario, Las Nieves, 1,484
+San Isidro, Las Nieves, 1,195
+San Roque, Las Nieves, 551
+Tinucoran, Las Nieves, 1,004
+Buhang, Magallanes, 3,878
+Caloc‑an, Magallanes, 4,369
+Guiasan, Magallanes, 1,467
+Marcos, Magallanes, 3,639
+Poblacion, Magallanes, 1,876
+Santo Niño, Magallanes, 1,663
+Santo Rosario, Magallanes, 2,764
+Taod‑oy, Magallanes, 1,351
+Aclan, Nasipit, 2,354
+Amontay, Nasipit, 1,840
+Ata‑atahon, Nasipit, 1,820
+Barangay 1 (Poblacion), Nasipit, 1,108
+Barangay 2 (Poblacion), Nasipit, 1,197
+Barangay 3 (Poblacion), Nasipit, 841
+Barangay 4 (Poblacion), Nasipit, 731
+Barangay 5 (Poblacion), Nasipit, 1,270
+Barangay 6 (Poblacion), Nasipit, 1,319
+Barangay 7 (Poblacion), Nasipit, 1,976
+Camagong, Nasipit, 5,204
+Cubi‑cubi, Nasipit, 1,338
+Culit, Nasipit, 3,039
+Jaguimitan, Nasipit, 1,647
+Kinabjangan, Nasipit, 3,714
+Punta, Nasipit, 3,685
+Santa Ana, Nasipit, 2,307
+Talisay, Nasipit, 3,729
+Triangulo, Nasipit, 2,838
+Balangbalang, Remedios T. Romualdez, 2,482
+Basilisa, Remedios T. Romualdez, 2,181
+Humilog, Remedios T. Romualdez, 1,768
+Panaytayon, Remedios T. Romualdez, 1,084
+Poblacion I (Agay), Remedios T. Romualdez, 2,611
+Poblacion II, Remedios T. Romualdez, 1,764
+San Antonio, Remedios T. Romualdez, 2,122
+Tagbongabong, Remedios T. Romualdez, 2,046
+Curva, Santiago, 2,155
+Estanislao Morgado, Santiago, 1,817
+Jagupit, Santiago, 2,538
+La Paz, Santiago, 1,630
+Pangaylan‑IP, Santiago, 1,776
+Poblacion I, Santiago, 5,418
+Poblacion II, Santiago, 4,214
+San Isidro, Santiago, 2,450
+Tagbuyacan, Santiago, 2,202
+Binuangan, Tubay, 1,372
+Cabayawa, Tubay, 1,391
+Doña Rosario, Tubay, 2,750
+Doña Telesfora, Tubay, 3,380
+La Fraternidad, Tubay, 3,183
+Lawigan, Tubay, 666
+Poblacion 1, Tubay, 1,725
+Poblacion 2, Tubay, 2,879
+Santa Ana, Tubay, 3,111
+Tagmamarkay, Tubay, 1,825
+Tagpangahoy, Tubay, 519
+Tinigbasan, Tubay, 1,001
+Victory, Tubay, 1,130

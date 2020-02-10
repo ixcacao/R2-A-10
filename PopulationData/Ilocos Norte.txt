@@ -1,0 +1,557 @@
+Adams (Poblacion), Adams, 1,792
+Bani, Bacarra, 853
+Buyon, Bacarra, 1,596
+Cabaruan, Bacarra, 1,413
+Cabulalaan, Bacarra, 733
+Cabusligan, Bacarra, 1,038
+Cadaratan, Bacarra, 1,192
+Calioet‑Libong, Bacarra, 823
+Casilian, Bacarra, 992
+Corocor, Bacarra, 814
+Duripes, Bacarra, 1,010
+Ganagan, Bacarra, 699
+Libtong, Bacarra, 1,587
+Macupit, Bacarra, 625
+Nambaran, Bacarra, 982
+Natba, Bacarra, 530
+Paninaan, Bacarra, 440
+Pasiocan, Bacarra, 1,162
+Pasngal, Bacarra, 760
+Pipias, Bacarra, 1,049
+Pulangi, Bacarra, 1,082
+Pungto, Bacarra, 571
+San Agustin I (Poblacion), Bacarra, 546
+San Agustin II (Poblacion), Bacarra, 274
+San Andres I (Poblacion), Bacarra, 782
+San Andres II (Poblacion), Bacarra, 694
+San Gabriel I (Poblacion), Bacarra, 269
+San Gabriel II (Poblacion), Bacarra, 390
+San Pedro I (Poblacion), Bacarra, 385
+San Pedro II (Poblacion), Bacarra, 597
+San Roque I (Poblacion), Bacarra, 524
+San Roque II (Poblacion), Bacarra, 352
+San Simon I (Poblacion), Bacarra, 626
+San Simon II (Poblacion), Bacarra, 333
+San Vicente (Poblacion), Bacarra, 649
+Sangil, Bacarra, 1,031
+Santa Filomena I (Poblacion), Bacarra, 264
+Santa Filomena II (Poblacion), Bacarra, 342
+Santa Rita (Poblacion), Bacarra, 1,104
+Santo Cristo I (Poblacion), Bacarra, 409
+Santo Cristo II (Poblacion), Bacarra, 420
+Tambidao, Bacarra, 775
+Teppang, Bacarra, 643
+Tubburan, Bacarra, 855
+Alay‑Nangbabaan (Alay 15-B), Badoc, 1,079
+Alogoog, Badoc, 936
+Ar‑arusip, Badoc, 799
+Aring, Badoc, 1,351
+Balbaldez, Badoc, 320
+Bato, Badoc, 979
+Camanga, Badoc, 1,126
+Canaan (Poblacion), Badoc, 573
+Caraitan, Badoc, 1,370
+Gabut Norte, Badoc, 1,536
+Gabut Sur, Badoc, 1,011
+Garreta (Poblacion), Badoc, 1,376
+La Virgen Milagrosa (Paguetpet), Badoc, 1,080
+Labut, Badoc, 765
+Lacuben, Badoc, 1,422
+Lubigan, Badoc, 1,260
+Mabusag Norte, Badoc, 1,130
+Mabusag Sur, Badoc, 1,133
+Madupayas, Badoc, 861
+Morong, Badoc, 854
+Nagrebcan, Badoc, 525
+Napu, Badoc, 1,488
+Pagsanahan Norte, Badoc, 1,180
+Pagsanahan Sur, Badoc, 1,337
+Paltit, Badoc, 1,617
+Parang, Badoc, 427
+Pasuc, Badoc, 428
+Santa Cruz Norte, Badoc, 958
+Santa Cruz Sur, Badoc, 689
+Saud, Badoc, 1,244
+Turod, Badoc, 762
+Abaca, Bangui, 1,729
+Bacsil, Bangui, 725
+Banban, Bangui, 740
+Baruyen, Bangui, 1,541
+Dadaor, Bangui, 426
+Lanao, Bangui, 1,958
+Malasin, Bangui, 1,000
+Manayon, Bangui, 1,092
+Masikil, Bangui, 629
+Nagbalagan, Bangui, 701
+Payac, Bangui, 758
+San Lorenzo (Poblacion), Bangui, 2,176
+Taguiporo, Bangui, 547
+Utol, Bangui, 650
+Balioeg, Banna, 877
+Bangsar, Banna, 901
+Barbarangay, Banna, 782
+Binacag, Banna, 824
+Bomitog, Banna, 1,314
+Bugasi, Banna, 938
+Caestebanan, Banna, 1,063
+Caribquib, Banna, 980
+Catagtaguen, Banna, 1,270
+Crispina, Banna, 984
+Hilario (Poblacion), Banna, 993
+Imelda, Banna, 610
+Lorenzo (Poblacion), Banna, 794
+Macayepyep, Banna, 1,180
+Marcos (Poblacion), Banna, 975
+Nagpatayan, Banna, 912
+Sinamar, Banna, 1,198
+Tabtabagan, Banna, 1,149
+Valdez, Banna, 969
+Valenciano (Poblacion), Banna, 725
+Ablan Poblacion (Labucao), Batac, 647
+Acosta Poblacion (Iloilo), Batac, 1,205
+Aglipay (Poblacion), Batac, 1,412
+Baay, Batac, 3,075
+Baligat, Batac, 1,907
+Baoa East, Batac, 756
+Baoa West, Batac, 1,218
+Barani (Poblacion), Batac, 659
+Ben‑agan (Poblacion), Batac, 659
+Bil‑loca, Batac, 2,866
+Biningan, Batac, 445
+Bungon, Batac, 1,520
+Callaguip (Poblacion), Batac, 900
+Camandingan, Batac, 1,499
+Camguidan, Batac, 535
+Cangrunaan (Poblacion), Batac, 961
+Capacuan, Batac, 753
+Caunayan (Poblacion), Batac, 1,175
+Colo, Batac, 1,360
+Dariwdiw, Batac, 1,883
+Lacub (Poblacion), Batac, 502
+Mabaleng, Batac, 1,158
+Magnuang, Batac, 2,145
+Maipalig, Batac, 566
+Nagbacalan, Batac, 1,109
+Naguirangan, Batac, 1,276
+Palongpong, Batac, 1,729
+Palpalicong (Poblacion), Batac, 827
+Parangopong, Batac, 1,292
+Payao, Batac, 1,384
+Pimentel (Cubol), Batac, 1,232
+Quiling Norte, Batac, 1,330
+Quiling Sur, Batac, 2,838
+Quiom, Batac, 970
+Rayuray, Batac, 995
+Ricarte Poblacion (Nalasin), Batac, 818
+San Julian (Poblacion), Batac, 543
+San Mateo, Batac, 1,111
+San Pedro, Batac, 1,038
+Suabit (Poblacion), Batac, 1,228
+Sumader, Batac, 1,349
+Tabug, Batac, 3,381
+Valdez Poblacion (Caoayan), Batac, 945
+Ablan Sarat, Burgos, 1,498
+Agaga, Burgos, 484
+Bayog, Burgos, 721
+Bobon, Burgos, 1,371
+Buduan (Malituek), Burgos, 781
+Nagsurot, Burgos, 768
+Paayas, Burgos, 711
+Pagali, Burgos, 655
+Poblacion, Burgos, 1,531
+Saoit, Burgos, 648
+Tanap, Burgos, 609
+Angset, Carasi, 171
+Barbaqueso (Poblacion), Carasi, 783
+Virbira, Carasi, 613
+Anggapang Norte, Currimao, 279
+Anggapang Sur, Currimao, 156
+Bimmanga, Currimao, 411
+Cabuusan, Currimao, 354
+Comcomloong, Currimao, 129
+Gaang, Currimao, 1,238
+Lang‑ayan‑Baramban, Currimao, 574
+Lioes, Currimao, 477
+Maglaoi Centro, Currimao, 239
+Maglaoi Norte, Currimao, 671
+Maglaoi Sur, Currimao, 541
+Paguludan‑Salindeg, Currimao, 319
+Pangil, Currimao, 601
+Pias Norte, Currimao, 887
+Pias Sur, Currimao, 723
+Poblacion I, Currimao, 744
+Poblacion II, Currimao, 611
+Salugan, Currimao, 471
+San Simeon, Currimao, 300
+Santa Cruz, Currimao, 293
+Tapao‑Tigue, Currimao, 791
+Torre, Currimao, 429
+Victoria, Currimao, 946
+Albano (Poblacion), Dingras, 823
+Bacsil, Dingras, 837
+Bagut, Dingras, 972
+Baresbes, Dingras, 1,998
+Barong, Dingras, 2,374
+Bungcag, Dingras, 538
+Cali, Dingras, 1,319
+Capasan, Dingras, 697
+Dancel (Poblacion), Dingras, 570
+Elizabeth, Dingras, 999
+Espiritu, Dingras, 975
+Foz, Dingras, 874
+Guerrero (Poblacion), Dingras, 1,492
+Lanas, Dingras, 905
+Lumbad, Dingras, 1,023
+Madamba (Poblacion), Dingras, 1,984
+Mandaloque, Dingras, 664
+Medina, Dingras, 1,290
+Parado (Bangay), Dingras, 1,524
+Peralta (Poblacion), Dingras, 1,331
+Puruganan (Poblacion), Dingras, 880
+Root (Baldias), Dingras, 828
+Sagpatan, Dingras, 822
+Saludares, Dingras, 1,469
+San Esteban, Dingras, 828
+San Francisco (Surrate), Dingras, 2,154
+San Marcelino (Padong), Dingras, 3,710
+San Marcos, Dingras, 649
+Sulquiano (Sidiran), Dingras, 1,458
+Suyo, Dingras, 1,400
+Ver (Naglayaan), Dingras, 1,175
+Dumalneg, Dumalneg, 1,964
+San Isidro, Dumalneg, 983
+Barangay No. 1, San Lorenzo (Poblacion), Laoag, 4,733
+Barangay No. 10, San Jose (Poblacion), Laoag, 1,005
+Barangay No. 11, Santa Balbina (Poblacion), Laoag, 1,365
+Barangay No. 12, San Isidro (Poblacion), Laoag, 1,607
+Barangay No. 13, Nuestra Señora de Visitacion (Poblacion), Laoag, 1,443
+Barangay No. 14, Santo Tomas (Poblacion), Laoag, 1,147
+Barangay No. 15, San Guillermo (Poblacion), Laoag, 1,098
+Barangay No. 16, San Jacinto (Poblacion), Laoag, 1,060
+Barangay No. 17, San Francisco (Poblacion), Laoag, 708
+Barangay No. 18, San Quirino (Poblacion), Laoag, 723
+Barangay No. 19, Santa Marcela (Poblacion), Laoag, 1,144
+Barangay No. 2, Santa Joaquina (Poblacion), Laoag, 2,568
+Barangay No. 20, San Miguel (Poblacion), Laoag, 1,029
+Barangay No. 21, San Pedro (Poblacion), Laoag, 1,349
+Barangay No. 22, San Andres (Poblacion), Laoag, 1,065
+Barangay No. 23, San Matias (Poblacion), Laoag, 2,857
+Barangay No. 24, Nuestra Señora de Consolacion (Poblacion), Laoag, 1,054
+Barangay No. 25, Santa Cayetana (Poblacion), Laoag, 1,201
+Barangay No. 26, San Marcelino (Poblacion), Laoag, 963
+Barangay No. 27, Nuestra Señora de Soledad (Poblacion), Laoag, 1,618
+Barangay No. 28, San Bernardo (Poblacion), Laoag, 1,758
+Barangay No. 29, Santo Tomas (Poblacion), Laoag, 1,330
+Barangay No. 3, Nuestra Señora del Rosario (Poblacion), Laoag, 1,189
+Barangay No. 30‑A, Suyo, Laoag, 762
+Barangay No. 30‑B, Santa Maria, Laoag, 1,516
+Barangay No. 31, Talingaan, Laoag, 1,616
+Barangay No. 32‑A, La Paz East, Laoag, 1,433
+Barangay No. 32‑B, La Paz West, Laoag, 1,065
+Barangay No. 32‑C La Paz East, Laoag, 1,693
+Barangay No. 33‑A, La Paz Proper, Laoag, 1,113
+Barangay No. 33‑B, La Paz Proper, Laoag, 1,052
+Barangay No. 34‑A, Gabu Norte West, Laoag, 777
+Barangay No. 34‑B, Gabu Norte East, Laoag, 1,230
+Barangay No. 35, Gabu Sur, Laoag, 1,778
+Barangay No. 36, Araniw, Laoag, 873
+Barangay No. 37, Calayab, Laoag, 2,081
+Barangay No. 38‑A, Mangato East, Laoag, 1,040
+Barangay No. 38‑B, Mangato West, Laoag, 1,188
+Barangay No. 39, Santa Rosa, Laoag, 789
+Barangay No. 4, San Guillermo (Poblacion), Laoag, 1,256
+Barangay No. 40, Balatong, Laoag, 2,659
+Barangay No. 41, Balacad, Laoag, 1,422
+Barangay No. 42, Apaya, Laoag, 916
+Barangay No. 43, Cavit, Laoag, 1,086
+Barangay No. 44, Zamboanga, Laoag, 1,331
+Barangay No. 45, Tangid, Laoag, 997
+Barangay No. 46, Nalbo, Laoag, 2,401
+Barangay No. 47, Bengcag, Laoag, 1,874
+Barangay No. 48‑A, Cabungaan North, Laoag, 1,788
+Barangay No. 48‑B, Cabungaan South, Laoag, 1,239
+Barangay No. 49‑A, Darayday, Laoag, 976
+Barangay No. 49‑B, Raraburan, Laoag, 1,658
+Barangay No. 5, San Pedro (Poblacion), Laoag, 1,723
+Barangay No. 50, Buttong, Laoag, 3,044
+Barangay No. 51‑A, Nangalisan East, Laoag, 1,510
+Barangay No. 51‑B, Nangalisan West, Laoag, 814
+Barangay No. 52‑A, San Mateo, Laoag, 629
+Barangay No. 52‑B, Lataag, Laoag, 876
+Barangay No. 53, Rioeng, Laoag, 1,616
+Barangay No. 54‑A, Lagui‑Sail, Laoag, 2,372
+Barangay No. 54‑B, Camangaan, Laoag, 1,005
+Barangay No. 55‑A, Barit‑Pandan, Laoag, 2,233
+Barangay No. 55‑B, Salet‑Bulangon, Laoag, 2,521
+Barangay No. 55‑C, Vira, Laoag, 1,377
+Barangay No. 56‑A, Bacsil North, Laoag, 951
+Barangay No. 56‑B, Bacsil South, Laoag, 1,349
+Barangay No. 57, Pila, Laoag, 1,866
+Barangay No. 58, Casili, Laoag, 964
+Barangay No. 59‑A, Dibua South, Laoag, 1,100
+Barangay No. 59‑B, Dibua North, Laoag, 865
+Barangay No. 6, San Agustin (Poblacion), Laoag, 1,371
+Barangay No. 60‑A, Caaoacan, Laoag, 1,430
+Barangay No. 60‑B, Madiladig, Laoag, 1,469
+Barangay No. 61, Cataban, Laoag, 766
+Barangay No. 62‑A, Navotas North, Laoag, 796
+Barangay No. 62‑B, Navotas South, Laoag, 912
+Barangay No. 7‑A, Nuestra Señora de Natividad (Poblacion), Laoag, 1,131
+Barangay No. 7‑B, Nuestra Señora de Natividad (Poblacion), Laoag, 968
+Barangay No. 8, San Vicente (Poblacion), Laoag, 1,042
+Barangay No. 9, Santa Angela (Poblacion), Laoag, 802
+Cacafean, Marcos, 389
+Daquioag, Marcos, 1,726
+Elizabeth (Culao), Marcos, 1,288
+Escoda, Marcos, 2,068
+Ferdinand, Marcos, 945
+Fortuna, Marcos, 1,127
+Imelda (Capariaan), Marcos, 865
+Lydia (Poblacion), Marcos, 2,270
+Mabuti, Marcos, 1,122
+Pacifico (Agunit), Marcos, 1,755
+Santiago, Marcos, 1,410
+Tabucbuc (Ragas), Marcos, 1,716
+Valdez (Biding), Marcos, 1,096
+Acnam, Nueva Era, 609
+Barangobong, Nueva Era, 370
+Barikir, Nueva Era, 527
+Bugayong, Nueva Era, 723
+Cabittauran, Nueva Era, 1,000
+Caray, Nueva Era, 763
+Garnaden, Nueva Era, 616
+Naguillan (Pagpag-ong), Nueva Era, 888
+Poblacion, Nueva Era, 2,196
+Santo Niño, Nueva Era, 962
+Uguis, Nueva Era, 852
+Aggasi, Pagudpud, 667
+Baduang, Pagudpud, 1,103
+Balaoi, Pagudpud, 1,934
+Burayoc, Pagudpud, 1,509
+Caparispisan, Pagudpud, 839
+Caunayan, Pagudpud, 1,382
+Dampig, Pagudpud, 1,015
+Ligaya, Pagudpud, 997
+Pancian, Pagudpud, 2,205
+Pasaleng, Pagudpud, 1,727
+Poblacion 1, Pagudpud, 2,536
+Poblacion 2, Pagudpud, 2,942
+Saguigui, Pagudpud, 872
+Saud, Pagudpud, 1,551
+Subec, Pagudpud, 1,557
+Tarrag, Pagudpud, 934
+Bacsil, Paoay, 665
+Cabagoan, Paoay, 547
+Cabangaran, Paoay, 407
+Callaguip, Paoay, 1,970
+Cayubog, Paoay, 508
+Dolores, Paoay, 514
+Laoa, Paoay, 344
+Masintoc, Paoay, 631
+Monte, Paoay, 693
+Mumulaan, Paoay, 768
+Nagbacalan, Paoay, 3,008
+Nalasin, Paoay, 1,286
+Nanguyudan, Paoay, 669
+Oaig‑Upay‑Abulao, Paoay, 641
+Pambaran, Paoay, 237
+Pannaratan (Poblacion), Paoay, 236
+Paratong, Paoay, 1,118
+Pasil, Paoay, 1,031
+Salbang (Poblacion), Paoay, 689
+San Agustin, Paoay, 1,008
+San Blas (Poblacion), Paoay, 249
+San Juan, Paoay, 267
+San Pedro, Paoay, 647
+San Roque (Poblacion), Paoay, 1,195
+Sangladan Poblacion (Nalbuan), Paoay, 427
+Santa Rita (Poblacion), Paoay, 706
+Sideg, Paoay, 459
+Suba, Paoay, 1,579
+Sungadan, Paoay, 1,309
+Surgui, Paoay, 794
+Veronica, Paoay, 264
+Batuli, Pasuquin, 376
+Binsang, Pasuquin, 862
+Caruan, Pasuquin, 1,275
+Carusikis, Pasuquin, 776
+Carusipan, Pasuquin, 480
+Dadaeman, Pasuquin, 340
+Darupidip, Pasuquin, 306
+Davila, Pasuquin, 4,123
+Dilanis, Pasuquin, 402
+Dilavo, Pasuquin, 574
+Estancia, Pasuquin, 1,024
+Naglicuan, Pasuquin, 1,642
+Nagsanga, Pasuquin, 1,293
+Nalvo (Cababaan-Nalvo), Pasuquin, 522
+Ngabangab, Pasuquin, 726
+Pangil, Pasuquin, 430
+Poblacion 1, Pasuquin, 1,175
+Poblacion 2, Pasuquin, 1,919
+Poblacion 3, Pasuquin, 1,035
+Poblacion 4, Pasuquin, 1,412
+Pragata (Pragata-Bungro), Pasuquin, 520
+Puyupuyan, Pasuquin, 798
+Salpad, Pasuquin, 586
+San Juan, Pasuquin, 1,475
+Santa Catalina, Pasuquin, 917
+Santa Matilde, Pasuquin, 406
+Sapat, Pasuquin, 62
+Sulbec, Pasuquin, 816
+Sulongan, Pasuquin, 442
+Surong, Pasuquin, 334
+Susugaen, Pasuquin, 1,364
+Tabungao, Pasuquin, 215
+Tadao, Pasuquin, 353
+Ab‑abut, Piddig, 412
+Abucay, Piddig, 1,531
+Anao (Poblacion), Piddig, 1,233
+Arua‑ay, Piddig, 381
+Bimmanga, Piddig, 297
+Boyboy, Piddig, 1,549
+Cabaroan (Poblacion), Piddig, 958
+Calambeg, Piddig, 1,288
+Callusa, Piddig, 651
+Dupitac, Piddig, 712
+Estancia, Piddig, 1,810
+Gayamat, Piddig, 597
+Lagandit, Piddig, 628
+Libnaoan, Piddig, 616
+Loing (Poblacion), Piddig, 1,555
+Maab‑abaca, Piddig, 454
+Mangitayag, Piddig, 611
+Maruaya, Piddig, 894
+San Antonio, Piddig, 700
+Santa Maria, Piddig, 1,491
+Sucsuquen, Piddig, 681
+Tangaoan, Piddig, 1,024
+Tonoton, Piddig, 1,424
+Aglipay, Pinili, 607
+Apatut‑Lubong, Pinili, 394
+Badio, Pinili, 1,355
+Barbar, Pinili, 622
+Buanga, Pinili, 421
+Bulbulala, Pinili, 504
+Bungro, Pinili, 380
+Cabaroan, Pinili, 467
+Capangdanan, Pinili, 755
+Dalayap, Pinili, 668
+Darat, Pinili, 1,091
+Gulpeng, Pinili, 380
+Liliputen, Pinili, 479
+Lumbaan‑Bicbica, Pinili, 726
+Nagtrigoan, Pinili, 698
+Pagdilao (Poblacion), Pinili, 1,236
+Pugaoan, Pinili, 559
+Puritac, Pinili, 562
+Puzol, Pinili, 257
+Sacritan, Pinili, 1,184
+Salanap, Pinili, 478
+Santo Tomas, Pinili, 721
+Tartarabang, Pinili, 1,098
+Upon, Pinili, 577
+Valbuena (Poblacion), Pinili, 1,081
+San Agustin, San Nicolas, 2,249
+San Baltazar (Poblacion), San Nicolas, 752
+San Bartolome (Poblacion), San Nicolas, 872
+San Cayetano (Poblacion), San Nicolas, 776
+San Eugenio (Poblacion), San Nicolas, 1,075
+San Fernando (Poblacion), San Nicolas, 1,086
+San Francisco (Poblacion), San Nicolas, 1,599
+San Gregorio (Poblacion), San Nicolas, 1,718
+San Guillermo, San Nicolas, 1,777
+San Ildefonso (Poblacion), San Nicolas, 1,470
+San Jose (Poblacion), San Nicolas, 1,130
+San Juan Bautista (Poblacion), San Nicolas, 3,041
+San Lorenzo, San Nicolas, 2,277
+San Lucas (Poblacion), San Nicolas, 1,384
+San Marcos (Payas), San Nicolas, 2,675
+San Miguel (Poblacion), San Nicolas, 1,606
+San Pablo, San Nicolas, 1,709
+San Paulo (Poblacion), San Nicolas, 959
+San Pedro (Bingao), San Nicolas, 1,815
+San Rufino (Poblacion), San Nicolas, 1,145
+San Silvestre (Poblacion), San Nicolas, 835
+Santa Asuncion (Samac), San Nicolas, 881
+Santa Cecilia (Barabar), San Nicolas, 1,904
+Santa Monica (Nagrebcan), San Nicolas, 2,001
+San Agustin (Poblacion), Sarrat, 604
+San Andres, Sarrat, 1,479
+San Antonio, Sarrat, 1,188
+San Bernabe, Sarrat, 250
+San Cristobal, Sarrat, 1,597
+San Felipe, Sarrat, 1,114
+San Francisco (Poblacion), Sarrat, 970
+San Isidro, Sarrat, 1,125
+San Joaquin (Poblacion), Sarrat, 1,399
+San Jose, Sarrat, 1,542
+San Juan, Sarrat, 784
+San Leandro (Poblacion), Sarrat, 1,328
+San Lorenzo, Sarrat, 964
+San Manuel, Sarrat, 814
+San Marcos, Sarrat, 1,377
+San Nicolas, Sarrat, 1,810
+San Pedro, Sarrat, 852
+San Roque, Sarrat, 981
+San Vicente (Poblacion), Sarrat, 940
+Santa Barbara (Poblacion), Sarrat, 604
+Santa Magdalena, Sarrat, 803
+Santa Rosa, Sarrat, 1,013
+Santo Santiago, Sarrat, 725
+Santo Tomas, Sarrat, 949
+Aguitap, Solsona, 882
+Bagbag, Solsona, 637
+Bagbago, Solsona, 1,160
+Barcelona, Solsona, 1,331
+Bubuos, Solsona, 811
+Capurictan, Solsona, 1,138
+Catangraran, Solsona, 1,395
+Darasdas, Solsona, 1,474
+Juan (Poblacion), Solsona, 2,376
+Laureta (Poblacion), Solsona, 1,438
+Lipay, Solsona, 343
+Maananteng, Solsona, 1,277
+Manalpac, Solsona, 2,093
+Mariquet, Solsona, 1,154
+Nagpatpatan, Solsona, 702
+Nalasin, Solsona, 685
+Puttao, Solsona, 1,252
+San Juan, Solsona, 550
+San Julian, Solsona, 269
+Santa Ana, Solsona, 1,208
+Santiago, Solsona, 908
+Talugtog, Solsona, 1,038
+Abkir, Vintar, 1,290
+Alejo Malasig, Vintar, 1,196
+Alsem, Vintar, 508
+Bago, Vintar, 384
+Bulbulala, Vintar, 1,282
+Cabangaran, Vintar, 607
+Cabayo, Vintar, 556
+Cabisocolan, Vintar, 744
+Canaam, Vintar, 773
+Columbia, Vintar, 764
+Dagupan, Vintar, 616
+Dipilat, Vintar, 1,158
+Esperanza, Vintar, 328
+Ester, Vintar, 1,541
+Isic Isic, Vintar, 1,796
+Lubnac, Vintar, 1,668
+Mabanbanag, Vintar, 671
+Malampa (Peninaan-Malampa), Vintar, 776
+Manarang, Vintar, 666
+Margaay, Vintar, 808
+Namoroc, Vintar, 799
+Parparoroc, Vintar, 1,328
+Parut, Vintar, 1,310
+Pedro F. Alviar (Diaton), Vintar, 918
+Salsalamagui, Vintar, 1,139
+San Jose (Lipay), Vintar, 835
+San Nicolas (Poblacion), Vintar, 1,115
+San Pedro (Poblacion), Vintar, 897
+San Ramon (Poblacion), Vintar, 1,221
+San Roque (Poblacion), Vintar, 1,064
+Santa Maria (Poblacion), Vintar, 1,033
+Tamdagan, Vintar, 1,346
+Visaya, Vintar, 1,083

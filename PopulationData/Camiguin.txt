@@ -1,0 +1,58 @@
+Alga, Catarman, 867
+Bonbon, Catarman, 2,437
+Bura, Catarman, 872
+Catibac, Catarman, 902
+Compol, Catarman, 1,398
+Lawigan, Catarman, 935
+Liloan, Catarman, 551
+Looc, Catarman, 770
+Mainit, Catarman, 1,524
+Manduao, Catarman, 710
+Panghiawan, Catarman, 1,030
+Poblacion, Catarman, 2,356
+Santo Niño, Catarman, 1,082
+Tangaro, Catarman, 1,364
+Butay, Guinsiliban, 384
+Cabuan, Guinsiliban, 1,220
+Cantaan, Guinsiliban, 409
+Liong, Guinsiliban, 1,290
+Maac, Guinsiliban, 979
+North Poblacion, Guinsiliban, 1,169
+South Poblacion, Guinsiliban, 830
+Benoni, Mahinog, 1,610
+Binatubo (Binaliwan), Mahinog, 1,100
+Catohugan, Mahinog, 1,075
+Hubangon, Mahinog, 1,273
+Owakan, Mahinog, 436
+Poblacion, Mahinog, 2,932
+Puntod, Mahinog, 955
+San Isidro, Mahinog, 659
+San Jose, Mahinog, 746
+San Miguel, Mahinog, 376
+San Roque, Mahinog, 1,315
+Tubod, Mahinog, 344
+Tupsan Pequeño, Mahinog, 1,217
+Agoho, Mambajao, 2,593
+Anito, Mambajao, 1,650
+Balbagon, Mambajao, 2,790
+Baylao, Mambajao, 2,673
+Benhaan, Mambajao, 1,081
+Bug‑ong, Mambajao, 1,244
+Kuguita, Mambajao, 1,183
+Magting, Mambajao, 2,089
+Naasag, Mambajao, 1,663
+Pandan, Mambajao, 2,957
+Poblacion, Mambajao, 10,623
+Soro‑soro, Mambajao, 1,089
+Tagdo, Mambajao, 1,374
+Tupsan, Mambajao, 2,619
+Yumbing, Mambajao, 3,107
+Alangilan, Sagay, 1,530
+Bacnit, Sagay, 874
+Balite, Sagay, 979
+Bonbon, Sagay, 1,801
+Bugang, Sagay, 979
+Cuna, Sagay, 814
+Manuyog, Sagay, 1,415
+Mayana, Sagay, 905
+Poblacion, Sagay, 3,329

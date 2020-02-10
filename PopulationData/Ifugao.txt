@@ -1,0 +1,175 @@
+Awayan, Aguinaldo, 1,409
+Bunhian, Aguinaldo, 1,089
+Butac, Aguinaldo, 1,302
+Buwag, Aguinaldo, 384
+Chalalo, Aguinaldo, 1,448
+Damag, Aguinaldo, 940
+Galonogon, Aguinaldo, 1,139
+Halag, Aguinaldo, 1,783
+Itab, Aguinaldo, 976
+Jacmal, Aguinaldo, 744
+Majlong, Aguinaldo, 501
+Mongayang, Aguinaldo, 2,088
+Posnaan, Aguinaldo, 1,458
+Ta‑ang, Aguinaldo, 650
+Talite, Aguinaldo, 849
+Ubao, Aguinaldo, 2,648
+Bangar, Alfonso Lista, 554
+Busilac, Alfonso Lista, 1,676
+Calimag, Alfonso Lista, 673
+Calupaan, Alfonso Lista, 835
+Caragasan, Alfonso Lista, 1,829
+Dolowog, Alfonso Lista, 723
+Kiling, Alfonso Lista, 2,283
+Laya, Alfonso Lista, 751
+Little Tadian, Alfonso Lista, 1,244
+Namillangan, Alfonso Lista, 2,218
+Namnama, Alfonso Lista, 1,250
+Ngileb, Alfonso Lista, 1,248
+Pinto, Alfonso Lista, 3,106
+Poblacion, Alfonso Lista, 1,962
+San Jose, Alfonso Lista, 1,101
+San Juan, Alfonso Lista, 1,068
+San Marcos, Alfonso Lista, 1,502
+San Quintin, Alfonso Lista, 1,234
+Santa Maria, Alfonso Lista, 4,920
+Santo Domingo (Cabicalan), Alfonso Lista, 1,942
+Amduntog, Asipulo, 2,130
+Antipolo, Asipulo, 1,391
+Camandag, Asipulo, 4,230
+Cawayan, Asipulo, 1,314
+Hallap, Asipulo, 1,115
+Namal, Asipulo, 1,963
+Nungawa, Asipulo, 559
+Panubtuban, Asipulo, 1,149
+Pula, Asipulo, 1,410
+Amganad, Banaue, 1,858
+Anaba, Banaue, 629
+Balawis, Banaue, 929
+Banao, Banaue, 523
+Bangaan, Banaue, 788
+Batad, Banaue, 869
+Bocos, Banaue, 2,850
+Cambulo, Banaue, 1,257
+Ducligan, Banaue, 1,016
+Gohang, Banaue, 831
+Kinakin, Banaue, 1,004
+Ohaj, Banaue, 876
+Poblacion, Banaue, 2,743
+Poitan, Banaue, 1,695
+Pula, Banaue, 461
+San Fernando, Banaue, 484
+Tam‑an, Banaue, 1,434
+View Point, Banaue, 1,590
+Anao, Hingyon, 351
+Bangtinon, Hingyon, 344
+Bitu, Hingyon, 520
+Cababuyan, Hingyon, 606
+Mompolia, Hingyon, 1,171
+Namulditan, Hingyon, 912
+Northern Cababuyan, Hingyon, 835
+O‑ong, Hingyon, 1,571
+Piwong, Hingyon, 1,174
+Poblacion (Hingyon), Hingyon, 820
+Ubuag, Hingyon, 290
+Umalbong, Hingyon, 633
+Abatan, Hungduan, 883
+Ba‑ang, Hungduan, 981
+Bangbang, Hungduan, 670
+Bokiawan, Hungduan, 1,132
+Hapao, Hungduan, 1,960
+Lubo‑ong, Hungduan, 843
+Maggok, Hungduan, 630
+Nungulunan, Hungduan, 717
+Poblacion, Hungduan, 1,584
+Ambabag, Kiangan, 832
+Baguinge, Kiangan, 2,623
+Bokiawan, Kiangan, 430
+Bolog, Kiangan, 1,672
+Dalligan, Kiangan, 283
+Duit, Kiangan, 2,116
+Hucab, Kiangan, 1,499
+Julongan, Kiangan, 525
+Lingay, Kiangan, 348
+Mungayang, Kiangan, 1,330
+Nagacadan, Kiangan, 831
+Pindongan, Kiangan, 1,146
+Poblacion, Kiangan, 1,720
+Tuplac, Kiangan, 1,693
+Abinuan, Lagawe, 536
+Banga, Lagawe, 225
+Boliwong, Lagawe, 1,822
+Burnay, Lagawe, 1,020
+Buyabuyan, Lagawe, 509
+Caba, Lagawe, 1,040
+Cudog, Lagawe, 1,622
+Dulao, Lagawe, 606
+Jucbong, Lagawe, 421
+Luta, Lagawe, 267
+Montabiong, Lagawe, 497
+Olilicon, Lagawe, 483
+Poblacion East, Lagawe, 2,379
+Poblacion North, Lagawe, 2,070
+Poblacion South, Lagawe, 1,140
+Poblacion West, Lagawe, 2,294
+Ponghal, Lagawe, 358
+Pullaan, Lagawe, 323
+Tungngod, Lagawe, 1,114
+Tupaya, Lagawe, 607
+Ambasa, Lamut, 745
+Bimpal, Lamut, 1,678
+Hapid, Lamut, 1,718
+Holowon, Lamut, 833
+Lawig, Lamut, 1,438
+Lucban, Lamut, 940
+Mabatobato (Lamut), Lamut, 2,222
+Magulon, Lamut, 1,300
+Nayon, Lamut, 1,171
+Panopdopan, Lamut, 975
+Payawan, Lamut, 1,530
+Pieza, Lamut, 787
+Poblacion East, Lamut, 1,895
+Poblacion West, Lamut, 2,732
+Pugol (Ifugao Reservation), Lamut, 2,236
+Salamague, Lamut, 961
+Sanafe, Lamut, 1,208
+Umilag, Lamut, 910
+Aduyongan, Mayoyao, 490
+Alimit, Mayoyao, 529
+Ayangan, Mayoyao, 619
+Balangbang, Mayoyao, 1,300
+Banao, Mayoyao, 385
+Banhal, Mayoyao, 615
+Bato‑Alatbang, Mayoyao, 909
+Bongan, Mayoyao, 764
+Buninan, Mayoyao, 790
+Chaya, Mayoyao, 1,140
+Chumang, Mayoyao, 1,265
+Epeng, Mayoyao, 486
+Guinihon, Mayoyao, 436
+Inwaloy, Mayoyao, 433
+Langayan, Mayoyao, 544
+Liwo, Mayoyao, 298
+Maga, Mayoyao, 411
+Magulon, Mayoyao, 412
+Mapawoy, Mayoyao, 850
+Mayoyao Proper, Mayoyao, 607
+Mongol, Mayoyao, 414
+Nalbu, Mayoyao, 554
+Nattum, Mayoyao, 731
+Palaad, Mayoyao, 312
+Poblacion, Mayoyao, 1,035
+Talboc, Mayoyao, 510
+Tulaed, Mayoyao, 492
+Ahin, Tinoc, 1,543
+Ap‑apid, Tinoc, 1,153
+Binablayan, Tinoc, 1,562
+Danggo, Tinoc, 1,085
+Eheb, Tinoc, 712
+Gumhang, Tinoc, 1,399
+Impugong, Tinoc, 1,542
+Luhong, Tinoc, 1,358
+Tinoc, Tinoc, 2,609
+Tukucan, Tinoc, 1,629
+Tulludan, Tinoc, 960
+Wangwang, Tinoc, 1,007

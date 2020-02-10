@@ -1,0 +1,597 @@
+Aguinaldo, Arteche, 173
+Balud (Poblacion), Arteche, 1,363
+Bato (San Luis), Arteche, 233
+Beri, Arteche, 709
+Bigo, Arteche, 335
+Buenavista, Arteche, 463
+Cagsalay, Arteche, 372
+Campacion, Arteche, 217
+Carapdapan, Arteche, 1,928
+Casidman, Arteche, 223
+Catumsan, Arteche, 1,262
+Central (Poblacion), Arteche, 415
+Concepcion, Arteche, 1,696
+Garden (Poblacion), Arteche, 2,412
+Inayawan, Arteche, 218
+Macarthur, Arteche, 419
+Rawis (Poblacion), Arteche, 1,391
+Tangbo, Arteche, 1,393
+Tawagan, Arteche, 658
+Tebalawon, Arteche, 146
+Bacjao, Balangiga, 569
+Barangay Poblacion I, Balangiga, 1,823
+Barangay Poblacion II, Balangiga, 513
+Barangay Poblacion III, Balangiga, 1,008
+Barangay Poblacion IV, Balangiga, 442
+Barangay Poblacion V, Balangiga, 757
+Barangay Poblacion VI, Balangiga, 1,927
+Cag‑olango, Balangiga, 426
+Cansumangcay, Balangiga, 984
+Guinmaayohan, Balangiga, 1,418
+Maybunga, Balangiga, 175
+San Miguel, Balangiga, 2,059
+Santa Rosa, Balangiga, 1,984
+Balogo, Balangkayan, 874
+Bangon, Balangkayan, 288
+Cabay, Balangkayan, 2,321
+Caisawan, Balangkayan, 701
+Cantubi, Balangkayan, 256
+General Malvar, Balangkayan, 119
+Guinpoliran, Balangkayan, 610
+Julag, Balangkayan, 149
+Magsaysay, Balangkayan, 147
+Maramag, Balangkayan, 840
+Poblacion I, Balangkayan, 530
+Poblacion II, Balangkayan, 756
+Poblacion III, Balangkayan, 422
+Poblacion IV, Balangkayan, 844
+Poblacion V, Balangkayan, 1,268
+Alang‑alang, Borongan, 2,062
+Amantacop, Borongan, 532
+Ando, Borongan, 945
+Balacdas, Borongan, 470
+Balud, Borongan, 3,682
+Banuyo, Borongan, 565
+Baras, Borongan, 485
+Bato, Borongan, 3,471
+Bayobay, Borongan, 570
+Benowangan, Borongan, 986
+Bugas, Borongan, 2,011
+Cabalagnan, Borongan, 259
+Cabong, Borongan, 1,636
+Cagbonga, Borongan, 470
+Calico‑an, Borongan, 405
+Calingatngan, Borongan, 1,325
+Camada, Borongan, 385
+Campesao, Borongan, 3,887
+Can‑abong, Borongan, 1,880
+Can‑aga, Borongan, 200
+Canjaway, Borongan, 584
+Canlaray, Borongan, 332
+Canyopay, Borongan, 259
+Divinubo, Borongan, 730
+Hebacong, Borongan, 262
+Hindang, Borongan, 868
+Lalawigan, Borongan, 2,127
+Libuton, Borongan, 908
+Locso‑on, Borongan, 1,252
+Maybacong, Borongan, 473
+Maypangdan, Borongan, 2,798
+Pepelitan, Borongan, 950
+Pinanag‑an, Borongan, 1,221
+Punta Maria, Borongan, 590
+Purok A (Poblacion), Borongan, 1,169
+Purok B (Poblacion), Borongan, 1,667
+Purok C (Poblacion), Borongan, 1,179
+Purok D1 (Poblacion), Borongan, 753
+Purok D2 (Poblacion), Borongan, 228
+Purok E (Poblacion), Borongan, 416
+Purok F (Poblacion), Borongan, 319
+Purok G (Poblacion), Borongan, 365
+Purok H (Poblacion), Borongan, 966
+Sabang North, Borongan, 1,029
+Sabang South, Borongan, 1,852
+San Andres, Borongan, 545
+San Gabriel, Borongan, 1,154
+San Gregorio, Borongan, 373
+San Jose, Borongan, 901
+San Mateo, Borongan, 1,571
+San Pablo, Borongan, 284
+San Saturnino, Borongan, 1,610
+Santa Fe, Borongan, 1,156
+Siha, Borongan, 1,163
+Sohutan, Borongan, 274
+Songco, Borongan, 3,371
+Suribao, Borongan, 1,179
+Surok, Borongan, 763
+Taboc, Borongan, 2,291
+Tabunan, Borongan, 2,261
+Tamoso, Borongan, 878
+Balagon, Can-Avid, 337
+Barangay 1 Poblacion, Can-Avid, 459
+Barangay 10 Poblacion, Can-Avid, 1,454
+Barangay 2 Poblacion, Can-Avid, 392
+Barangay 3 Poblacion, Can-Avid, 611
+Barangay 4 Poblacion, Can-Avid, 1,960
+Barangay 5 Poblacion, Can-Avid, 399
+Barangay 6 Poblacion, Can-Avid, 188
+Barangay 7 Poblacion, Can-Avid, 1,147
+Barangay 8 Poblacion, Can-Avid, 416
+Barangay 9 Poblacion, Can-Avid, 761
+Baruk, Can-Avid, 743
+Boco, Can-Avid, 475
+Caghalong, Can-Avid, 281
+Camantang, Can-Avid, 1,349
+Can‑ilay, Can-Avid, 1,194
+Cansangaya, Can-Avid, 1,225
+Canteros, Can-Avid, 1,078
+Carolina, Can-Avid, 1,528
+Guibuangan, Can-Avid, 381
+Jepaco, Can-Avid, 299
+Mabuhay, Can-Avid, 606
+Malogo, Can-Avid, 761
+Obong, Can-Avid, 382
+Pandol, Can-Avid, 423
+Rawis, Can-Avid, 1,030
+Salvacion, Can-Avid, 474
+Solong, Can-Avid, 662
+Aroganga, Dolores, 1,176
+Barangay 1 (Poblacion), Dolores, 960
+Barangay 10 (Poblacion), Dolores, 664
+Barangay 11 (Poblacion), Dolores, 484
+Barangay 12 (Poblacion), Dolores, 1,732
+Barangay 13 (Poblacion), Dolores, 1,982
+Barangay 14 (Poblacion), Dolores, 1,280
+Barangay 15 (Poblacion), Dolores, 2,249
+Barangay 2 (Poblacion), Dolores, 3,203
+Barangay 3 (Poblacion), Dolores, 260
+Barangay 4 (Poblacion), Dolores, 311
+Barangay 5 (Poblacion), Dolores, 257
+Barangay 6 (Poblacion), Dolores, 136
+Barangay 7 (Poblacion), Dolores, 165
+Barangay 8 (Poblacion), Dolores, 221
+Barangay 9 (Poblacion), Dolores, 390
+Bonghon, Dolores, 796
+Buenavista, Dolores, 1,063
+Cabago‑an, Dolores, 640
+Caglao‑an, Dolores, 1,022
+Cagtabon, Dolores, 484
+Dampigan, Dolores, 1,322
+Dapdap, Dolores, 2,750
+Del Pilar, Dolores, 387
+Denigpian, Dolores, 1,027
+Gap‑ang, Dolores, 833
+Hilabaan, Dolores, 2,319
+Hinolaso, Dolores, 1,390
+Japitan, Dolores, 709
+Jicontol, Dolores, 1,368
+Libertad, Dolores, 709
+Magongbong, Dolores, 852
+Magsaysay, Dolores, 612
+Malaintos, Dolores, 895
+Malobago, Dolores, 1,165
+Osmeña, Dolores, 589
+Rizal, Dolores, 890
+San Isidro (Malabag), Dolores, 433
+San Pascual, Dolores, 656
+San Roque, Dolores, 460
+San Vicente, Dolores, 502
+Santa Cruz, Dolores, 583
+Santo Niño, Dolores, 993
+Tanauan, Dolores, 553
+Tikling, Dolores, 513
+Villahermosa, Dolores, 881
+Aguinaldo, General Macarthur, 885
+Alang‑alang, General Macarthur, 138
+Binalay, General Macarthur, 1,004
+Calutan, General Macarthur, 610
+Camcuevas, General Macarthur, 279
+Domrog, General Macarthur, 1,240
+Laurel, General Macarthur, 154
+Limbujan, General Macarthur, 125
+Macapagal, General Macarthur, 116
+Magsaysay, General Macarthur, 150
+Osmeña, General Macarthur, 225
+Pingan, General Macarthur, 677
+Poblacion Barangay 1, General Macarthur, 933
+Poblacion Barangay 2, General Macarthur, 888
+Poblacion Barangay 3, General Macarthur, 442
+Poblacion Barangay 4, General Macarthur, 332
+Poblacion Barangay 5, General Macarthur, 410
+Poblacion Barangay 6, General Macarthur, 686
+Poblacion Barangay 7, General Macarthur, 1,133
+Poblacion Barangay 8, General Macarthur, 230
+Quezon, General Macarthur, 168
+Quirino, General Macarthur, 123
+Roxas, General Macarthur, 259
+San Isidro, General Macarthur, 681
+San Roque, General Macarthur, 147
+Santa Cruz (Opong), General Macarthur, 476
+Santa Fe, General Macarthur, 187
+Tandang Sora, General Macarthur, 107
+Tugop, General Macarthur, 219
+Vigan, General Macarthur, 1,526
+Barangay 1 (Poblacion), Giporlos, 1,470
+Barangay 2 (Poblacion), Giporlos, 485
+Barangay 3 (Poblacion), Giporlos, 326
+Barangay 4 (Poblacion), Giporlos, 385
+Barangay 5 (Poblacion), Giporlos, 1,525
+Barangay 6 (Poblacion), Giporlos, 522
+Barangay 7 (Poblacion), Giporlos, 1,427
+Barangay 8 (Poblacion), Giporlos, 664
+Biga, Giporlos, 730
+Coticot, Giporlos, 1,280
+Gigoso, Giporlos, 794
+Huknan, Giporlos, 476
+Parina, Giporlos, 767
+Paya, Giporlos, 761
+President Roxas, Giporlos, 371
+San Isidro (Malabag), Giporlos, 923
+San Miguel, Giporlos, 179
+Santa Cruz (Cansingkol), Giporlos, 223
+Alingarog, Guiuan, 392
+Bagua, Guiuan, 478
+Banaag, Guiuan, 452
+Banahao, Guiuan, 517
+Baras, Guiuan, 1,591
+Barbo, Guiuan, 835
+Bitaugan, Guiuan, 412
+Bucao, Guiuan, 250
+Buenavista, Guiuan, 695
+Bungtod, Guiuan, 1,072
+Cagdara‑o, Guiuan, 488
+Cagusu‑an, Guiuan, 731
+Camparang, Guiuan, 424
+Campoyong, Guiuan, 1,884
+Canawayon, Guiuan, 445
+Cantahay, Guiuan, 1,518
+Casuguran, Guiuan, 894
+Cogon, Guiuan, 1,943
+Culasi, Guiuan, 377
+Dalaragan, Guiuan, 455
+Gahoy, Guiuan, 693
+Habag, Guiuan, 300
+Hagna, Guiuan, 446
+Hamorawon, Guiuan, 661
+Hollywood, Guiuan, 2,006
+Inapulangan, Guiuan, 552
+Lupok (Poblacion), Guiuan, 2,750
+Mayana, Guiuan, 577
+Ngolos, Guiuan, 1,455
+Pagbabangnan, Guiuan, 500
+Pagnamitan, Guiuan, 626
+Poblacion Ward 1, Guiuan, 435
+Poblacion Ward 10, Guiuan, 711
+Poblacion Ward 11, Guiuan, 915
+Poblacion Ward 12, Guiuan, 545
+Poblacion Ward 2, Guiuan, 315
+Poblacion Ward 3, Guiuan, 365
+Poblacion Ward 4, Guiuan, 899
+Poblacion Ward 4‑A, Guiuan, 782
+Poblacion Ward 5, Guiuan, 427
+Poblacion Ward 6, Guiuan, 1,695
+Poblacion Ward 7, Guiuan, 990
+Poblacion Ward 8, Guiuan, 2,480
+Poblacion Ward 9, Guiuan, 656
+Poblacion Ward 9‑A, Guiuan, 614
+Salug, Guiuan, 1,837
+San Antonio, Guiuan, 205
+San Jose, Guiuan, 515
+San Juan, Guiuan, 498
+San Pedro, Guiuan, 567
+Santo Niño, Guiuan, 403
+Sapao, Guiuan, 965
+Sulangan, Guiuan, 4,020
+Suluan, Guiuan, 1,398
+Surok, Guiuan, 1,348
+Tagporo, Guiuan, 529
+Taytay, Guiuan, 978
+Timala, Guiuan, 477
+Trinidad, Guiuan, 430
+Victory Island, Guiuan, 573
+Barangay 1 (Poblacion), Hernani, 291
+Barangay 2 (Poblacion), Hernani, 501
+Barangay 3 (Poblacion), Hernani, 618
+Barangay 4 (Poblacion), Hernani, 519
+Batang, Hernani, 758
+Cacatmonan, Hernani, 90
+Canciledes, Hernani, 1,105
+Carmen, Hernani, 896
+Garawon, Hernani, 598
+Nagaja, Hernani, 530
+Padang, Hernani, 1,181
+San Isidro, Hernani, 461
+San Miguel, Hernani, 1,025
+Agsaman, Jipapad, 548
+Barangay 1 (Poblacion), Jipapad, 797
+Barangay 2 (Poblacion), Jipapad, 463
+Barangay 3 (Poblacion), Jipapad, 911
+Barangay 4 (Poblacion), Jipapad, 1,625
+Cagmanaba, Jipapad, 955
+Dorillo, Jipapad, 297
+Jewaran, Jipapad, 272
+Mabuhay, Jipapad, 463
+Magsaysay, Jipapad, 303
+Recare, Jipapad, 427
+Roxas, Jipapad, 231
+San Roque, Jipapad, 593
+Barangay Poblacion 1, Lawaan, 1,146
+Barangay Poblacion 10, Lawaan, 1,244
+Barangay Poblacion 2, Lawaan, 110
+Barangay Poblacion 3, Lawaan, 140
+Barangay Poblacion 4, Lawaan, 166
+Barangay Poblacion 5, Lawaan, 250
+Barangay Poblacion 6, Lawaan, 367
+Barangay Poblacion 7, Lawaan, 556
+Barangay Poblacion 8, Lawaan, 1,474
+Barangay Poblacion 9, Lawaan, 633
+Betaog, Lawaan, 783
+Bolusao, Lawaan, 1,626
+Guinob‑an, Lawaan, 1,015
+Maslog, Lawaan, 1,669
+San Isidro, Lawaan, 174
+Taguite, Lawaan, 1,389
+Antipolo, Llorente, 774
+Babanikhon, Llorente, 73
+Bacayawan, Llorente, 840
+Barangay 1 (Poblacion), Llorente, 2,248
+Barangay 10 (Poblacion), Llorente, 255
+Barangay 11 (Poblacion), Llorente, 1,791
+Barangay 12 (Poblacion), Llorente, 936
+Barangay 2 (Poblacion), Llorente, 341
+Barangay 3 (Poblacion), Llorente, 321
+Barangay 4 (Poblacion), Llorente, 306
+Barangay 5 (Poblacion), Llorente, 136
+Barangay 6 (Poblacion), Llorente, 186
+Barangay 7 (Poblacion), Llorente, 549
+Barangay 8 (Poblacion), Llorente, 717
+Barangay 9 (Poblacion), Llorente, 138
+Barobo, Llorente, 1,001
+Burak, Llorente, 407
+Can‑ato, Llorente, 530
+Candoros, Llorente, 558
+Canliwag, Llorente, 296
+Cantomco, Llorente, 342
+Hugpa, Llorente, 297
+Maca‑anga, Llorente, 295
+Magtino, Llorente, 428
+Mina‑anod, Llorente, 400
+Naubay, Llorente, 1,064
+Piliw, Llorente, 523
+San Jose, Llorente, 692
+San Miguel, Llorente, 910
+San Roque, Llorente, 712
+So‑ong, Llorente, 774
+Tabok, Llorente, 917
+Waso, Llorente, 392
+Barangay 1 (Poblacion), Maslog, 450
+Barangay 2 (Poblacion), Maslog, 1,571
+Bulawan, Maslog, 289
+Carayacay, Maslog, 881
+Libertad, Maslog, 170
+Malobago, Maslog, 113
+Maputi, Maslog, 336
+San Miguel, Maslog, 511
+San Roque, Maslog, 335
+Tangbo, Maslog, 244
+Taytay, Maslog, 200
+Tugas, Maslog, 307
+Barangay Poblacion 1, Maydolong, 996
+Barangay Poblacion 2, Maydolong, 568
+Barangay Poblacion 3, Maydolong, 1,114
+Barangay Poblacion 4, Maydolong, 1,496
+Barangay Poblacion 5, Maydolong, 852
+Barangay Poblacion 6, Maydolong, 769
+Barangay Poblacion 7, Maydolong, 882
+Camada, Maydolong, 1,022
+Campakerit (Botay), Maydolong, 644
+Canloterio, Maydolong, 588
+Del Pilar, Maydolong, 416
+Guindalitan, Maydolong, 435
+Lapgap, Maydolong, 323
+Malobago, Maydolong, 480
+Maybocog, Maydolong, 1,728
+Maytigbao, Maydolong, 164
+Omawas, Maydolong, 1,066
+Patag, Maydolong, 472
+San Gabriel, Maydolong, 437
+Tagaslian, Maydolong, 291
+Anuron, Mercedes, 814
+Banuyo, Mercedes, 420
+Barangay 1 Poblacion, Mercedes, 283
+Barangay 2 Poblacion, Mercedes, 248
+Barangay 3 Poblacion, Mercedes, 198
+Barangay 4 Poblacion, Mercedes, 382
+Bobon, Mercedes, 282
+Busay, Mercedes, 380
+Buyayawon, Mercedes, 389
+Cabunga‑an, Mercedes, 257
+Cambante, Mercedes, 285
+Palamrag (Cabiliri-an), Mercedes, 547
+Port Kennedy, Mercedes, 242
+San Jose, Mercedes, 386
+San Roque, Mercedes, 440
+Sung‑an, Mercedes, 517
+Agsam, Oras, 877
+Alang‑alang, Oras, 195
+Bagacay, Oras, 267
+Balingasag, Oras, 594
+Balocawe (Poblacion), Oras, 1,114
+Bantayan, Oras, 888
+Batang, Oras, 916
+Bato, Oras, 241
+Binalayan, Oras, 457
+Buntay, Oras, 709
+Burak, Oras, 935
+Butnga (Poblacion), Oras, 372
+Cadian, Oras, 1,257
+Cagdine, Oras, 347
+Cagpile, Oras, 813
+Cagtoog, Oras, 519
+Camanga (Poblacion), Oras, 526
+Dalid, Oras, 1,062
+Dao, Oras, 2,859
+Factoria, Oras, 555
+Gamot, Oras, 374
+Iwayan, Oras, 641
+Japay, Oras, 377
+Kalaw, Oras, 440
+Mabuhay, Oras, 614
+Malingon, Oras, 350
+Minap‑os, Oras, 478
+Nadacpan, Oras, 425
+Naga, Oras, 433
+Pangudtan, Oras, 905
+Paypayon (Poblacion), Oras, 3,302
+Riverside (Poblacion), Oras, 1,091
+Rizal, Oras, 542
+Sabang, Oras, 746
+San Eduardo, Oras, 2,374
+San Roque (Poblacion), Oras, 1,809
+Santa Monica, Oras, 1,437
+Saugan, Oras, 634
+Saurong, Oras, 742
+Tawagan (Poblacion), Oras, 1,510
+Tiguib (Poblacion), Oras, 919
+Trinidad (Maycorot), Oras, 894
+Alang‑alang, Quinapondan, 319
+Anislag, Quinapondan, 746
+Bagte, Quinapondan, 1,368
+Barangay No. 1 (Poblacion), Quinapondan, 693
+Barangay No. 2 (Poblacion), Quinapondan, 449
+Barangay No. 3 (Poblacion), Quinapondan, 364
+Barangay No. 4 (Poblacion), Quinapondan, 209
+Barangay No. 5 (Poblacion), Quinapondan, 733
+Barangay No. 6 (Poblacion), Quinapondan, 663
+Barangay No. 7 (Poblacion), Quinapondan, 896
+Buenavista, Quinapondan, 923
+Caculangan, Quinapondan, 186
+Cagdaja, Quinapondan, 96
+Cambilla, Quinapondan, 314
+Cantenio, Quinapondan, 112
+Naga, Quinapondan, 437
+Paco, Quinapondan, 419
+Palactad (Valley), Quinapondan, 490
+Rizal (Pana-ugan), Quinapondan, 482
+San Isidro, Quinapondan, 113
+San Pedro, Quinapondan, 936
+San Vicente, Quinapondan, 717
+Santa Cruz (Loro Diyo), Quinapondan, 950
+Santa Margarita, Quinapondan, 707
+Santo Niño, Quinapondan, 1,457
+Abejao, Salcedo, 607
+Alog, Salcedo, 315
+Asgad, Salcedo, 457
+Bagtong, Salcedo, 1,815
+Balud, Salcedo, 304
+Barangay 1 (Poblacion), Salcedo, 557
+Barangay 10 (Poblacion), Salcedo, 131
+Barangay 11 (Poblacion), Salcedo, 315
+Barangay 12 (Poblacion), Salcedo, 262
+Barangay 13 (Poblacion), Salcedo, 432
+Barangay 2 (Poblacion), Salcedo, 632
+Barangay 3 (Poblacion), Salcedo, 271
+Barangay 4 (Poblacion), Salcedo, 157
+Barangay 5 (Poblacion), Salcedo, 44
+Barangay 6 (Poblacion), Salcedo, 160
+Barangay 7 (Poblacion), Salcedo, 773
+Barangay 8 (Poblacion), Salcedo, 170
+Barangay 9 (Poblacion), Salcedo, 311
+Buabua, Salcedo, 808
+Burak, Salcedo, 964
+Butig, Salcedo, 394
+Cagaut, Salcedo, 716
+Camanga, Salcedo, 606
+Cantomoja, Salcedo, 414
+Carapdapan, Salcedo, 389
+Caridad, Salcedo, 457
+Casili‑on, Salcedo, 755
+Iberan, Salcedo, 270
+Jagnaya, Salcedo, 279
+Lusod, Salcedo, 260
+Malbog, Salcedo, 308
+Maliwaliw, Salcedo, 411
+Matarinao, Salcedo, 1,963
+Naparaan, Salcedo, 2,020
+Palanas, Salcedo, 836
+San Roque (Bugay), Salcedo, 385
+Santa Cruz, Salcedo, 257
+Seguinon, Salcedo, 447
+Tacla‑on, Salcedo, 352
+Tagbacan, Salcedo, 764
+Talangdawan, Salcedo, 764
+Barangay No. 1 Poblacion, San Julian, 357
+Barangay No. 2 Poblacion, San Julian, 388
+Barangay No. 3 Poblacion, San Julian, 782
+Barangay No. 4 Poblacion, San Julian, 378
+Barangay No. 5 Poblacion, San Julian, 381
+Barangay No. 6 Poblacion, San Julian, 861
+Bunacan, San Julian, 520
+Campidhan, San Julian, 995
+Casoroy, San Julian, 954
+Libas, San Julian, 1,540
+Lunang, San Julian, 286
+Nena (Luna), San Julian, 2,288
+Pagbabangnan, San Julian, 1,479
+Putong, San Julian, 1,012
+San Isidro, San Julian, 1,438
+San Miguel, San Julian, 839
+Alugan, San Policarpo, 2,286
+Bahay, San Policarpo, 870
+Bangon, San Policarpo, 245
+Barangay No. 1 (Poblacion), San Policarpo, 762
+Barangay No. 2 (Poblacion), San Policarpo, 379
+Barangay No. 3 (Poblacion), San Policarpo, 971
+Barangay No. 4 (Poblacion), San Policarpo, 860
+Barangay No. 5 (Poblacion), San Policarpo, 1,069
+Baras (Lipata), San Policarpo, 583
+Binogawan, San Policarpo, 1,565
+Cajagwayan, San Policarpo, 774
+Japunan, San Policarpo, 859
+Natividad, San Policarpo, 676
+Pangpang, San Policarpo, 1,327
+Santa Cruz, San Policarpo, 367
+Tabo, San Policarpo, 606
+Tan‑awan, San Policarpo, 488
+Abucay (Poblacion), Sulat, 739
+A‑et, Sulat, 493
+Baybay (Poblacion), Sulat, 663
+Del Remedio, Sulat, 1,543
+Kandalakit, Sulat, 115
+Loyola Heights (Poblacion), Sulat, 429
+Mabini, Sulat, 342
+Maglipay (Poblacion), Sulat, 899
+Maramara (Poblacion), Sulat, 577
+Riverside (Poblacion), Sulat, 604
+San Francisco, Sulat, 836
+San Isidro, Sulat, 1,904
+San Juan, Sulat, 1,070
+San Mateo, Sulat, 397
+San Vicente, Sulat, 1,433
+Santo Niño, Sulat, 1,297
+Santo Tomas, Sulat, 1,537
+Tabi (Poblacion), Sulat, 499
+Batiawan, Taft, 1,042
+Beto, Taft, 269
+Binaloan, Taft, 743
+Bongdo, Taft, 319
+Dacul, Taft, 414
+Danao, Taft, 170
+Del Remedios, Taft, 551
+Gayam, Taft, 262
+Lomatud (Burak), Taft, 605
+Mabuhay, Taft, 813
+Malinao, Taft, 851
+Mantang, Taft, 2,163
+Nato, Taft, 1,588
+Pangabutan, Taft, 322
+Poblacion Barangay 1, Taft, 777
+Poblacion Barangay 2, Taft, 776
+Poblacion Barangay 3, Taft, 499
+Poblacion Barangay 4, Taft, 695
+Poblacion Barangay 5, Taft, 1,283
+Poblacion Barangay 6, Taft, 1,501
+Polangi, Taft, 1,073
+San Luis, Taft, 1,118
+San Pablo, Taft, 688
+San Rafael, Taft, 393

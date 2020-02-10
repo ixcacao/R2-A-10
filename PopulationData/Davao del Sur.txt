@@ -1,0 +1,232 @@
+Alegre, Bansalan, 1,064
+Alta Vista, Bansalan, 885
+Anonang, Bansalan, 1,973
+Bitaug, Bansalan, 791
+Bonifacio, Bansalan, 410
+Buenavista, Bansalan, 1,259
+Darapuay, Bansalan, 1,653
+Dolo, Bansalan, 3,796
+Eman, Bansalan, 1,757
+Kinuskusan, Bansalan, 1,112
+Libertad, Bansalan, 880
+Linawan, Bansalan, 1,140
+Mabuhay, Bansalan, 2,526
+Mabunga, Bansalan, 1,278
+Managa, Bansalan, 4,586
+Marber, Bansalan, 1,987
+New Clarin (Miral), Bansalan, 4,086
+Poblacion, Bansalan, 8,695
+Poblacion Dos, Bansalan, 9,031
+Rizal, Bansalan, 4,308
+Santo Niño, Bansalan, 1,645
+Sibayan, Bansalan, 755
+Tinongtongan, Bansalan, 856
+Tubod, Bansalan, 3,333
+Union, Bansalan, 634
+Aplaya, Digos, 18,485
+Balabag, Digos, 1,377
+Binaton, Digos, 2,599
+Cogon, Digos, 7,998
+Colorado, Digos, 2,732
+Dawis, Digos, 4,959
+Dulangan, Digos, 1,714
+Goma, Digos, 4,093
+Igpit, Digos, 3,502
+Kapatagan (Rizal), Digos, 11,982
+Kiagot, Digos, 5,309
+Lungag, Digos, 652
+Mahayahay, Digos, 898
+Matti, Digos, 6,016
+Ruparan, Digos, 3,662
+San Agustin, Digos, 2,784
+San Jose (Balutakay), Digos, 6,564
+San Miguel (Odaca), Digos, 15,422
+San Roque, Digos, 1,172
+Sinawilan, Digos, 5,792
+Soong, Digos, 1,378
+Tiguman, Digos, 2,398
+Tres de Mayo, Digos, 16,595
+Zone 1 (Poblacion), Digos, 15,023
+Zone 2 (Poblacion), Digos, 8,402
+Zone 3 (Poblacion), Digos, 17,885
+Balutakay, Hagonoy, 3,359
+Clib, Hagonoy, 682
+Guihing, Hagonoy, 10,845
+Guihing Aplaya, Hagonoy, 3,110
+Hagonoy Crossing, Hagonoy, 3,155
+Kibuaya, Hagonoy, 1,787
+La Union, Hagonoy, 687
+Lanuro, Hagonoy, 1,188
+Lapulabao, Hagonoy, 1,900
+Leling, Hagonoy, 2,721
+Mahayahay, Hagonoy, 1,882
+Malabang Damsite, Hagonoy, 1,014
+Maliit Digos, Hagonoy, 940
+New Quezon, Hagonoy, 954
+Paligue, Hagonoy, 2,713
+Poblacion, Hagonoy, 4,437
+Sacub, Hagonoy, 2,721
+San Guillermo, Hagonoy, 1,063
+San Isidro, Hagonoy, 1,593
+Sinayawan, Hagonoy, 4,847
+Tologan, Hagonoy, 1,711
+Abnate, Kiblawan, 408
+Bagong Negros, Kiblawan, 1,585
+Bagong Silang, Kiblawan, 362
+Bagumbayan, Kiblawan, 1,557
+Balasiao, Kiblawan, 3,353
+Bonifacio, Kiblawan, 1,553
+Bulol‑Salo, Kiblawan, 1,582
+Bunot, Kiblawan, 1,378
+Cogon‑Bacaca, Kiblawan, 2,268
+Dapok, Kiblawan, 908
+Ihan, Kiblawan, 2,825
+Kibongbong, Kiblawan, 261
+Kimlawis, Kiblawan, 6,140
+Kisulan, Kiblawan, 1,596
+Lati‑an, Kiblawan, 1,279
+Manual, Kiblawan, 1,128
+Maraga‑a, Kiblawan, 1,016
+Molopolo, Kiblawan, 1,130
+New Sibonga, Kiblawan, 1,230
+Panaglib, Kiblawan, 2,014
+Pasig, Kiblawan, 992
+Poblacion, Kiblawan, 5,180
+Pocaleel, Kiblawan, 586
+San Isidro, Kiblawan, 750
+San Jose, Kiblawan, 1,780
+San Pedro, Kiblawan, 1,154
+Santo Niño, Kiblawan, 1,015
+Tacub, Kiblawan, 2,460
+Tacul, Kiblawan, 638
+Waterfall, Kiblawan, 769
+Bacungan, Magsaysay, 2,475
+Balnate, Magsaysay, 1,422
+Barayong, Magsaysay, 5,724
+Blocon, Magsaysay, 1,717
+Dalawinon, Magsaysay, 2,608
+Dalumay, Magsaysay, 945
+Glamang, Magsaysay, 1,514
+Kanapulo, Magsaysay, 1,764
+Kasuga, Magsaysay, 2,110
+Lower Bala, Magsaysay, 3,531
+Mabini, Magsaysay, 1,598
+Maibo, Magsaysay, 1,437
+Malawanit, Magsaysay, 1,724
+Malongon, Magsaysay, 814
+New Ilocos, Magsaysay, 1,522
+New Opon, Magsaysay, 1,639
+Poblacion, Magsaysay, 7,695
+San Isidro, Magsaysay, 4,096
+San Miguel, Magsaysay, 1,638
+Tacul, Magsaysay, 3,711
+Tagaytay, Magsaysay, 1,452
+Upper Bala, Magsaysay, 2,740
+Bagumbayan, Malalag, 2,773
+Baybay, Malalag, 4,113
+Bolton, Malalag, 2,626
+Bulacan, Malalag, 4,833
+Caputian, Malalag, 1,889
+Ibo, Malalag, 1,812
+Kiblagon, Malalag, 1,439
+Lapu‑Lapu (Lapla), Malalag, 572
+Mabini, Malalag, 1,921
+New Baclayon, Malalag, 3,892
+Pitu, Malalag, 2,000
+Poblacion, Malalag, 6,208
+Rizal (Parame), Malalag, 1,288
+San Isidro, Malalag, 1,305
+Tagansule, Malalag, 2,060
+Asbang, Matanao, 1,058
+Asinan, Matanao, 610
+Bagumbayan, Matanao, 507
+Bangkal, Matanao, 2,990
+Buas, Matanao, 932
+Buri, Matanao, 2,500
+Cabligan (Managa), Matanao, 1,705
+Camanchiles, Matanao, 2,054
+Ceboza, Matanao, 710
+Colonsabak, Matanao, 1,554
+Dongan‑Pekong, Matanao, 1,781
+Kabasagan, Matanao, 2,192
+Kapok, Matanao, 1,242
+Kauswagan, Matanao, 1,651
+Kibao, Matanao, 671
+La Suerte, Matanao, 1,702
+Langa‑an, Matanao, 723
+Lower Marber, Matanao, 1,314
+Manga, Matanao, 3,596
+New Katipunan, Matanao, 2,097
+New Murcia, Matanao, 1,391
+New Visayas, Matanao, 2,461
+Poblacion, Matanao, 6,154
+Saboy, Matanao, 1,906
+San Jose, Matanao, 1,262
+San Miguel, Matanao, 767
+San Vicente, Matanao, 774
+Saub, Matanao, 528
+Sinaragan, Matanao, 1,909
+Sinawilan, Matanao, 4,369
+Tamlangon, Matanao, 907
+Tibongbong, Matanao, 867
+Towak, Matanao, 1,871
+Almendras (Poblacion), Padada, 3,845
+Don Sergio Osmeña, Sr., Sr., 606
+Harada Butai, Padada, 2,128
+Lower Katipunan, Padada, 902
+Lower Limonzo, Padada, 1,143
+Lower Malinao, Padada, 1,154
+N C Ordaneza District (Poblacion), Padada, 2,042
+Northern Paligue, Padada, 1,627
+Palili, Padada, 1,104
+Piape, Padada, 1,512
+Punta Piape, Padada, 1,141
+Quirino District (Poblacion), Padada, 1,656
+San Isidro, Padada, 1,533
+Southern Paligue, Padada, 1,613
+Tulogan, Padada, 1,023
+Upper Limonzo, Padada, 2,413
+Upper Malinao, Padada, 1,145
+Astorga, Santa Cruz, 12,041
+Bato, Santa Cruz, 6,965
+Coronon, Santa Cruz, 8,979
+Darong, Santa Cruz, 4,576
+Inawayan, Santa Cruz, 6,309
+Jose Rizal, Santa Cruz, 1,480
+Matutungan, Santa Cruz, 868
+Melilia, Santa Cruz, 810
+Saliducon, Santa Cruz, 847
+Sibulan, Santa Cruz, 5,832
+Sinoron, Santa Cruz, 1,383
+Tagabuli, Santa Cruz, 2,556
+Tibolo, Santa Cruz, 1,314
+Tuban, Santa Cruz, 6,110
+Zone I (Poblacion), Santa Cruz, 8,216
+Zone II (Poblacion), Santa Cruz, 5,004
+Zone III (Poblacion), Santa Cruz, 11,148
+Zone IV (Poblacion), Santa Cruz, 6,549
+Balasinon, Sulop, 711
+Buguis, Sulop, 738
+Carre, Sulop, 382
+Clib, Sulop, 421
+Harada Butai, Sulop, 984
+Katipunan, Sulop, 924
+Kiblagon, Sulop, 2,386
+Labon, Sulop, 1,301
+Laperas, Sulop, 831
+Lapla, Sulop, 199
+Litos, Sulop, 714
+Luparan, Sulop, 1,394
+Mckinley, Sulop, 1,694
+New Cebu, Sulop, 1,030
+Osmeña, Sulop, 572
+Palili, Sulop, 1,874
+Parame, Sulop, 723
+Poblacion, Sulop, 7,274
+Roxas, Sulop, 675
+Solongvale, Sulop, 1,156
+Tagolilong, Sulop, 771
+Tala‑o, Sulop, 1,704
+Talas, Sulop, 1,930
+Tanwalang, Sulop, 1,704
+Waterfall, Sulop, 1,521

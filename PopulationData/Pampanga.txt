@@ -1,0 +1,505 @@
+Balucuc, Apalit, 10,104
+Calantipe, Apalit, 3,883
+Cansinala, Apalit, 7,329
+Capalangan, Apalit, 7,121
+Colgante, Apalit, 7,090
+Paligui, Apalit, 2,701
+Sampaloc, Apalit, 11,891
+San Juan (Poblacion), Apalit, 8,932
+San Vicente, Apalit, 22,580
+Sucad, Apalit, 7,246
+Sulipan, Apalit, 9,269
+Tabuyuc (Santo Rosario), Apalit, 9,819
+Arenas, Arayat, 4,133
+Baliti, Arayat, 2,582
+Batasan, Arayat, 2,493
+Buensuceso, Arayat, 4,322
+Candating, Arayat, 5,029
+Cupang (Santa Lucia), Arayat, 3,763
+Gatiawin, Arayat, 6,323
+Guemasan, Arayat, 4,118
+Kaledian (Camba), Arayat, 5,423
+La Paz (Turu), Arayat, 1,059
+Lacmit, Arayat, 5,124
+Lacquios, Arayat, 3,698
+Mangga‑Cacutud, Arayat, 10,133
+Mapalad, Arayat, 3,735
+Matamo (Santa Lucia), Arayat, 3,554
+Panlinlang, Arayat, 3,214
+Paralaya, Arayat, 1,913
+Plazang Luma, Arayat, 5,330
+Poblacion, Arayat, 3,167
+San Agustin Norte, Arayat, 3,593
+San Agustin Sur, Arayat, 1,772
+San Antonio, Arayat, 3,361
+San Jose Mesulo, Arayat, 5,004
+San Juan Bano, Arayat, 9,065
+San Mateo, Arayat, 6,382
+San Nicolas, Arayat, 8,227
+San Roque Bitas, Arayat, 5,389
+Santo Niño Tabuan, Arayat, 2,725
+Suclayin, Arayat, 3,291
+Telapayong, Arayat, 5,570
+Balas, Bacolor, 239
+Cabalantian, Bacolor, 4,466
+Cabambangan (Poblacion), Bacolor, 615
+Cabetican, Bacolor, 3,486
+Calibutbut, Bacolor, 12,048
+Concepcion, Bacolor, 160
+Dolores, Bacolor, 544
+Duat, Bacolor, 210
+Macabacle, Bacolor, 780
+Magliman, Bacolor, 2,156
+Maliwalu, Bacolor, 1,203
+Mesalipit, Bacolor, 191
+Parulog, Bacolor, 656
+Potrero, Bacolor, 350
+San Antonio, Bacolor, 747
+San Isidro, Bacolor, 5,703
+San Vicente, Bacolor, 2,643
+Santa Barbara, Bacolor, 1,061
+Santa Ines, Bacolor, 1,112
+Talba, Bacolor, 135
+Tinajero, Bacolor, 955
+Bahay Pare, Candaba, 11,179
+Bambang, Candaba, 3,084
+Barangca, Candaba, 1,895
+Barit, Candaba, 2,163
+Buas (Poblacion), Candaba, 1,797
+Cuayang Bugtong, Candaba, 1,975
+Dalayap, Candaba, 2,086
+Dulong Ilog, Candaba, 4,532
+Gulap, Candaba, 4,408
+Lanang, Candaba, 3,326
+Lourdes, Candaba, 2,474
+Magumbali, Candaba, 2,166
+Mandasig, Candaba, 4,891
+Mandili, Candaba, 5,136
+Mangga, Candaba, 3,322
+Mapaniqui, Candaba, 4,836
+Paligui, Candaba, 1,553
+Pangclara, Candaba, 1,587
+Pansinao, Candaba, 3,295
+Paralaya (Poblacion), Candaba, 5,374
+Pasig, Candaba, 5,383
+Pescadores (Poblacion), Candaba, 1,753
+Pulong Gubat, Candaba, 2,009
+Pulong Palazan, Candaba, 3,471
+Salapungan, Candaba, 5,579
+San Agustin (Poblacion), Candaba, 5,068
+Santo Rosario, Candaba, 1,157
+Tagulod, Candaba, 2,510
+Talang, Candaba, 3,107
+Tenejero, Candaba, 2,848
+Vizal San Pablo, Candaba, 2,565
+Vizal Santo Cristo, Candaba, 2,309
+Vizal Santo Niño, Candaba, 2,748
+Anon, Floridablanca, 2,954
+Apalit, Floridablanca, 9,068
+Basa Air Base, Floridablanca, 2,840
+Benedicto, Floridablanca, 1,655
+Bodega, Floridablanca, 3,812
+Cabangcalan, Floridablanca, 1,904
+Calantas, Floridablanca, 6,719
+Carmencita, Floridablanca, 2,307
+Consuelo, Floridablanca, 2,997
+Dampe, Floridablanca, 3,052
+Del Carmen, Floridablanca, 3,089
+Fortuna, Floridablanca, 4,377
+Gutad, Floridablanca, 3,656
+Mabical, Floridablanca, 3,171
+Maligaya, Floridablanca, 969
+Mawacat, Floridablanca, 1,556
+Nabuclod, Floridablanca, 4,020
+Pabanlag, Floridablanca, 1,828
+Paguiruan, Floridablanca, 6,833
+Palmayo, Floridablanca, 6,025
+Pandaguirig, Floridablanca, 3,293
+Poblacion, Floridablanca, 3,337
+San Antonio, Floridablanca, 3,126
+San Isidro, Floridablanca, 2,424
+San Jose, Floridablanca, 7,656
+San Nicolas, Floridablanca, 6,053
+San Pedro, Floridablanca, 4,186
+San Ramon, Floridablanca, 2,089
+San Roque, Floridablanca, 2,127
+Santa Monica, Floridablanca, 3,403
+Santo Rosario (Malabo), Floridablanca, 2,090
+Solib, Floridablanca, 4,825
+Valdez, Floridablanca, 7,722
+Ascomo, Guagua, 3,210
+Bancal, Guagua, 6,675
+Jose Abad Santos (Siran), Guagua, 2,103
+Lambac, Guagua, 3,377
+Magsaysay, Guagua, 3,319
+Maquiapo, Guagua, 3,378
+Natividad, Guagua, 6,151
+Plaza Burgos (Poblacion), Guagua, 269
+Pulungmasle, Guagua, 9,359
+Rizal, Guagua, 3,943
+San Agustin, Guagua, 5,792
+San Antonio, Guagua, 4,436
+San Isidro, Guagua, 1,346
+San Jose, Guagua, 2,076
+San Juan, Guagua, 2,509
+San Juan Bautista, Guagua, 2,537
+San Juan Nepomuceno, Guagua, 6,060
+San Matias, Guagua, 3,500
+San Miguel (Betis), Guagua, 4,710
+San Nicolas 1st, Guagua, 1,632
+San Nicolas 2nd, Guagua, 2,611
+San Pablo, Guagua, 2,966
+San Pedro, Guagua, 5,314
+San Rafael (Duck Island), Guagua, 3,943
+San Roque, Guagua, 3,251
+San Vicente (Ibus), Guagua, 5,972
+Santa Filomena (Poblacion), Guagua, 1,888
+Santa Ines, Guagua, 3,438
+Santa Ursula, Guagua, 5,961
+Santo Cristo, Guagua, 3,605
+Santo Niño (Poblacion), Guagua, 2,099
+Balantacan, Lubao, 2,165
+Bancal Pugad, Lubao, 839
+Bancal Sinubli, Lubao, 758
+Baruya (San Rafael), Lubao, 4,548
+Calangain, Lubao, 2,784
+Concepcion, Lubao, 7,493
+De La Paz, Lubao, 1,564
+Del Carmen, Lubao, 1,936
+Don Ignacio Dimson, Lubao, 4,629
+Lourdes (Lauc Pau), Lubao, 6,344
+Prado Siongco, Lubao, 4,333
+Remedios, Lubao, 4,222
+San Agustin, Lubao, 2,798
+San Antonio, Lubao, 3,230
+San Francisco, Lubao, 4,929
+San Isidro, Lubao, 3,289
+San Jose Apunan, Lubao, 1,342
+San Jose Gumi, Lubao, 2,176
+San Juan (Poblacion), Lubao, 2,423
+San Matias, Lubao, 1,259
+San Miguel, Lubao, 3,540
+San Nicolas 1st (Poblacion), Lubao, 2,958
+San Nicolas 2nd, Lubao, 2,000
+San Pablo 1st, Lubao, 1,631
+San Pablo 2nd, Lubao, 5,130
+San Pedro Palcarangan, Lubao, 3,335
+San Pedro Saug, Lubao, 1,565
+San Roque Arbol, Lubao, 3,154
+San Roque Dau, Lubao, 12,061
+San Vicente, Lubao, 1,751
+Santa Barbara, Lubao, 1,902
+Santa Catalina, Lubao, 4,928
+Santa Cruz, Lubao, 16,416
+Santa Lucia (Poblacion), Lubao, 2,168
+Santa Maria, Lubao, 1,564
+Santa Monica, Lubao, 5,724
+Santa Rita, Lubao, 3,516
+Santa Teresa 1st, Lubao, 2,856
+Santa Teresa 2nd, Lubao, 3,373
+Santiago, Lubao, 3,940
+Santo Cristo, Lubao, 1,102
+Santo Domingo, Lubao, 3,688
+Santo Niño (Prado Aruba), Lubao, 3,110
+Santo Tomas (Poblacion), Lubao, 6,365
+Atlu‑Bola, Mabalacat, 9,704
+Bical, Mabalacat, 3,901
+Bundagul, Mabalacat, 3,151
+Cacutud, Mabalacat, 1,927
+Calumpang, Mabalacat, 1,812
+Camachiles, Mabalacat, 11,387
+Dapdap, Mabalacat, 37,789
+Dau, Mabalacat, 54,541
+Dolores, Mabalacat, 2,841
+Duquit, Mabalacat, 12,268
+Lakandula, Mabalacat, 6,786
+Mabiga, Mabalacat, 19,056
+Macapagal Village, Mabalacat, 3,768
+Mamatitang, Mabalacat, 2,250
+Mangalit, Mabalacat, 940
+Marcos Village, Mabalacat, 2,924
+Mawaque, Mabalacat, 3,056
+Paralayunan, Mabalacat, 1,588
+Poblacion, Mabalacat, 2,782
+San Francisco, Mabalacat, 12,354
+San Joaquin, Mabalacat, 4,977
+Santa Ines, Mabalacat, 3,476
+Santa Maria, Mabalacat, 2,091
+Santo Rosario, Mabalacat, 2,039
+Sapang Balen, Mabalacat, 168
+Sapang Biabas, Mabalacat, 28,464
+Tabun, Mabalacat, 14,759
+Batasan, Macabebe, 4,494
+Caduang Tete, Macabebe, 6,561
+Candelaria, Macabebe, 2,905
+Castuli, Macabebe, 1,219
+Consuelo, Macabebe, 2,720
+Dalayap, Macabebe, 2,574
+Mataguiti, Macabebe, 819
+San Esteban, Macabebe, 5,002
+San Francisco, Macabebe, 1,820
+San Gabriel (Poblacion), Macabebe, 3,948
+San Isidro, Macabebe, 2,001
+San Jose, Macabebe, 3,751
+San Juan, Macabebe, 2,504
+San Rafael, Macabebe, 3,411
+San Roque, Macabebe, 4,304
+San Vicente, Macabebe, 2,808
+Santa Cruz (Poblacion), Macabebe, 1,208
+Santa Lutgarda, Macabebe, 991
+Santa Maria, Macabebe, 5,756
+Santa Rita (Poblacion), Macabebe, 3,470
+Santo Niño, Macabebe, 2,720
+Santo Rosario (Poblacion), Macabebe, 3,114
+Saplad David, Macabebe, 1,516
+Tacasan, Macabebe, 2,416
+Telacsan, Macabebe, 3,818
+Ayala, Magalang, 3,270
+Bucanan, Magalang, 1,703
+Camias, Magalang, 1,963
+Dolores, Magalang, 1,717
+Escaler, Magalang, 1,826
+La Paz, Magalang, 2,100
+Navaling, Magalang, 1,522
+San Agustin, Magalang, 3,324
+San Antonio, Magalang, 1,754
+San Franciso, Magalang, 5,077
+San Ildefonso, Magalang, 6,752
+San Isidro, Magalang, 24,786
+San Jose, Magalang, 3,579
+San Miguel, Magalang, 2,714
+San Nicolas 1st (Poblacion), Magalang, 3,458
+San Nicolas 2nd, Magalang, 2,856
+San Pablo (Poblacion), Magalang, 3,420
+San Pedro I, Magalang, 1,760
+San Pedro II, Magalang, 5,435
+San Roque, Magalang, 2,525
+San Vicente, Magalang, 3,726
+Santa Cruz (Poblacion), Magalang, 6,396
+Santa Lucia, Magalang, 8,883
+Santa Maria, Magalang, 2,740
+Santo Niño, Magalang, 3,185
+Santo Rosario, Magalang, 4,624
+Turu, Magalang, 2,052
+Alauli, Masantol, 1,397
+Bagang, Masantol, 1,708
+Balibago, Masantol, 2,094
+Bebe Anac, Masantol, 6,952
+Bebe Matua, Masantol, 1,402
+Bulacus, Masantol, 1,578
+Cambasi, Masantol, 1,412
+Malauli, Masantol, 1,612
+Nigui, Masantol, 2,216
+Palimpe, Masantol, 1,999
+Puti, Masantol, 1,123
+Sagrada (Tibagin), Masantol, 1,288
+San Agustin (Caingin), Masantol, 1,534
+San Isidro Anac, Masantol, 1,144
+San Isidro Matua (Poblacion), Masantol, 4,552
+San Nicolas (Poblacion), Masantol, 3,494
+San Pedro, Masantol, 1,056
+Santa Cruz, Masantol, 2,171
+Santa Lucia Anac (Poblacion), Masantol, 1,373
+Santa Lucia Matua, Masantol, 3,439
+Santa Lucia Paguiba, Masantol, 2,216
+Santa Lucia Wakas, Masantol, 2,001
+Santa Monica (Caingin), Masantol, 901
+Santo Niño, Masantol, 3,660
+Sapang Kawayan, Masantol, 3,022
+Sua, Masantol, 1,719
+Acli, Mexico, 2,932
+Anao, Mexico, 5,065
+Balas, Mexico, 2,690
+Buenavista, Mexico, 1,211
+Camuning, Mexico, 2,744
+Cawayan, Mexico, 1,158
+Concepcion, Mexico, 1,900
+Culubasa, Mexico, 2,565
+Divisoria, Mexico, 2,277
+Dolores (Piring), Mexico, 2,373
+Eden, Mexico, 649
+Gandus, Mexico, 706
+Lagundi, Mexico, 5,032
+Laput, Mexico, 2,279
+Laug, Mexico, 3,784
+Masamat, Mexico, 1,550
+Masangsang, Mexico, 3,175
+Nueva Victoria, Mexico, 2,028
+Pandacaqui, Mexico, 28,524
+Pangatlan, Mexico, 2,374
+Panipuan, Mexico, 2,371
+Parian (Poblacion), Mexico, 4,231
+Sabanilla, Mexico, 2,368
+San Antonio, Mexico, 5,544
+San Carlos, Mexico, 3,072
+San Jose Malino, Mexico, 6,294
+San Jose Matulid, Mexico, 5,808
+San Juan, Mexico, 3,984
+San Lorenzo, Mexico, 2,673
+San Miguel, Mexico, 2,508
+San Nicolas, Mexico, 2,776
+San Pablo, Mexico, 2,561
+San Patricio, Mexico, 4,173
+San Rafael, Mexico, 3,158
+San Roque, Mexico, 1,155
+San Vicente, Mexico, 3,949
+Santa Cruz, Mexico, 2,338
+Santa Maria, Mexico, 2,842
+Santo Domingo, Mexico, 2,621
+Santo Rosario, Mexico, 3,621
+Sapang Maisac, Mexico, 6,695
+Suclaban, Mexico, 1,056
+Tangle (Tanglay), Mexico, 3,810
+Bulac, Minalin, 1,015
+Dawe, Minalin, 1,224
+Lourdes, Minalin, 6,088
+Maniango, Minalin, 2,108
+San Francisco 1st, Minalin, 1,838
+San Francisco 2nd, Minalin, 1,228
+San Isidro, Minalin, 4,748
+San Nicolas (Poblacion), Minalin, 3,245
+San Pedro, Minalin, 2,677
+Santa Catalina, Minalin, 2,319
+Santa Maria, Minalin, 6,159
+Santa Rita, Minalin, 4,530
+Santo Domingo, Minalin, 5,689
+Santo Rosario (Poblacion), Minalin, 3,166
+Saplad, Minalin, 1,679
+Babo Pangulo, Porac, 3,324
+Babo Sacan, Porac, 5,434
+Balubad, Porac, 2,398
+Calzadang Bayu, Porac, 6,450
+Camias, Porac, 1,883
+Cangatba, Porac, 2,891
+Diaz, Porac, 270
+Dolores (Hacienda Dolores), Porac, 5,709
+Inararo (Aetas), Porac, 714
+Jalung, Porac, 3,695
+Mancatian, Porac, 1,743
+Manibaug Libutad, Porac, 4,627
+Manibaug Paralaya, Porac, 13,606
+Manibaug Pasig, Porac, 4,141
+Manuali, Porac, 519
+Mitla Proper, Porac, 641
+Palat, Porac, 3,487
+Pias, Porac, 3,577
+Pio, Porac, 16,838
+Planas, Porac, 3,823
+Poblacion, Porac, 2,044
+Pulong Santol, Porac, 7,089
+Salu, Porac, 835
+San Jose Mitla, Porac, 654
+Santa Cruz, Porac, 17,501
+Sapang Uwak (Aetas), Porac, 1,264
+Sepung Bulaun, Porac, 5,354
+Sinura, Porac, 3,031
+Villa Maria (Aetas), Porac, 839
+Alasas, San Fernando, 4,089
+Baliti, San Fernando, 5,454
+Bulaon, San Fernando, 24,685
+Calulut, San Fernando, 37,741
+Del Carmen, San Fernando, 5,879
+Del Pilar, San Fernando, 9,260
+Del Rosario, San Fernando, 6,885
+Dela Paz Norte, San Fernando, 4,397
+Dela Paz Sur, San Fernando, 3,036
+Dolores, San Fernando, 19,582
+Juliana, San Fernando, 2,899
+Lara, San Fernando, 3,128
+Lourdes, San Fernando, 4,256
+Magliman, San Fernando, 4,913
+Maimpis, San Fernando, 9,441
+Malino, San Fernando, 4,487
+Malpitic, San Fernando, 7,048
+Pandaras, San Fernando, 1,404
+Panipuan, San Fernando, 7,259
+Pulung Bulu, San Fernando, 3,115
+Quebiauan, San Fernando, 9,893
+Saguin, San Fernando, 6,987
+San Agustin, San Fernando, 20,166
+San Felipe, San Fernando, 4,280
+San Isidro, San Fernando, 8,910
+San Jose, San Fernando, 15,313
+San Juan, San Fernando, 4,587
+San Nicolas, San Fernando, 9,927
+San Pedro, San Fernando, 12,219
+Santa Lucia, San Fernando, 7,474
+Santa Teresita, San Fernando, 1,270
+Santo Niño, San Fernando, 8,804
+Santo Rosario (Poblacion), San Fernando, 674
+Sindalan, San Fernando, 14,188
+Telabastagan, San Fernando, 13,009
+San Agustin, San Luis, 1,475
+San Carlos, San Luis, 3,859
+San Isidro, San Luis, 6,976
+San Jose, San Luis, 7,463
+San Juan, San Luis, 5,513
+San Nicolas, San Luis, 1,700
+San Roque, San Luis, 5,406
+San Sebastian, San Luis, 2,334
+Santa Catalina, San Luis, 3,097
+Santa Cruz Pambilog, San Luis, 1,192
+Santa Cruz Poblacion, San Luis, 1,535
+Santa Lucia, San Luis, 1,594
+Santa Monica, San Luis, 2,887
+Santa Rita, San Luis, 2,395
+Santo Niño, San Luis, 2,496
+Santo Rosario, San Luis, 1,972
+Santo Tomas, San Luis, 2,212
+Concepcion, San Simon, 6,174
+De La Paz, San Simon, 2,842
+San Agustin, San Simon, 2,119
+San Isidro, San Simon, 3,345
+San Jose, San Simon, 5,876
+San Juan (Poblacion), San Simon, 2,135
+San Miguel, San Simon, 4,722
+San Nicolas, San Simon, 2,197
+San Pablo Libutad, San Simon, 1,980
+San Pablo Proper, San Simon, 5,132
+San Pedro, San Simon, 7,060
+Santa Cruz, San Simon, 1,352
+Santa Monica, San Simon, 4,828
+Santo Niño, San Simon, 3,436
+San Agustin, Santa Ana, 3,251
+San Bartolome, Santa Ana, 1,795
+San Isidro, Santa Ana, 5,938
+San Joaquin (Poblacion), Santa Ana, 4,240
+San Jose, Santa Ana, 1,733
+San Juan, Santa Ana, 2,491
+San Nicolas, Santa Ana, 5,147
+San Pablo, Santa Ana, 4,859
+San Pedro, Santa Ana, 1,910
+San Roque, Santa Ana, 3,800
+Santa Lucia, Santa Ana, 7,393
+Santa Maria, Santa Ana, 6,764
+Santiago, Santa Ana, 4,237
+Santo Rosario, Santa Ana, 1,620
+Becuran, Santa Rita, 3,847
+Dila‑dila, Santa Rita, 9,481
+San Agustin, Santa Rita, 3,113
+San Basilio, Santa Rita, 8,407
+San Isidro, Santa Rita, 3,653
+San Jose (Poblacion), Santa Rita, 2,627
+San Juan, Santa Rita, 2,330
+San Matias, Santa Rita, 3,312
+San Vicente, Santa Rita, 1,231
+Santa Monica, Santa Rita, 2,978
+Moras de La Paz, Santo Tomas, 5,494
+Poblacion, Santo Tomas, 3,398
+San Bartolome, Santo Tomas, 2,863
+San Matias, Santo Tomas, 12,399
+San Vicente, Santo Tomas, 11,005
+Santo Rosario (Pau), Santo Tomas, 2,170
+Sapa (Santo Niño), Santo Tomas, 3,146
+Batang 1st, Sasmuan, 292
+Batang 2nd, Sasmuan, 1,223
+Mabuanbuan, Sasmuan, 886
+Malusac, Sasmuan, 2,488
+Sabitanan, Sasmuan, 1,373
+San Antonio, Sasmuan, 2,317
+San Nicolas 1st, Sasmuan, 2,625
+San Nicolas 2nd, Sasmuan, 3,065
+San Pedro, Sasmuan, 3,210
+Santa Lucia (Poblacion), Sasmuan, 3,490
+Santa Monica, Sasmuan, 3,829
+Santo Tomas, Sasmuan, 3,206

@@ -1,0 +1,237 @@
+Aurora, Compostela, 1,940
+Bagongon, Compostela, 2,025
+Gabi, Compostela, 4,725
+Lagab, Compostela, 2,904
+Mangayon, Compostela, 4,678
+Mapaca, Compostela, 2,228
+Maparat, Compostela, 4,964
+New Alegria, Compostela, 3,695
+Ngan, Compostela, 8,348
+Osmeña, Compostela, 5,602
+Panansalan, Compostela, 972
+Poblacion, Compostela, 27,261
+San Jose, Compostela, 4,457
+San Miguel, Compostela, 7,286
+Siocon, Compostela, 3,517
+Tamia, Compostela, 2,872
+Aguinaldo, Laak, 3,940
+Amor Cruz, Laak, 2,889
+Ampawid, Laak, 2,713
+Andap, Laak, 1,644
+Anitap, Laak, 375
+Bagong Silang, Laak, 1,047
+Banbanon, Laak, 1,594
+Belmonte, Laak, 1,285
+Binasbas, Laak, 1,114
+Bullucan, Laak, 1,316
+Cebulida, Laak, 1,834
+Concepcion, Laak, 1,340
+Datu Ampunan, Laak, 1,421
+Datu Davao, Laak, 1,590
+Doña Josefa, Laak, 820
+El Katipunan, Laak, 970
+Il Papa, Laak, 1,194
+Imelda, Laak, 2,312
+Inacayan, Laak, 1,084
+Kaligutan, Laak, 2,871
+Kapatagan, Laak, 4,954
+Kidawa, Laak, 2,953
+Kilagding, Laak, 2,068
+Kiokmay, Laak, 1,388
+Laac (Poblacion), Laak, 7,375
+Langtud, Laak, 2,964
+Longanapan, Laak, 2,257
+Mabuhay, Laak, 2,029
+Macopa, Laak, 578
+Malinao, Laak, 692
+Mangloy, Laak, 1,158
+Melale, Laak, 1,970
+Naga, Laak, 1,319
+New Bethlehem, Laak, 647
+Panamoren, Laak, 936
+Sabud, Laak, 1,133
+San Antonio, Laak, 2,573
+Santa Emilia, Laak, 1,566
+Santo Niño, Laak, 1,098
+Sisimon, Laak, 863
+Anitapan, Mabini, 3,737
+Cabuyuan, Mabini, 2,580
+Cadunan, Mabini, 4,138
+Cuambog (Poblacion), Mabini, 6,170
+Del Pilar, Mabini, 2,430
+Golden Valley (Maraut), Mabini, 5,386
+Libodon, Mabini, 1,146
+Pangibiran, Mabini, 1,580
+Pindasan, Mabini, 5,984
+San Antonio, Mabini, 2,421
+Tagnanan (Mampising), Mabini, 5,530
+Anibongan, Maco, 2,555
+Anislagan, Maco, 2,434
+Binuangan, Maco, 6,017
+Bucana, Maco, 1,538
+Calabcab, Maco, 639
+Concepcion, Maco, 4,292
+Dumlan, Maco, 2,985
+Elizalde (Somil), Maco, 5,137
+Gubatan, Maco, 872
+Hijo, Maco, 3,775
+Kinuban, Maco, 2,534
+Langgam, Maco, 3,383
+Lapu‑lapu, Maco, 1,248
+Libay‑libay, Maco, 2,855
+Limbo, Maco, 1,155
+Lumatab, Maco, 1,025
+Magangit, Maco, 708
+Mainit, Maco, 873
+Malamodao, Maco, 2,462
+Manipongol, Maco, 649
+Mapaang, Maco, 1,071
+Masara, Maco, 1,190
+New Asturias, Maco, 1,012
+New Barili, Maco, 702
+New Leyte, Maco, 2,720
+New Visayas, Maco, 761
+Panangan, Maco, 613
+Pangi (Gaudencio Antonio), Maco, 3,408
+Panibasan, Maco, 3,949
+Panoraon, Maco, 1,898
+Poblacion, Maco, 8,231
+San Juan, Maco, 1,697
+San Roque, Maco, 1,564
+Sangab, Maco, 505
+Tagbaros, Maco, 2,001
+Taglawig, Maco, 722
+Teresa, Maco, 2,097
+Bagong Silang, Maragusan, 3,490
+Bahi, Maragusan, 865
+Cambagang, Maragusan, 1,460
+Coronobe, Maragusan, 3,078
+Katipunan, Maragusan, 1,975
+Lahi, Maragusan, 1,399
+Langgawisan, Maragusan, 2,028
+Mabugnao, Maragusan, 468
+Magcagong, Maragusan, 2,348
+Mahayahay, Maragusan, 533
+Mapawa, Maragusan, 5,653
+Maragusan (Poblacion), Maragusan, 14,741
+Mauswagon, Maragusan, 3,035
+New Albay, Maragusan, 3,983
+New Katipunan, Maragusan, 2,618
+New Man‑ay, Maragusan, 1,015
+New Panay, Maragusan, 1,364
+Paloc, Maragusan, 1,877
+Pamintaran, Maragusan, 1,705
+Parasanon, Maragusan, 855
+Talian, Maragusan, 1,816
+Tandik, Maragusan, 906
+Tigbao, Maragusan, 1,635
+Tupaz, Maragusan, 1,995
+Andili, Mawab, 4,886
+Bawani, Mawab, 1,948
+Concepcion, Mawab, 1,119
+Malinawon, Mawab, 2,810
+Nueva Visayas, Mawab, 2,329
+Nuevo Iloco, Mawab, 4,543
+Poblacion, Mawab, 10,524
+Salvacion, Mawab, 2,261
+Saosao, Mawab, 1,519
+Sawangan, Mawab, 2,360
+Tuboran, Mawab, 2,766
+Awao, Monkayo, 4,547
+Babag, Monkayo, 3,289
+Banlag, Monkayo, 4,487
+Baylo, Monkayo, 3,080
+Casoon, Monkayo, 5,704
+Haguimitan, Monkayo, 2,158
+Inambatan, Monkayo, 1,609
+Macopa, Monkayo, 2,553
+Mamunga, Monkayo, 1,836
+Mount Diwata, Monkayo, 14,635
+Naboc, Monkayo, 2,798
+Olaycon, Monkayo, 2,383
+Pasian (Santa Filomena), Monkayo, 5,021
+Poblacion, Monkayo, 19,434
+Rizal, Monkayo, 1,780
+Salvacion, Monkayo, 3,511
+San Isidro, Monkayo, 1,401
+San Jose, Monkayo, 2,978
+Tubo‑tubo (New Del Monte), Monkayo, 3,634
+Union, Monkayo, 3,255
+Upper Ulip, Monkayo, 4,815
+Banagbanag, Montevista, 1,365
+Banglasan, Montevista, 999
+Bankerohan Norte, Montevista, 1,166
+Bankerohan Sur, Montevista, 1,401
+Camansi, Montevista, 1,442
+Camantangan, Montevista, 1,097
+Canidkid, Montevista, 1,299
+Concepcion, Montevista, 1,829
+Dauman, Montevista, 1,644
+Lebanon, Montevista, 1,257
+Linoan, Montevista, 3,553
+Mayaon, Montevista, 3,538
+New Calape, Montevista, 1,074
+New Cebulan (Sambayon), Montevista, 882
+New Dalaguete, Montevista, 1,109
+New Visayas, Montevista, 3,664
+Prosperidad, Montevista, 2,787
+San Jose (Poblacion), Montevista, 9,080
+San Vicente, Montevista, 1,900
+Tapia, Montevista, 2,620
+Anislagan, Nabunturan, 1,156
+Antiquera, Nabunturan, 1,825
+Basak, Nabunturan, 2,514
+Bayabas, Nabunturan, 904
+Bukal, Nabunturan, 3,810
+Cabacungan, Nabunturan, 1,097
+Cabidianan, Nabunturan, 2,937
+Katipunan, Nabunturan, 1,729
+Libasan, Nabunturan, 2,084
+Linda, Nabunturan, 1,973
+Magading, Nabunturan, 2,301
+Magsaysay, Nabunturan, 5,301
+Mainit, Nabunturan, 9,905
+Manat, Nabunturan, 3,005
+Matilo, Nabunturan, 1,760
+Mipangi, Nabunturan, 4,027
+New Dauis, Nabunturan, 621
+New Sibonga, Nabunturan, 2,658
+Ogao, Nabunturan, 1,540
+Pangutosan, Nabunturan, 2,443
+Poblacion, Nabunturan, 18,331
+San Isidro, Nabunturan, 1,263
+San Roque, Nabunturan, 1,350
+San Vicente, Nabunturan, 571
+Santa Maria, Nabunturan, 2,960
+Santo Niño (Kao), Nabunturan, 1,299
+Sasa, Nabunturan, 597
+Tagnocon, Nabunturan, 2,273
+Andap, New Bataan, 7,460
+Bantacan, New Bataan, 3,457
+Batinao, New Bataan, 1,174
+Cabinuangan (Poblacion), New Bataan, 10,575
+Camanlangan, New Bataan, 5,638
+Cogonon, New Bataan, 1,220
+Fatima, New Bataan, 1,034
+Kahayag, New Bataan, 1,380
+Katipunan, New Bataan, 1,978
+Magangit, New Bataan, 1,879
+Magsaysay, New Bataan, 1,172
+Manurigao, New Bataan, 1,534
+Pagsabangan, New Bataan, 581
+Panag, New Bataan, 3,835
+San Roque, New Bataan, 3,319
+Tandawan, New Bataan, 1,490
+Araibo, Pantukan, 2,233
+Bongabong, Pantukan, 4,647
+Bongbong, Pantukan, 3,659
+Kingking (Poblacion), Pantukan, 26,988
+Las Arenas, Pantukan, 992
+Magnaga, Pantukan, 9,762
+Matiao, Pantukan, 3,434
+Napnapan, Pantukan, 13,403
+P. Fuentes, Pantukan, 3,781
+Tagdangua, Pantukan, 4,779
+Tag‑Ugpo, Pantukan, 4,017
+Tambongon, Pantukan, 3,368
+Tibagon, Pantukan, 4,836

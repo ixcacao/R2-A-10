@@ -1,0 +1,849 @@
+Betes, Aliaga, 2,083
+Bibiclat, Aliaga, 7,467
+Bucot, Aliaga, 5,156
+La Purisima, Aliaga, 1,969
+Macabucod, Aliaga, 1,396
+Magsaysay, Aliaga, 2,503
+Pantoc, Aliaga, 2,192
+Poblacion Centro, Aliaga, 1,660
+Poblacion East I, Aliaga, 2,122
+Poblacion East II, Aliaga, 1,646
+Poblacion West III, Aliaga, 1,338
+Poblacion West IV, Aliaga, 726
+San Carlos, Aliaga, 2,953
+San Emiliano, Aliaga, 1,221
+San Eustacio, Aliaga, 1,731
+San Felipe Bata, Aliaga, 1,780
+San Felipe Matanda, Aliaga, 2,251
+San Juan, Aliaga, 4,768
+San Pablo Bata, Aliaga, 1,979
+San Pablo Matanda, Aliaga, 1,081
+Santa Monica, Aliaga, 1,195
+Santiago, Aliaga, 2,197
+Santo Rosario, Aliaga, 2,268
+Santo Tomas, Aliaga, 5,117
+Sunson, Aliaga, 1,039
+Umangan, Aliaga, 3,705
+Antipolo, Bongabon, 4,124
+Ariendo, Bongabon, 1,263
+Bantug, Bongabon, 917
+Calaanan, Bongabon, 2,900
+Commercial (Poblacion), Bongabon, 283
+Cruz, Bongabon, 2,013
+Curva (J. Tomacruz), Bongabon, 3,763
+Digmala, Bongabon, 1,106
+Kaingin (Poblacion), Bongabon, 2,865
+Labi, Bongabon, 1,575
+Larcon, Bongabon, 1,597
+Lusok, Bongabon, 2,248
+Macabaclay, Bongabon, 2,707
+Magtanggol (Poblacion), Bongabon, 1,715
+Mantile (Poblacion), Bongabon, 1,358
+Olivete, Bongabon, 1,944
+Palo Maria (Poblacion), Bongabon, 2,288
+Pesa, Bongabon, 2,281
+Rizal (Poblacion), Bongabon, 2,946
+Sampalucan (Poblacion), Bongabon, 1,644
+San Roque (Poblacion), Bongabon, 2,465
+Santor, Bongabon, 6,037
+Sinipit (Poblacion), Bongabon, 2,672
+Sisilang na Ligaya (Poblacion), Bongabon, 623
+Social (Poblacion), Bongabon, 663
+Tugatug, Bongabon, 2,034
+Tulay na Bato (Poblacion), Bongabon, 2,034
+Vega, Bongabon, 6,108
+Aduas Centro (Aduas), Cabanatuan, 5,116
+Aduas Norte, Cabanatuan, 5,546
+Aduas Sur, Cabanatuan, 6,745
+Bagong Buhay, Cabanatuan, 852
+Bagong Sikat, Cabanatuan, 4,599
+Bakero, Cabanatuan, 3,073
+Bakod Bayan, Cabanatuan, 7,659
+Balite, Cabanatuan, 2,141
+Bangad, Cabanatuan, 7,596
+Bantug Bulalo, Cabanatuan, 2,390
+Bantug Norte, Cabanatuan, 8,695
+Barlis, Cabanatuan, 2,066
+Barrera District (Poblacion), Cabanatuan, 5,374
+Bernardo District (Poblacion), Cabanatuan, 1,233
+Bitas, Cabanatuan, 5,779
+Bonifacio District (Poblacion), Cabanatuan, 2,917
+Buliran, Cabanatuan, 3,322
+Caalibangbangan, Cabanatuan, 11,112
+Cabu, Cabanatuan, 4,054
+Calawagan (Kalawagan), Cabanatuan, 1,757
+Campo Tinio, Cabanatuan, 11,449
+Caridad, Cabanatuan, 1,885
+Caudillo, Cabanatuan, 1,614
+Cinco‑Cinco, Cabanatuan, 1,816
+City Supermarket (Poblacion), Cabanatuan, 172
+Communal, Cabanatuan, 1,451
+Cruz Roja, Cabanatuan, 4,145
+Daang Sarile, Cabanatuan, 7,191
+Dalampang, Cabanatuan, 2,057
+Dicarma (Poblacion), Cabanatuan, 4,480
+Dimasalang (Poblacion), Cabanatuan, 1,421
+Dionisio S. Garcia, Cabanatuan, 7,076
+Fatima (Poblacion), Cabanatuan, 886
+General Luna (Poblacion), Cabanatuan, 1,548
+Hermogenes C. Concepcion, Sr., Sr., 4,039
+Ibabao Bana, Cabanatuan, 2,313
+Imelda District, Cabanatuan, 4,001
+Isla (Poblacion), Cabanatuan, 2,081
+Kalikid Norte, Cabanatuan, 3,344
+Kalikid Sur, Cabanatuan, 5,056
+Kapitan Pepe (Poblacion), Cabanatuan, 4,425
+Lagare, Cabanatuan, 2,366
+Lourdes (Matungal-tungal), Cabanatuan, 2,457
+M. S. Garcia, Cabanatuan, 4,670
+Mabini Extension, Cabanatuan, 3,314
+Mabini Homesite, Cabanatuan, 4,317
+Macatbong, Cabanatuan, 3,378
+Magsaysay District, Cabanatuan, 4,492
+Magsaysay South, Cabanatuan, 2,800
+Maria Theresa, Cabanatuan, 930
+Matadero (Poblacion), Cabanatuan, 1,123
+Mayapyap Norte, Cabanatuan, 2,288
+Mayapyap Sur, Cabanatuan, 5,473
+Melojavilla (Poblacion), Cabanatuan, 654
+Nabao (Poblacion), Cabanatuan, 730
+Obrero, Cabanatuan, 4,361
+Padre Burgos (Poblacion), Cabanatuan, 324
+Padre Crisostomo, Cabanatuan, 4,018
+Pagas, Cabanatuan, 2,997
+Palagay, Cabanatuan, 2,221
+Pamaldan, Cabanatuan, 3,870
+Pangatian, Cabanatuan, 2,815
+Patalac, Cabanatuan, 2,349
+Polilio, Cabanatuan, 2,605
+Pula, Cabanatuan, 1,708
+Quezon District (Poblacion), Cabanatuan, 1,949
+Rizdelis (Poblacion), Cabanatuan, 789
+Samon, Cabanatuan, 1,713
+San Isidro, Cabanatuan, 4,996
+San Josef Norte, Cabanatuan, 4,442
+San Josef Sur, Cabanatuan, 6,793
+San Juan Poblacion (Acofa), Cabanatuan, 6,687
+San Roque Norte, Cabanatuan, 1,128
+San Roque Sur, Cabanatuan, 1,356
+Sanbermicristi (Poblacion), Cabanatuan, 1,331
+Sangitan, Cabanatuan, 2,015
+Sangitan East, Cabanatuan, 2,050
+Santa Arcadia, Cabanatuan, 4,598
+Santo Niño, Cabanatuan, 1,807
+Sapang, Cabanatuan, 1,382
+Sumacab Este, Cabanatuan, 4,118
+Sumacab Norte, Cabanatuan, 4,698
+Sumacab South, Cabanatuan, 4,487
+Talipapa, Cabanatuan, 1,726
+Valdefuente, Cabanatuan, 4,321
+Valle Cruz, Cabanatuan, 4,856
+Vijandre District (Poblacion), Cabanatuan, 1,376
+Villa Ofelia‑Caridad, Cabanatuan, 1,319
+Zulueta District (Poblacion), Cabanatuan, 1,558
+Bagong Buhay, Cabiao, 1,394
+Bagong Sikat, Cabiao, 1,534
+Bagong Silang, Cabiao, 4,080
+Concepcion, Cabiao, 3,768
+Entablado, Cabiao, 5,891
+Maligaya, Cabiao, 2,594
+Natividad North (Poblacion), Cabiao, 694
+Natividad South (Poblacion), Cabiao, 1,003
+Palasinan, Cabiao, 3,846
+Polilio, Cabiao, 1,395
+San Antonio, Cabiao, 2,225
+San Carlos, Cabiao, 3,229
+San Fernando Norte, Cabiao, 3,661
+San Fernando Sur, Cabiao, 11,772
+San Gregorio, Cabiao, 1,970
+San Juan North (Poblacion), Cabiao, 378
+San Juan South (Poblacion), Cabiao, 902
+San Roque, Cabiao, 4,908
+San Vicente, Cabiao, 7,895
+Santa Ines, Cabiao, 1,987
+Santa Isabel, Cabiao, 1,481
+Santa Rita, Cabiao, 7,997
+Sinipit, Cabiao, 4,403
+Bantug, Carranglan, 1,273
+Bunga, Carranglan, 3,919
+Burgos, Carranglan, 3,844
+Capintalan, Carranglan, 2,445
+D. L. Maglanoc Poblacion (Barangay III), Carranglan, 1,642
+F. C. Otic Poblacion (Barangay II), Carranglan, 939
+G. S. Rosario Poblacion (Barangay IV), Carranglan, 1,421
+General Luna, Carranglan, 4,616
+Joson (Digidig), Carranglan, 4,018
+Minuli, Carranglan, 1,475
+Piut, Carranglan, 2,234
+Puncan, Carranglan, 4,766
+Putlan, Carranglan, 1,405
+R. A. Padilla (Baluarte), Carranglan, 2,205
+Salazar, Carranglan, 1,218
+San Agustin, Carranglan, 2,276
+T. L. Padilla Poblacion (Barangay I), Carranglan, 1,435
+Baloy, Cuyapo, 2,544
+Bambanaba, Cuyapo, 2,030
+Bantug, Cuyapo, 531
+Bentigan, Cuyapo, 1,358
+Bibiclat, Cuyapo, 1,198
+Bonifacio, Cuyapo, 1,515
+Bued, Cuyapo, 508
+Bulala, Cuyapo, 1,164
+Burgos, Cuyapo, 1,565
+Cabatuan, Cuyapo, 710
+Cabileo, Cuyapo, 1,202
+Cacapasan, Cuyapo, 689
+Calancuasan Norte, Cuyapo, 958
+Calancuasan Sur, Cuyapo, 1,636
+Colosboa, Cuyapo, 678
+Columbitin, Cuyapo, 641
+Curva, Cuyapo, 867
+District I (Poblacion I), Cuyapo, 1,061
+District II (Poblacion II), Cuyapo, 1,522
+District IV (Poblacion IV), Cuyapo, 1,340
+District V (Poblacion V), Cuyapo, 975
+District VI (Poblacion VI), Cuyapo, 1,762
+District VII (Poblacion VII), Cuyapo, 719
+District VIII (Poblacion VIII), Cuyapo, 1,255
+Landig, Cuyapo, 824
+Latap, Cuyapo, 2,169
+Loob, Cuyapo, 1,186
+Luna, Cuyapo, 1,287
+Malbeg‑Patalan, Cuyapo, 681
+Malineng, Cuyapo, 1,616
+Matindeg, Cuyapo, 648
+Maycaban, Cuyapo, 1,553
+Nacuralan, Cuyapo, 1,387
+Nagmisahan, Cuyapo, 1,555
+Paitan Norte, Cuyapo, 1,850
+Paitan Sur, Cuyapo, 998
+Piglisan, Cuyapo, 1,215
+Pugo, Cuyapo, 665
+Rizal, Cuyapo, 856
+Sabit, Cuyapo, 1,633
+Salagusog, Cuyapo, 1,388
+San Antonio, Cuyapo, 4,118
+San Jose, Cuyapo, 1,266
+San Juan, Cuyapo, 597
+Santa Clara, Cuyapo, 1,678
+Santa Cruz, Cuyapo, 1,128
+Sinimbaan, Cuyapo, 1,151
+Tagtagumbao, Cuyapo, 1,027
+Tutuloy, Cuyapo, 958
+Ungab, Cuyapo, 1,895
+Villaflores, Cuyapo, 1,282
+Bagong Sikat, Gabaldon, 2,725
+Bagting, Gabaldon, 3,138
+Bantug, Gabaldon, 1,099
+Bitulok (North Poblacion), Gabaldon, 2,734
+Bugnan, Gabaldon, 2,528
+Calabasa, Gabaldon, 1,100
+Camachile, Gabaldon, 510
+Cuyapa, Gabaldon, 2,063
+Ligaya, Gabaldon, 5,788
+Macasandal, Gabaldon, 1,345
+Malinao, Gabaldon, 1,896
+Pantoc, Gabaldon, 1,614
+Pinamalisan, Gabaldon, 649
+Sawmill, Gabaldon, 1,476
+South Poblacion, Gabaldon, 4,327
+Tagumpay, Gabaldon, 2,391
+Balante, Gapan, 1,647
+Bayanihan, Gapan, 5,128
+Bulak, Gapan, 2,279
+Bungo, Gapan, 2,349
+Kapalangan, Gapan, 5,010
+Mabunga, Gapan, 801
+Maburak, Gapan, 3,096
+Mahipon, Gapan, 2,293
+Makabaclay, Gapan, 2,480
+Malimba, Gapan, 2,914
+Mangino, Gapan, 10,694
+Marelo, Gapan, 1,926
+Pambuan, Gapan, 11,943
+Parcutela, Gapan, 1,394
+Puting Tubig, Gapan, 2,375
+San Lorenzo (Poblacion), Gapan, 5,633
+San Nicolas, Gapan, 12,771
+San Roque, Gapan, 8,699
+San Vicente (Poblacion), Gapan, 8,601
+Santa Cruz, Gapan, 3,797
+Santo Cristo Norte, Gapan, 4,600
+Santo Cristo Sur, Gapan, 4,349
+Santo Niño, Gapan, 5,524
+Balangkare Norte, General Mamerto Natividad, 1,552
+Balangkare Sur, General Mamerto Natividad, 1,524
+Balaring, General Mamerto Natividad, 2,000
+Belen, General Mamerto Natividad, 2,216
+Bravo, General Mamerto Natividad, 1,040
+Burol, General Mamerto Natividad, 1,722
+Kabulihan, General Mamerto Natividad, 2,148
+Mag‑asawang Sampaloc, General Mamerto Natividad, 1,184
+Manarog, General Mamerto Natividad, 1,262
+Mataas na Kahoy, General Mamerto Natividad, 5,050
+Panacsac, General Mamerto Natividad, 1,166
+Picaleon, General Mamerto Natividad, 1,128
+Pinahan, General Mamerto Natividad, 3,546
+Platero, General Mamerto Natividad, 3,367
+Poblacion, General Mamerto Natividad, 3,670
+Pula, General Mamerto Natividad, 674
+Pulong Singkamas, General Mamerto Natividad, 618
+Sapang Bato, General Mamerto Natividad, 1,476
+Talabutab Norte, General Mamerto Natividad, 3,872
+Talabutab Sur, General Mamerto Natividad, 2,441
+Bago, General Tinio, 3,495
+Concepcion, General Tinio, 6,695
+Nazareth, General Tinio, 3,599
+Padolina, General Tinio, 4,567
+Palale, General Tinio, 1,387
+Pias, General Tinio, 6,232
+Poblacion Central, General Tinio, 1,611
+Poblacion East, General Tinio, 1,506
+Poblacion West, General Tinio, 1,751
+Pulong Matong, General Tinio, 1,611
+Rio Chico, General Tinio, 9,608
+Sampaguita, General Tinio, 1,788
+San Pedro (Poblacion), General Tinio, 4,015
+Agcano, Guimba, 292
+Ayos Lomboy, Guimba, 643
+Bacayao, Guimba, 2,757
+Bagong Barrio, Guimba, 1,157
+Balbalino, Guimba, 606
+Balingog East, Guimba, 1,779
+Balingog West, Guimba, 677
+Banitan, Guimba, 1,498
+Bantug, Guimba, 3,361
+Bulakid, Guimba, 496
+Bunol, Guimba, 3,364
+Caballero, Guimba, 1,905
+Cabaruan, Guimba, 1,650
+Caingin Tabing Ilog, Guimba, 1,186
+Calem, Guimba, 831
+Camiling, Guimba, 1,912
+Cardinal, Guimba, 557
+Casongsong, Guimba, 1,583
+Catimon, Guimba, 1,316
+Cavite, Guimba, 3,469
+Cawayan Bugtong, Guimba, 4,028
+Consuelo, Guimba, 829
+Culong, Guimba, 2,268
+Escano, Guimba, 378
+Faigal, Guimba, 1,092
+Galvan, Guimba, 1,493
+Guiset, Guimba, 1,470
+Lamorito, Guimba, 1,408
+Lennec, Guimba, 4,072
+Macamias, Guimba, 873
+Macapabellag, Guimba, 648
+Macatcatuit, Guimba, 2,309
+Manacsac, Guimba, 2,940
+Manggang Marikit, Guimba, 2,564
+Maturanoc, Guimba, 5,878
+Maybubon, Guimba, 2,973
+Naglabrahan, Guimba, 607
+Nagpandayan, Guimba, 3,172
+Narvacan I, Guimba, 954
+Narvacan II, Guimba, 1,842
+Pacac, Guimba, 2,575
+Partida I, Guimba, 1,505
+Partida II, Guimba, 696
+Pasong Inchic, Guimba, 2,152
+Saint John District (Poblacion), Guimba, 1,660
+San Agustin, Guimba, 931
+San Andres, Guimba, 1,365
+San Bernardino, Guimba, 1,354
+San Marcelino, Guimba, 529
+San Miguel, Guimba, 2,303
+San Rafael, Guimba, 1,597
+San Roque, Guimba, 5,704
+Santa Ana, Guimba, 1,106
+Santa Cruz, Guimba, 1,412
+Santa Lucia, Guimba, 2,206
+Santa Veronica District (Poblacion), Guimba, 4,476
+Santo Cristo District (Poblacion), Guimba, 3,231
+Saranay District (Poblacion), Guimba, 2,280
+Sinulatan, Guimba, 1,249
+Subol, Guimba, 1,646
+Tampac I, Guimba, 1,047
+Tampac II & III, Guimba, 1,218
+Triala, Guimba, 2,680
+Yuson, Guimba, 896
+Calabasa, Jaen, 1,289
+Dampulan (Poblacion), Jaen, 4,912
+Don Mariano Marcos (Poblacion), Jaen, 1,396
+Hilera, Jaen, 1,843
+Imbunia, Jaen, 2,387
+Imelda Poblacion (Doña Aurora), Jaen, 891
+Lambakin, Jaen, 3,665
+Langla, Jaen, 3,198
+Magsalisi, Jaen, 3,336
+Malabon‑Kaingin, Jaen, 1,441
+Marawa, Jaen, 4,541
+Niyugan, Jaen, 6,319
+Ocampo‑Rivera District (Poblacion), Jaen, 699
+Pakol, Jaen, 1,471
+Pamacpacan, Jaen, 2,146
+Pinanggaan, Jaen, 3,415
+Putlod, Jaen, 3,503
+San Jose, Jaen, 3,312
+San Josef (Nabao), Jaen, 2,623
+San Pablo, Jaen, 2,033
+San Roque, Jaen, 1,934
+San Vicente, Jaen, 1,712
+Santa Rita, Jaen, 1,326
+Santo Tomas North, Jaen, 3,323
+Santo Tomas South, Jaen, 4,675
+Sapang, Jaen, 3,513
+Ulanin‑Pitak, Jaen, 2,281
+Barangay I (Poblacion), Laur, 2,715
+Barangay II (Poblacion), Laur, 1,524
+Barangay III (Poblacion), Laur, 1,399
+Barangay IV (Poblacion), Laur, 3,054
+Betania, Laur, 586
+Canantong, Laur, 2,471
+Nauzon, Laur, 857
+Pangarulong, Laur, 420
+Pinagbayanan, Laur, 1,901
+Sagana, Laur, 2,916
+San Felipe, Laur, 1,976
+San Fernando, Laur, 3,052
+San Isidro, Laur, 3,457
+San Josef, Laur, 1,736
+San Juan, Laur, 2,115
+San Vicente, Laur, 2,315
+Siclong, Laur, 3,162
+Aquino, Licab, 2,476
+Linao, Licab, 1,388
+Poblacion Norte, Licab, 1,393
+Poblacion Sur, Licab, 2,565
+San Casimiro, Licab, 3,268
+San Cristobal, Licab, 3,721
+San Jose, Licab, 1,449
+San Juan, Licab, 3,641
+Santa Maria, Licab, 4,249
+Tabing Ilog, Licab, 1,031
+Villarosa, Licab, 3,073
+A. Bonifacio, Llanera, 2,494
+Bagumbayan (Poblacion), Llanera, 3,400
+Bosque, Llanera, 1,013
+Caridad Norte, Llanera, 1,236
+Caridad Sur, Llanera, 1,432
+Casile, Llanera, 2,174
+Florida Blanca, Llanera, 889
+General Luna, Llanera, 2,763
+General Ricarte, Llanera, 2,384
+Gomez, Llanera, 1,040
+Inanama, Llanera, 1,339
+Ligaya, Llanera, 690
+Mabini, Llanera, 1,487
+Murcon, Llanera, 2,175
+Plaridel, Llanera, 3,492
+San Felipe, Llanera, 1,914
+San Francisco, Llanera, 2,177
+San Nicolas, Llanera, 455
+San Vicente, Llanera, 1,356
+Santa Barbara, Llanera, 1,635
+Victoria, Llanera, 3,003
+Villa Viniegas, Llanera, 1,153
+Agupalo Este, Lupao, 1,358
+Agupalo Weste, Lupao, 1,675
+Alalay Chica, Lupao, 945
+Alalay Grande, Lupao, 1,840
+Bagong Flores, Lupao, 3,816
+Balbalungao, Lupao, 2,677
+Burgos, Lupao, 1,502
+Cordero, Lupao, 1,017
+J. U. Tienzo (Arimal), Lupao, 1,640
+Mapangpang, Lupao, 782
+Namulandayan, Lupao, 1,743
+Parista, Lupao, 3,998
+Poblacion East, Lupao, 884
+Poblacion North, Lupao, 659
+Poblacion South, Lupao, 1,392
+Poblacion West, Lupao, 1,307
+Salvacion I, Lupao, 1,818
+Salvacion II, Lupao, 1,776
+San Antonio Este, Lupao, 2,119
+San Antonio Weste, Lupao, 1,664
+San Isidro, Lupao, 4,967
+San Pedro, Lupao, 1,578
+San Roque, Lupao, 1,980
+Santo Domingo, Lupao, 651
+Bagong Sikat, Muñoz, 2,033
+Balante, Muñoz, 2,039
+Bantug, Muñoz, 10,345
+Bical, Muñoz, 2,793
+Cabisuculan, Muñoz, 1,264
+Calabalabaan, Muñoz, 1,080
+Calisitan, Muñoz, 968
+Catalanacan, Muñoz, 3,200
+Curva, Muñoz, 1,201
+Franza, Muñoz, 2,650
+Gabaldon, Muñoz, 2,118
+Labney, Muñoz, 940
+Licaong, Muñoz, 1,613
+Linglingay, Muñoz, 2,985
+Magtanggol, Muñoz, 2,205
+Maligaya, Muñoz, 4,643
+Mangandingay, Muñoz, 1,688
+Mapangpang, Muñoz, 575
+Maragol, Muñoz, 2,935
+Matingkis, Muñoz, 972
+Naglabrahan, Muñoz, 586
+Palusapis, Muñoz, 2,777
+Pandalla, Muñoz, 963
+Poblacion East, Muñoz, 2,080
+Poblacion North, Muñoz, 2,758
+Poblacion South, Muñoz, 2,350
+Poblacion West, Muñoz, 4,085
+Rang‑ayan, Muñoz, 2,139
+Rizal, Muñoz, 1,640
+San Andres, Muñoz, 1,667
+San Antonio, Muñoz, 2,166
+San Felipe, Muñoz, 1,973
+Sapang Cawayan, Muñoz, 1,483
+Villa Cuizon, Muñoz, 1,498
+Villa Isla, Muñoz, 2,811
+Villa Nati, Muñoz, 1,301
+Villa Santos, Muñoz, 959
+Alemania, Nampicuan, 377
+Ambasador Alzate Village, Nampicuan, 1,573
+Cabaducan East (Poblacion), Nampicuan, 1,727
+Cabaducan West (Poblacion), Nampicuan, 400
+Cabawangan, Nampicuan, 896
+East Central Poblacion, Nampicuan, 429
+Edy, Nampicuan, 179
+Estacion (Poblacion), Nampicuan, 653
+Maeling, Nampicuan, 494
+Mayantoc, Nampicuan, 1,186
+Medico, Nampicuan, 542
+Monic, Nampicuan, 975
+North Poblacion, Nampicuan, 544
+Northwest Poblacion, Nampicuan, 507
+Recuerdo, Nampicuan, 1,359
+South Central Poblacion, Nampicuan, 648
+Southeast Poblacion, Nampicuan, 458
+Southwest Poblacion, Nampicuan, 847
+Tony, Nampicuan, 205
+West Central Poblacion, Nampicuan, 400
+West Poblacion, Nampicuan, 555
+Atate, Palayan, 3,210
+Aulo, Palayan, 1,190
+Bagong Buhay, Palayan, 963
+Bo. Militar (Fort Magsaysay), Palayan, 5,859
+Caballero, Palayan, 2,981
+Caimito, Palayan, 2,359
+Doña Josefa, Palayan, 2,229
+Ganaderia, Palayan, 1,323
+Imelda Valley, Palayan, 2,356
+Langka, Palayan, 1,302
+Malate (Poblacion), Palayan, 1,893
+Maligaya, Palayan, 1,406
+Manacnac, Palayan, 1,929
+Mapait, Palayan, 681
+Marcos Village, Palayan, 2,393
+Popolon Pagas, Palayan, 997
+Santolan, Palayan, 1,985
+Sapang Buho, Palayan, 3,892
+Singalat, Palayan, 2,093
+Cadaclan, Pantabangan, 2,409
+Cambitala, Pantabangan, 2,069
+Conversion, Pantabangan, 2,573
+Fatima, Pantabangan, 1,350
+Ganduz, Pantabangan, 2,461
+Liberty, Pantabangan, 1,153
+Malbang, Pantabangan, 2,387
+Marikit, Pantabangan, 2,313
+Napon‑Napon, Pantabangan, 1,214
+Poblacion East, Pantabangan, 3,517
+Poblacion West, Pantabangan, 3,015
+Sampaloc, Pantabangan, 2,056
+San Juan, Pantabangan, 1,717
+Villarica, Pantabangan, 1,691
+Callos, Peñaranda, 3,322
+Las Piñas, Peñaranda, 3,219
+Poblacion I, Peñaranda, 1,731
+Poblacion II, Peñaranda, 1,047
+Poblacion III, Peñaranda, 1,139
+Poblacion IV, Peñaranda, 1,617
+San Josef, Peñaranda, 4,862
+San Mariano (Maugat), Peñaranda, 847
+Santo Tomas, Peñaranda, 7,417
+Sinasajan, Peñaranda, 4,681
+Barangay I (Poblacion), Quezon, 1,487
+Barangay II (Poblacion), Quezon, 705
+Bertese, Quezon, 4,827
+Doña Lucia, Quezon, 2,329
+Dulong Bayan, Quezon, 4,458
+Ilog Baliwag, Quezon, 3,624
+Pulong Bahay, Quezon, 1,739
+San Alejandro, Quezon, 3,486
+San Andres I, Quezon, 2,027
+San Andres II, Quezon, 1,793
+San Manuel, Quezon, 1,800
+San Miguel, Quezon, 2,752
+Santa Clara, Quezon, 2,401
+Santa Rita, Quezon, 3,868
+Santo Cristo, Quezon, 1,185
+Santo Tomas Feria, Quezon, 2,111
+Agbannawag, Rizal, 4,182
+Aglipay (Curva), Rizal, 3,111
+Bicos, Rizal, 4,641
+Cabucbucan, Rizal, 4,641
+Calaocan District, Rizal, 3,527
+Canaan East, Rizal, 2,486
+Canaan West, Rizal, 1,006
+Casilagan, Rizal, 776
+Del Pilar, Rizal, 1,320
+Estrella, Rizal, 5,175
+General Luna, Rizal, 2,203
+Macapsing, Rizal, 2,813
+Maligaya, Rizal, 1,666
+Paco Roman, Rizal, 3,278
+Pag‑asa, Rizal, 1,385
+Poblacion Central, Rizal, 771
+Poblacion East, Rizal, 1,969
+Poblacion Norte, Rizal, 3,003
+Poblacion Sur, Rizal, 3,160
+Poblacion West, Rizal, 3,696
+Portal, Rizal, 1,932
+San Esteban, Rizal, 1,581
+San Gregorio, Rizal, 1,544
+Santa Monica, Rizal, 2,570
+Villa Labrador, Rizal, 881
+Villa Paraiso, Rizal, 770
+Buliran, San Antonio, 4,205
+Cama Juan, San Antonio, 2,778
+Julo, San Antonio, 5,046
+Lawang Kupang, San Antonio, 2,875
+Luyos, San Antonio, 3,550
+Maugat, San Antonio, 4,971
+Panabingan, San Antonio, 2,904
+Papaya, San Antonio, 7,862
+Poblacion, San Antonio, 1,955
+San Francisco, San Antonio, 14,533
+San Jose, San Antonio, 354
+San Mariano, San Antonio, 6,582
+Santa Barbara, San Antonio, 7,527
+Santa Cruz, San Antonio, 1,521
+Santo Cristo, San Antonio, 8,273
+Tikiw, San Antonio, 2,900
+Alua, San Isidro, 4,989
+Calaba, San Isidro, 5,129
+Malapit, San Isidro, 9,160
+Mangga, San Isidro, 2,533
+Poblacion, San Isidro, 7,214
+Pulo, San Isidro, 5,812
+San Roque, San Isidro, 6,745
+Santo Cristo, San Isidro, 6,177
+Tabon, San Isidro, 3,853
+A. Pascual, San Jose, 1,514
+Abar 2nd, San Jose, 2,983
+Abar Ist, San Jose, 20,172
+Bagong Sikat, San Jose, 2,215
+Caanawan, San Jose, 5,032
+Calaocan, San Jose, 6,430
+Camanacsacan, San Jose, 1,649
+Canuto Ramos Poblacion (District III), San Jose, 2,353
+Crisanto Sanchez Poblacion (District V), San Jose, 1,251
+Culaylay, San Jose, 1,886
+Dizol, San Jose, 912
+Ferdinand E. Marcos Poblacion (District II), San Jose, 1,929
+Kaliwanagan, San Jose, 2,651
+Kita‑Kita, San Jose, 5,314
+Malasin, San Jose, 7,756
+Manicla, San Jose, 2,036
+Palestina, San Jose, 4,718
+Parang Mangga, San Jose, 986
+Pinili, San Jose, 3,066
+Porais, San Jose, 3,320
+Rafael Rueda, Sr. Poblacion, Sr. Poblacion (District I), 2,139
+Raymundo Eugenio Poblacion (District IV), San Jose, 1,246
+San Agustin, San Jose, 3,475
+San Juan, San Jose, 2,204
+San Mauricio, San Jose, 1,039
+Santo Niño 1st, San Jose, 7,065
+Santo Niño 2nd, San Jose, 6,252
+Santo Niño 3rd, San Jose, 8,780
+Santo Tomas, San Jose, 6,144
+Sibut, San Jose, 6,333
+Sinipit Bubon, San Jose, 1,534
+Tabulac, San Jose, 1,208
+Tayabo, San Jose, 4,758
+Tondod, San Jose, 3,323
+Tulat, San Jose, 1,634
+Villa Floresca, San Jose, 762
+Villa Joson (Parilla), San Jose, 1,851
+Villa Marina, San Jose, 1,818
+Bonifacio District (Poblacion), San Leonardo, 3,175
+Burgos District (Poblacion), San Leonardo, 2,423
+Castellano, San Leonardo, 4,981
+Diversion, San Leonardo, 1,534
+Magpapalayoc, San Leonardo, 5,828
+Mallorca, San Leonardo, 9,159
+Mambangnan, San Leonardo, 8,125
+Nieves, San Leonardo, 5,426
+Rizal District (Poblacion), San Leonardo, 2,428
+San Anton, San Leonardo, 5,496
+San Bartolome (Poblacion), San Leonardo, 2,224
+San Roque, San Leonardo, 3,373
+Tabuating, San Leonardo, 4,542
+Tagumpay, San Leonardo, 982
+Tambo Adorable, San Leonardo, 5,603
+Aguinaldo, Santa Rosa, 927
+Berang, Santa Rosa, 1,339
+Burgos, Santa Rosa, 1,464
+Cojuangco (Poblacion), Santa Rosa, 2,378
+Del Pilar, Santa Rosa, 1,342
+Gomez, Santa Rosa, 1,882
+Inspector, Santa Rosa, 1,984
+Isla, Santa Rosa, 2,427
+La Fuente, Santa Rosa, 2,927
+Liwayway, Santa Rosa, 3,545
+Lourdes, Santa Rosa, 2,647
+Luna, Santa Rosa, 1,719
+Mabini, Santa Rosa, 1,786
+Malacañang, Santa Rosa, 1,760
+Maliolio, Santa Rosa, 1,288
+Mapalad, Santa Rosa, 4,089
+Rajal Centro, Santa Rosa, 2,018
+Rajal Norte, Santa Rosa, 1,599
+Rajal Sur, Santa Rosa, 2,390
+Rizal (Poblacion), Santa Rosa, 1,939
+San Gregorio, Santa Rosa, 939
+San Isidro, Santa Rosa, 1,842
+San Josep, Santa Rosa, 2,544
+San Mariano, Santa Rosa, 1,765
+San Pedro, Santa Rosa, 1,800
+Santa Teresita, Santa Rosa, 1,626
+Santo Rosario, Santa Rosa, 2,840
+Sapsap, Santa Rosa, 838
+Soledad, Santa Rosa, 5,060
+Tagpos, Santa Rosa, 2,977
+Tramo, Santa Rosa, 1,588
+Valenzuela (Poblacion), Santa Rosa, 2,737
+Zamora (Poblacion), Santa Rosa, 1,461
+Baloc, Santo Domingo, 9,274
+Buasao, Santo Domingo, 1,229
+Burgos, Santo Domingo, 1,787
+Cabugao, Santo Domingo, 2,336
+Casulucan, Santo Domingo, 1,352
+Comitang, Santo Domingo, 1,890
+Concepcion, Santo Domingo, 1,541
+Dolores, Santo Domingo, 2,045
+General Luna, Santo Domingo, 1,384
+Hulo, Santo Domingo, 1,963
+Mabini, Santo Domingo, 1,469
+Malasin, Santo Domingo, 1,935
+Malaya (Pook Malaya), Santo Domingo, 3,296
+Malayantoc, Santo Domingo, 2,656
+Mambarao, Santo Domingo, 2,183
+Poblacion, Santo Domingo, 768
+Pulong Buli, Santo Domingo, 2,150
+Sagaba, Santo Domingo, 2,986
+San Agustin, Santo Domingo, 1,498
+San Fabian, Santo Domingo, 2,254
+San Francisco, Santo Domingo, 1,180
+San Pascual, Santo Domingo, 3,041
+Santa Rita, Santo Domingo, 1,289
+Santo Rosario, Santo Domingo, 6,437
+Andal Alino (Poblacion), Talavera, 1,781
+Bagong Sikat, Talavera, 1,965
+Bagong Silang, Talavera, 1,691
+Bakal I, Talavera, 2,612
+Bakal II, Talavera, 4,003
+Bakal III, Talavera, 6,565
+Baluga, Talavera, 2,489
+Bantug, Talavera, 4,724
+Bantug Hacienda, Talavera, 1,585
+Bantug Hamog (Basang Hamog), Talavera, 1,914
+Bugtong na Buli, Talavera, 1,083
+Bulac, Talavera, 1,678
+Burnay, Talavera, 2,298
+Caaniplahan, Talavera, 1,613
+Cabubulaonan, Talavera, 792
+Calipahan, Talavera, 5,208
+Campos, Talavera, 1,971
+Caputican, Talavera, 1,713
+Casulucan Este, Talavera, 953
+Collado, Talavera, 1,822
+Dimasalang Norte, Talavera, 1,445
+Dimasalang Sur, Talavera, 1,657
+Dinarayat, Talavera, 1,210
+Esguerra District (Poblacion), Talavera, 3,202
+Gulod, Talavera, 1,473
+Homestead I, Talavera, 1,755
+Homestead II, Talavera, 1,832
+Kinalanguyan, Talavera, 1,047
+La Torre, Talavera, 4,427
+Lomboy, Talavera, 1,792
+Mabuhay, Talavera, 887
+Maestrang Kikay (Poblacion), Talavera, 3,536
+Mamandil, Talavera, 1,127
+Marcos District (Poblacion), Talavera, 948
+Matingkis, Talavera, 1,201
+Minabuyoc, Talavera, 2,227
+Pag‑asa (Poblacion), Talavera, 4,989
+Paludpod, Talavera, 906
+Pantoc Bulac, Talavera, 851
+Pinagpanaan, Talavera, 5,581
+Poblacion Sur, Talavera, 3,409
+Pula, Talavera, 2,454
+Pulong San Miguel (Poblacion), Talavera, 1,374
+Purok Matias (Poblacion), Talavera, 1,638
+Sampaloc, Talavera, 1,470
+San Miguel na Munti, Talavera, 3,340
+San Pascual, Talavera, 6,435
+San Ricardo, Talavera, 2,747
+Sibul, Talavera, 2,771
+Sicsican Matanda, Talavera, 2,053
+Tabacao, Talavera, 4,042
+Tagaytay, Talavera, 1,093
+Valle, Talavera, 1,450
+Alula, Talugtug, 1,276
+Baybayabas, Talugtug, 1,451
+Buted, Talugtug, 683
+Cabiangan, Talugtug, 597
+Calisitan, Talugtug, 472
+Cinense, Talugtug, 800
+Culiat, Talugtug, 851
+Maasin, Talugtug, 778
+Magsaysay (Poblacion), Talugtug, 1,480
+Mayamot I, Talugtug, 658
+Mayamot II, Talugtug, 160
+Nangabulan, Talugtug, 893
+Osmeña (Poblacion), Talugtug, 1,091
+Pangit, Talugtug, 895
+Patola, Talugtug, 1,433
+Quezon (Poblacion), Talugtug, 1,062
+Quirino (Poblacion), Talugtug, 1,071
+Roxas (Poblacion), Talugtug, 932
+Saguing, Talugtug, 155
+Sampaloc, Talugtug, 322
+Santa Catalina, Talugtug, 622
+Santo Domingo, Talugtug, 665
+Saringaya, Talugtug, 850
+Saverona, Talugtug, 1,552
+Tandoc, Talugtug, 945
+Tibag, Talugtug, 625
+Villa Boado, Talugtug, 1,053
+Villa Rosario, Talugtug, 445
+Batitang, Zaragoza, 3,792
+Carmen, Zaragoza, 3,405
+Concepcion, Zaragoza, 5,534
+Del Pilar, Zaragoza, 3,528
+General Luna, Zaragoza, 2,285
+H. Romero, Zaragoza, 757
+Macarse, Zaragoza, 2,884
+Manaul, Zaragoza, 1,271
+Mayamot, Zaragoza, 1,357
+Pantoc, Zaragoza, 1,317
+San Isidro, Zaragoza, 5,944
+San Rafael, Zaragoza, 1,340
+San Vicente (Poblacion), Zaragoza, 1,544
+Santa Cruz, Zaragoza, 1,732
+Santa Lucia Old, Zaragoza, 1,759
+Santa Lucia Young, Zaragoza, 3,257
+Santo Rosario Old, Zaragoza, 3,228
+Santo Rosario Young, Zaragoza, 3,914
+Valeriana, Zaragoza, 539

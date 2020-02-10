@@ -1,0 +1,98 @@
+Agsanayan, Buenavista, 1,761
+Avila, Buenavista, 2,398
+Bacjao (Calumingan), Buenavista, 707
+Banban, Buenavista, 1,106
+Cansilayan, Buenavista, 1,231
+Dagsa‑an, Buenavista, 1,149
+Daragan, Buenavista, 1,473
+East Valencia, Buenavista, 2,451
+Getulio, Buenavista, 2,500
+Mabini, Buenavista, 1,258
+Magsaysay, Buenavista, 558
+Mclain, Buenavista, 1,480
+Montpiller, Buenavista, 850
+Navalas, Buenavista, 1,342
+Nazaret, Buenavista, 1,331
+New Poblacion (Calingao), Buenavista, 3,570
+Old Poblacion, Buenavista, 1,234
+Piña, Buenavista, 1,932
+Rizal, Buenavista, 1,015
+Salvacion, Buenavista, 3,685
+San Fernando, Buenavista, 446
+San Isidro, Buenavista, 1,346
+San Miguel, Buenavista, 624
+San Nicolas, Buenavista, 1,227
+San Pedro, Buenavista, 723
+San Roque, Buenavista, 1,671
+Santo Rosario, Buenavista, 2,571
+Sawang, Buenavista, 339
+Supang, Buenavista, 1,424
+Tacay, Buenavista, 790
+Taminla, Buenavista, 981
+Tanag, Buenavista, 600
+Tastasan, Buenavista, 1,354
+Tinadtaran, Buenavista, 1,491
+Umilig, Buenavista, 761
+Zaldivar, Buenavista, 1,058
+Alaguisoc, Jordan, 2,615
+Balcon Maravilla, Jordan, 1,644
+Balcon Melliza, Jordan, 1,424
+Bugnay, Jordan, 2,036
+Buluangan, Jordan, 812
+Espinosa, Jordan, 1,454
+Hoskyn, Jordan, 2,161
+Lawi, Jordan, 1,481
+Morobuan, Jordan, 2,587
+Poblacion, Jordan, 3,738
+Rizal, Jordan, 2,519
+San Miguel, Jordan, 6,771
+Santa Teresa, Jordan, 5,208
+Sinapsapan, Jordan, 1,646
+Cabalagnan, Nueva Valencia, 1,849
+Calaya, Nueva Valencia, 3,172
+Canhawan, Nueva Valencia, 793
+Concordia Sur, Nueva Valencia, 2,455
+Dolores, Nueva Valencia, 1,946
+Guiwanon, Nueva Valencia, 1,745
+Igang, Nueva Valencia, 1,781
+Igdarapdap, Nueva Valencia, 859
+La Paz, Nueva Valencia, 1,921
+Lanipe, Nueva Valencia, 2,969
+Lucmayan, Nueva Valencia, 2,192
+Magamay, Nueva Valencia, 1,043
+Napandong, Nueva Valencia, 1,534
+Oracon Sur, Nueva Valencia, 1,837
+Pandaraonan, Nueva Valencia, 1,346
+Panobolon, Nueva Valencia, 1,053
+Poblacion, Nueva Valencia, 3,493
+Salvacion, Nueva Valencia, 2,584
+San Antonio, Nueva Valencia, 1,649
+San Roque, Nueva Valencia, 1,731
+Santo Domingo, Nueva Valencia, 895
+Tando, Nueva Valencia, 963
+Aguilar, San Lorenzo, 1,868
+Cabano, San Lorenzo, 4,917
+Cabungahan, San Lorenzo, 1,341
+Constancia, San Lorenzo, 3,416
+Gaban, San Lorenzo, 2,253
+Igcawayan, San Lorenzo, 1,246
+M. Chavez, San Lorenzo, 2,803
+San Enrique (Lebas), San Lorenzo, 2,051
+Sapal, San Lorenzo, 1,547
+Sebario, San Lorenzo, 1,603
+Suclaran, San Lorenzo, 1,934
+Tamborong, San Lorenzo, 1,133
+Alegria, Sibunag, 1,846
+Ayangan, Sibunag, 1,654
+Bubog, Sibunag, 738
+Concordia Norte, Sibunag, 945
+Dasal, Sibunag, 1,856
+Inampologan, Sibunag, 215
+Maabay, Sibunag, 2,394
+Millan, Sibunag, 1,867
+Oracon Norte, Sibunag, 1,065
+Ravina, Sibunag, 2,034
+Sabang, Sibunag, 2,047
+San Isidro, Sibunag, 2,131
+Sebaste, Sibunag, 2,362
+Tanglad, Sibunag, 1,004

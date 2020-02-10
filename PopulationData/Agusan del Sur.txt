@@ -1,0 +1,314 @@
+Berseba, Bayugan, 1,585
+Bucac, Bayugan, 3,918
+Cagbas, Bayugan, 1,923
+Calaitan, Bayugan, 1,913
+Canayugan, Bayugan, 1,156
+Charito, Bayugan, 1,549
+Claro Cortez, Bayugan, 819
+Fili, Bayugan, 2,949
+Gamao, Bayugan, 1,096
+Getsemane, Bayugan, 398
+Grace Estate, Bayugan, 677
+Hamogaway, Bayugan, 1,508
+Katipunan, Bayugan, 1,225
+Mabuhay, Bayugan, 1,730
+Magkiangkang, Bayugan, 1,801
+Mahayag, Bayugan, 629
+Marcelina, Bayugan, 3,789
+Maygatasan, Bayugan, 4,818
+Montivesta, Bayugan, 709
+Mt. Ararat, Bayugan, 684
+Mt. Carmel, Bayugan, 2,387
+Mt. Olive, Bayugan, 1,509
+New Salem, Bayugan, 569
+Noli, Bayugan, 3,712
+Osmeña, Bayugan, 1,589
+Panaytay, Bayugan, 695
+Pinagalaan, Bayugan, 1,411
+Poblacion, Bayugan, 16,010
+Sagmone, Bayugan, 1,301
+Saguma, Bayugan, 2,215
+Salvacion, Bayugan, 5,886
+San Agustin, Bayugan, 679
+San Isidro, Bayugan, 1,206
+San Juan, Bayugan, 3,307
+Santa Irene, Bayugan, 3,651
+Santa Teresita, Bayugan, 1,828
+Santo Niño, Bayugan, 1,606
+Taglatawan, Bayugan, 12,838
+Taglibas, Bayugan, 402
+Tagubay, Bayugan, 930
+Verdu, Bayugan, 1,424
+Villa Undayon, Bayugan, 1,609
+Wawa, Bayugan, 1,562
+Bunawan Brook, Bunawan, 5,283
+Consuelo, Bunawan, 9,528
+Imelda, Bunawan, 1,672
+Libertad, Bunawan, 6,583
+Mambalili, Bunawan, 3,008
+Nueva Era, Bunawan, 1,375
+Poblacion, Bunawan, 5,379
+San Andres, Bunawan, 3,336
+San Marcos, Bunawan, 1,212
+San Teodoro, Bunawan, 7,775
+Agsabu, Esperanza, 812
+Aguinaldo, Esperanza, 540
+Anolingan, Esperanza, 1,649
+Bakingking, Esperanza, 496
+Balubo, Esperanza, 816
+Bentahon, Esperanza, 1,084
+Bunaguit, Esperanza, 1,192
+Catmonon, Esperanza, 1,733
+Cebulan, Esperanza, 432
+Concordia, Esperanza, 935
+Crossing Luna, Esperanza, 1,381
+Cubo, Esperanza, 877
+Dakutan, Esperanza, 3,391
+Duangan, Esperanza, 1,610
+Guadalupe, Esperanza, 4,046
+Guibonon, Esperanza, 502
+Hawilian, Esperanza, 2,358
+Kalabuan, Esperanza, 283
+Kinamaybay, Esperanza, 683
+Labao, Esperanza, 930
+Langag, Esperanza, 1,197
+Maasin, Esperanza, 1,091
+Mac‑Arthur, Esperanza, 200
+Mahagcot, Esperanza, 841
+Maliwanag, Esperanza, 296
+Milagros, Esperanza, 1,172
+Nato, Esperanza, 1,732
+New Gingoog, Esperanza, 495
+Odiong, Esperanza, 622
+Oro, Esperanza, 1,922
+Piglawigan, Esperanza, 1,882
+Poblacion, Esperanza, 4,778
+Remedios, Esperanza, 1,447
+Salug, Esperanza, 1,238
+San Isidro, Esperanza, 385
+San Jose, Esperanza, 150
+San Toribio, Esperanza, 2,424
+San Vicente, Esperanza, 765
+Santa Fe, Esperanza, 1,990
+Segunda, Esperanza, 293
+Sinakungan, Esperanza, 464
+Tagabase, Esperanza, 827
+Taganahaw, Esperanza, 382
+Tagbalili, Esperanza, 546
+Tahina, Esperanza, 769
+Tandang Sora, Esperanza, 768
+Valentina, Esperanza, 375
+Angeles, La Paz, 823
+Bataan, La Paz, 1,893
+Comota, La Paz, 1,641
+Halapitan, La Paz, 508
+Kasapa II, La Paz, 1,398
+Langasian, La Paz, 1,233
+Lydia, La Paz, 1,465
+Osmeña, Sr., Sr., 1,827
+Panagangan, La Paz, 3,549
+Poblacion, La Paz, 5,563
+Sabang Adgawan, La Paz, 1,505
+Sagunto, La Paz, 1,677
+San Patricio, La Paz, 1,476
+Valentina, La Paz, 1,942
+Villa Paz, La Paz, 1,717
+Binucayan, Loreto, 2,781
+Johnson, Loreto, 1,433
+Kasapa, Loreto, 1,738
+Katipunan, Loreto, 525
+Kauswagan, Loreto, 2,445
+Magaud, Loreto, 3,314
+Nueva Gracia, Loreto, 2,270
+Poblacion, Loreto, 6,384
+Sabud, Loreto, 4,367
+San Isidro, Loreto, 1,601
+San Mariano, Loreto, 2,411
+San Vicente, Loreto, 2,163
+Santa Teresa, Loreto, 2,325
+Santo Niño, Loreto, 1,088
+Santo Tomas, Loreto, 3,859
+Violanta, Loreto, 1,439
+Waloe, Loreto, 2,358
+Aurora, Prosperidad, 3,251
+Awa, Prosperidad, 1,888
+Azpetia, Prosperidad, 1,850
+La Caridad, Prosperidad, 1,769
+La Perian, Prosperidad, 835
+La Purisima, Prosperidad, 2,276
+La Suerte, Prosperidad, 1,772
+La Union, Prosperidad, 1,853
+Las Navas, Prosperidad, 1,785
+Libertad, Prosperidad, 985
+Los Arcos, Prosperidad, 2,606
+Lucena, Prosperidad, 3,511
+Mabuhay, Prosperidad, 2,013
+Magsaysay, Prosperidad, 2,339
+Mapaga, Prosperidad, 1,558
+Napo, Prosperidad, 953
+New Maug, Prosperidad, 1,480
+Patin‑ay, Prosperidad, 8,505
+Poblacion (Bahbah), Prosperidad, 12,731
+Salimbogaon, Prosperidad, 790
+Salvacion, Prosperidad, 2,659
+San Joaquin, Prosperidad, 1,720
+San Jose, Prosperidad, 2,579
+San Lorenzo, Prosperidad, 1,310
+San Martin, Prosperidad, 2,379
+San Pedro, Prosperidad, 851
+San Rafael, Prosperidad, 1,973
+San Roque, Prosperidad, 1,093
+San Salvador, Prosperidad, 1,567
+San Vicente, Prosperidad, 3,728
+Santa Irene, Prosperidad, 6,148
+Santa Maria, Prosperidad, 1,874
+Bayugan 3, Rosario, 13,922
+Cabantao, Rosario, 1,723
+Cabawan, Rosario, 1,357
+Libuac, Rosario, 3,085
+Maligaya, Rosario, 1,706
+Marfil, Rosario, 1,914
+Novele, Rosario, 2,695
+Poblacion, Rosario, 5,131
+Santa Cruz, Rosario, 8,659
+Tagbayagan, Rosario, 2,100
+Wasi‑an, Rosario, 4,391
+Alegria, San Francisco, 7,310
+Barangay 1 (Poblacion), San Francisco, 5,902
+Barangay 2 (Poblacion), San Francisco, 2,506
+Barangay 3 (Poblacion), San Francisco, 3,642
+Barangay 4 (Poblacion), San Francisco, 2,939
+Barangay 5 (Poblacion), San Francisco, 5,239
+Bayugan 2, San Francisco, 4,644
+Bitan‑agan, San Francisco, 1,046
+Borbon, San Francisco, 2,850
+Buenasuerte, San Francisco, 1,566
+Caimpugan, San Francisco, 1,590
+Das‑agan, San Francisco, 1,824
+Ebro, San Francisco, 1,325
+Hubang, San Francisco, 3,166
+Karaus, San Francisco, 3,148
+Ladgadan, San Francisco, 981
+Lapinigan, San Francisco, 5,150
+Lucac, San Francisco, 1,294
+Mate, San Francisco, 1,497
+New Visayas, San Francisco, 1,334
+Ormaca, San Francisco, 805
+Pasta, San Francisco, 3,061
+Pisa‑an, San Francisco, 3,429
+Rizal, San Francisco, 904
+San Isidro, San Francisco, 3,737
+Santa Ana, San Francisco, 1,256
+Tagapua, San Francisco, 2,397
+Anislagan, San Luis, 1,998
+Balit, San Luis, 868
+Baylo, San Luis, 1,555
+Binicalan, San Luis, 3,353
+Cecilia, San Luis, 1,135
+Coalicion, San Luis, 1,398
+Culi, San Luis, 1,008
+Dimasalang, San Luis, 1,387
+Don Alejandro, San Luis, 2,600
+Don Pedro, San Luis, 241
+Doña Flavia, San Luis, 2,614
+Doña Maxima, San Luis, 1,467
+Mahagsay, San Luis, 1,009
+Mahapag, San Luis, 730
+Mahayahay, San Luis, 795
+Muritula, San Luis, 743
+Nuevo Trabajo, San Luis, 1,876
+Poblacion, San Luis, 1,815
+Policarpo, San Luis, 486
+San Isidro, San Luis, 807
+San Pedro, San Luis, 1,219
+Santa Ines, San Luis, 1,748
+Santa Rita, San Luis, 301
+Santiago, San Luis, 499
+Wegguam, San Luis, 457
+Angas, Santa Josefa, 3,271
+Aurora, Santa Josefa, 2,651
+Awao, Santa Josefa, 2,232
+Concepcion, Santa Josefa, 1,055
+Pag‑asa, Santa Josefa, 1,122
+Patrocinio, Santa Josefa, 2,238
+Poblacion, Santa Josefa, 4,962
+San Jose, Santa Josefa, 2,486
+Santa Isabel, Santa Josefa, 2,363
+Sayon, Santa Josefa, 2,620
+Tapaz, Santa Josefa, 1,729
+Afga, Sibagat, 2,995
+Anahawan, Sibagat, 597
+Banagbanag, Sibagat, 677
+Del Rosario, Sibagat, 262
+El Rio, Sibagat, 1,463
+Ilihan, Sibagat, 1,057
+Kauswagan, Sibagat, 338
+Kioya, Sibagat, 635
+Kolambugan, Sibagat, 1,974
+Magkalape, Sibagat, 178
+Magsaysay, Sibagat, 968
+Mahayahay, Sibagat, 1,172
+New Tubigon, Sibagat, 1,113
+Padiay, Sibagat, 1,627
+Perez, Sibagat, 923
+Poblacion, Sibagat, 5,998
+San Isidro, Sibagat, 850
+San Vicente, Sibagat, 1,278
+Santa Cruz, Sibagat, 444
+Santa Maria, Sibagat, 720
+Sinai, Sibagat, 551
+Tabon‑tabon, Sibagat, 3,053
+Tag‑uyango, Sibagat, 678
+Villangit, Sibagat, 891
+Batucan, Talacogon, 2,181
+BuenaGracia, Talacogon, 1,846
+Causwagan, Talacogon, 3,055
+Culi, Talacogon, 511
+Del Monte, Talacogon, 7,750
+Desamparados, Talacogon, 1,361
+La Flora, Talacogon, 1,212
+Labnig, Talacogon, 2,888
+Maharlika, Talacogon, 855
+Marbon, Talacogon, 1,570
+Sabang Gibung, Talacogon, 961
+San Agustin (Poblacion), Talacogon, 4,314
+San Isidro (Poblacion), Talacogon, 897
+San Nicolas (Poblacion), Talacogon, 2,307
+Zamora, Talacogon, 1,411
+Zillovia, Talacogon, 5,255
+Basa, Trento, 2,382
+Cebolin, Trento, 1,093
+Cuevas, Trento, 2,265
+Kapatungan, Trento, 4,091
+Langkila‑an, Trento, 2,236
+Manat, Trento, 3,781
+New Visayas, Trento, 906
+Pangyan, Trento, 549
+Poblacion, Trento, 18,139
+Pulang‑lupa, Trento, 3,353
+Salvacion, Trento, 2,594
+San Ignacio, Trento, 959
+San Isidro, Trento, 1,713
+San Roque, Trento, 1,348
+Santa Maria, Trento, 4,535
+Tudela, Trento, 1,621
+Anitap, Veruela, 595
+Bacay II, Veruela, 1,085
+Binongan, Veruela, 1,735
+Caigangan, Veruela, 1,029
+Candiis, Veruela, 655
+Del Monte, Veruela, 2,375
+Don Mateo, Veruela, 1,452
+Katipunan, Veruela, 958
+La Fortuna, Veruela, 6,418
+Limot, Veruela, 973
+Magsaysay, Veruela, 1,628
+Masayan, Veruela, 1,726
+Poblacion, Veruela, 5,891
+Sampaguita, Veruela, 5,950
+San Gabriel, Veruela, 2,569
+Santa Cruz, Veruela, 1,059
+Santa Emelia, Veruela, 1,483
+Sawagan, Veruela, 1,099
+Sinobong, Veruela, 3,706
+Sisimon, Veruela, 1,320

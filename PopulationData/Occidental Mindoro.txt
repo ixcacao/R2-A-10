@@ -1,0 +1,163 @@
+Armado, Abra de Ilog, 2,136
+Balao, Abra de Ilog, 3,347
+Cabacao, Abra de Ilog, 5,730
+Lumangbayan, Abra de Ilog, 3,527
+Poblacion, Abra de Ilog, 2,720
+San Vicente, Abra de Ilog, 2,855
+Santa Maria, Abra de Ilog, 1,877
+Tibag, Abra de Ilog, 2,074
+Udalo (Camurong), Abra de Ilog, 3,944
+Wawa, Abra de Ilog, 3,096
+Concepcion, Calintaan, 3,652
+Iriron, Calintaan, 3,934
+Malpalon, Calintaan, 2,572
+New Dagupan, Calintaan, 5,272
+Poblacion, Calintaan, 7,173
+Poypoy, Calintaan, 3,293
+Tanyag, Calintaan, 3,930
+Agkawayan, Looc, 1,554
+Ambil, Looc, 2,035
+Balikyas, Looc, 760
+Bonbon (Poblacion), Looc, 1,089
+Bulacan, Looc, 819
+Burol, Looc, 902
+Guitna (Poblacion), Looc, 612
+Kanluran (Poblacion), Looc, 615
+Talaotao, Looc, 1,731
+Araw at Bituin (Poblacion), Lubang, 447
+Bagong Sikat (Poblacion), Lubang, 358
+Banaag at Pag‑asa (Poblacion), Lubang, 335
+Binakas, Lubang, 1,162
+Cabra, Lubang, 1,762
+Likas ng Silangan (Poblacion), Lubang, 455
+Maginhawa (Poblacion), Lubang, 900
+Maligaya, Lubang, 701
+Maliig, Lubang, 2,349
+Ninikat ng Pag‑asa (Poblacion), Lubang, 392
+Paraiso (Poblacion), Lubang, 362
+Surville (Poblacion), Lubang, 121
+Tagbac, Lubang, 3,004
+Tangal, Lubang, 2,521
+Tilik, Lubang, 2,008
+Vigo, Lubang, 1,926
+Alibog, Magsaysay, 2,802
+Caguray, Magsaysay, 3,143
+Calawag, Magsaysay, 1,055
+Gapasan, Magsaysay, 2,038
+Laste, Magsaysay, 1,699
+Lourdes, Magsaysay, 1,921
+Nicolas (Bulo), Magsaysay, 3,277
+Paclolo, Magsaysay, 2,857
+Poblacion, Magsaysay, 8,987
+Purnaga, Magsaysay, 4,226
+Santa Teresa, Magsaysay, 2,307
+Sibalat, Magsaysay, 1,704
+Balansay, Mamburao, 6,958
+Fatima (Tii), Mamburao, 2,080
+Payompon, Mamburao, 10,706
+Poblacion 1 (Barangay 1), Mamburao, 251
+Poblacion 2 (Barangay 2), Mamburao, 2,221
+Poblacion 3 (Barangay 3), Mamburao, 218
+Poblacion 4 (Barangay 4), Mamburao, 866
+Poblacion 5 (Barangay 5), Mamburao, 434
+Poblacion 6 (Barangay 6), Mamburao, 567
+Poblacion 7 (Barangay 7), Mamburao, 2,197
+Poblacion 8 (Barangay 8), Mamburao, 1,213
+San Luis (Ligang), Mamburao, 1,267
+Talabaan, Mamburao, 2,556
+Tangkalan, Mamburao, 2,677
+Tayamaan, Mamburao, 8,764
+Alipaoy, Paluan, 1,635
+Bagong Silang Poblacion (Barangay 5), Paluan, 250
+Handang Tumulong Poblacion (Barangay 2), Paluan, 442
+Harrison, Paluan, 3,461
+Lumangbayan, Paluan, 809
+Mananao, Paluan, 1,895
+Mapalad Poblacion (Barangay 1), Paluan, 1,789
+Marikit, Paluan, 1,596
+Pag‑asa ng Bayan Poblacion (Barangay 4), Paluan, 372
+San Jose Poblacion (Barangay 6), Paluan, 631
+Silahis ng Pag‑asa Poblacion (Barangay 3), Paluan, 533
+Tubili, Paluan, 2,612
+Adela, Rizal, 3,451
+Aguas, Rizal, 2,665
+Magsikap, Rizal, 3,240
+Malawaan, Rizal, 5,285
+Manoot, Rizal, 5,681
+Pitogo, Rizal, 2,513
+Rizal, Rizal, 3,327
+Rumbang, Rizal, 3,524
+Salvacion, Rizal, 2,357
+San Pedro, Rizal, 2,703
+Santo Niño, Rizal, 3,517
+Batong Buhay, Sablayan, 4,683
+Buenavista, Sablayan, 8,908
+Burgos, Sablayan, 2,559
+Claudio Salgado, Sablayan, 4,278
+General Emilio Aguinaldo, Sablayan, 2,418
+Ibud, Sablayan, 1,903
+Ilvita, Sablayan, 2,816
+Lagnas, Sablayan, 1,630
+Ligaya, Sablayan, 7,648
+Malisbong, Sablayan, 3,998
+Paetan, Sablayan, 1,646
+Pag‑asa, Sablayan, 4,490
+Poblacion (Lumangbayan), Sablayan, 7,053
+San Agustin, Sablayan, 1,944
+San Francisco, Sablayan, 3,254
+San Nicolas, Sablayan, 1,964
+San Vicente, Sablayan, 4,962
+Santa Lucia, Sablayan, 4,800
+Santo Niño, Sablayan, 6,187
+Tagumpay, Sablayan, 1,703
+Tuban, Sablayan, 2,969
+Victoria, Sablayan, 1,356
+Ambulong, San Jose, 2,224
+Ansiray, San Jose, 1,032
+Bagong Sikat, San Jose, 6,564
+Bangkal, San Jose, 933
+Barangay 1 (Poblacion), San Jose, 283
+Barangay 2 (Poblacion), San Jose, 415
+Barangay 3 (Poblacion), San Jose, 1,323
+Barangay 4 (Poblacion), San Jose, 500
+Barangay 5 (Poblacion), San Jose, 1,569
+Barangay 6 (Poblacion), San Jose, 398
+Barangay 7 (Poblacion), San Jose, 436
+Barangay 8 (Poblacion), San Jose, 348
+Batasan, San Jose, 6,260
+Bayotbot, San Jose, 2,492
+Bubog, San Jose, 9,356
+Buri, San Jose, 607
+Camburay, San Jose, 1,849
+Caminawit, San Jose, 12,223
+Catayungan, San Jose, 1,021
+Central, San Jose, 10,901
+Iling Proper, San Jose, 2,124
+Inasakan, San Jose, 625
+Ipil, San Jose, 789
+La Curva, San Jose, 3,034
+Labangan Iling, San Jose, 1,070
+Labangan Poblacion, San Jose, 9,683
+Mabini, San Jose, 2,938
+Magbay, San Jose, 4,299
+Mangarin, San Jose, 3,410
+Mapaya, San Jose, 7,982
+Monte Claro, San Jose, 3,855
+Murtha, San Jose, 5,985
+Natandol, San Jose, 1,521
+Pag‑asa, San Jose, 11,232
+Pawican, San Jose, 2,295
+San Agustin, San Jose, 5,363
+San Isidro, San Jose, 1,785
+San Roque, San Jose, 14,706
+Alacaak, Santa Cruz, 3,290
+Barahan, Santa Cruz, 6,339
+Casague, Santa Cruz, 2,838
+Dayap, Santa Cruz, 2,519
+Kurtinganan, Santa Cruz, 1,514
+Lumangbayan, Santa Cruz, 3,037
+Mulawin, Santa Cruz, 3,802
+Pinagturilan (San Pedro), Santa Cruz, 7,710
+Poblacion I (Barangay 1), Santa Cruz, 1,821
+Poblacion II (Barangay 2), Santa Cruz, 2,594
+San Vicente, Santa Cruz, 2,020

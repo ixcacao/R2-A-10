@@ -1,0 +1,1159 @@
+Bagumbayan, Amai Manabilang, 564
+Bandara‑Ingud, Amai Manabilang, 251
+Comara, Amai Manabilang, 802
+Frankfort, Amai Manabilang, 1,416
+Lambanogan, Amai Manabilang, 449
+Lico, Amai Manabilang, 517
+Mansilano, Amai Manabilang, 562
+Natangcopan, Amai Manabilang, 600
+Pagalamatan, Amai Manabilang, 833
+Pagonayan, Amai Manabilang, 604
+Piagma, Amai Manabilang, 262
+Poblacion (Apartfort), Amai Manabilang, 758
+Punud, Amai Manabilang, 710
+Ranao‑Baning, Amai Manabilang, 498
+Sagua‑an, Amai Manabilang, 416
+Salam, Amai Manabilang, 428
+Sumugot, Amai Manabilang, 731
+Ampao, Bacolod-Kalawi, 904
+Bagoaingud, Bacolod-Kalawi, 696
+Balut, Bacolod-Kalawi, 594
+Barua, Bacolod-Kalawi, 805
+Buadiawani, Bacolod-Kalawi, 513
+Bubong, Bacolod-Kalawi, 1,291
+Daramoyod, Bacolod-Kalawi, 696
+Dilabayan, Bacolod-Kalawi, 695
+Dipatuan, Bacolod-Kalawi, 2,136
+Gandamato, Bacolod-Kalawi, 629
+Gurain, Bacolod-Kalawi, 390
+Ilian, Bacolod-Kalawi, 904
+Lama, Bacolod-Kalawi, 794
+Liawao, Bacolod-Kalawi, 422
+Lumbaca‑Ingud, Bacolod-Kalawi, 1,061
+Madanding, Bacolod-Kalawi, 892
+Orong, Bacolod-Kalawi, 724
+Pindolonan, Bacolod-Kalawi, 455
+Poblacion I, Bacolod-Kalawi, 812
+Poblacion II, Bacolod-Kalawi, 1,196
+Raya, Bacolod-Kalawi, 616
+Rorowan, Bacolod-Kalawi, 471
+Sugod, Bacolod-Kalawi, 999
+Tambo, Bacolod-Kalawi, 617
+Tuka I, Bacolod-Kalawi, 813
+Tuka II, Bacolod-Kalawi, 716
+Bagoaingud, Balabagan, 1,066
+Banago, Balabagan, 2,203
+Barorao, Balabagan, 1,862
+Batuan, Balabagan, 1,163
+Budas, Balabagan, 798
+Buenavista, Balabagan, 622
+Buisan (Bengabeng), Balabagan, 354
+Calilangan, Balabagan, 829
+Igabay, Balabagan, 1,218
+Ilian, Balabagan, 689
+Lalabuan, Balabagan, 1,159
+Lorenzo, Balabagan, 1,408
+Lower Itil, Balabagan, 911
+Lumbac, Balabagan, 989
+Macao, Balabagan, 725
+Magulalung Occidental, Balabagan, 919
+Magulalung Oriental, Balabagan, 842
+Matampay, Balabagan, 887
+Matanog, Balabagan, 775
+Molimoc, Balabagan, 754
+Narra, Balabagan, 778
+Pindolonan, Balabagan, 1,000
+Plasan, Balabagan, 727
+Poblacion (Balabagan), Balabagan, 1,485
+Purakan, Balabagan, 1,054
+Tataya, Balabagan, 640
+Upper Itil, Balabagan, 962
+Abaga, Balindong, 678
+Bantoga Wato, Balindong, 743
+Barit, Balindong, 674
+Bolinsong, Balindong, 350
+Borakis, Balindong, 493
+Bualan, Balindong, 1,578
+Bubong, Balindong, 931
+Bubong Cadapaan, Balindong, 876
+Cadapaan, Balindong, 662
+Cadayonan, Balindong, 853
+Dadayag, Balindong, 614
+Dado, Balindong, 501
+Dibarusan, Balindong, 738
+Dilausan, Balindong, 1,212
+Dimarao, Balindong, 227
+Ingud, Balindong, 746
+Kaluntay, Balindong, 218
+Lalabuan, Balindong, 864
+Lati, Balindong, 1,271
+Lilod, Balindong, 1,719
+Limbo, Balindong, 444
+Lumbac Lalan, Balindong, 603
+Lumbac Wato, Balindong, 745
+Lumbayao, Balindong, 1,237
+Magarang, Balindong, 428
+Malaig, Balindong, 1,034
+Nusa Lumba Ranao, Balindong, 855
+Padila, Balindong, 545
+Pagayawan, Balindong, 652
+Paigoay, Balindong, 661
+Pantaragoo, Balindong, 692
+Poblacion (Balindong), Balindong, 1,257
+Raya, Balindong, 813
+Salipongan, Balindong, 1,043
+Talub, Balindong, 396
+Tantua Raya, Balindong, 952
+Tomarompong, Balindong, 314
+Tuka Bubong, Balindong, 561
+Bagoaingud, Bayang, 369
+Bairan (Poblacion), Bayang, 841
+Bandingun, Bayang, 507
+Biabi, Bayang, 351
+Bialaan, Bayang, 516
+Bubong Lilod, Bayang, 751
+Bubong Raya, Bayang, 320
+Cadayonan, Bayang, 300
+Cadingilan Occidental, Bayang, 687
+Cadingilan Oriental, Bayang, 512
+Condaraan Poblacion (Condaraan Dimadap), Bayang, 931
+Cormatan, Bayang, 378
+Gandamato, Bayang, 240
+Ilian, Bayang, 322
+Lalapung Central, Bayang, 424
+Lalapung Proper (Poblacion), Bayang, 411
+Lalapung Upper, Bayang, 471
+Linao, Bayang, 650
+Linuk (Poblacion), Bayang, 616
+Liong, Bayang, 344
+Lumbac, Bayang, 410
+Lumbac Cadayonan, Bayang, 853
+Maliwanag, Bayang, 714
+Mapantao, Bayang, 342
+Mimbalawag, Bayang, 379
+Palao, Bayang, 392
+Pama‑an, Bayang, 452
+Pamacotan, Bayang, 208
+Pantar, Bayang, 372
+Parao, Bayang, 714
+Patong, Bayang, 314
+Poblacion (Bayang), Bayang, 416
+Porotan, Bayang, 314
+Rantian, Bayang, 561
+Raya Cadayonan, Bayang, 596
+Rinabor (Poblacion), Bayang, 502
+Samporna (Poblacion), Bayang, 505
+Sapa, Bayang, 366
+Silid, Bayang, 432
+Sugod, Bayang, 502
+Sultan Pandapatan, Bayang, 522
+Sumbag (Poblacion), Bayang, 436
+Tagoranao, Bayang, 453
+Tangcal, Bayang, 489
+Tangcal Proper (Poblacion), Bayang, 615
+Tomarompong, Bayang, 648
+Tomongcal Ligi, Bayang, 347
+Torogan, Bayang, 349
+Tuca (Poblacion), Bayang, 821
+Badak, Binidayan, 798
+Baguiangun, Binidayan, 695
+Balut Maito, Binidayan, 357
+Basak, Binidayan, 1,402
+Bubong, Binidayan, 717
+Bubonga‑Ranao, Binidayan, 605
+Dansalan Dacsula, Binidayan, 721
+Ingud, Binidayan, 705
+Kialilidan, Binidayan, 1,114
+Lumbac, Binidayan, 822
+Macaguiling, Binidayan, 717
+Madaya, Binidayan, 714
+Magonaya, Binidayan, 1,000
+Maindig, Binidayan, 964
+Masolun, Binidayan, 704
+Olama, Binidayan, 957
+Pagalamatan (Poblacion), Binidayan, 1,708
+Pantar, Binidayan, 627
+Picalilangan, Binidayan, 729
+Picotaan, Binidayan, 749
+Pindolonan, Binidayan, 530
+Poblacion, Binidayan, 2,085
+Soldaroro, Binidayan, 679
+Tambac, Binidayan, 777
+Timbangan, Binidayan, 704
+Tuca, Binidayan, 499
+Bacolod, Buadiposo-Buntong, 383
+Bangon, Buadiposo-Buntong, 419
+Bangon Proper, Buadiposo-Buntong, 461
+Boto Ragondingan, Buadiposo-Buntong, 473
+Buadiposo Lilod, Buadiposo-Buntong, 326
+Buadiposo Proper, Buadiposo-Buntong, 426
+Buadiposo Raya, Buadiposo-Buntong, 385
+Bubong, Buadiposo-Buntong, 840
+Buntong Proper, Buadiposo-Buntong, 599
+Cadayonan, Buadiposo-Buntong, 227
+Dansalan, Buadiposo-Buntong, 311
+Datu Tambara, Buadiposo-Buntong, 259
+Dirisan, Buadiposo-Buntong, 404
+Gata, Buadiposo-Buntong, 1,189
+Kalakala, Buadiposo-Buntong, 628
+Katogonan, Buadiposo-Buntong, 506
+Lumbac, Buadiposo-Buntong, 707
+Lumbatan Manacab, Buadiposo-Buntong, 385
+Lumbatan Pataingud, Buadiposo-Buntong, 465
+Lunduban (Ragondingan), Buadiposo-Buntong, 258
+Manacab (Poblacion), Buadiposo-Buntong, 619
+Minanga (Buntong), Buadiposo-Buntong, 282
+Paling, Buadiposo-Buntong, 659
+Pindolonan, Buadiposo-Buntong, 620
+Pualas, Buadiposo-Buntong, 543
+Ragondingan East, Buadiposo-Buntong, 431
+Ragondingan Proper, Buadiposo-Buntong, 287
+Ragondingan West, Buadiposo-Buntong, 287
+Raya Buntong (Buntong East), Buadiposo-Buntong, 730
+Sapot, Buadiposo-Buntong, 576
+Tangcal, Buadiposo-Buntong, 465
+Tarik, Buadiposo-Buntong, 502
+Tuka, Buadiposo-Buntong, 478
+Bacolod, Bubong, 674
+Bagoaingud, Bubong, 230
+Bansayan, Bubong, 491
+Basingan, Bubong, 1,115
+Batangan, Bubong, 1,013
+Bualan, Bubong, 608
+Bubonga Didagun, Bubong, 738
+Carigongan, Bubong, 627
+Dalaon, Bubong, 413
+Dibarosan, Bubong, 268
+Dilabayan, Bubong, 1,015
+Dimapatoy, Bubong, 605
+Dimayon, Bubong, 387
+Dimayon Proper, Bubong, 447
+Diolangan, Bubong, 366
+Guiguikun, Bubong, 338
+Madanding, Bubong, 744
+Malungun, Bubong, 444
+Masorot, Bubong, 356
+Matampay Dimarao, Bubong, 741
+Miabalawag, Bubong, 493
+Montiaan, Bubong, 605
+Pagayawan, Bubong, 389
+Palao, Bubong, 803
+Panalawan, Bubong, 714
+Pantar, Bubong, 867
+Pendogoan, Bubong, 1,095
+Pindolonan, Bubong, 482
+Poblacion (Bubong), Bubong, 613
+Polayagan, Bubong, 291
+Punud, Bubong, 677
+Ramain Bubong, Bubong, 491
+Rogero, Bubong, 1,376
+Salipongan, Bubong, 411
+Sunggod, Bubong, 832
+Taboro, Bubong, 577
+Bayabao Poblacion, Butig, 2,644
+Butig Proper, Butig, 891
+Cabasaran, Butig, 728
+Coloyan Tambo, Butig, 1,175
+Dilimbayan, Butig, 833
+Dolangan, Butig, 708
+Malungun, Butig, 812
+Pindolonan, Butig, 1,114
+Poktan, Butig, 939
+Ragayan, Butig, 999
+Raya, Butig, 1,150
+Samer, Butig, 1,254
+Sandab Madaya, Butig, 3,790
+Sundig, Butig, 1,029
+Timbab, Butig, 539
+Tiowi, Butig, 697
+Bubonga Ranao, Calanogas, 785
+Calalaoan (Poblacion), Calanogas, 758
+Gas, Calanogas, 926
+Inoma, Calanogas, 678
+Inudaran, Calanogas, 542
+Luguna, Calanogas, 666
+Mimbalawag, Calanogas, 715
+Ngingir, Calanogas, 1,203
+Pagalongan, Calanogas, 660
+Panggawalupa, Calanogas, 856
+Pantaon, Calanogas, 1,235
+Piksan, Calanogas, 1,190
+Pindolonan, Calanogas, 681
+Punud, Calanogas, 782
+Tagoranao, Calanogas, 753
+Taliboboka, Calanogas, 602
+Tambac, Calanogas, 718
+Baclayan Lilod, Ditsaan-Ramain, 572
+Baclayan Raya, Ditsaan-Ramain, 595
+Bagoaingud, Ditsaan-Ramain, 724
+Barimbingan, Ditsaan-Ramain, 850
+Bayabao, Ditsaan-Ramain, 579
+Buadi Alao, Ditsaan-Ramain, 538
+Buadi Babai, Ditsaan-Ramain, 871
+Buadi Oloc, Ditsaan-Ramain, 597
+Buayaan Lilod, Ditsaan-Ramain, 795
+Buayaan Madanding, Ditsaan-Ramain, 353
+Buayaan Raya, Ditsaan-Ramain, 684
+Bubong Dangiprampiai, Ditsaan-Ramain, 681
+Dado, Ditsaan-Ramain, 541
+Dangimprampiai, Ditsaan-Ramain, 488
+Darimbang, Ditsaan-Ramain, 408
+Dilausan, Ditsaan-Ramain, 478
+Ditsaan, Ditsaan-Ramain, 699
+Gadongan, Ditsaan-Ramain, 758
+Linamon, Ditsaan-Ramain, 617
+Lumbatan Ramain, Ditsaan-Ramain, 767
+Maindig Ditsaan, Ditsaan-Ramain, 474
+Mandara, Ditsaan-Ramain, 514
+Maranao Timber (Dalama), Ditsaan-Ramain, 1,104
+Pagalongan Buadiadingan, Ditsaan-Ramain, 521
+Pagalongan Ginaopan, Ditsaan-Ramain, 534
+Pagalongan Masioon, Ditsaan-Ramain, 496
+Pagalongan Proper, Ditsaan-Ramain, 596
+Polo, Ditsaan-Ramain, 701
+Ramain Poblacion, Ditsaan-Ramain, 420
+Ramain Proper, Ditsaan-Ramain, 484
+Rantian, Ditsaan-Ramain, 882
+Sultan Pangadapun, Ditsaan-Ramain, 546
+Sundiga Bayabao, Ditsaan-Ramain, 864
+Talub, Ditsaan-Ramain, 702
+Upper Pugaan, Ditsaan-Ramain, 866
+Bagoaingud, Ganassi, 522
+Balintad, Ganassi, 737
+Balintad A, Ganassi, 657
+Barit, Ganassi, 731
+Barorao, Ganassi, 407
+Bato Batoray, Ganassi, 499
+Baya, Ganassi, 513
+Campong a Raya, Ganassi, 661
+Campong Sabela, Ganassi, 709
+Dapaan, Ganassi, 595
+Gadongan, Ganassi, 742
+Gui, Ganassi, 333
+Linuk, Ganassi, 696
+Lumbac, Ganassi, 795
+Lumbacaingud, Ganassi, 516
+Macabao, Ganassi, 717
+Macaguiling, Ganassi, 772
+Masolun, Ganassi, 520
+Pagalongan, Ganassi, 600
+Pamalian, Ganassi, 402
+Pangadapun, Ganassi, 618
+Panggawalupa, Ganassi, 577
+Pantaon, Ganassi, 535
+Pantaon A, Ganassi, 814
+Para‑aba, Ganassi, 1,681
+Pindolonan, Ganassi, 755
+Poblacion, Ganassi, 1,608
+Sekun Matampay, Ganassi, 1,062
+Sogod Madaya, Ganassi, 515
+Tabuan, Ganassi, 725
+Taganonok, Ganassi, 679
+Taliogon, Ganassi, 1,323
+Babayog, Kapai, 647
+Cormatan, Kapai, 1,094
+Dilabayan, Kapai, 1,055
+Dilimbayan, Kapai, 763
+Dimagaling (Dimagalin Proper), Kapai, 1,431
+Dimunda, Kapai, 1,097
+Doronan, Kapai, 1,018
+Gadongan, Kapai, 606
+Kasayanan, Kapai, 868
+Kasayanan West, Kapai, 967
+Kibolos, Kapai, 636
+Kining, Kapai, 723
+Lidasan, Kapai, 948
+Macadar, Kapai, 561
+Malna Proper, Kapai, 1,030
+Pagalongan, Kapai, 639
+Pantaon, Kapai, 1,336
+Parao, Kapai, 947
+Pindolonan, Kapai, 1,793
+Poblacion (Kapai Proper), Kapai, 735
+Bakikis, Kapatagan, 894
+Barao, Kapatagan, 720
+Bongabong, Kapatagan, 1,227
+Daguan, Kapatagan, 2,231
+Inudaran, Kapatagan, 747
+Kabaniakawan, Kapatagan, 538
+Kapatagan, Kapatagan, 1,391
+Lusain, Kapatagan, 950
+Matimos, Kapatagan, 609
+Minimao, Kapatagan, 1,175
+Pinantao, Kapatagan, 1,515
+Salaman, Kapatagan, 1,425
+Sigayan, Kapatagan, 865
+Tabuan, Kapatagan, 668
+Upper Igabay, Kapatagan, 566
+Bacolod I, Lumba-Bayabao, 679
+Bacolod II, Lumba-Bayabao, 731
+Bantayao, Lumba-Bayabao, 951
+Barit, Lumba-Bayabao, 804
+Baugan, Lumba-Bayabao, 683
+Buad Lumbac, Lumba-Bayabao, 697
+Cabasaran, Lumba-Bayabao, 694
+Calilangan, Lumba-Bayabao, 902
+Carandangan‑Mipaga, Lumba-Bayabao, 514
+Cormatan Langban, Lumba-Bayabao, 1,263
+Dialongana, Lumba-Bayabao, 1,646
+Dilindongan‑Cadayonan, Lumba-Bayabao, 1,283
+Gadongan, Lumba-Bayabao, 886
+Galawan, Lumba-Bayabao, 846
+Gambai, Lumba-Bayabao, 568
+Kasola, Lumba-Bayabao, 648
+Lalangitun, Lumba-Bayabao, 621
+Lama, Lumba-Bayabao, 1,420
+Lindongan Dialongana, Lumba-Bayabao, 1,519
+Lobo Basara, Lumba-Bayabao, 877
+Lumbac Bacayawan, Lumba-Bayabao, 788
+Macaguiling, Lumba-Bayabao, 742
+Mapantao, Lumba-Bayabao, 1,852
+Mapoling, Lumba-Bayabao, 508
+Maribo (Poblacion), Lumba-Bayabao, 1,509
+Minaring Diladigan, Lumba-Bayabao, 410
+Pagayawan, Lumba-Bayabao, 704
+Posudaragat, Lumba-Bayabao, 925
+Rumayas, Lumba-Bayabao, 1,245
+Sabala Bantayao, Lumba-Bayabao, 890
+Salaman, Lumba-Bayabao, 1,847
+Salolodun Berwar, Lumba-Bayabao, 1,059
+Sarigidan Madiar, Lumba-Bayabao, 702
+Sunggod, Lumba-Bayabao, 1,407
+Taluan, Lumba-Bayabao, 1,514
+Tamlang, Lumba-Bayabao, 427
+Tongcopan, Lumba-Bayabao, 700
+Turogan, Lumba-Bayabao, 690
+Bangon (Dilausan), Lumbaca-Unayan, 928
+Beta, Lumbaca-Unayan, 840
+Calalon, Lumbaca-Unayan, 663
+Calipapa, Lumbaca-Unayan, 707
+Dilausan, Lumbaca-Unayan, 1,110
+Dimapaok, Lumbaca-Unayan, 837
+Lumbac Dilausan, Lumbaca-Unayan, 504
+Oriental Beta, Lumbaca-Unayan, 1,115
+Tringun, Lumbaca-Unayan, 556
+Alog, Lumbatan, 878
+Basayungun, Lumbatan, 508
+Buad, Lumbatan, 756
+Bubong Macadar, Lumbatan, 681
+Budi, Lumbatan, 696
+Dago‑ok, Lumbatan, 1,919
+Dalama, Lumbatan, 1,353
+Dalipuga, Lumbatan, 624
+Lalapung, Lumbatan, 1,200
+Ligue, Lumbatan, 517
+Lumbac, Lumbatan, 800
+Lumbac Bacayawan, Lumbatan, 987
+Lunay, Lumbatan, 904
+Macadar, Lumbatan, 1,019
+Madaya, Lumbatan, 614
+Minanga, Lumbatan, 684
+Pantar, Lumbatan, 1,209
+Penaring, Lumbatan, 524
+Picotaan, Lumbatan, 971
+Poblacion (Lumbatan), Lumbatan, 1,552
+Tambac, Lumbatan, 709
+Bagoaingud, Lumbayanague, 613
+Balaigay, Lumbayanague, 1,560
+Bualan, Lumbayanague, 696
+Cabuntungan, Lumbayanague, 666
+Cadayonan, Lumbayanague, 712
+Cadingilan, Lumbayanague, 514
+Cadingilan A, Lumbayanague, 471
+Casalayan, Lumbayanague, 695
+Dala (Dalama), Lumbayanague, 609
+Dilimbayan, Lumbayanague, 686
+Diromoyod, Lumbayanague, 620
+Kabasaran (Poblacion), Lumbayanague, 1,160
+Lamin, Lumbayanague, 644
+Mapantao‑Balangas, Lumbayanague, 600
+Miniros, Lumbayanague, 882
+Nanagun, Lumbayanague, 898
+Pantaon, Lumbayanague, 644
+Pindolonan, Lumbayanague, 510
+Pitatanglan, Lumbayanague, 843
+Poctan, Lumbayanague, 520
+Singcara, Lumbayanague, 1,085
+Wago, Lumbayanague, 744
+Abaga, Madalum, 511
+Bacayawan, Madalum, 464
+Bagoaingud, Madalum, 481
+Basak, Madalum, 447
+Bato, Madalum, 487
+Bubong, Madalum, 515
+Cabasaran, Madalum, 798
+Cadayonan, Madalum, 571
+Dandamun, Madalum, 623
+Delausan, Madalum, 719
+Diampaca, Madalum, 534
+Dibarosan, Madalum, 902
+Gadongan, Madalum, 517
+Gurain, Madalum, 468
+Kormatan, Madalum, 339
+Liangan, Madalum, 688
+Liangan I, Madalum, 636
+Lilitun, Madalum, 410
+Linao, Madalum, 648
+Linuk, Madalum, 902
+Lumbac, Madalum, 385
+Madaya, Madalum, 697
+Padian Torogan I, Madalum, 399
+Pagayawan, Madalum, 900
+Paridi‑Kalimodan, Madalum, 699
+Poblacion, Madalum, 1,396
+Punud, Madalum, 374
+Racotan, Madalum, 631
+Raya, Madalum, 643
+Riray, Madalum, 548
+Sabanding, Madalum, 585
+Salongabanding, Madalum, 907
+Sogod Kaloy, Madalum, 482
+Sugod, Madalum, 912
+Tamporong, Madalum, 666
+Tongantongan, Madalum, 738
+Udangun, Madalum, 505
+Balagunun, Madamba, 976
+Balintad, Madamba, 781
+Bawang, Madamba, 404
+Biabe, Madamba, 613
+Bubong Uyaan, Madamba, 747
+Cabasaran, Madamba, 619
+Dibarusan, Madamba, 442
+Ilian, Madamba, 620
+Lakitan, Madamba, 547
+Liangan, Madamba, 864
+Linuk, Madamba, 416
+Lumbaca Ingud, Madamba, 759
+Madamba, Madamba, 1,056
+Pagayonan, Madamba, 829
+Palao, Madamba, 622
+Pangadapan, Madamba, 614
+Pantaon, Madamba, 505
+Pantar, Madamba, 869
+Punud, Madamba, 489
+Tambo, Madamba, 882
+Tubaran, Madamba, 528
+Tuca, Madamba, 1,209
+Tulay, Madamba, 515
+Uyaan Proper (Poblacion), Madamba, 1,850
+Agagan, Maguing, 603
+Balagunun, Maguing, 776
+Balawag, Maguing, 451
+Balintao, Maguing, 936
+Bato‑bato, Maguing, 2,103
+Bolao, Maguing, 1,082
+Borocot, Maguing, 518
+Borrowa, Maguing, 379
+Botud, Maguing, 844
+Buadiangkay, Maguing, 677
+Bubong, Maguing, 530
+Bubong Bayabao, Maguing, 725
+Camalig, Maguing, 720
+Cambong, Maguing, 366
+Dilausan (Poblacion), Maguing, 701
+Dilimbayan, Maguing, 695
+Ilalag, Maguing, 684
+Kianodan, Maguing, 607
+Lilod Borocot, Maguing, 500
+Lilod Maguing, Maguing, 617
+Lumbac, Maguing, 503
+Lumbac‑Dimarao, Maguing, 594
+Madanding, Maguing, 618
+Madaya, Maguing, 1,192
+Maguing Proper, Maguing, 1,238
+Malungun, Maguing, 1,098
+Malungun Borocot, Maguing, 727
+Malungun Pagalongan, Maguing, 345
+Pagalongan, Maguing, 751
+Panayangan, Maguing, 347
+Pilimoknan, Maguing, 628
+Pindolonan, Maguing, 737
+Ragayan (Rungayan), Maguing, 466
+Sabala Dilausan, Maguing, 773
+Bacayawan, Malabang, 1,110
+Badak Lumao, Malabang, 792
+Bagoaingud, Malabang, 838
+Banday, Malabang, 1,767
+Betayan, Malabang, 700
+Boniga, Malabang, 1,014
+BPS Village, Malabang, 1,506
+Bunk House, Malabang, 1,196
+Cabasaran (South), Malabang, 1,367
+Calibagat, Malabang, 835
+Calumbog, Malabang, 517
+Campo Muslim, Malabang, 2,350
+China Town (Poblacion), Malabang, 2,181
+Corahab, Malabang, 2,846
+Diamaro, Malabang, 868
+Inandayan, Malabang, 658
+Jose Abad Santos, Malabang, 2,438
+Lamin, Malabang, 869
+Mable, Malabang, 887
+Macuranding, Malabang, 932
+Madaya, Malabang, 889
+Mananayo, Malabang, 1,021
+Manggahan, Malabang, 909
+Masao, Malabang, 735
+Matalin, Malabang, 3,176
+Matampay, Malabang, 795
+Matling, Malabang, 996
+Montay, Malabang, 1,014
+Pasir, Malabang, 1,034
+Pialot, Malabang, 773
+Rebocun, Malabang, 444
+Sarang, Malabang, 546
+Sumbagarogong, Malabang, 901
+Tacub, Malabang, 555
+Tambara, Malabang, 926
+Tiongcop, Malabang, 1,120
+Tuboc, Malabang, 2,452
+Bacayawan, Marantao, 1,180
+Bacong, Marantao, 1,039
+Banga‑Pantar, Marantao, 751
+Batal‑Punud, Marantao, 1,310
+Bubong Madanding (Bubong), Marantao, 815
+Camalig (Poblacion), Marantao, 913
+Camalig Bandara Ingud, Marantao, 811
+Camalig Bubong, Marantao, 1,210
+Cawayan, Marantao, 620
+Cawayan Bacolod, Marantao, 803
+Cawayan Kalaw, Marantao, 1,541
+Cawayan Linuk, Marantao, 769
+Daanaingud, Marantao, 991
+Ilian, Marantao, 1,152
+Inudaran Campong, Marantao, 1,787
+Inudaran Loway, Marantao, 663
+Inudaran Lumbac, Marantao, 1,105
+Kialdan, Marantao, 942
+Lubo, Marantao, 896
+Lumbac Kialdan, Marantao, 906
+Mantapoli, Marantao, 2,110
+Matampay, Marantao, 551
+Maul, Marantao, 602
+Maul Ilian, Marantao, 835
+Maul Lumbaca Ingud, Marantao, 931
+Nataron, Marantao, 992
+Pagalongan Bacayawan, Marantao, 837
+Palao, Marantao, 1,014
+Pataimas, Marantao, 935
+Poblacion, Marantao, 747
+Poona Marantao, Marantao, 989
+Punud Proper, Marantao, 818
+Tacub, Marantao, 595
+Tuca Kialdan, Marantao, 814
+Ambolong, Marawi, 1,085
+Amito Marantao, Marawi, 1,224
+Bacolod Chico Proper, Marawi, 1,075
+Banga, Marawi, 1,164
+Bangco, Marawi, 1,653
+Banggolo Poblacion, Marawi, 3,321
+Bangon, Marawi, 2,165
+Basak Malutlut, Marawi, 2,827
+Beyaba‑Damag, Marawi, 2,173
+Bito Buadi Itowa, Marawi, 902
+Bito Buadi Parba, Marawi, 1,323
+Boganga, Marawi, 1,453
+Boto Ambolong, Marawi, 1,801
+Buadi Sacayo (Green), Marawi, 3,020
+Bubong Lumbac, Marawi, 563
+Bubonga Cadayonan, Marawi, 788
+Bubonga Lilod Madaya, Marawi, 2,699
+Bubonga Marawi, Marawi, 1,920
+Bubonga Pagalamatan, Marawi, 922
+Bubonga Punod, Marawi, 649
+Cabasaran, Marawi, 2,736
+Cabingan, Marawi, 4,222
+Cadayonan, Marawi, 3,225
+Cadayonan I, Marawi, 1,217
+Calocan East, Marawi, 1,342
+Calocan West, Marawi, 1,164
+Daguduban, Marawi, 6,896
+Dansalan, Marawi, 2,751
+Datu Naga, Marawi, 2,341
+Datu sa Dansalan, Marawi, 3,675
+Dayawan, Marawi, 729
+Dimaluna, Marawi, 6,516
+Dulay, Marawi, 1,684
+Dulay West, Marawi, 831
+East Basak, Marawi, 1,613
+Emie Punud, Marawi, 1,802
+Fort, Marawi, 1,671
+Gadongan, Marawi, 1,640
+Gadongan Mapantao, Marawi, 1,412
+Guimba (Lilod Proper), Marawi, 1,980
+Kapantaran, Marawi, 2,438
+Kilala, Marawi, 1,277
+Kormatan Matampay, Marawi, 1,394
+Lilod Madaya (Poblacion), Marawi, 3,066
+Lilod Saduc, Marawi, 3,904
+Lomidong, Marawi, 5,470
+Lumbac Marinaut, Marawi, 1,277
+Lumbaca Madaya (Poblacion), Marawi, 2,343
+Lumbaca Toros, Marawi, 581
+Malimono, Marawi, 2,711
+Marawi Poblacion, Marawi, 4,002
+Marinaut East, Marawi, 1,291
+Marinaut West, Marawi, 1,932
+Matampay, Marawi, 3,508
+Mipaga Proper, Marawi, 1,896
+Moncado Colony, Marawi, 3,573
+Moncado Kadingilan, Marawi, 5,483
+Moriatao Loksadato, Marawi, 2,099
+Navarro (Datu Saber), Marawi, 3,415
+Norhaya Village, Marawi, 3,206
+Olawa Ambolong, Marawi, 772
+Pagalamatan Gambai, Marawi, 1,334
+Pagayawan, Marawi, 1,043
+Panggao Saduc, Marawi, 4,025
+Pantaon (Langcaf), Marawi, 696
+Papandayan, Marawi, 1,862
+Papandayan Caniogan, Marawi, 2,027
+Paridi, Marawi, 862
+Patani, Marawi, 1,517
+Pindolonan, Marawi, 1,053
+Poona Marantao, Marawi, 1,197
+Pugaan, Marawi, 1,562
+Rapasun MSU, Marawi, 3,365
+Raya Madaya I, Marawi, 2,272
+Raya Madaya II, Marawi, 1,281
+Raya Saduc, Marawi, 2,558
+Rorogagus East, Marawi, 1,587
+Rorogagus Proper, Marawi, 4,751
+Sabala Manao, Marawi, 2,745
+Sabala Manao Proper, Marawi, 2,331
+Saduc Proper, Marawi, 2,569
+Sagonsongan, Marawi, 500
+Sangcay Dansalan, Marawi, 2,484
+Somiorang, Marawi, 539
+South Madaya Proper, Marawi, 1,396
+Sugod Proper, Marawi, 2,901
+Tampilong, Marawi, 1,725
+Timbangalan, Marawi, 1,422
+Tolali, Marawi, 2,879
+Tongantongan‑Tuca Timbangalan, Marawi, 445
+Toros, Marawi, 1,173
+Tuca, Marawi, 810
+Tuca Ambolong, Marawi, 1,301
+Tuca Marinaut, Marawi, 1,347
+Wawalayan Calocan, Marawi, 2,185
+Wawalayan Marinaut, Marawi, 2,229
+Bagumbayan, Marogong, 842
+Balut, Marogong, 839
+Bitayan, Marogong, 525
+Bolawan, Marogong, 1,249
+Bonga, Marogong, 548
+Cabasaran, Marogong, 549
+Cadayonan, Marogong, 626
+Cahera, Marogong, 1,001
+Cairantang, Marogong, 884
+Calumbog, Marogong, 661
+Canibongan, Marogong, 852
+Diragun, Marogong, 567
+Mantailoco, Marogong, 515
+Mapantao, Marogong, 664
+Marogong East, Marogong, 1,461
+Marogong Proper (Poblacion), Marogong, 3,466
+Mayaman, Marogong, 783
+Pabrica, Marogong, 719
+Paigoay Coda, Marogong, 663
+Pasayanan, Marogong, 614
+Piangologan, Marogong, 1,240
+Puracan, Marogong, 375
+Romagondong, Marogong, 979
+Sarang, Marogong, 697
+Abdullah Buisan, Masiu, 689
+Alip Lalabuan, Masiu, 768
+Alumpang Paino Mimbalay, Masiu, 546
+Buadi Amloy, Masiu, 1,828
+Caramian Alim Raya, Masiu, 469
+Dalog Balut, Masiu, 738
+Gindolongan Alabat, Masiu, 442
+Gondarangin Asa Adigao, Masiu, 930
+Kalilangan, Masiu, 609
+Laila Lumbac Bacon, Masiu, 1,001
+Lakadun, Masiu, 1,560
+Lanco Dimapatoy, Masiu, 601
+Lomigis Sucod, Masiu, 656
+Lumbaca Ingud, Masiu, 635
+Macabangan Imbala, Masiu, 783
+Macadaag Talaguian, Masiu, 913
+Macalupang Lumbac Caramian, Masiu, 524
+Macompara Apa Mimbalay, Masiu, 773
+Magayo Bagoaingud, Masiu, 661
+Mai Ditimbang Balindong, Masiu, 712
+Mai Sindaoloan Dansalan, Masiu, 612
+Manalocon Talub, Masiu, 797
+Maranat Bontalis, Masiu, 411
+Matao Araza, Masiu, 561
+Mocamad Tangul, Masiu, 550
+Moriatao‑Bai Labay, Masiu, 862
+Pantao, Masiu, 2,158
+Putad Marandang Buisan, Masiu, 681
+Sambowang Atawa, Masiu, 681
+Sawir, Masiu, 1,455
+Talub Langi, Masiu, 1,532
+Tamboro Cormatan, Masiu, 783
+Tomambiling Lumbaca Ingud, Masiu, 715
+Towanao Arangga, Masiu, 791
+Unda Dayawan, Masiu, 749
+Bagoaingud, Mulondo, 650
+Bangon, Mulondo, 602
+Buadi‑Abala, Mulondo, 640
+Buadi‑Bayawa, Mulondo, 797
+Buadi‑Insuba, Mulondo, 515
+Bubong, Mulondo, 610
+Bubonga Guilopa, Mulondo, 584
+Cabasaran, Mulondo, 847
+Cairatan, Mulondo, 397
+Cormatan, Mulondo, 618
+Dalama, Mulondo, 626
+Dansalan, Mulondo, 681
+Dimarao, Mulondo, 554
+Guilopa, Mulondo, 587
+Ilian, Mulondo, 707
+Kitambugun, Mulondo, 421
+Lama (Bagoaingud), Mulondo, 600
+Lilod, Mulondo, 485
+Lilod Raybalai, Mulondo, 875
+Lumbac (Lumbac Bubong), Mulondo, 592
+Lumbaca Ingud, Mulondo, 470
+Madaya, Mulondo, 510
+Pindolonan, Mulondo, 595
+Poblacion (Dado), Mulondo, 886
+Salipongan, Mulondo, 565
+Sugan, Mulondo, 653
+Ayong, Pagayawan, 757
+Bandara Ingud, Pagayawan, 827
+Bangon (Poblacion), Pagayawan, 706
+Biala‑an, Pagayawan, 391
+Diampaca, Pagayawan, 545
+Guiarong, Pagayawan, 822
+Ilian, Pagayawan, 529
+Kalaludan, Pagayawan, 706
+Linindingan, Pagayawan, 613
+Madang, Pagayawan, 487
+Mapantao, Pagayawan, 633
+Ngingir (Kabasaran), Pagayawan, 1,690
+Padas, Pagayawan, 950
+Paigoay, Pagayawan, 698
+Pinalangca, Pagayawan, 943
+Poblacion (Lumbac), Pagayawan, 652
+Rangiran, Pagayawan, 600
+Rubokun, Pagayawan, 590
+Aposong, Piagapo, 466
+Bagoaingud, Piagapo, 520
+Bangco (Poblacion), Piagapo, 494
+Bansayan, Piagapo, 609
+Basak, Piagapo, 799
+Bobo, Piagapo, 811
+Bualan, Piagapo, 1,263
+Bubong Ilian, Piagapo, 387
+Bubong Tawa‑an, Piagapo, 583
+Bubonga Mamaanun, Piagapo, 515
+Gacap, Piagapo, 693
+Ilian, Piagapo, 496
+Ilian Poblacion, Piagapo, 750
+Kalanganan, Piagapo, 976
+Katumbacan, Piagapo, 396
+Lininding, Piagapo, 961
+Lumbaca Mamaan, Piagapo, 398
+Mamaanun, Piagapo, 664
+Mentring, Piagapo, 729
+Olango, Piagapo, 632
+Palacat, Piagapo, 1,203
+Palao, Piagapo, 609
+Paling, Piagapo, 654
+Pantaon, Piagapo, 521
+Pantar, Piagapo, 806
+Paridi, Piagapo, 654
+Pindolonan, Piagapo, 643
+Radapan, Piagapo, 447
+Radapan Poblacion, Piagapo, 499
+Rantian, Piagapo, 605
+Sapingit, Piagapo, 515
+Talao, Piagapo, 815
+Tambo, Piagapo, 818
+Tapocan, Piagapo, 686
+Taporug, Piagapo, 839
+Tawaan, Piagapo, 649
+Udalo, Piagapo, 1,335
+Anas, Picong, 560
+Bara‑as, Picong, 1,531
+Biasong, Picong, 595
+Bulangos, Picong, 866
+Durian, Picong, 826
+Ilian, Picong, 597
+Liangan (Poblacion), Picong, 1,023
+Maganding, Picong, 1,467
+Maladi, Picong, 1,446
+Mapantao, Picong, 973
+Micalubo, Picong, 844
+Mimbalawag, Picong, 555
+Pindolonan, Picong, 601
+Punong, Picong, 894
+Ramitan, Picong, 726
+Torogan, Picong, 447
+Tual, Picong, 592
+Tuca, Picong, 916
+Ubanoban, Picong, 1,156
+Ataragadong, Poona Bayabao, 721
+Bangon, Poona Bayabao, 456
+Bansayan, Poona Bayabao, 1,295
+Bualan, Poona Bayabao, 689
+Bubong‑Dimunda, Poona Bayabao, 1,020
+Bugaran, Poona Bayabao, 644
+Cadayonan, Poona Bayabao, 1,050
+Calilangan Dicala, Poona Bayabao, 595
+Calupaan, Poona Bayabao, 588
+Dilausan, Poona Bayabao, 494
+Dimayon, Poona Bayabao, 882
+Dongcoan, Poona Bayabao, 515
+Gadongan, Poona Bayabao, 942
+Liangan, Poona Bayabao, 1,021
+Lumbac, Poona Bayabao, 575
+Lumbaca Ingud, Poona Bayabao, 694
+Madanding, Poona Bayabao, 1,027
+Pantao, Poona Bayabao, 667
+Poblacion (Gata Proper), Poona Bayabao, 2,229
+Punud, Poona Bayabao, 898
+Ragayan, Poona Bayabao, 2,379
+Rogan Cairan, Poona Bayabao, 862
+Rogan Tandiong Dimayon, Poona Bayabao, 597
+Talaguian, Poona Bayabao, 898
+Taporog, Poona Bayabao, 489
+Badak, Pualas, 299
+Bantayan, Pualas, 595
+Basagad, Pualas, 529
+Bolinsong, Pualas, 581
+Boring, Pualas, 440
+Bualan, Pualas, 413
+Danugan, Pualas, 802
+Dapao, Pualas, 1,005
+Diamla, Pualas, 550
+Gadongan, Pualas, 599
+Ingud, Pualas, 918
+Linuk, Pualas, 605
+Lumbac, Pualas, 415
+Maligo, Pualas, 458
+Masao, Pualas, 360
+Notong, Pualas, 506
+Porug, Pualas, 524
+Romagondong, Pualas, 385
+Tambo (Poblacion), Pualas, 834
+Tamlang, Pualas, 408
+Tomarompong, Pualas, 366
+Tuka, Pualas, 492
+Yaran, Pualas, 782
+Alinun, Saguiaran, 601
+Bagoaingud, Saguiaran, 714
+Basak Maito, Saguiaran, 899
+Batangan, Saguiaran, 829
+Bubong, Saguiaran, 1,408
+Cadayon, Saguiaran, 1,089
+Cadingilan, Saguiaran, 587
+Comonal, Saguiaran, 684
+Dilausan, Saguiaran, 819
+Dilimbayan, Saguiaran, 783
+Gadongan, Saguiaran, 534
+Limogao, Saguiaran, 526
+Linao, Saguiaran, 692
+Lumbac Toros, Saguiaran, 836
+Lumbayanague, Saguiaran, 754
+Maliwanag, Saguiaran, 762
+Mapantao, Saguiaran, 696
+Mipaga, Saguiaran, 593
+Natangcopan, Saguiaran, 409
+Pagalamatan, Saguiaran, 590
+Pamacotan, Saguiaran, 688
+Panggao, Saguiaran, 541
+Pantao Raya, Saguiaran, 532
+Pantaon, Saguiaran, 733
+Patpangkat, Saguiaran, 1,385
+Pawak, Saguiaran, 2,305
+Pindolonan, Saguiaran, 500
+Poblacion, Saguiaran, 1,996
+Salocad, Saguiaran, 591
+Sungcod, Saguiaran, 543
+Bacayawan, Sultan Dumalondong, 2,536
+Buta (Sumalindao), Sultan Dumalondong, 1,353
+Dinganun Guilopa (Dingunun), Sultan Dumalondong, 1,646
+Lumbac, Sultan Dumalondong, 1,308
+Malalis, Sultan Dumalondong, 2,335
+Pagalongan, Sultan Dumalondong, 1,092
+Tagoranao, Sultan Dumalondong, 1,028
+Bagoaingud, Tagoloan II, 695
+Bantalan, Tagoloan II, 496
+Bayog, Tagoloan II, 539
+Cadayonan, Tagoloan II, 545
+Dagonalan, Tagoloan II, 460
+Dimalama, Tagoloan II, 581
+Gayakay, Tagoloan II, 501
+Inodaran, Tagoloan II, 505
+Kalilangan, Tagoloan II, 476
+Kianibong, Tagoloan II, 515
+Kingan, Tagoloan II, 538
+Kitaon, Tagoloan II, 374
+Maimbaguiang, Tagoloan II, 1,110
+Malinao, Tagoloan II, 612
+Malingon, Tagoloan II, 912
+Mama‑an Pagalongan, Tagoloan II, 524
+Marawi, Tagoloan II, 424
+Sigayan, Tagoloan II, 551
+Tagoloan Poblacion, Tagoloan II, 811
+Balutmadiar, Tamparan, 706
+Bangon, Tamparan, 584
+Beruar, Tamparan, 660
+Bocalan, Tamparan, 507
+Cabasaran, Tamparan, 459
+Dasomalong, Tamparan, 464
+Dilausan, Tamparan, 722
+Ginaopan, Tamparan, 659
+Lalabuan, Tamparan, 641
+Lilod Tamparan, Tamparan, 696
+Lilod Tubok, Tamparan, 633
+Lindongan, Tamparan, 370
+Linuk, Tamparan, 1,036
+Linuk Oriental, Tamparan, 635
+Lumbac, Tamparan, 526
+Lumbaca Ingud, Tamparan, 534
+Lumbaca Lilod, Tamparan, 660
+Lumbacaingud South, Tamparan, 408
+Maidan Linuk, Tamparan, 546
+Mala‑abangon, Tamparan, 479
+Maliwanag, Tamparan, 331
+Mariatao Datu, Tamparan, 642
+Minanga, Tamparan, 361
+Miondas, Tamparan, 655
+New Lumbacaingud, Tamparan, 480
+Occidental Linuk, Tamparan, 622
+Pagalamatan Linuk, Tamparan, 765
+Pagayawan, Tamparan, 551
+Picarabawan, Tamparan, 438
+Pimbago‑Pagalongan, Tamparan, 494
+Pindolonan Mariatao Sarip, Tamparan, 609
+Poblacion I, Tamparan, 787
+Poblacion II, Tamparan, 724
+Poblacion III, Tamparan, 663
+Poblacion IV, Tamparan, 605
+Raya Buadi Barao, Tamparan, 693
+Raya Niondas, Tamparan, 342
+Raya Tamparan, Tamparan, 549
+Salongabanding, Tamparan, 591
+Saminunggay, Tamparan, 535
+Talub, Tamparan, 378
+Tatayawan North, Tamparan, 816
+Tatayawan South, Tamparan, 676
+Tubok, Tamparan, 642
+Bandera Buisan, Taraka, 343
+Boriongan, Taraka, 407
+Borowa, Taraka, 477
+Buadi Amao, Taraka, 430
+Buadi Amunta, Taraka, 266
+Buadi Amunud, Taraka, 394
+Buadi Arorao, Taraka, 366
+Buadi Atopa, Taraka, 312
+Buadi Dayomangga, Taraka, 624
+Buadi Dingun, Taraka, 583
+Buadi Ongcalo, Taraka, 1,508
+Bucalan, Taraka, 451
+Cadayonan Bagumbayan, Taraka, 1,736
+Caramat, Taraka, 448
+Carandangan Calopaan, Taraka, 622
+Datu Ma‑as, Taraka, 384
+Dilabayan, Taraka, 600
+Dimayon, Taraka, 710
+Gapao Balindong, Taraka, 409
+Ilian, Taraka, 498
+Lumasa, Taraka, 383
+Lumasa Proper (Salvador Concha), Taraka, 378
+Lumbac Bagoaingud, Taraka, 401
+Lumbac Bubong Maindang, Taraka, 411
+Lumbac Pitakus, Taraka, 491
+Malungun, Taraka, 457
+Mangayao, Taraka, 553
+Maruhom, Taraka, 526
+Masolun, Taraka, 589
+Moriatao Loksa Datu, Taraka, 1,193
+Pagalamatan, Taraka, 729
+Pindolonan, Taraka, 515
+Pitakus, Taraka, 614
+Ririk, Taraka, 416
+Salipongan, Taraka, 532
+Sambolawan, Taraka, 629
+Samporna Salamatollah, Taraka, 418
+Sigayan Proper, Taraka, 438
+Somiorang Bandingun, Taraka, 401
+Sunding, Taraka, 545
+Sunggod, Taraka, 543
+Supangan, Taraka, 617
+Tupa‑an Buadiatupa, Taraka, 297
+Alog, Tubaran, 708
+Bagiangun, Tubaran, 583
+Beta, Tubaran, 1,375
+Campo, Tubaran, 572
+Datumanong, Tubaran, 578
+Dinaigan, Tubaran, 502
+Gadongan, Tubaran, 483
+Gaput, Tubaran, 525
+Guiarong, Tubaran, 629
+Madaya, Tubaran, 561
+Malaganding, Tubaran, 791
+Metadicop, Tubaran, 468
+Mindamudag, Tubaran, 607
+Pagalamatan, Tubaran, 967
+Paigoay‑Pimbataan, Tubaran, 703
+Poblacion (Buribid), Tubaran, 831
+Polo, Tubaran, 809
+Riantaran, Tubaran, 585
+Tangcal, Tubaran, 1,434
+Tubaran Proper, Tubaran, 608
+Wago, Tubaran, 430
+Bagoaingud, Tugaya, 1,284
+Buadi Alawang, Tugaya, 740
+Buadi Dico, Tugaya, 642
+Bubong, Tugaya, 1,090
+Campong Talao, Tugaya, 1,221
+Cayagan, Tugaya, 1,456
+Dandanun, Tugaya, 692
+Dilimbayan, Tugaya, 2,096
+Gurain, Tugaya, 860
+Lumbac, Tugaya, 816
+Maidan, Tugaya, 957
+Mapantao, Tugaya, 745
+Pagalamatan, Tugaya, 1,023
+Pandiaranao, Tugaya, 1,465
+Pindolonan I, Tugaya, 694
+Pindolonan II, Tugaya, 624
+Poblacion (Ingud), Tugaya, 1,586
+Putad, Tugaya, 1,095
+Raya, Tugaya, 1,055
+Sugod I, Tugaya, 779
+Sugod Mawatan, Tugaya, 838
+Sumbaga Rogong, Tugaya, 1,144
+Tangcal, Tugaya, 912
+Amoyong, Wao, 1,435
+Balatin, Wao, 731
+Banga, Wao, 1,539
+Bo‑ot, Wao, 1,299
+Buntongun, Wao, 1,084
+Cebuano Group, Wao, 1,705
+Christian Village, Wao, 1,539
+Eastern Wao, Wao, 2,940
+Extension Poblacion, Wao, 2,313
+Gata, Wao, 1,232
+Kabatangan, Wao, 1,509
+Kadingilan, Wao, 1,239
+Katutungan (Poblacion), Wao, 2,230
+Kilikili East, Wao, 2,466
+Kilikili West, Wao, 2,650
+Malaigang, Wao, 931
+Manila Group, Wao, 2,814
+Milaya, Wao, 2,078
+Mimbuaya, Wao, 953
+Muslim Village, Wao, 956
+Pagalongan, Wao, 2,589
+Panang, Wao, 856
+Park Area (Poblacion), Wao, 3,728
+Pilintangan, Wao, 1,872
+Serran Village, Wao, 677
+Western Wao (Poblacion), Wao, 2,497

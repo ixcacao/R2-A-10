@@ -1,0 +1,100 @@
+Benglen, Basilisa, 1,053
+Catadman, Basilisa, 975
+Columbus, Basilisa, 429
+Coring, Basilisa, 564
+Cortes, Basilisa, 1,382
+Diegas, Basilisa, 1,207
+Doña Helene, Basilisa, 2,869
+Edera, Basilisa, 1,087
+Ferdinand, Basilisa, 1,877
+Geotina, Basilisa, 1,328
+Imee (Bactasan), Basilisa, 710
+Melgar, Basilisa, 1,803
+Montag, Basilisa, 1,963
+Navarro, Basilisa, 1,719
+New Nazareth, Basilisa, 1,205
+Poblacion, Basilisa, 612
+Puerto Princesa, Basilisa, 1,903
+Rita Glenda, Basilisa, 1,508
+Roma, Basilisa, 899
+Roxas, Basilisa, 1,212
+Santa Monica, Basilisa, 631
+Santo Niño, Basilisa, 1,417
+Sering, Basilisa, 3,192
+Sombrado, Basilisa, 661
+Tag‑abaca, Basilisa, 3,148
+Villa Ecleo, Basilisa, 955
+Villa Pantinople, Basilisa, 571
+Boa, Cagdianao, 979
+Cabunga‑an, Cagdianao, 1,164
+Del Pilar, Cagdianao, 1,757
+Laguna, Cagdianao, 659
+Legaspi, Cagdianao, 946
+Ma‑atas, Cagdianao, 886
+Mabini (Borja), Cagdianao, 914
+Nueva Estrella, Cagdianao, 668
+Poblacion, Cagdianao, 3,329
+R. Ecleo, Sr., Sr., 1,643
+San Jose, Cagdianao, 354
+Santa Rita, Cagdianao, 534
+Tigbao, Cagdianao, 1,143
+Valencia, Cagdianao, 1,832
+Bagumbayan, Dinagat, 1,089
+Cabayawan, Dinagat, 523
+Cab‑ilan, Dinagat, 1,190
+Cayetano, Dinagat, 561
+Escolta (Poblacion), Dinagat, 999
+Gomez, Dinagat, 842
+Justiniana Edera, Dinagat, 684
+Magsaysay, Dinagat, 801
+Mauswagon (Poblacion), Dinagat, 367
+New Mabuhay, Dinagat, 1,557
+Wadas, Dinagat, 1,059
+White Beach (Poblacion), Dinagat, 960
+Albor (Poblacion), Libjo, 1,511
+Arellano, Libjo, 604
+Bayanihan, Libjo, 916
+Doña Helen, Libjo, 409
+Garcia, Libjo, 1,497
+General Aguinaldo (Bolod-bolod), Libjo, 1,868
+Kanihaan, Libjo, 145
+Llamera, Libjo, 1,134
+Magsaysay, Libjo, 493
+Osmeña, Libjo, 338
+Plaridel, Libjo, 1,895
+Quezon, Libjo, 589
+Rosita, Libjo, 1,047
+San Antonio (Poblacion), Libjo, 2,751
+San Jose, Libjo, 1,639
+Santo Niño, Libjo, 924
+Carmen (Poblacion), Loreto, 1,376
+Esperanza, Loreto, 1,207
+Ferdinand, Loreto, 205
+Helene, Loreto, 278
+Liberty, Loreto, 678
+Magsaysay, Loreto, 295
+Panamaon, Loreto, 1,332
+San Juan (Poblacion), Loreto, 1,524
+Santa Cruz (Poblacion), Loreto, 689
+Santiago (Poblacion), Loreto, 1,725
+Aurelio, San Jose, 3,944
+Cuarinta, San Jose, 1,461
+Don Ruben Ecleo (Baltazar), San Jose, 2,543
+Jacquez, San Jose, 1,051
+Justiniana Edera, San Jose, 1,633
+Luna, San Jose, 1,174
+Mahayahay, San Jose, 2,393
+Matingbe, San Jose, 1,122
+San Jose (Poblacion), San Jose, 5,223
+San Juan, San Jose, 2,279
+Santa Cruz, San Jose, 3,006
+Wilson, San Jose, 1,658
+Diaz (Romualdez), Tubajon, 611
+Imelda, Tubajon, 806
+Mabini, Tubajon, 1,204
+Malinao, Tubajon, 1,969
+Navarro, Tubajon, 370
+Roxas, Tubajon, 392
+San Roque (Poblacion), Tubajon, 444
+San Vicente (Poblacion), Tubajon, 835
+Santa Cruz (Poblacion), Tubajon, 1,645

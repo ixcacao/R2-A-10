@@ -1,0 +1,601 @@
+Abuanan, Bago, 5,700
+Alianza, Bago, 3,211
+Atipuluan, Bago, 4,269
+Bacong‑Montilla, Bago, 7,844
+Bagroy, Bago, 1,694
+Balingasag, Bago, 4,498
+Binubuhan, Bago, 5,581
+Busay, Bago, 6,806
+Calumangan, Bago, 7,929
+Caridad, Bago, 4,001
+Dulao, Bago, 10,111
+Ilijan, Bago, 3,009
+Jorge L. Araneta (Ma-ao Central), Bago, 9,457
+Lag‑Asan, Bago, 11,784
+Ma‑ao Barrio, Bago, 15,713
+Mailum, Bago, 8,844
+Malingin, Bago, 6,649
+Napoles, Bago, 6,564
+Pacol, Bago, 3,960
+Poblacion, Bago, 11,224
+Sagasa, Bago, 4,385
+Sampinit, Bago, 6,832
+Tabunan, Bago, 6,224
+Taloc, Bago, 14,692
+Amontay, Binalbagan, 2,775
+Bagroy, Binalbagan, 2,565
+Bi‑ao, Binalbagan, 7,559
+Canmoros (Poblacion), Binalbagan, 4,104
+Enclaro, Binalbagan, 7,990
+Marina (Poblacion), Binalbagan, 1,745
+Paglaum (Poblacion), Binalbagan, 3,044
+Payao, Binalbagan, 10,191
+Progreso (Poblacion), Binalbagan, 3,730
+San Jose, Binalbagan, 4,080
+San Juan (Poblacion), Binalbagan, 1,795
+San Pedro (Poblacion), Binalbagan, 3,403
+San Teodoro (Poblacion), Binalbagan, 2,089
+San Vicente (Poblacion), Binalbagan, 2,652
+Santo Rosario (Poblacion), Binalbagan, 3,056
+Santol, Binalbagan, 6,492
+Andres Bonifacio, Cadiz, 6,164
+Banquerohan, Cadiz, 7,760
+Barangay 1 Poblacion (Zone 1), Cadiz, 7,427
+Barangay 2 Poblacion (Zone 2), Cadiz, 8,977
+Barangay 3 Poblacion (Zone 3), Cadiz, 4,464
+Barangay 4 Poblacion (Zone 4), Cadiz, 5,242
+Barangay 5 Poblacion (Zone 5), Cadiz, 1,028
+Barangay 6 Poblacion (Zone 6), Cadiz, 7,451
+Burgos, Cadiz, 5,248
+Cabahug, Cadiz, 7,651
+Cadiz Viejo, Cadiz, 5,544
+Caduha‑an, Cadiz, 10,149
+Celestino Villacin, Cadiz, 3,340
+Daga, Cadiz, 16,256
+Jerusalem, Cadiz, 3,249
+Luna, Cadiz, 11,410
+Mabini, Cadiz, 9,419
+Magsaysay, Cadiz, 6,117
+Sicaba, Cadiz, 5,202
+Tiglawigan, Cadiz, 7,600
+Tinampa‑an, Cadiz, 12,970
+V. F. Gustilo, Cadiz, 2,055
+Agpangi, Calatrava, 2,329
+Ani‑e, Calatrava, 1,032
+Bagacay, Calatrava, 898
+Bantayanon, Calatrava, 3,968
+Buenavista, Calatrava, 2,202
+Cabungahan, Calatrava, 832
+Calampisawan, Calatrava, 2,433
+Cambayobo, Calatrava, 1,413
+Castellano, Calatrava, 1,782
+Cruz, Calatrava, 969
+Dolis, Calatrava, 2,333
+Hilub‑Ang, Calatrava, 2,348
+Hinab‑Ongan, Calatrava, 1,281
+Ilaya, Calatrava, 1,262
+Laga‑an, Calatrava, 2,629
+Lalong, Calatrava, 2,789
+Lemery, Calatrava, 1,346
+Lipat‑on, Calatrava, 1,450
+Lo‑ok (Poblacion), Calatrava, 2,126
+Ma‑aslob, Calatrava, 2,026
+Macasilao, Calatrava, 1,543
+Mahilum, Calatrava, 1,134
+Malanog, Calatrava, 1,027
+Malatas, Calatrava, 1,257
+Marcelo, Calatrava, 5,041
+Menchaca, Calatrava, 1,463
+Minapasuk, Calatrava, 6,725
+Mina‑utok, Calatrava, 2,350
+Paghumayan, Calatrava, 1,172
+Pantao, Calatrava, 883
+Patun‑an, Calatrava, 2,261
+Pinocutan, Calatrava, 1,475
+Refugio, Calatrava, 2,192
+San Benito, Calatrava, 1,229
+San Isidro, Calatrava, 3,072
+Suba (Poblacion), Calatrava, 4,736
+Telim, Calatrava, 1,282
+Tigbao, Calatrava, 1,721
+Tigbon, Calatrava, 1,360
+Winaswasan, Calatrava, 1,253
+Agboy, Candoni, 1,902
+Banga, Candoni, 1,853
+Cabia‑an, Candoni, 1,352
+Caningay, Candoni, 3,066
+Gatuslao, Candoni, 2,289
+Haba, Candoni, 2,335
+Payauan, Candoni, 2,326
+Poblacion East, Candoni, 3,386
+Poblacion West, Candoni, 3,280
+Abaca, Cauayan, 1,450
+Baclao, Cauayan, 946
+Basak, Cauayan, 3,566
+Bulata, Cauayan, 4,804
+Caliling, Cauayan, 5,527
+Camalanda‑an, Cauayan, 4,724
+Camindangan, Cauayan, 2,365
+Elihan, Cauayan, 1,486
+Guiljungan, Cauayan, 10,937
+Inayawan, Cauayan, 10,945
+Isio, Cauayan, 6,312
+Linaon, Cauayan, 3,577
+Lumbia, Cauayan, 1,672
+Mambugsay, Cauayan, 5,130
+Man‑Uling, Cauayan, 3,033
+Masaling, Cauayan, 3,757
+Molobolo, Cauayan, 1,513
+Poblacion, Cauayan, 9,678
+Sura, Cauayan, 605
+Talacdan, Cauayan, 4,401
+Tambad, Cauayan, 996
+Tiling, Cauayan, 4,379
+Tomina, Cauayan, 1,251
+Tuyom, Cauayan, 6,525
+Yao‑yao, Cauayan, 2,586
+Alacaygan, Enrique B. Magalona, 2,650
+Alicante, Enrique B. Magalona, 6,966
+Batea, Enrique B. Magalona, 1,390
+Canlusong, Enrique B. Magalona, 1,436
+Consing, Enrique B. Magalona, 4,768
+Cudangdang, Enrique B. Magalona, 1,421
+Damgo, Enrique B. Magalona, 2,108
+Gahit, Enrique B. Magalona, 2,272
+Latasan, Enrique B. Magalona, 1,709
+Madalag, Enrique B. Magalona, 2,678
+Manta‑angan, Enrique B. Magalona, 2,596
+Nanca, Enrique B. Magalona, 2,999
+Pasil, Enrique B. Magalona, 2,560
+Poblacion I (Barangay 1), Enrique B. Magalona, 2,810
+Poblacion II (Barangay 2), Enrique B. Magalona, 2,006
+Poblacion III (Barangay 3), Enrique B. Magalona, 3,142
+San Isidro, Enrique B. Magalona, 3,799
+San Jose, Enrique B. Magalona, 2,576
+Santo Niño, Enrique B. Magalona, 1,621
+Tabigue, Enrique B. Magalona, 3,394
+Tanza, Enrique B. Magalona, 3,531
+Tomongtong, Enrique B. Magalona, 1,594
+Tuburan, Enrique B. Magalona, 2,895
+Alimango, Escalante, 5,173
+Balintawak (Poblacion), Escalante, 15,893
+Binaguiohan, Escalante, 2,455
+Buenavista, Escalante, 3,844
+Cervantes, Escalante, 2,668
+Dian‑ay, Escalante, 4,844
+Hacienda Fe, Escalante, 2,542
+Japitan, Escalante, 2,689
+Jonobjonob, Escalante, 7,957
+Langub, Escalante, 3,065
+Libertad, Escalante, 2,604
+Mabini, Escalante, 7,625
+Magsaysay (Binabongol), Escalante, 1,502
+Malasibog, Escalante, 2,850
+Old Poblacion, Escalante, 11,304
+Paitan, Escalante, 1,638
+Pinapugasan, Escalante, 2,824
+Rizal, Escalante, 2,206
+Tamlang, Escalante, 2,417
+Udtongan, Escalante, 2,174
+Washington, Escalante, 5,796
+Aguisan, Himamaylan, 11,332
+Barangay I (Poblacion), Himamaylan, 1,587
+Barangay II (Poblacion), Himamaylan, 2,792
+Barangay III (Poblacion), Himamaylan, 5,374
+Barangay IV (Poblacion), Himamaylan, 5,215
+Buenavista, Himamaylan, 8,796
+Cabadiangan, Himamaylan, 5,167
+Cabanbanan, Himamaylan, 2,274
+Carabalan, Himamaylan, 10,088
+Caradio‑an, Himamaylan, 9,264
+Libacao, Himamaylan, 4,924
+Mahalang, Himamaylan, 4,537
+Mambagaton, Himamaylan, 4,825
+Nabali‑an, Himamaylan, 2,862
+San Antonio, Himamaylan, 3,558
+Sara‑et, Himamaylan, 3,840
+Su‑ay, Himamaylan, 8,403
+Talaban, Himamaylan, 7,667
+To‑oy, Himamaylan, 4,375
+Anahaw, Hinigaran, 3,428
+Aranda, Hinigaran, 3,121
+Baga‑as, Hinigaran, 3,354
+Barangay I (Poblacion), Hinigaran, 3,564
+Barangay II (Poblacion), Hinigaran, 4,036
+Barangay III (Poblacion), Hinigaran, 2,881
+Barangay IV (Poblacion), Hinigaran, 2,035
+Bato, Hinigaran, 2,839
+Calapi, Hinigaran, 3,387
+Camalobalo, Hinigaran, 2,853
+Camba‑og, Hinigaran, 3,146
+Cambugsa, Hinigaran, 1,225
+Candumarao, Hinigaran, 2,207
+Gargato, Hinigaran, 8,980
+Himaya, Hinigaran, 3,542
+Miranda, Hinigaran, 5,254
+Nanunga, Hinigaran, 6,958
+Narauis, Hinigaran, 2,477
+Palayog, Hinigaran, 1,019
+Paticui, Hinigaran, 2,573
+Pilar, Hinigaran, 4,600
+Quiwi, Hinigaran, 1,498
+Tagda, Hinigaran, 7,244
+Tuguis, Hinigaran, 3,381
+Alim, Hinoba-An, 4,841
+Asia, Hinoba-An, 8,001
+Bacuyangan, Hinoba-An, 7,503
+Barangay I (Poblacion), Hinoba-An, 3,418
+Barangay II (Poblacion), Hinoba-An, 2,490
+Bulwangan, Hinoba-An, 3,587
+Culipapa, Hinoba-An, 7,257
+Damutan, Hinoba-An, 1,610
+Daug, Hinoba-An, 1,374
+Po‑ok, Hinoba-An, 2,704
+San Rafael, Hinoba-An, 4,227
+Sangke, Hinoba-An, 2,674
+Talacagay, Hinoba-An, 7,133
+Andulauan, Ilog, 4,449
+Balicotoc, Ilog, 3,084
+Barangay I (Poblacion), Ilog, 5,311
+Barangay II (Poblacion), Ilog, 3,076
+Bocana, Ilog, 3,932
+Calubang, Ilog, 2,291
+Canlamay, Ilog, 3,264
+Consuelo, Ilog, 1,058
+Dancalan, Ilog, 7,839
+Delicioso, Ilog, 2,343
+Galicia, Ilog, 4,554
+Manalad, Ilog, 2,754
+Pinggot, Ilog, 3,037
+Tabu, Ilog, 6,791
+Vista Alegre, Ilog, 3,606
+Amin, Isabela, 1,318
+Banogbanog, Isabela, 1,377
+Barangay 1 (Poblacion), Isabela, 1,547
+Barangay 2 (Poblacion), Isabela, 1,335
+Barangay 3 (Poblacion), Isabela, 917
+Barangay 4 (Poblacion), Isabela, 1,097
+Barangay 5 (Poblacion), Isabela, 1,941
+Barangay 6 (Poblacion), Isabela, 763
+Barangay 7 (Poblacion), Isabela, 907
+Barangay 8 (Poblacion), Isabela, 1,804
+Barangay 9 (Poblacion), Isabela, 2,405
+Bulad, Isabela, 3,007
+Bungahin, Isabela, 1,594
+Cabcab, Isabela, 1,519
+Camangcamang, Isabela, 5,607
+Camp Clark, Isabela, 1,186
+Cansalongon, Isabela, 2,681
+Guintubhan, Isabela, 2,874
+Libas, Isabela, 1,404
+Limalima, Isabela, 1,400
+Makilignit, Isabela, 877
+Mansablay, Isabela, 3,462
+Maytubig, Isabela, 1,864
+Panaquiao, Isabela, 1,232
+Riverside, Isabela, 2,006
+Rumirang, Isabela, 1,813
+San Agustin, Isabela, 3,778
+Sebucawan, Isabela, 2,017
+Sikatuna, Isabela, 2,202
+Tinongan, Isabela, 6,212
+Bantayan, Kabankalan, 9,742
+Barangay 1 (Poblacion), Kabankalan, 5,919
+Barangay 2 (Poblacion), Kabankalan, 1,601
+Barangay 3 (Poblacion), Kabankalan, 1,541
+Barangay 4 (Poblacion), Kabankalan, 1,943
+Barangay 5 (Poblacion), Kabankalan, 1,049
+Barangay 6 (Poblacion), Kabankalan, 2,853
+Barangay 7 (Poblacion), Kabankalan, 607
+Barangay 8 (Poblacion), Kabankalan, 861
+Barangay 9 (Poblacion), Kabankalan, 2,643
+Binicuil, Kabankalan, 7,633
+Camansi, Kabankalan, 7,738
+Camingawan, Kabankalan, 9,110
+Camugao, Kabankalan, 2,909
+Carol‑an, Kabankalan, 6,566
+Daan Banua, Kabankalan, 4,592
+Hilamonan, Kabankalan, 13,869
+Inapoy, Kabankalan, 3,589
+Linao, Kabankalan, 2,749
+Locotan, Kabankalan, 5,205
+Magballo, Kabankalan, 5,701
+Oringao, Kabankalan, 11,477
+Orong, Kabankalan, 7,260
+Pinaguinpinan, Kabankalan, 4,328
+Salong, Kabankalan, 9,724
+Tabugon, Kabankalan, 10,507
+Tagoc, Kabankalan, 3,348
+Tagukon, Kabankalan, 4,294
+Talubangi, Kabankalan, 3,743
+Tampalon, Kabankalan, 12,107
+Tan‑Awan, Kabankalan, 6,733
+Tapi, Kabankalan, 10,036
+Ara‑al, La Carlota, 3,194
+Ayungon, La Carlota, 4,382
+Balabag, La Carlota, 2,689
+Barangay I (Poblacion), La Carlota, 4,069
+Barangay II (Poblacion), La Carlota, 7,454
+Barangay III (Poblacion), La Carlota, 6,370
+Batuan, La Carlota, 6,158
+Cubay, La Carlota, 5,080
+Haguimit, La Carlota, 3,958
+La Granja, La Carlota, 6,151
+Nagasi, La Carlota, 3,825
+Roberto S. Benedicto (Consuelo), La Carlota, 4,515
+San Miguel, La Carlota, 4,078
+Yubo, La Carlota, 2,546
+Biaknabato, La Castellana, 3,342
+Cabacungan, La Castellana, 7,415
+Cabagnaan, La Castellana, 3,716
+Camandag, La Castellana, 4,622
+Lalagsan, La Castellana, 3,072
+Manghanoy, La Castellana, 5,353
+Mansalanao, La Castellana, 2,805
+Masulog, La Castellana, 3,600
+Nato, La Castellana, 3,846
+Puso, La Castellana, 2,490
+Robles (Poblacion), La Castellana, 19,551
+Sag‑Ang, La Castellana, 13,103
+Talaptap, La Castellana, 1,940
+Barangay I (Poblacion), Manapla, 2,620
+Barangay I‑A (Poblacion), Manapla, 4,040
+Barangay I‑B (Poblacion), Manapla, 1,437
+Barangay II (Poblacion), Manapla, 1,932
+Barangay II‑A (Poblacion), Manapla, 1,429
+Chambery, Manapla, 3,094
+Punta Mesa, Manapla, 8,535
+Punta Salong, Manapla, 5,076
+Purisima, Manapla, 7,982
+San Pablo, Manapla, 8,964
+Santa Teresa, Manapla, 2,533
+Tortosa, Manapla, 7,203
+Barangay 1 (Poblacion), Moises Padilla, 1,156
+Barangay 2 (Poblacion), Moises Padilla, 122
+Barangay 3 (Poblacion), Moises Padilla, 444
+Barangay 4 (Poblacion), Moises Padilla, 1,180
+Barangay 5 (Poblacion), Moises Padilla, 494
+Barangay 6 (Poblacion), Moises Padilla, 952
+Barangay 7 (Poblacion), Moises Padilla, 938
+Crossing Magallon, Moises Padilla, 3,639
+Guinpana‑an, Moises Padilla, 4,063
+Inolingan, Moises Padilla, 5,367
+Macagahay, Moises Padilla, 2,767
+Magallon Cadre, Moises Padilla, 4,087
+Montilla, Moises Padilla, 3,902
+Odiong, Moises Padilla, 4,931
+Quintin Remo, Moises Padilla, 7,344
+Abo‑abo, Murcia, 2,550
+Alegria, Murcia, 3,584
+Amayco, Murcia, 2,078
+Blumentritt, Murcia, 12,141
+Buenavista, Murcia, 2,499
+Caliban, Murcia, 2,671
+Canlandog, Murcia, 3,766
+Cansilayan, Murcia, 4,517
+Damsite, Murcia, 2,811
+Iglau‑an, Murcia, 2,081
+Lopez Jaena, Murcia, 4,247
+Minoyan, Murcia, 11,092
+Pandanon, Murcia, 2,745
+Salvacion, Murcia, 5,738
+San Miguel, Murcia, 3,271
+Santa Cruz, Murcia, 3,672
+Santa Rosa, Murcia, 5,042
+Talotog, Murcia, 1,648
+Zone I (Poblacion), Murcia, 1,446
+Zone II (Poblacion), Murcia, 677
+Zone III (Poblacion), Murcia, 806
+Zone IV (Poblacion), Murcia, 1,138
+Zone V (Poblacion), Murcia, 1,066
+Antipolo, Pontevedra, 7,760
+Barangay I (Poblacion), Pontevedra, 2,075
+Barangay II (Poblacion), Pontevedra, 1,964
+Barangay III (Poblacion), Pontevedra, 2,616
+Buenavista Gibong, Pontevedra, 874
+Buenavista Rizal, Pontevedra, 882
+Burgos, Pontevedra, 740
+Cambarus, Pontevedra, 2,035
+Canroma, Pontevedra, 3,259
+Don Salvador Benedicto (Carmen), Pontevedra, 5,813
+General Malvar, Pontevedra, 1,945
+Gomez, Pontevedra, 912
+M. H. del Pilar, Pontevedra, 1,847
+Mabini, Pontevedra, 654
+Miranda, Pontevedra, 5,243
+Pandan, Pontevedra, 2,288
+Recreo, Pontevedra, 2,927
+San Isidro, Pontevedra, 2,871
+San Juan, Pontevedra, 4,090
+Zamora, Pontevedra, 1,071
+Barangay Zone 1 (Poblacion), Pulupandan, 1,581
+Barangay Zone 1‑A (Poblacion), Pulupandan, 1,417
+Barangay Zone 2 (Poblacion), Pulupandan, 2,295
+Barangay Zone 3 (Poblacion), Pulupandan, 738
+Barangay Zone 4 (Poblacion), Pulupandan, 1,516
+Barangay Zone 4‑A (Poblacion), Pulupandan, 1,004
+Barangay Zone 5 (Poblacion), Pulupandan, 1,388
+Barangay Zone 6 (Poblacion), Pulupandan, 2,940
+Barangay Zone 7 (Poblacion), Pulupandan, 1,211
+Canjusa, Pulupandan, 1,991
+Crossing Pulupandan, Pulupandan, 1,416
+Culo, Pulupandan, 506
+Mabini, Pulupandan, 1,013
+Pag‑ayon, Pulupandan, 981
+Palaka Norte, Pulupandan, 945
+Palaka Sur, Pulupandan, 1,002
+Patic, Pulupandan, 2,111
+Tapong, Pulupandan, 1,168
+Ubay, Pulupandan, 1,916
+Utod, Pulupandan, 596
+Andres Bonifacio, Sagay, 3,953
+Bato, Sagay, 6,142
+Baviera, Sagay, 2,601
+Bulanon, Sagay, 8,416
+Campo Himoga‑an, Sagay, 2,242
+Campo Santiago, Sagay, 2,855
+Colonia Divina, Sagay, 3,023
+Fabrica, Sagay, 4,965
+General Luna, Sagay, 3,747
+Himoga‑an Baybay, Sagay, 7,307
+Lopez Jaena, Sagay, 5,519
+Makiling, Sagay, 4,593
+Malubon, Sagay, 4,045
+Molocaboc, Sagay, 4,302
+Old Sagay, Sagay, 13,109
+Paraiso, Sagay, 16,741
+Plaridel, Sagay, 2,633
+Poblacion I (Barangay 1), Sagay, 11,231
+Poblacion II (Barangay 2), Sagay, 10,359
+Puey, Sagay, 3,357
+Rafaela Barrera, Sagay, 4,205
+Rizal, Sagay, 5,769
+Taba‑ao, Sagay, 5,330
+Tadlong, Sagay, 3,389
+Vito, Sagay, 6,431
+Bago (Lalung), Salvador Benedicto, 3,171
+Bagong Silang (Marcelo), Salvador Benedicto, 2,480
+Bunga, Salvador Benedicto, 6,954
+Igmaya‑an, Salvador Benedicto, 5,256
+Kumaliskis, Salvador Benedicto, 2,896
+Pandanon, Salvador Benedicto, 2,547
+Pinowayan (Prosperidad), Salvador Benedicto, 2,358
+Bagonbon, San Carlos, 5,150
+Barangay I (Poblacion), San Carlos, 10,643
+Barangay II (Poblacion), San Carlos, 7,033
+Barangay III (Poblacion), San Carlos, 3,301
+Barangay IV (Poblacion), San Carlos, 992
+Barangay V (Poblacion), San Carlos, 5,726
+Barangay VI (Poblacion), San Carlos, 5,786
+Buluangan, San Carlos, 12,217
+Codcod, San Carlos, 13,189
+Ermita, San Carlos, 2,232
+Guadalupe, San Carlos, 11,009
+Nataban, San Carlos, 3,854
+Palampas, San Carlos, 9,559
+Prosperidad, San Carlos, 5,141
+Punao, San Carlos, 6,328
+Quezon, San Carlos, 11,802
+Rizal, San Carlos, 15,837
+San Juan, San Carlos, 2,737
+Bagonawa, San Enrique, 1,501
+Baliwagan, San Enrique, 2,957
+Batuan, San Enrique, 1,265
+Guintorilan, San Enrique, 1,434
+Nayon, San Enrique, 1,098
+Poblacion, San Enrique, 7,181
+Sibucao, San Enrique, 2,753
+Tabao Baybay, San Enrique, 2,457
+Tabao Rizal, San Enrique, 2,243
+Tibsoc, San Enrique, 1,018
+Bagtic, Silay, 7,017
+Balaring, Silay, 5,615
+Barangay I (Poblacion), Silay, 1,498
+Barangay II (Poblacion), Silay, 3,096
+Barangay III (Poblacion), Silay, 990
+Barangay IV (Poblacion), Silay, 3,864
+Barangay V (Poblacion), Silay, 8,053
+Barangay VI Poblacion (Hawaiian), Silay, 5,628
+Eustaquio Lopez, Silay, 17,576
+Guimbala‑on, Silay, 10,391
+Guinhalaran, Silay, 15,600
+Kapitan Ramon, Silay, 5,549
+Lantad, Silay, 9,634
+Mambulac, Silay, 19,088
+Patag, Silay, 3,002
+Rizal, Silay, 10,329
+Barangay 1 (Poblacion), Sipalay, 338
+Barangay 2 (Poblacion), Sipalay, 3,910
+Barangay 3 (Poblacion), Sipalay, 1,883
+Barangay 4 (Poblacion), Sipalay, 2,804
+Barangay 5 (Poblacion), Sipalay, 3,263
+Cabadiangan, Sipalay, 3,849
+Camindangan, Sipalay, 7,419
+Canturay, Sipalay, 4,653
+Cartagena, Sipalay, 4,259
+Cayhagan, Sipalay, 3,226
+Gil Montilla, Sipalay, 6,252
+Mambaroto, Sipalay, 3,618
+Manlucahoc, Sipalay, 5,263
+Maricalum, Sipalay, 4,304
+Nabulao, Sipalay, 6,365
+Nauhang, Sipalay, 2,062
+San Jose, Sipalay, 6,602
+Bubog, Talisay, 3,138
+Cabatangan, Talisay, 3,383
+Concepcion, Talisay, 11,248
+Dos Hermanas, Talisay, 10,039
+Efigenio Lizares, Talisay, 4,496
+Katilingban, Talisay, 2,623
+Matab‑ang, Talisay, 8,297
+San Fernando, Talisay, 3,638
+Zone 1 (Poblacion), Talisay, 1,497
+Zone 10 (Poblacion), Talisay, 7,324
+Zone 11 (Poblacion), Talisay, 1,226
+Zone 12 (Poblacion), Talisay, 2,645
+Zone 12‑A (Poblacion), Talisay, 10,423
+Zone 14 (Poblacion), Talisay, 662
+Zone 14‑A (Poblacion), Talisay, 1,108
+Zone 14‑B (Poblacion), Talisay, 878
+Zone 15 (Poblacion), Talisay, 6,931
+Zone 16 (Poblacion), Talisay, 4,404
+Zone 2 (Poblacion), Talisay, 2,030
+Zone 3 (Poblacion), Talisay, 6,718
+Zone 4 (Poblacion), Talisay, 1,399
+Zone 4‑A (Poblacion), Talisay, 1,660
+Zone 5 (Poblacion), Talisay, 2,401
+Zone 6 (Poblacion), Talisay, 1,726
+Zone 7 (Poblacion), Talisay, 795
+Zone 8 (Poblacion), Talisay, 488
+Zone 9 (Poblacion), Talisay, 1,037
+Bandila, Toboso, 3,303
+Bug‑ang, Toboso, 6,295
+General Luna, Toboso, 4,702
+Magticol, Toboso, 2,702
+Poblacion, Toboso, 7,965
+Salamanca, Toboso, 4,897
+San Isidro, Toboso, 5,837
+San Jose, Toboso, 2,746
+Tabun‑ac, Toboso, 3,667
+Alijis, Valladolid, 2,695
+Ayungon, Valladolid, 1,246
+Bagumbayan, Valladolid, 3,510
+Batuan, Valladolid, 969
+Bayabas, Valladolid, 1,271
+Central Tabao, Valladolid, 3,382
+Doldol, Valladolid, 800
+Guintorilan, Valladolid, 1,049
+Lacaron, Valladolid, 2,073
+Mabini, Valladolid, 3,765
+Pacol, Valladolid, 2,081
+Palaka, Valladolid, 2,959
+Paloma, Valladolid, 1,339
+Poblacion, Valladolid, 3,711
+Sagua Banua, Valladolid, 3,032
+Tabao Proper, Valladolid, 3,951
+Barangay I (Poblacion), Victorias, 3,634
+Barangay II (Poblacion), Victorias, 1,185
+Barangay III (Poblacion), Victorias, 1,857
+Barangay IV (Poblacion), Victorias, 1,548
+Barangay IX (Daan Banwa), Victorias, 6,739
+Barangay V (Poblacion), Victorias, 2,190
+Barangay VI (Poblacion), Victorias, 7,144
+Barangay VI‑A, Victorias, 6,467
+Barangay VII (Poblacion), Victorias, 4,104
+Barangay VIII (Poblacion), Victorias, 4,631
+Barangay X (Estado), Victorias, 5,569
+Barangay XI (Gawahon), Victorias, 2,233
+Barangay XII, Victorias, 3,574
+Barangay XIII, Victorias, 7,068
+Barangay XIV, Victorias, 4,245
+Barangay XIX, Victorias, 1,895
+Barangay XIX‑A, Victorias, 7,019
+Barangay XV, Victorias, 235
+Barangay XV‑A, Victorias, 407
+Barangay XVI, Victorias, 330
+Barangay XVI‑A, Victorias, 69
+Barangay XVII, Victorias, 794
+Barangay XVIII, Victorias, 453
+Barangay XVIII‑A, Victorias, 1,804
+Barangay XX, Victorias, 7,442
+Barangay XXI, Victorias, 5,297

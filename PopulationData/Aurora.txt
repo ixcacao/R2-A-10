@@ -1,0 +1,151 @@
+Barangay I (Poblacion), Baler, 587
+Barangay II (Poblacion), Baler, 312
+Barangay III (Poblacion), Baler, 357
+Barangay IV (Poblacion), Baler, 363
+Barangay V (Poblacion), Baler, 1,718
+Buhangin, Baler, 5,310
+Calabuanan, Baler, 3,895
+Obligacion, Baler, 1,215
+Pingit, Baler, 5,913
+Reserva, Baler, 4,580
+Sabang, Baler, 4,833
+Suclayin, Baler, 6,341
+Zabali, Baler, 4,138
+Barangay 1 (Poblacion), Casiguran, 790
+Barangay 2 (Poblacion), Casiguran, 665
+Barangay 3 (Poblacion), Casiguran, 235
+Barangay 4 (Poblacion), Casiguran, 307
+Barangay 5 (Poblacion), Casiguran, 439
+Barangay 6 (Poblacion), Casiguran, 325
+Barangay 7 (Poblacion), Casiguran, 288
+Barangay 8 (Poblacion), Casiguran, 612
+Bianuan, Casiguran, 3,443
+Calabgan, Casiguran, 652
+Calangcuasan, Casiguran, 1,104
+Calantas, Casiguran, 1,916
+Cozo, Casiguran, 1,637
+Culat, Casiguran, 776
+Dibacong, Casiguran, 1,954
+Dibet, Casiguran, 973
+Ditinagyan, Casiguran, 591
+Esperanza, Casiguran, 502
+Esteves, Casiguran, 1,793
+Lual, Casiguran, 1,588
+Marikit, Casiguran, 735
+San Ildefonso, Casiguran, 1,115
+Tabas, Casiguran, 1,043
+Tinib, Casiguran, 830
+Diagyan, Dilasag, 2,418
+Dicabasan, Dilasag, 734
+Dilaguidi, Dilasag, 915
+Dimaseset, Dilasag, 1,420
+Diniog, Dilasag, 2,485
+Esperanza, Dilasag, 1,266
+Lawang, Dilasag, 511
+Maligaya (Poblacion), Dilasag, 1,869
+Manggitahan, Dilasag, 1,742
+Masagana (Poblacion), Dilasag, 1,841
+Ura, Dilasag, 634
+Abuleg, Dinalungan, 1,236
+Dibaraybay, Dinalungan, 1,292
+Ditawini, Dinalungan, 659
+Mapalad, Dinalungan, 763
+Nipoo (Bulo), Dinalungan, 905
+Paleg, Dinalungan, 1,203
+Simbahan, Dinalungan, 1,717
+Zone I (Poblacion), Dinalungan, 1,881
+Zone II (Poblacion), Dinalungan, 1,666
+Aplaya, Dingalan, 1,802
+Butas na Bato, Dingalan, 909
+Cabog (Matawe), Dingalan, 3,356
+Caragsacan, Dingalan, 2,992
+Davildavilan, Dingalan, 1,036
+Dikapanikian, Dingalan, 404
+Ibona, Dingalan, 3,624
+Paltic, Dingalan, 5,075
+Poblacion, Dingalan, 1,084
+Tanawan, Dingalan, 820
+Umiray (Malamig), Dingalan, 4,380
+Bayabas, Dipaculao, 915
+Borlongan, Dipaculao, 2,416
+Buenavista, Dipaculao, 569
+Calaocan, Dipaculao, 816
+Diamanen, Dipaculao, 331
+Dianed, Dipaculao, 722
+Diarabasin, Dipaculao, 1,730
+Dibutunan, Dipaculao, 860
+Dimabuno, Dipaculao, 1,195
+Dinadiawan, Dipaculao, 3,733
+Ditale, Dipaculao, 1,398
+Gupa, Dipaculao, 1,037
+Ipil, Dipaculao, 1,154
+Laboy, Dipaculao, 454
+Lipit, Dipaculao, 968
+Lobbot, Dipaculao, 580
+Maligaya, Dipaculao, 665
+Mijares, Dipaculao, 1,134
+Mucdol, Dipaculao, 1,479
+North Poblacion, Dipaculao, 2,059
+Puangi, Dipaculao, 1,430
+Salay, Dipaculao, 1,417
+Sapangkawayan, Dipaculao, 405
+South Poblacion, Dipaculao, 1,693
+Toytoyan, Dipaculao, 576
+Alcala, Maria Aurora, 553
+Bagtu, Maria Aurora, 779
+Bangco, Maria Aurora, 676
+Bannawag, Maria Aurora, 496
+Barangay I (Poblacion), Maria Aurora, 1,356
+Barangay II (Poblacion), Maria Aurora, 1,930
+Barangay III (Poblacion), Maria Aurora, 894
+Barangay IV (Poblacion), Maria Aurora, 2,458
+Baubo, Maria Aurora, 642
+Bayanihan, Maria Aurora, 1,425
+Bazal, Maria Aurora, 1,368
+Cabituculan East, Maria Aurora, 676
+Cabituculan West, Maria Aurora, 534
+Cadayacan, Maria Aurora, 1,357
+Debucao, Maria Aurora, 1,385
+Decoliat, Maria Aurora, 472
+Detailen, Maria Aurora, 879
+Diaat, Maria Aurora, 1,528
+Dialatman, Maria Aurora, 198
+Diaman, Maria Aurora, 257
+Dianawan, Maria Aurora, 1,191
+Dikildit, Maria Aurora, 1,019
+Dimanpudso, Maria Aurora, 1,353
+Diome, Maria Aurora, 857
+Estonilo, Maria Aurora, 784
+Florida, Maria Aurora, 1,825
+Galintuja, Maria Aurora, 729
+Malasin, Maria Aurora, 654
+Ponglo, Maria Aurora, 466
+Quirino, Maria Aurora, 1,843
+Ramada, Maria Aurora, 1,172
+San Joaquin, Maria Aurora, 1,714
+San Jose, Maria Aurora, 1,677
+San Juan, Maria Aurora, 876
+San Leonardo, Maria Aurora, 455
+Santa Lucia, Maria Aurora, 578
+Santo Tomas, Maria Aurora, 697
+Suguit, Maria Aurora, 604
+Villa Aurora, Maria Aurora, 878
+Wenceslao, Maria Aurora, 1,499
+Bacong, San Luis, 1,773
+Barangay I (Poblacion), San Luis, 368
+Barangay II (Poblacion), San Luis, 756
+Barangay III (Poblacion), San Luis, 730
+Barangay IV (Poblacion), San Luis, 1,301
+Dibalo, San Luis, 137
+Dibayabay, San Luis, 1,177
+Dibut, San Luis, 909
+Dikapinisan, San Luis, 2,159
+Dimanayat, San Luis, 1,243
+Diteki, San Luis, 1,573
+Ditumabo, San Luis, 3,485
+L. Pimentel, San Luis, 1,074
+Nonong Senior, San Luis, 4,278
+Real, San Luis, 1,228
+San Isidro, San Luis, 2,171
+San Jose, San Luis, 541
+Zarah, San Luis, 2,449

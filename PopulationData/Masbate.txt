@@ -1,0 +1,308 @@
+Ambolong, Aroroy, 4,224
+Amoroy, Aroroy, 782
+Amotag, Aroroy, 2,121
+Bagauma, Aroroy, 2,636
+Balawing, Aroroy, 719
+Balete, Aroroy, 1,608
+Bangon, Aroroy, 2,804
+Cabangcalan, Aroroy, 1,203
+Cabas‑An, Aroroy, 1,585
+Calanay, Aroroy, 1,639
+Capsay, Aroroy, 2,402
+Concepcion, Aroroy, 1,036
+Dayhagan, Aroroy, 1,665
+Don Pablo Dela Rosa, Aroroy, 1,477
+Gumahang, Aroroy, 1,994
+Jaboyoan, Aroroy, 2,369
+Lanang, Aroroy, 933
+Luy‑a, Aroroy, 2,937
+Macabug, Aroroy, 1,089
+Malubi, Aroroy, 1,708
+Managanaga, Aroroy, 1,233
+Manamoc, Aroroy, 995
+Mariposa, Aroroy, 1,352
+Mataba, Aroroy, 2,738
+Matalangtalang, Aroroy, 1,961
+Matongog, Aroroy, 1,405
+Nabongsoran, Aroroy, 1,003
+Pangle, Aroroy, 1,022
+Panique, Aroroy, 6,411
+Pinanaan, Aroroy, 1,171
+Poblacion, Aroroy, 4,088
+Puro, Aroroy, 8,131
+San Agustin, Aroroy, 1,857
+San Isidro, Aroroy, 1,351
+Sawang, Aroroy, 1,420
+Syndicate, Aroroy, 2,439
+Talabaan, Aroroy, 1,505
+Talib, Aroroy, 1,649
+Tigbao, Aroroy, 3,081
+Tinago, Aroroy, 1,720
+Tinigban, Aroroy, 2,705
+Baao, Baleno, 557
+Banase, Baleno, 369
+Batuila, Baleno, 759
+Cagara, Baleno, 1,393
+Cagpandan, Baleno, 1,116
+Cancahorao, Baleno, 1,388
+Canjunday, Baleno, 765
+Docol, Baleno, 677
+Eastern Capsay, Baleno, 702
+Gabi, Baleno, 632
+Gangao, Baleno, 2,135
+Lagta, Baleno, 1,942
+Lahong Interior, Baleno, 675
+Lahong Proper, Baleno, 1,370
+Lipata, Baleno, 735
+Madangcalan, Baleno, 526
+Magdalena, Baleno, 1,344
+Manoboc, Baleno, 920
+Obongon Diot, Baleno, 617
+Poblacion, Baleno, 3,927
+Polot, Baleno, 446
+Potoson, Baleno, 1,192
+Sog‑Ong, Baleno, 686
+Tinapian, Baleno, 1,223
+Baybay (Lumocab), Balud, 692
+Bongcanaway, Balud, 591
+Calumpang, Balud, 1,816
+Cantil, Balud, 2,062
+Casamongan, Balud, 779
+Danao, Balud, 1,419
+Dao, Balud, 2,290
+Guinbanwahan, Balud, 1,819
+Ilaya, Balud, 1,553
+Jangan, Balud, 873
+Jintotolo, Balud, 1,512
+Mabuhay (Bongcanaway III), Balud, 865
+Mapili, Balud, 146
+Mapitogo, Balud, 423
+Pajo, Balud, 2,217
+Palane, Balud, 1,196
+Panguiranan, Balud, 3,324
+Panubigan, Balud, 948
+Poblacion (Balud), Balud, 3,174
+Pulanduta, Balud, 1,449
+Quinayangan Diotay, Balud, 574
+Quinayangan Tonga, Balud, 335
+Salvacion, Balud, 1,255
+Sampad, Balud, 480
+San Andres (Quinayangan Dacu), Balud, 1,058
+San Antonio, Balud, 917
+Sapatos, Balud, 543
+Talisay, Balud, 719
+Tonga, Balud, 927
+Ubo, Balud, 1,504
+Victory (Victoria), Balud, 387
+Villa Alvarez, Balud, 277
+Burgos, Batuan, 1,851
+Cambañez, Batuan, 474
+Canares, Batuan, 1,265
+Costa Rica, Batuan, 1,067
+Danao, Batuan, 886
+Gibraltar, Batuan, 1,742
+Mabuhay, Batuan, 343
+Matabao, Batuan, 579
+Nasandig, Batuan, 409
+Panisihan, Batuan, 1,144
+Poblacion, Batuan, 2,293
+Rizal, Batuan, 1,032
+Royroy, Batuan, 1,258
+Sawang, Batuan, 743
+Abaca, Cataingan, 610
+Aguada, Cataingan, 1,183
+Badiang, Cataingan, 1,044
+Bagumbayan, Cataingan, 1,187
+Cadulawan, Cataingan, 1,320
+Cagbatang, Cataingan, 1,258
+Chimenea, Cataingan, 448
+Concepcion, Cataingan, 1,268
+Curvada, Cataingan, 2,175
+Divisoria, Cataingan, 724
+Domorog, Cataingan, 1,793
+Estampar, Cataingan, 1,521
+Gahit, Cataingan, 1,255
+Libtong, Cataingan, 497
+Liong, Cataingan, 1,660
+Maanahao, Cataingan, 958
+Madamba, Cataingan, 1,308
+Malobago, Cataingan, 827
+Matayum, Cataingan, 1,845
+Matubinao, Cataingan, 1,059
+Mintac, Cataingan, 1,297
+Nadawisan, Cataingan, 1,106
+Osmeña, Cataingan, 884
+Pawican, Cataingan, 3,598
+Pitogo, Cataingan, 1,062
+Poblacion, Cataingan, 7,745
+Quezon, Cataingan, 2,004
+San Isidro, Cataingan, 616
+San Jose, Cataingan, 637
+San Pedro, Cataingan, 1,057
+San Rafael, Cataingan, 823
+Santa Teresita, Cataingan, 1,431
+Santo Niño, Cataingan, 1,643
+Tagboan, Cataingan, 1,052
+Tuybo, Cataingan, 615
+Villa Pogado, Cataingan, 817
+Begia, Cawayan, 2,791
+Cabayugan, Cawayan, 1,098
+Cabungahan, Cawayan, 1,545
+Calapayan, Cawayan, 1,276
+Calumpang, Cawayan, 1,213
+Chico Island, Cawayan, 2,462
+Dalipe, Cawayan, 1,814
+Divisoria, Cawayan, 3,613
+Gilotongan, Cawayan, 4,111
+Guiom, Cawayan, 2,227
+Iraya, Cawayan, 947
+Itombato, Cawayan, 1,122
+Lague‑lague, Cawayan, 961
+Libertad, Cawayan, 1,251
+Looc, Cawayan, 2,416
+Mactan, Cawayan, 980
+Madbad, Cawayan, 1,343
+Mahayahay, Cawayan, 2,552
+Maihao, Cawayan, 1,450
+Malbug, Cawayan, 3,508
+Naro, Cawayan, 3,301
+Palobandera, Cawayan, 678
+Pananawan, Cawayan, 1,668
+Peña Island, Cawayan, 2,758
+Pin‑As, Cawayan, 1,230
+Poblacion, Cawayan, 3,915
+Pulot, Cawayan, 902
+Punta Batsan, Cawayan, 2,457
+R. M. Magbalon (Bebinan), Cawayan, 954
+Recodo, Cawayan, 2,087
+San Jose, Cawayan, 620
+San Vicente, Cawayan, 1,273
+Taberna, Cawayan, 1,599
+Talisay, Cawayan, 1,213
+Tubog, Cawayan, 1,234
+Tuburan, Cawayan, 1,480
+Villahermosa, Cawayan, 984
+Albasan, Claveria, 1,272
+Boca Engaño, Claveria, 1,976
+Buyo, Claveria, 2,007
+Calpi, Claveria, 1,342
+Canomay, Claveria, 1,153
+Cawayan, Claveria, 1,715
+Imelda, Claveria, 1,709
+Mababang Baybay, Claveria, 1,496
+Mabiton, Claveria, 1,998
+Manapao, Claveria, 879
+Nabasagan, Claveria, 1,493
+Nonoc, Claveria, 1,750
+Osmeña, Claveria, 3,358
+Pasig, Claveria, 3,725
+Peñafrancia, Claveria, 1,339
+Poblacion District I (Barangay 1), Claveria, 3,516
+Poblacion District II (Barangay 2), Claveria, 4,561
+Quezon, Claveria, 1,575
+San Isidro, Claveria, 1,489
+San Ramon, Claveria, 2,567
+San Vicente, Claveria, 1,077
+Taguilid, Claveria, 1,696
+Balantay, Dimasalang, 1,655
+Balocawe, Dimasalang, 2,607
+Banahao, Dimasalang, 1,552
+Buenaflor, Dimasalang, 1,170
+Buracan, Dimasalang, 1,079
+Cabanoyoan, Dimasalang, 743
+Cabrera, Dimasalang, 415
+Cadulan, Dimasalang, 1,096
+Calabad, Dimasalang, 501
+Canomay, Dimasalang, 2,925
+Divisoria, Dimasalang, 844
+Gaid, Dimasalang, 1,558
+Gregorio Alino (Pia-ong), Dimasalang, 1,614
+Magcaraguit, Dimasalang, 1,602
+Mambog, Dimasalang, 488
+Poblacion, Dimasalang, 2,627
+Rizal, Dimasalang, 942
+San Vicente, Dimasalang, 423
+Suba, Dimasalang, 1,285
+T. R. Yangco (Yanco), Dimasalang, 1,066
+Agoho, Esperanza, 1,263
+Almero, Esperanza, 599
+Baras, Esperanza, 1,221
+Domorog, Esperanza, 1,454
+Guadalupe, Esperanza, 952
+Iligan, Esperanza, 998
+Labangtaytay, Esperanza, 906
+Labrador, Esperanza, 494
+Libertad, Esperanza, 577
+Magsaysay, Esperanza, 717
+Masbaranon, Esperanza, 1,521
+Poblacion, Esperanza, 1,203
+Potingbato, Esperanza, 1,048
+Rizal, Esperanza, 234
+San Roque, Esperanza, 701
+Santiago, Esperanza, 821
+Sorosimbajan, Esperanza, 1,392
+Tawad, Esperanza, 794
+Tunga, Esperanza, 847
+Villa, Esperanza, 826
+Alas, Mandaon, 2,271
+Ayat, Mandaon, 1,684
+Bat‑Ongan, Mandaon, 1,731
+Bugtong, Mandaon, 1,433
+Buri, Mandaon, 1,031
+Cabitan, Mandaon, 4,872
+Cagmasoso, Mandaon, 459
+Canomoy, Mandaon, 1,473
+Centro, Mandaon, 851
+Dayao, Mandaon, 1,832
+Guincaiptan, Mandaon, 790
+Laguinbanwa, Mandaon, 1,052
+Lantangan, Mandaon, 2,522
+Looc, Mandaon, 886
+Mabatobato, Mandaon, 670
+Maolingon, Mandaon, 2,847
+Nailaban, Mandaon, 1,092
+Nanipsan, Mandaon, 652
+Pinamangcaan, Mandaon, 761
+Poblacion, Mandaon, 4,692
+Polo Dacu, Mandaon, 1,209
+San Juan, Mandaon, 875
+San Pablo, Mandaon, 909
+Santa Fe, Mandaon, 298
+Tagpu, Mandaon, 1,872
+Tumalaytay, Mandaon, 2,498
+Anas, Masbate City, 1,152
+Asid, Masbate City, 2,400
+B. Titong, Masbate City, 1,635
+Bagumbayan, Masbate City, 4,806
+Bantigue, Masbate City, 3,272
+Bapor (Poblacion), Masbate City, 1,381
+Batuhan, Masbate City, 1,953
+Bayombon, Masbate City, 2,174
+Biyong, Masbate City, 2,117
+Bolo, Masbate City, 3,321
+Cagay, Masbate City, 1,769
+Cawayan Exterior, Masbate City, 1,330
+Cawayan Interior, Masbate City, 945
+Centro (Poblacion), Masbate City, 1,985
+Espinosa, Masbate City, 5,741
+F. Magallanes, Masbate City, 3,387
+Ibingay, Masbate City, 7,144
+Igang, Masbate City, 1,771
+Kalipay (Poblacion), Masbate City, 1,944
+Kinamaligan, Masbate City, 5,917
+Malinta, Masbate City, 4,153
+Mapiña, Masbate City, 1,543
+Mayngaran, Masbate City, 3,664
+Nursery, Masbate City, 12,125
+Pating (Poblacion), Masbate City, 3,480
+Pawa, Masbate City, 2,253
+Sinalongan, Masbate City, 1,114
+Tugbo, Masbate City, 6,833
+Ubongan Dacu, Masbate City, 1,267
+Usab, Masbate City, 2,813
+Bacolod, Milagros, 3,631
+Bangad, Milagros, 4,269
+Bara, Milagros, 2,260
+Bonbon, Milagros, 905
+Calasuche, Milagros, 2,752
+Calumpang (Taisan), Milagros, 2,163

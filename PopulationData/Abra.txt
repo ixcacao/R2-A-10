@@ -1,0 +1,303 @@
+Agtangao, Bangued, 2,295
+Angad, Bangued, 2,464
+Bañacao, Bangued, 1,243
+Bangbangar, Bangued, 2,486
+Cabuloan, Bangued, 1,028
+Calaba, Bangued, 3,494
+Cosili East (Proper), Bangued, 908
+Cosili West (Buaya), Bangued, 1,336
+Dangdangla, Bangued, 2,149
+Lingtan, Bangued, 859
+Lipcan, Bangued, 1,975
+Lubong, Bangued, 699
+Macarcarmay, Bangued, 667
+Macray, Bangued, 749
+Malita, Bangued, 401
+Maoay, Bangued, 742
+Palao, Bangued, 1,697
+Patucannay, Bangued, 1,450
+Sagap, Bangued, 863
+San Antonio, Bangued, 878
+Santa Rosa, Bangued, 1,997
+Sao‑atan, Bangued, 1,077
+Sappaac, Bangued, 1,318
+Tablac (Calot), Bangued, 1,541
+Zone 1 Poblacion (Nalasin), Bangued, 2,212
+Zone 2 Poblacion (Consiliman), Bangued, 1,376
+Zone 3 Poblacion (Lalaud), Bangued, 1,927
+Zone 4 Poblacion (Town Proper), Bangued, 1,073
+Zone 5 Poblacion (Bo. Barikir), Bangued, 2,566
+Zone 6 Poblacion (Sinapangan), Bangued, 1,884
+Zone 7 Poblacion (Baliling), Bangued, 2,809
+Amti, Boliney, 337
+Bao‑yan, Boliney, 502
+Danac East, Boliney, 424
+Danac West, Boliney, 544
+Dao‑angan, Boliney, 326
+Dumagas, Boliney, 435
+Kilong‑Olao, Boliney, 226
+Poblacion (Boliney), Boliney, 779
+Abang, Bucay, 752
+Bangbangcag, Bucay, 1,082
+Bangcagan, Bucay, 639
+Banglolao, Bucay, 570
+Bugbog, Bucay, 742
+Calao, Bucay, 788
+Dugong, Bucay, 1,520
+Labon, Bucay, 669
+Layugan, Bucay, 917
+Madalipay, Bucay, 397
+North Poblacion, Bucay, 983
+Pagala, Bucay, 1,145
+Pakiling, Bucay, 809
+Palaquio, Bucay, 1,042
+Patoc, Bucay, 759
+Quimloong, Bucay, 505
+Salnec, Bucay, 376
+San Miguel, Bucay, 733
+Siblong, Bucay, 972
+South Poblacion, Bucay, 592
+Tabiog, Bucay, 1,123
+Ducligan, Bucloc, 582
+Labaan, Bucloc, 681
+Lamao (Poblacion), Bucloc, 566
+Lingay, Bucloc, 672
+Ableg, Daguioman, 213
+Cabaruyan, Daguioman, 500
+Pikek, Daguioman, 410
+Tui (Poblacion), Daguioman, 965
+Abaquid, Danglas, 275
+Cabaruan, Danglas, 673
+Caupasan (Poblacion), Danglas, 1,359
+Danglas, Danglas, 357
+Nagaparan, Danglas, 803
+Padangitan, Danglas, 417
+Pangal, Danglas, 308
+Bayaan, Dolores, 478
+Cabaroan, Dolores, 478
+Calumbaya, Dolores, 458
+Cardona, Dolores, 553
+Isit, Dolores, 757
+Kimmalaba, Dolores, 894
+Libtec, Dolores, 665
+Lub‑lubba, Dolores, 313
+Mudiit, Dolores, 1,465
+Namit‑ingan, Dolores, 462
+Pacac, Dolores, 642
+Poblacion, Dolores, 2,185
+Salucag, Dolores, 397
+Talogtog, Dolores, 1,175
+Taping, Dolores, 393
+Benben (Bonbon), La Paz, 554
+Bulbulala, La Paz, 1,288
+Buli, La Paz, 1,531
+Canan (Gapan), La Paz, 1,384
+Liguis, La Paz, 973
+Malabbaga, La Paz, 1,338
+Mudeng, La Paz, 1,165
+Pidipid, La Paz, 831
+Poblacion, La Paz, 3,538
+San Gregorio, La Paz, 1,374
+Toon, La Paz, 960
+Udangan, La Paz, 501
+Bacag, Lacub, 226
+Buneg, Lacub, 875
+Guinguinabang, Lacub, 251
+Lan‑ag, Lacub, 422
+Pacoc, Lacub, 682
+Poblacion (Talampac), Lacub, 947
+Aguet, Lagangilang, 268
+Bacooc, Lagangilang, 369
+Balais, Lagangilang, 448
+Cayapa, Lagangilang, 899
+Dalaguisen, Lagangilang, 835
+Laang, Lagangilang, 753
+Lagben, Lagangilang, 452
+Laguiben, Lagangilang, 947
+Nagtipulan, Lagangilang, 1,258
+Nagtupacan, Lagangilang, 1,177
+Paganao, Lagangilang, 376
+Pawa, Lagangilang, 358
+Poblacion, Lagangilang, 1,488
+Presentar, Lagangilang, 783
+San Isidro, Lagangilang, 1,501
+Tagodtod, Lagangilang, 1,863
+Taping, Lagangilang, 480
+Ba‑i, Lagayan, 839
+Collago, Lagayan, 1,064
+Pang‑ot, Lagayan, 332
+Poblacion, Lagayan, 1,278
+Pulot, Lagayan, 986
+Baac, Langiden, 354
+Dalayap (Nalaas), Langiden, 457
+Mabungtot, Langiden, 467
+Malapaao, Langiden, 723
+Poblacion, Langiden, 414
+Quillat, Langiden, 783
+Bonglo (Patagui), Licuan-Baay, 319
+Bulbulala, Licuan-Baay, 374
+Cawayan, Licuan-Baay, 443
+Domenglay, Licuan-Baay, 441
+Lenneng, Licuan-Baay, 395
+Mapisla, Licuan-Baay, 398
+Mogao, Licuan-Baay, 281
+Nalbuan, Licuan-Baay, 778
+Poblacion, Licuan-Baay, 434
+Subagan, Licuan-Baay, 510
+Tumalip, Licuan-Baay, 316
+Ampalioc, Luba, 1,296
+Barit, Luba, 571
+Gayaman, Luba, 991
+Lul‑luno, Luba, 385
+Luzong, Luba, 929
+Nagbukel‑Tuquipa, Luba, 495
+Poblacion, Luba, 1,102
+Sabnangan, Luba, 570
+Bayabas, Malibcong, 206
+Binasaran, Malibcong, 172
+Buanao, Malibcong, 270
+Dulao, Malibcong, 205
+Duldulao, Malibcong, 307
+Gacab, Malibcong, 408
+Lat‑ey, Malibcong, 204
+Malibcong (Poblacion), Malibcong, 516
+Mataragan, Malibcong, 474
+Pacgued, Malibcong, 235
+Taripan, Malibcong, 177
+Umnap, Malibcong, 254
+Ayyeng (Poblacion), Manabo, 1,602
+Catacdegan Nuevo, Manabo, 564
+Catacdegan Viejo, Manabo, 384
+Luzong, Manabo, 1,058
+San Jose Norte, Manabo, 556
+San Jose Sur, Manabo, 537
+San Juan Norte, Manabo, 601
+San Juan Sur, Manabo, 692
+San Ramon East, Manabo, 2,513
+San Ramon West, Manabo, 1,814
+Santo Tomas, Manabo, 440
+Dumayco, Peñarrubia, 1,210
+Lusuac, Peñarrubia, 962
+Malamsit (Pau-Malamsit), Peñarrubia, 618
+Namarabar, Peñarrubia, 628
+Patiao, Peñarrubia, 656
+Poblacion, Peñarrubia, 995
+Riang (Tiang), Peñarrubia, 753
+Santa Rosa, Peñarrubia, 384
+Tattawa, Peñarrubia, 434
+Alinaya, Pidigan, 920
+Arab, Pidigan, 470
+Garreta, Pidigan, 649
+Immuli, Pidigan, 614
+Laskig, Pidigan, 568
+Monggoc, Pidigan, 1,182
+Naguirayan, Pidigan, 652
+Pamutic, Pidigan, 637
+Pangtud, Pidigan, 1,372
+Poblacion East, Pidigan, 1,623
+Poblacion West, Pidigan, 1,259
+San Diego, Pidigan, 513
+Sulbec, Pidigan, 682
+Suyo (Malidong), Pidigan, 664
+Yuyeng, Pidigan, 380
+Bolbolo, Pilar, 835
+Brookside, Pilar, 367
+Dalit, Pilar, 801
+Dintan, Pilar, 415
+Gapang, Pilar, 755
+Kinabiti, Pilar, 831
+Maliplipit, Pilar, 308
+Nagcanasan, Pilar, 267
+Nanangduan, Pilar, 320
+Narnara, Pilar, 321
+Ocup, Pilar, 510
+Pang‑ot, Pilar, 581
+Patad, Pilar, 288
+Poblacion, Pilar, 1,784
+San Juan East, Pilar, 302
+San Juan West, Pilar, 591
+South Balioag, Pilar, 429
+Tikitik, Pilar, 313
+Villavieja, Pilar, 205
+Bazar, Sallapadan, 581
+Bilabila, Sallapadan, 584
+Gangal (Poblacion), Sallapadan, 910
+Maguyepyep, Sallapadan, 1,170
+Naguilian, Sallapadan, 781
+Saccaang, Sallapadan, 787
+Sallapadan, Sallapadan, 385
+Subusob, Sallapadan, 889
+Ud‑udiao, Sallapadan, 535
+Cabayogan, San Isidro, 304
+Dalimag, San Isidro, 687
+Langbaban, San Isidro, 347
+Manayday, San Isidro, 581
+Pantoc, San Isidro, 425
+Poblacion, San Isidro, 634
+Sabtan‑olo, San Isidro, 337
+San Marcial, San Isidro, 619
+Tangbao, San Isidro, 640
+Abualan, San Juan, 698
+Badas, San Juan, 363
+Ba‑ug, San Juan, 1,107
+Cabcaborao, San Juan, 1,021
+Colabaoan, San Juan, 308
+Culiong, San Juan, 455
+Daoidao, San Juan, 160
+Guimba, San Juan, 371
+Lam‑ag, San Juan, 558
+Lumobang, San Juan, 363
+Nangobongan, San Juan, 393
+Pattaoig, San Juan, 117
+Poblacion North, San Juan, 828
+Poblacion South, San Juan, 397
+Quidaoen, San Juan, 680
+Sabangan, San Juan, 311
+Silet, San Juan, 449
+Supi‑il, San Juan, 628
+Tagaytay, San Juan, 660
+Labaan, San Quintin, 973
+Palang, San Quintin, 564
+Pantoc, San Quintin, 709
+Poblacion, San Quintin, 771
+Tangadan, San Quintin, 1,415
+Villa Mercedes, San Quintin, 1,006
+Bagalay, Tayum, 987
+Basbasa, Tayum, 892
+Budac, Tayum, 1,268
+Bumagcat, Tayum, 764
+Cabaroan, Tayum, 1,263
+Deet, Tayum, 929
+Gaddani, Tayum, 1,455
+Patucannay, Tayum, 1,521
+Pias, Tayum, 1,205
+Poblacion, Tayum, 2,672
+Velasco, Tayum, 1,511
+Alaoa, Tineg, 842
+Anayan, Tineg, 271
+Apao, Tineg, 290
+Belaat, Tineg, 298
+Caganayan, Tineg, 1,238
+Cogon, Tineg, 510
+Lanec, Tineg, 215
+Lapat‑Balantay, Tineg, 375
+Naglibacan, Tineg, 385
+Poblacion (Agsimao), Tineg, 673
+Alangtin, Tubo, 552
+Amtuagan, Tubo, 492
+Dilong, Tubo, 814
+Kili, Tubo, 414
+Poblacion (Mayabo), Tubo, 581
+Supo, Tubo, 762
+Tabacda, Tubo, 289
+Tiempo, Tubo, 843
+Tubtuba, Tubo, 442
+Wayangan, Tubo, 510
+Ap‑apaya, Villaviciosa, 512
+Bol‑lilising, Villaviciosa, 301
+Cal‑lao, Villaviciosa, 929
+Lap‑lapog, Villaviciosa, 765
+Lumaba, Villaviciosa, 504
+Poblacion, Villaviciosa, 954
+Tamac, Villaviciosa, 595
+Tuquib, Villaviciosa, 832

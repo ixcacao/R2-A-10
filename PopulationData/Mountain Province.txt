@@ -1,0 +1,144 @@
+Chupac, Barlig, 498
+Fiangtin, Barlig, 485
+Gawana (Poblacion), Barlig, 622
+Kaleo, Barlig, 677
+Latang, Barlig, 407
+Lias Kanluran, Barlig, 351
+Lias Silangan, Barlig, 441
+Lingoy, Barlig, 208
+Lunas, Barlig, 378
+Macalana, Barlig, 278
+Ogoog, Barlig, 474
+Abatan, Bauko, 941
+Bagnen Oriente, Bauko, 728
+Bagnen Proper, Bauko, 767
+Balintaugan, Bauko, 159
+Banao, Bauko, 1,824
+Bila (Bua), Bauko, 1,167
+Guinzadan Central, Bauko, 1,423
+Guinzadan Norte, Bauko, 1,190
+Guinzadan Sur, Bauko, 1,705
+Lagawa, Bauko, 1,104
+Leseb, Bauko, 1,257
+Mabaay, Bauko, 1,349
+Mayag, Bauko, 983
+Monamon Norte, Bauko, 2,612
+Monamon Sur, Bauko, 3,479
+Mount Data, Bauko, 580
+Otucan Norte, Bauko, 499
+Otucan Sur, Bauko, 1,154
+Poblacion (Bauko), Bauko, 1,595
+Sadsadan, Bauko, 3,100
+Sinto, Bauko, 1,157
+Tapapan, Bauko, 2,292
+Agawa, Besao, 400
+Ambaguio, Besao, 256
+Banguitan, Besao, 669
+Besao East (Besao Proper), Besao, 319
+Besao West, Besao, 387
+Catengan, Besao, 566
+Gueday, Besao, 683
+Kin‑iway (Poblacion), Besao, 790
+Lacmaan, Besao, 211
+Laylaya, Besao, 801
+Padangan, Besao, 465
+Payeo, Besao, 417
+Suquib, Besao, 314
+Tamboan, Besao, 762
+Alab Oriente, Bontoc, 615
+Alab Proper, Bontoc, 892
+Balili, Bontoc, 470
+Bayyo, Bontoc, 350
+Bontoc Ili, Bontoc, 4,985
+Calutit, Bontoc, 2,598
+Caneo, Bontoc, 604
+Dalican, Bontoc, 885
+Gonogon, Bontoc, 557
+Guinaang, Bontoc, 1,547
+Mainit, Bontoc, 1,203
+Maligcong, Bontoc, 708
+Poblacion (Bontoc), Bontoc, 3,091
+Samoki, Bontoc, 3,215
+Talubin, Bontoc, 1,673
+Tocucan, Bontoc, 1,250
+Alunogan, Natonin, 870
+Balangao, Natonin, 953
+Banao, Natonin, 291
+Banawal, Natonin, 2,382
+Butac, Natonin, 643
+Maducayan, Natonin, 326
+Poblacion, Natonin, 1,556
+Pudo, Natonin, 675
+Saliok, Natonin, 827
+Santa Isabel, Natonin, 646
+Tonglayan, Natonin, 1,103
+Anonat, Paracelis, 2,444
+Bacarni, Paracelis, 2,750
+Bananao, Paracelis, 2,156
+Bantay, Paracelis, 5,051
+Bunot, Paracelis, 1,596
+Buringal, Paracelis, 2,440
+Butigue, Paracelis, 2,959
+Palitod, Paracelis, 2,742
+Poblacion, Paracelis, 5,983
+Bao‑angan, Sabangan, 369
+Bun‑ayan, Sabangan, 837
+Busa, Sabangan, 369
+Camatagan, Sabangan, 812
+Capinitan, Sabangan, 614
+Data, Sabangan, 818
+Gayang, Sabangan, 439
+Lagan, Sabangan, 487
+Losad, Sabangan, 619
+Namatec, Sabangan, 737
+Napua, Sabangan, 647
+Pingad, Sabangan, 334
+Poblacion, Sabangan, 1,080
+Supang, Sabangan, 558
+Tambingan, Sabangan, 595
+Anabel, Sadanga, 910
+Bekigan, Sadanga, 557
+Belwang, Sadanga, 955
+Betwagan, Sadanga, 2,324
+Demang, Sadanga, 853
+Poblacion, Sadanga, 1,597
+Sacasacan, Sadanga, 659
+Saclit, Sadanga, 944
+Aguid, Sagada, 681
+Ambasing, Sagada, 774
+Angkeling, Sagada, 907
+Antadao, Sagada, 357
+Balugan, Sagada, 780
+Bangaan, Sagada, 924
+Dagdag (Poblacion), Sagada, 731
+Demang (Poblacion), Sagada, 768
+Fidelisan, Sagada, 428
+Kilong, Sagada, 409
+Madongo, Sagada, 561
+Nacagang, Sagada, 174
+Pide, Sagada, 375
+Poblacion (Patay), Sagada, 1,347
+Suyo, Sagada, 439
+Taccong, Sagada, 314
+Tanulong, Sagada, 415
+Tetepan Norte, Sagada, 363
+Tetepan Sur, Sagada, 380
+Balaoa, Tadian, 1,169
+Banaao, Tadian, 944
+Bantey, Tadian, 723
+Batayan, Tadian, 543
+Bunga, Tadian, 665
+Cadad‑anan, Tadian, 1,230
+Cagubatan, Tadian, 728
+Dacudac, Tadian, 1,579
+Duagan, Tadian, 294
+Kayan East, Tadian, 825
+Kayan West, Tadian, 786
+Lenga, Tadian, 637
+Lubon, Tadian, 1,969
+Mabalite, Tadian, 432
+Masla, Tadian, 1,294
+Pandayan, Tadian, 815
+Poblacion, Tadian, 3,211
+Sumadel, Tadian, 736
+Tue, Tadian, 809

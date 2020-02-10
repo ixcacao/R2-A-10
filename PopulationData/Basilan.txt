@@ -1,0 +1,255 @@
+Caddayan, Akbar, 1,090
+Linongan, Akbar, 2,454
+Lower Bato‑bato, Akbar, 1,823
+Mangalut, Akbar, 1,603
+Manguso, Akbar, 1,201
+Paguengan, Akbar, 1,649
+Semut, Akbar, 4,483
+Upper Bato‑bato, Akbar, 1,093
+Upper Sinangkapan, Akbar, 2,135
+Apil‑apil, Al-Barka, 895
+Bato‑bato, Al-Barka, 1,036
+Bohe‑Piang, Al-Barka, 1,115
+Bucalao, Al-Barka, 1,923
+Cambug, Al-Barka, 1,353
+Danapah, Al-Barka, 1,290
+Guinanta, Al-Barka, 2,111
+Kailih, Al-Barka, 1,520
+Kinukutan, Al-Barka, 1,142
+Kuhon, Al-Barka, 1,071
+Kuhon Lennuh, Al-Barka, 1,226
+Linuan, Al-Barka, 1,042
+Lookbisaya (Kaulungan Island), Al-Barka, 1,564
+Macalang, Al-Barka, 688
+Magcawa, Al-Barka, 2,094
+Sangkahan (Kaulungan Island), Al-Barka, 835
+Basakan, Hadji Mohammad Ajul, 1,037
+Buton, Hadji Mohammad Ajul, 2,927
+Candiis, Hadji Mohammad Ajul, 1,813
+Langil, Hadji Mohammad Ajul, 1,599
+Langong, Hadji Mohammad Ajul, 1,165
+Languyan, Hadji Mohammad Ajul, 1,156
+Pintasan, Hadji Mohammad Ajul, 1,395
+Seronggon, Hadji Mohammad Ajul, 1,596
+Sibago, Hadji Mohammad Ajul, 1,789
+Sulutan Matangal, Hadji Mohammad Ajul, 1,548
+Tuburan Proper (Poblacion), Hadji Mohammad Ajul, 3,282
+Baluk‑baluk, Hadji Muhtamad, 1,585
+Dasalan, Hadji Muhtamad, 2,970
+Lubukan, Hadji Muhtamad, 3,260
+Luukbongsod, Hadji Muhtamad, 1,928
+Mananggal, Hadji Muhtamad, 800
+Palahangan, Hadji Muhtamad, 1,920
+Panducan, Hadji Muhtamad, 1,652
+Sangbay Big, Hadji Muhtamad, 3,549
+Sangbay Small, Hadji Muhtamad, 2,900
+Tausan, Hadji Muhtamad, 4,521
+Aguada, Isabela City, 5,469
+Balatanay, Isabela City, 873
+Baluno, Isabela City, 2,557
+Begang, Isabela City, 2,863
+Binuangan, Isabela City, 1,755
+Busay, Isabela City, 1,606
+Cabunbata, Isabela City, 3,376
+Calvario, Isabela City, 2,289
+Carbon, Isabela City, 3,720
+Diki, Isabela City, 4,199
+Doña Ramona T. Alano (Isabela Westsite), Isabela City, 907
+Isabela Eastside (Poblacion), Isabela City, 2,370
+Isabela Proper (Poblacion), Isabela City, 1,054
+Kapatagan Grande, Isabela City, 1,118
+Kapayawan, Isabela City, 964
+Kaumpurnah Zone I, Isabela City, 3,107
+Kaumpurnah Zone II, Isabela City, 3,753
+Kaumpurnah Zone III, Isabela City, 2,736
+Kumalarang, Isabela City, 1,273
+La Piedad (Poblacion), Isabela City, 2,059
+Lampinigan, Isabela City, 1,758
+Lanote, Isabela City, 3,608
+Lukbuton, Isabela City, 1,978
+Lumbang, Isabela City, 2,200
+Makiri, Isabela City, 678
+Maligue (Lunot), Isabela City, 2,192
+Marang‑marang, Isabela City, 1,863
+Marketsite (Poblacion), Isabela City, 3,981
+Masula, Isabela City, 1,322
+Menzi, Isabela City, 3,715
+Panigayan, Isabela City, 2,704
+Panunsulan, Isabela City, 1,283
+Port Area (Poblacion), Isabela City, 1,316
+Riverside, Isabela City, 2,248
+San Rafael, Isabela City, 7,813
+Santa Barbara, Isabela City, 1,647
+Santa Cruz (Poblacion), Isabela City, 951
+Seaside (Poblacion), Isabela City, 449
+Small Kapatagan, Isabela City, 622
+Sumagdang, Isabela City, 6,529
+Sunrise Village (Poblacion), Isabela City, 2,393
+Tabiawan, Isabela City, 1,535
+Tabuk (Poblacion), Isabela City, 6,696
+Tampalan, Isabela City, 4,101
+Timpul, Isabela City, 1,158
+Arco, Lamitan, 672
+Ba‑as, Lamitan, 1,255
+Baimbing, Lamitan, 500
+Balagtasan, Lamitan, 2,359
+Balas, Lamitan, 2,918
+Balobo, Lamitan, 2,017
+Bato, Lamitan, 4,279
+Baungos, Lamitan, 831
+Bohebessey, Lamitan, 622
+Boheibu, Lamitan, 1,298
+Bohenange, Lamitan, 822
+Bohesapa, Lamitan, 855
+Boheyakan, Lamitan, 779
+Boheyawas, Lamitan, 1,409
+Buahan, Lamitan, 1,303
+Bulanting, Lamitan, 600
+Bulingan, Lamitan, 806
+Cabobo, Lamitan, 892
+Calugusan, Lamitan, 953
+Campo Uno, Lamitan, 1,364
+Colonia, Lamitan, 3,067
+Danit‑Puntocan, Lamitan, 620
+Kulay Bato, Lamitan, 3,674
+Lebbuh, Lamitan, 681
+Limo‑ok, Lamitan, 2,610
+Lo‑ok, Lamitan, 1,080
+Luksumbang, Lamitan, 612
+Lumuton, Lamitan, 649
+Maganda, Lamitan, 3,691
+Malakas, Lamitan, 1,518
+Maligaya, Lamitan, 2,676
+Malinis (Poblacion), Lamitan, 1,849
+Malo‑ong Canal, Lamitan, 1,391
+Malo‑ong San Jose, Lamitan, 1,826
+Matatag, Lamitan, 2,169
+Matibay, Lamitan, 4,737
+Parangbasak, Lamitan, 1,607
+Sabong, Lamitan, 631
+Santa Clara, Lamitan, 5,360
+Sengal, Lamitan, 1,793
+Simbangon, Lamitan, 680
+Tandong Ahas, Lamitan, 1,078
+Tumakid, Lamitan, 1,002
+Ubit, Lamitan, 1,648
+Ulame, Lamitan, 1,599
+Atong‑atong, Lantawan, 2,368
+Bagbagon, Lantawan, 829
+Baungis, Lantawan, 524
+Bulan‑bulan, Lantawan, 1,463
+Bulanza, Lantawan, 771
+Calayan, Lantawan, 507
+Calugusan, Lantawan, 870
+Canibungan, Lantawan, 1,847
+Landugan, Lantawan, 452
+Lantawan Proper (Poblacion), Lantawan, 919
+Lawila, Lantawan, 643
+Lawi‑lawi, Lantawan, 994
+Lower Bañas, Lantawan, 599
+Lower Manggas, Lantawan, 1,025
+Luuk‑Maluha, Lantawan, 498
+Matarling, Lantawan, 929
+Matikang, Lantawan, 918
+Pamucalin, Lantawan, 1,228
+Paniongan, Lantawan, 612
+Parian‑Baunoh, Lantawan, 1,001
+Suba‑an (Pangasahan), Lantawan, 895
+Switch Yakal, Lantawan, 1,056
+Tairan, Lantawan, 2,104
+Upper Bañas, Lantawan, 571
+Upper Manggas, Lantawan, 971
+Abong‑Abong, Maluso, 965
+Batungal, Maluso, 1,207
+Calang Canas, Maluso, 2,862
+Fuente Maluso, Maluso, 1,185
+Guanan North (Zone I), Maluso, 1,079
+Guanan South (Zone II), Maluso, 1,336
+Limbubong, Maluso, 976
+Mahayahay Lower (Zone I), Maluso, 595
+Mahayahay Upper (Zone II), Maluso, 1,252
+Muslim Area, Maluso, 509
+Port Holland Zone I Poblacion (Upper), Maluso, 3,784
+Port Holland Zone II Poblacion (Shipyard Main), Maluso, 2,649
+Port Holland Zone III Poblacion (Samal Village), Maluso, 4,532
+Port Holland Zone IV (Lower), Maluso, 5,834
+Port Holland Zone V (Shipyard Tabuk), Maluso, 2,054
+Taberlongan, Maluso, 1,855
+Tamuk, Maluso, 976
+Townsite (Poblacion), Maluso, 4,993
+Tubigan, Maluso, 1,424
+Upper Garlayan, Maluso, 579
+Bacung, Sumisip, 1,900
+Baiwas, Sumisip, 1,049
+Basak, Sumisip, 1,237
+Benembengan Lower, Sumisip, 810
+Benembengan Upper, Sumisip, 1,443
+Bohe‑languyan, Sumisip, 797
+Buli‑buli, Sumisip, 1,271
+Cabcaban, Sumisip, 1,413
+Cabengbeng Lower, Sumisip, 1,237
+Cabengbeng Upper, Sumisip, 1,264
+Ettub‑ettub, Sumisip, 1,797
+Guiong, Sumisip, 2,560
+Kaum‑Air, Sumisip, 828
+Kaumpamatsakem, Sumisip, 1,120
+Libug, Sumisip, 1,320
+Limbocandis, Sumisip, 878
+Lukketon, Sumisip, 1,662
+Luuk‑Bait, Sumisip, 1,553
+Mahatalang, Sumisip, 1,190
+Manaul, Sumisip, 1,887
+Mangal (Poblacion), Sumisip, 3,008
+Marang, Sumisip, 1,014
+Mebak, Sumisip, 1,302
+Sahaya Bohe Bato, Sumisip, 1,630
+Sapah Bulak, Sumisip, 1,452
+Sumisip Central, Sumisip, 1,671
+Tikus, Sumisip, 1,482
+Tongsengal, Sumisip, 1,036
+Tumahubong, Sumisip, 1,919
+Babag (Babuan Island), Tabuan-Lasa, 2,179
+Balanting, Tabuan-Lasa, 1,411
+Boloh‑boloh, Tabuan-Lasa, 1,261
+Bukut‑Umus, Tabuan-Lasa, 2,984
+Kaumpurnah, Tabuan-Lasa, 1,947
+Lanawan, Tabuan-Lasa, 4,174
+Pisak‑pisak, Tabuan-Lasa, 958
+Saluping, Tabuan-Lasa, 2,128
+Suligan (Babuan Island), Tabuan-Lasa, 1,078
+Sulloh (Tapiantana), Tabuan-Lasa, 1,785
+Tambulig Buton, Tabuan-Lasa, 1,582
+Tong‑Umus, Tabuan-Lasa, 2,701
+Badja, Tipo-Tipo, 3,072
+Baguindan, Tipo-Tipo, 1,989
+Banah, Tipo-Tipo, 1,900
+Bangcuang, Tipo-Tipo, 891
+Bohebaca, Tipo-Tipo, 1,288
+Bohelebung, Tipo-Tipo, 2,305
+Bohe‑Tambak, Tipo-Tipo, 958
+Lagayas, Tipo-Tipo, 955
+Limbo‑Upas, Tipo-Tipo, 1,117
+Silangkum, Tipo-Tipo, 1,705
+Tipo‑tipo Proper (Poblacion), Tipo-Tipo, 2,983
+Bohetambis, Tuburan, 1,290
+Calut, Tuburan, 4,146
+Duga‑a, Tuburan, 2,934
+Katipunan, Tuburan, 1,405
+Lahi‑lahi, Tuburan, 2,239
+Lower Sinangkapan, Tuburan, 2,652
+Lower Tablas, Tuburan, 704
+Mahawid, Tuburan, 1,975
+Sinulatan, Tuburan, 983
+Tablas Usew, Tuburan, 1,879
+Amaloy, Ungkaya Pukan, 1,129
+Bohe‑Pahuh, Ungkaya Pukan, 1,437
+Bohe‑Suyak, Ungkaya Pukan, 2,804
+Cabangalan, Ungkaya Pukan, 1,010
+Danit, Ungkaya Pukan, 818
+Kamamburingan, Ungkaya Pukan, 1,018
+Matata, Ungkaya Pukan, 1,170
+Materling, Ungkaya Pukan, 2,296
+Pipil, Ungkaya Pukan, 2,375
+Sungkayut, Ungkaya Pukan, 931
+Tongbato, Ungkaya Pukan, 1,446
+Ulitan, Ungkaya Pukan, 2,007

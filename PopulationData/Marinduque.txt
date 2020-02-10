@@ -1,0 +1,217 @@
+Agumaymayan, Boac, 531
+Amoingon, Boac, 1,316
+Apitong, Boac, 436
+Balagasan, Boac, 752
+Balaring, Boac, 521
+Balimbing, Boac, 1,492
+Balogo, Boac, 1,565
+Bamban, Boac, 438
+Bangbangalon, Boac, 1,260
+Bantad, Boac, 1,334
+Bantay, Boac, 1,478
+Bayuti, Boac, 200
+Binunga, Boac, 711
+Boi, Boac, 693
+Boton, Boac, 228
+Buliasnin, Boac, 1,296
+Bunganay, Boac, 1,903
+Caganhao, Boac, 1,040
+Canat, Boac, 610
+Catubugan, Boac, 651
+Cawit, Boac, 2,417
+Daig, Boac, 531
+Daypay, Boac, 320
+Duyay, Boac, 1,555
+Hinapulan, Boac, 653
+Ihatub, Boac, 1,179
+Isok I (Poblacion), Boac, 1,277
+Isok II Poblacion (Kalamias), Boac, 753
+Laylay, Boac, 2,540
+Lupac, Boac, 1,732
+Mahinhin, Boac, 623
+Mainit, Boac, 852
+Malbog, Boac, 489
+Maligaya, Boac, 772
+Malusak (Poblacion), Boac, 293
+Mansiwat, Boac, 385
+Mataas na Bayan (Poblacion), Boac, 571
+Maybo, Boac, 930
+Mercado (Poblacion), Boac, 1,475
+Murallon (Poblacion), Boac, 513
+Ogbac, Boac, 371
+Pawa, Boac, 792
+Pili, Boac, 367
+Poctoy, Boac, 333
+Poras, Boac, 982
+Puting Buhangin, Boac, 530
+Puyog, Boac, 904
+Sabong, Boac, 85
+San Miguel (Poblacion), Boac, 216
+Santol, Boac, 1,670
+Sawi, Boac, 989
+Tabi, Boac, 1,525
+Tabigue, Boac, 876
+Tagwak, Boac, 346
+Tambunan, Boac, 573
+Tampus (Poblacion), Boac, 1,246
+Tanza, Boac, 1,810
+Tugos, Boac, 1,514
+Tumagabok, Boac, 408
+Tumapon, Boac, 181
+Bagacay, Buenavista, 1,091
+Bagtingon, Buenavista, 1,623
+Barangay I (Poblacion), Buenavista, 1,255
+Barangay II (Poblacion), Buenavista, 413
+Barangay III (Poblacion), Buenavista, 584
+Barangay IV (Poblacion), Buenavista, 638
+Bicas‑bicas, Buenavista, 775
+Caigangan, Buenavista, 2,459
+Daykitin, Buenavista, 3,011
+Libas, Buenavista, 2,301
+Malbog, Buenavista, 1,782
+Sihi, Buenavista, 1,478
+Timbo (Sanggulong), Buenavista, 1,030
+Tungib‑Lipata, Buenavista, 2,299
+Yook, Buenavista, 3,249
+Antipolo, Gasan, 1,560
+Bachao Ibaba, Gasan, 1,027
+Bachao Ilaya, Gasan, 1,036
+Bacongbacong, Gasan, 1,022
+Bahi, Gasan, 1,953
+Bangbang, Gasan, 1,602
+Banot, Gasan, 909
+Banuyo, Gasan, 1,564
+Barangay I (Poblacion), Gasan, 816
+Barangay II (Poblacion), Gasan, 373
+Barangay III (Poblacion), Gasan, 603
+Bognuyan, Gasan, 977
+Cabugao, Gasan, 814
+Dawis, Gasan, 1,999
+Dili, Gasan, 1,821
+Libtangin, Gasan, 1,451
+Mahunig, Gasan, 1,038
+Mangiliol, Gasan, 532
+Masiga, Gasan, 2,777
+Matandang Gasan, Gasan, 1,581
+Pangi, Gasan, 1,755
+Pingan, Gasan, 2,059
+Tabionan, Gasan, 1,222
+Tapuyan, Gasan, 1,371
+Tiguion, Gasan, 2,966
+Anapog‑Sibucao, Mogpog, 787
+Argao, Mogpog, 1,249
+Balanacan, Mogpog, 3,258
+Banto, Mogpog, 320
+Bintakay, Mogpog, 2,382
+Bocboc, Mogpog, 675
+Butansapa, Mogpog, 966
+Candahon, Mogpog, 386
+Capayang, Mogpog, 1,311
+Danao, Mogpog, 663
+Dulong Bayan (Poblacion), Mogpog, 757
+Gitnang Bayan (Poblacion), Mogpog, 501
+Guisian, Mogpog, 1,372
+Hinadharan, Mogpog, 195
+Hinanggayon, Mogpog, 495
+Ino, Mogpog, 1,472
+Janagdong, Mogpog, 1,402
+Lamesa, Mogpog, 494
+Laon, Mogpog, 1,451
+Magapua, Mogpog, 1,150
+Malayak, Mogpog, 351
+Malusak, Mogpog, 365
+Mampaitan, Mogpog, 216
+Mangyan‑Mababad, Mogpog, 246
+Market Site (Poblacion), Mogpog, 864
+Mataas na Bayan, Mogpog, 739
+Mendez, Mogpog, 722
+Nangka I, Mogpog, 1,146
+Nangka II, Mogpog, 940
+Paye, Mogpog, 1,188
+Pili, Mogpog, 526
+Puting Buhangin, Mogpog, 749
+Sayao, Mogpog, 1,456
+Silangan, Mogpog, 748
+Sumangga, Mogpog, 1,315
+Tarug, Mogpog, 580
+Villa Mendez (Poblacion), Mogpog, 606
+Alobo, Santa Cruz, 1,087
+Angas, Santa Cruz, 1,169
+Aturan, Santa Cruz, 1,196
+Bagong Silang Poblacion (2nd Zone), Santa Cruz, 1,057
+Baguidbirin, Santa Cruz, 187
+Baliis, Santa Cruz, 724
+Balogo, Santa Cruz, 1,114
+Banahaw Poblacion (3rd Zone), Santa Cruz, 2,211
+Bangcuangan, Santa Cruz, 662
+Banogbog, Santa Cruz, 454
+Biga, Santa Cruz, 336
+Botilao, Santa Cruz, 1,100
+Buyabod, Santa Cruz, 2,719
+Dating Bayan, Santa Cruz, 419
+Devilla, Santa Cruz, 633
+Dolores, Santa Cruz, 1,535
+Haguimit, Santa Cruz, 514
+Hupi, Santa Cruz, 1,619
+Ipil, Santa Cruz, 2,106
+Jolo, Santa Cruz, 256
+Kaganhao, Santa Cruz, 632
+Kalangkang, Santa Cruz, 478
+Kamandugan, Santa Cruz, 643
+Kasily, Santa Cruz, 1,045
+Kilo‑kilo, Santa Cruz, 906
+Kiñaman, Santa Cruz, 384
+Labo, Santa Cruz, 531
+Lamesa, Santa Cruz, 937
+Landy, Santa Cruz, 1,564
+Lapu‑lapu Poblacion (5th Zone), Santa Cruz, 3,221
+Libjo, Santa Cruz, 293
+Lipa, Santa Cruz, 1,416
+Lusok, Santa Cruz, 917
+Maharlika Poblacion (1st Zone), Santa Cruz, 608
+Makulapnit, Santa Cruz, 457
+Maniwaya, Santa Cruz, 1,482
+Manlibunan, Santa Cruz, 889
+Masaguisi, Santa Cruz, 1,411
+Masalukot, Santa Cruz, 693
+Matalaba, Santa Cruz, 1,523
+Mongpong, Santa Cruz, 1,353
+Morales, Santa Cruz, 773
+Napo, Santa Cruz, 1,727
+Pag‑asa Poblacion (4th Zone), Santa Cruz, 1,654
+Pantayin, Santa Cruz, 427
+Polo, Santa Cruz, 946
+Pulong‑Parang, Santa Cruz, 760
+Punong, Santa Cruz, 643
+San Antonio, Santa Cruz, 853
+San Isidro, Santa Cruz, 453
+Tagum, Santa Cruz, 1,177
+Tamayo, Santa Cruz, 806
+Tambangan, Santa Cruz, 865
+Tawiran, Santa Cruz, 1,420
+Taytay, Santa Cruz, 1,423
+Bangwayin, Torrijos, 325
+Bayakbakin, Torrijos, 316
+Bolo, Torrijos, 505
+Bonliw, Torrijos, 1,199
+Buangan, Torrijos, 2,253
+Cabuyo, Torrijos, 1,757
+Cagpo, Torrijos, 547
+Dampulan, Torrijos, 1,041
+Kay Duke, Torrijos, 512
+Mabuhay, Torrijos, 518
+Makawayan, Torrijos, 1,273
+Malibago, Torrijos, 2,901
+Malinao, Torrijos, 759
+Maranlig, Torrijos, 1,497
+Marlangga, Torrijos, 1,321
+Matuyatuya, Torrijos, 1,006
+Nangka, Torrijos, 916
+Pakaskasan, Torrijos, 394
+Payanas, Torrijos, 746
+Poblacion, Torrijos, 3,389
+Poctoy, Torrijos, 1,145
+Sibuyao, Torrijos, 1,689
+Suha, Torrijos, 1,654
+Talawan, Torrijos, 443
+Tigwi, Torrijos, 2,418

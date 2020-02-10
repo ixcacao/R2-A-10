@@ -1,0 +1,105 @@
+Baluntaya, Don Marcelino, 2,450
+Calian, Don Marcelino, 3,854
+Dalupan, Don Marcelino, 3,479
+Kinanga, Don Marcelino, 3,860
+Kiobog, Don Marcelino, 2,276
+Lanao, Don Marcelino, 1,044
+Lapuan, Don Marcelino, 4,944
+Lawa (Poblacion), Don Marcelino, 3,269
+Linadasan, Don Marcelino, 1,751
+Mabuhay, Don Marcelino, 2,093
+North Lamidan, Don Marcelino, 2,041
+Nueva Villa, Don Marcelino, 2,049
+South Lamidan, Don Marcelino, 1,700
+Talagutong (Poblacion), Don Marcelino, 6,898
+West Lamidan, Don Marcelino, 2,846
+Balangonan, Jose Abad Santos, 3,075
+Buguis, Jose Abad Santos, 1,601
+Bukid, Jose Abad Santos, 2,801
+Butuan, Jose Abad Santos, 2,060
+Butulan, Jose Abad Santos, 2,840
+Caburan Big, Jose Abad Santos, 5,280
+Caburan Small (Poblacion), Jose Abad Santos, 6,734
+Camalian, Jose Abad Santos, 1,754
+Carahayan, Jose Abad Santos, 1,986
+Cayaponga, Jose Abad Santos, 2,078
+Culaman, Jose Abad Santos, 3,805
+Kalbay, Jose Abad Santos, 4,380
+Kitayo, Jose Abad Santos, 1,192
+Magulibas, Jose Abad Santos, 2,457
+Malalan, Jose Abad Santos, 2,440
+Mangile, Jose Abad Santos, 3,260
+Marabutuan, Jose Abad Santos, 4,586
+Meybio, Jose Abad Santos, 2,223
+Molmol, Jose Abad Santos, 2,418
+Nuing, Jose Abad Santos, 3,260
+Patulang, Jose Abad Santos, 1,854
+Quiapo, Jose Abad Santos, 2,112
+San Isidro, Jose Abad Santos, 2,914
+Sugal, Jose Abad Santos, 3,392
+Tabayon, Jose Abad Santos, 3,267
+Tanuman, Jose Abad Santos, 2,563
+Bito, Malita, 1,864
+Bolila, Malita, 2,076
+Buhangin, Malita, 4,194
+Culaman, Malita, 1,781
+Datu Danwata, Malita, 6,386
+Demoloc, Malita, 7,239
+Felis, Malita, 2,702
+Fishing Village (Fisherman's Village), Malita, 3,656
+Kibalatong, Malita, 1,296
+Kidalapong, Malita, 2,156
+Kilalag, Malita, 2,997
+Kinangan, Malita, 3,941
+Lacaron, Malita, 3,038
+Lagumit, Malita, 4,528
+Lais, Malita, 1,781
+Little Baguio, Malita, 11,317
+Macol, Malita, 1,817
+Mana, Malita, 4,201
+Manuel Peralta, Malita, 3,038
+New Argao, Malita, 1,611
+Pangaleon, Malita, 2,286
+Pangian, Malita, 4,142
+Pinalpalan, Malita, 4,686
+Poblacion, Malita, 17,787
+Sangay, Malita, 3,745
+Talogoy, Malita, 3,003
+Tical, Malita, 1,230
+Ticulon, Malita, 2,835
+Tingolo, Malita, 2,090
+Tubalan, Malita, 4,323
+Basiawan, Santa Maria, 7,465
+Buca, Santa Maria, 2,985
+Cadaatan, Santa Maria, 1,804
+Datu Daligasao, Santa Maria, 883
+Datu Intan, Santa Maria, 1,253
+Kidadan, Santa Maria, 1,441
+Kinilidan, Santa Maria, 826
+Kisulad, Santa Maria, 1,295
+Malalag Tubig, Santa Maria, 1,009
+Mamacao, Santa Maria, 2,899
+Ogpao, Santa Maria, 1,144
+Poblacion, Santa Maria, 8,108
+Pongpong, Santa Maria, 2,515
+San Agustin, Santa Maria, 4,721
+San Antonio, Santa Maria, 2,354
+San Isidro, Santa Maria, 2,576
+San Juan, Santa Maria, 1,587
+San Pedro, Santa Maria, 1,658
+San Roque, Santa Maria, 1,489
+Santo Niño, Santa Maria, 1,714
+Santo Rosario, Santa Maria, 1,239
+Tanglad, Santa Maria, 2,706
+Batuganding, Sarangani, 2,200
+Camahual, Sarangani, 1,262
+Camalig, Sarangani, 1,166
+Gomtago, Sarangani, 797
+Konel, Sarangani, 2,140
+Laker (Sarangani Sur), Sarangani, 1,797
+Lipol, Sarangani, 2,173
+Mabila (Poblacion), Sarangani, 5,147
+Patuco (Sarangani Norte), Sarangani, 2,942
+Tagen, Sarangani, 1,563
+Tinina, Sarangani, 1,861
+Tucal, Sarangani, 991

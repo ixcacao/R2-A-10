@@ -1,0 +1,132 @@
+Caucab, Almeria, 1,859
+Iyosan, Almeria, 1,418
+Jamorawon, Almeria, 1,507
+Lo‑ok, Almeria, 1,226
+Matanga, Almeria, 964
+Pili, Almeria, 1,270
+Poblacion, Almeria, 2,783
+Pulang Bato, Almeria, 971
+Salangi, Almeria, 946
+Sampao, Almeria, 735
+Tabunan, Almeria, 860
+Talahid, Almeria, 1,281
+Tamarindo, Almeria, 1,131
+Bato, Biliran, 1,705
+Burabod, Biliran, 1,963
+Busali, Biliran, 1,450
+Canila, Biliran, 875
+Hugpa, Biliran, 913
+Julita, Biliran, 1,860
+Pinangumhan, Biliran, 852
+San Isidro (Poblacion), Biliran, 2,926
+San Roque (Poblacion), Biliran, 2,396
+Sanggalang, Biliran, 1,136
+Villa Enage (Baras), Biliran, 806
+Balaquid, Cabucgayan, 2,688
+Baso, Cabucgayan, 1,563
+Bunga, Cabucgayan, 4,041
+Caanibongan, Cabucgayan, 270
+Casiawan, Cabucgayan, 1,274
+Esperanza (Poblacion), Cabucgayan, 1,071
+Langgao, Cabucgayan, 1,299
+Libertad, Cabucgayan, 1,402
+Looc, Cabucgayan, 2,758
+Magbangon (Poblacion), Cabucgayan, 1,611
+Pawikan, Cabucgayan, 1,480
+Salawad, Cabucgayan, 546
+Talibong, Cabucgayan, 785
+Alegria, Caibiran, 784
+Asug, Caibiran, 558
+Bari‑is, Caibiran, 1,257
+Binohangan, Caibiran, 1,044
+Cabibihan, Caibiran, 1,710
+Caulangohan (Marevil), Caibiran, 554
+Kawayanon, Caibiran, 430
+Looc, Caibiran, 703
+Manlabang, Caibiran, 2,055
+Maurang, Caibiran, 1,878
+Palanay (Poblacion), Caibiran, 1,089
+Palengke (Poblacion), Caibiran, 1,357
+Tomalistis, Caibiran, 946
+Union, Caibiran, 1,116
+Uson, Caibiran, 2,013
+Victory (Poblacion), Caibiran, 4,102
+Villa Vicenta (Mainit), Caibiran, 928
+Acaban, Culaba, 615
+Bacolod, Culaba, 331
+Binongtoan, Culaba, 827
+Bool Central (Poblacion), Culaba, 494
+Bool East (Poblacion), Culaba, 1,012
+Bool West (Poblacion), Culaba, 745
+Calipayan, Culaba, 569
+Culaba Central (Poblacion), Culaba, 625
+Guindapunan, Culaba, 440
+Habuhab, Culaba, 329
+Looc, Culaba, 862
+Marvel (Poblacion), Culaba, 1,720
+Patag, Culaba, 496
+Pinamihagan, Culaba, 828
+Salvacion, Culaba, 321
+San Roque, Culaba, 509
+Virginia (Poblacion), Culaba, 1,602
+Baganito, Kawayan, 536
+Balacson, Kawayan, 868
+Balite, Kawayan, 1,019
+Bilwang, Kawayan, 663
+Bulalacao, Kawayan, 842
+Burabod, Kawayan, 615
+Buyo, Kawayan, 937
+Inasuyan, Kawayan, 1,129
+Kansanok, Kawayan, 688
+Mada‑o, Kawayan, 1,132
+Mapuyo, Kawayan, 1,731
+Masagaosao, Kawayan, 787
+Masagongsong, Kawayan, 526
+Poblacion, Kawayan, 1,206
+San Lorenzo, Kawayan, 1,361
+Tabunan North, Kawayan, 177
+Tubig Guinoo, Kawayan, 785
+Tucdao, Kawayan, 1,917
+Ungale, Kawayan, 2,240
+Villa Cornejo (Looc), Kawayan, 1,132
+Agutay, Maripipi, 523
+Banlas, Maripipi, 235
+Bato, Maripipi, 576
+Binalayan East, Maripipi, 479
+Binalayan West, Maripipi, 509
+Binongto‑an (Poblacion Norte), Maripipi, 653
+Burabod, Maripipi, 222
+Calbani, Maripipi, 381
+Canduhao, Maripipi, 356
+Casibang, Maripipi, 431
+Danao, Maripipi, 306
+Ermita (Poblacion Sur), Maripipi, 988
+Ol‑og, Maripipi, 362
+Trabugan, Maripipi, 177
+Viga, Maripipi, 961
+Agpangi, Naval, 2,536
+Anislagan, Naval, 681
+Atipolo, Naval, 3,709
+Borac, Naval, 787
+Cabungaan, Naval, 398
+Calumpang, Naval, 6,398
+Capiñahan, Naval, 2,411
+Caraycaray, Naval, 4,177
+Catmon, Naval, 1,625
+Haguikhikan, Naval, 1,788
+Imelda, Naval, 1,099
+Larrazabal, Naval, 4,009
+Libertad, Naval, 864
+Libtong, Naval, 1,209
+Lico, Naval, 1,038
+Lucsoon, Naval, 1,845
+Mabini, Naval, 932
+Padre Inocentes Garcia (Poblacion), Naval, 5,397
+Padre Sergio Eamiguel, Naval, 1,528
+Sabang, Naval, 423
+San Pablo, Naval, 1,787
+Santissimo Rosario Poblacion (Santo Rosa), Naval, 2,379
+Santo Niño, Naval, 2,960
+Talustusan, Naval, 1,932
+Villa Caneja, Naval, 961
+Villa Consuelo, Naval, 1,819

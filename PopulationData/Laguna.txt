@@ -1,0 +1,681 @@
+Barangay I (Poblacion), Alaminos, 3,366
+Barangay II (Poblacion), Alaminos, 2,804
+Barangay III (Poblacion), Alaminos, 2,675
+Barangay IV (Poblacion), Alaminos, 3,388
+Del Carmen, Alaminos, 1,150
+Palma, Alaminos, 2,512
+San Agustin, Alaminos, 5,675
+San Andres, Alaminos, 3,298
+San Benito, Alaminos, 6,280
+San Gregorio, Alaminos, 3,315
+San Ildefonso, Alaminos, 2,821
+San Juan, Alaminos, 3,108
+San Miguel, Alaminos, 2,033
+San Roque, Alaminos, 2,235
+Santa Rosa, Alaminos, 3,199
+Bitin, Bay, 5,821
+Calo, Bay, 3,798
+Dila, Bay, 6,117
+Maitim, Bay, 4,525
+Masaya, Bay, 5,694
+Paciano Rizal, Bay, 4,343
+Puypuy, Bay, 3,593
+San Agustin (Poblacion), Bay, 1,428
+San Antonio, Bay, 5,800
+San Isidro, Bay, 2,677
+San Nicolas (Poblacion), Bay, 1,395
+Santa Cruz, Bay, 2,570
+Santo Domingo, Bay, 8,572
+Tagumpay, Bay, 2,452
+Tranca, Bay, 3,358
+Biñan (Poblacion), Biñan, 4,149
+Bungahan, Biñan, 1,707
+Canlalay, Biñan, 19,399
+Casile, Biñan, 4,148
+De La Paz, Biñan, 31,374
+Ganado, Biñan, 5,252
+Langkiwa, Biñan, 37,817
+Loma, Biñan, 12,005
+Malaban, Biñan, 26,513
+Malamig, Biñan, 4,064
+Mampalasan, Biñan, 6,911
+Platero, Biñan, 10,420
+Poblacion, Biñan, 2,965
+San Antonio, Biñan, 35,811
+San Francisco (Halang), Biñan, 28,669
+San Jose, Biñan, 5,977
+San Vicente, Biñan, 8,530
+Santo Domingo, Biñan, 6,104
+Santo Niño, Biñan, 5,557
+Santo Tomas (Calabuso), Biñan, 43,078
+Soro‑soro, Biñan, 6,320
+Timbao, Biñan, 13,490
+Tubigan, Biñan, 6,741
+Zapote, Biñan, 6,027
+Baclaran, Cabuyao, 13,626
+Banaybanay, Cabuyao, 30,197
+Banlic, Cabuyao, 16,854
+Barangay Dos (Poblacion), Cabuyao, 1,855
+Barangay Tres (Poblacion), Cabuyao, 2,927
+Barangay Uno (Poblacion), Cabuyao, 3,349
+Bigaa, Cabuyao, 10,967
+Butong, Cabuyao, 13,442
+Casile, Cabuyao, 2,393
+Diezmo, Cabuyao, 4,468
+Gulod, Cabuyao, 14,611
+Mamatid, Cabuyao, 55,803
+Marinig, Cabuyao, 43,315
+Niugan, Cabuyao, 31,461
+Pittland, Cabuyao, 3,235
+Pulo, Cabuyao, 26,636
+Sala, Cabuyao, 9,160
+San Isidro, Cabuyao, 24,446
+Bagong Kalsada, Calamba, 3,488
+Banadero, Calamba, 10,412
+Banlic, Calamba, 13,681
+Barandal, Calamba, 12,526
+Barangay 1 (Poblacion), Calamba, 5,834
+Barangay 2 (Poblacion), Calamba, 7,788
+Barangay 3 (Poblacion), Calamba, 4,775
+Barangay 4 (Poblacion), Calamba, 3,238
+Barangay 5 (Poblacion), Calamba, 6,486
+Barangay 6 (Poblacion), Calamba, 2,250
+Barangay 7 (Poblacion), Calamba, 3,086
+Batino, Calamba, 1,274
+Bubuyan, Calamba, 2,164
+Bucal, Calamba, 12,818
+Bunggo, Calamba, 3,261
+Burol, Calamba, 2,296
+Camaligan, Calamba, 1,235
+Canlubang, Calamba, 54,943
+Halang, Calamba, 7,169
+Hornalan, Calamba, 1,736
+Kay‑Anlog, Calamba, 13,946
+La Mesa, Calamba, 14,892
+Laguerta, Calamba, 2,332
+Lawa, Calamba, 11,186
+Lecheria, Calamba, 9,108
+Lingga, Calamba, 6,056
+Looc, Calamba, 21,754
+Mabato, Calamba, 687
+Majada Labas, Calamba, 6,471
+Makiling, Calamba, 10,760
+Mapagong, Calamba, 6,014
+Masili, Calamba, 3,680
+Maunong, Calamba, 2,164
+Mayapa, Calamba, 26,211
+Milagrosa, Calamba, 6,904
+Paciano Rizal, Calamba, 15,081
+Palingon, Calamba, 5,685
+Palo‑Alto, Calamba, 15,208
+Pansol, Calamba, 10,171
+Parian, Calamba, 22,082
+Prinza, Calamba, 3,741
+Punta, Calamba, 4,175
+Puting Lupa, Calamba, 1,783
+Real, Calamba, 14,394
+Saimsim, Calamba, 5,828
+Sampiruhan, Calamba, 9,410
+San Cristobal, Calamba, 13,690
+San Jose, Calamba, 3,718
+San Juan, Calamba, 4,403
+Sirang Lupa, Calamba, 8,807
+Sucol, Calamba, 5,146
+Turbina, Calamba, 5,252
+Ulango, Calamba, 768
+Uwisan, Calamba, 2,519
+Balayhangin, Calauan, 5,531
+Bangyas, Calauan, 3,138
+Dayap, Calauan, 19,795
+Hanggan, Calauan, 1,845
+Imok, Calauan, 2,149
+Kanluran (Poblacion), Calauan, 1,565
+Lamot 1, Calauan, 2,621
+Lamot 2, Calauan, 6,699
+Limao, Calauan, 4,444
+Mabacan, Calauan, 4,545
+Masiit, Calauan, 4,247
+Paliparan, Calauan, 975
+Perez, Calauan, 2,700
+Prinza, Calauan, 3,061
+San Isidro, Calauan, 3,404
+Santo Tomas, Calauan, 11,826
+Silangan (Poblacion), Calauan, 1,908
+Anglas, Cavinti, 331
+Bangco, Cavinti, 159
+Bukal, Cavinti, 1,182
+Bulajo, Cavinti, 529
+Cansuso, Cavinti, 1,162
+Duhat, Cavinti, 1,673
+Inao‑Awan, Cavinti, 977
+Kanluran Talaongan, Cavinti, 1,803
+Labayo, Cavinti, 115
+Layasin, Cavinti, 579
+Layug, Cavinti, 467
+Mahipon, Cavinti, 2,097
+Paowin, Cavinti, 820
+Poblacion, Cavinti, 6,358
+Silangan Talaongan, Cavinti, 1,853
+Sisilmin, Cavinti, 272
+Sumucab, Cavinti, 392
+Tibatib, Cavinti, 192
+Udia, Cavinti, 741
+Asana (Poblacion), Famy, 528
+Bacong‑Sigsigan, Famy, 379
+Bagong Pag‑asa (Poblacion), Famy, 350
+Balitoc, Famy, 565
+Banaba (Poblacion), Famy, 557
+Batuhan, Famy, 2,873
+Bulihan, Famy, 2,513
+Caballero (Poblacion), Famy, 754
+Calumpang (Poblacion), Famy, 536
+Cuebang Bato, Famy, 234
+Damayan (Poblacion), Famy, 807
+Kapatalan, Famy, 1,304
+Kataypuanan, Famy, 259
+Liyang, Famy, 259
+Maate, Famy, 346
+Magdalo (Poblacion), Famy, 414
+Mayatba, Famy, 463
+Minayutan, Famy, 301
+Salangbato, Famy, 929
+Tunhac, Famy, 2,216
+Longos, Kalayaan, 6,070
+San Antonio, Kalayaan, 10,651
+San Juan (Poblacion), Kalayaan, 6,548
+Bagong Anyo (Poblacion), Liliw, 1,160
+Bayate, Liliw, 311
+Bongkol, Liliw, 709
+Bubukal, Liliw, 250
+Cabuyao, Liliw, 144
+Calumpang, Liliw, 3,476
+Culoy, Liliw, 153
+Dagatan, Liliw, 489
+Daniw (Danliw), Liliw, 788
+Dita, Liliw, 607
+Ibabang Palina, Liliw, 131
+Ibabang San Roque, Liliw, 1,965
+Ibabang Sungi, Liliw, 207
+Ibabang Taykin, Liliw, 1,042
+Ilayang Palina, Liliw, 2,169
+Ilayang San Roque, Liliw, 178
+Ilayang Sungi, Liliw, 127
+Ilayang Taykin, Liliw, 2,831
+Kanlurang Bukal, Liliw, 4,217
+Laguan, Liliw, 611
+Luquin, Liliw, 404
+Malabo‑Kalantukan, Liliw, 609
+Masikap (Poblacion), Liliw, 1,800
+Maslun (Poblacion), Liliw, 2,762
+Mojon, Liliw, 2,827
+Novaliches, Liliw, 805
+Oples, Liliw, 1,380
+Pag‑asa (Poblacion), Liliw, 1,206
+Palayan, Liliw, 888
+Rizal (Poblacion), Liliw, 807
+San Isidro, Liliw, 407
+Silangang Bukal, Liliw, 148
+Tuy‑Baanan, Liliw, 974
+Anos, Los Baños, 8,039
+Bagong Silang, Los Baños, 629
+Bambang, Los Baños, 7,228
+Batong Malake, Los Baños, 15,314
+Baybayin (Poblacion), Los Baños, 1,632
+Bayog, Los Baños, 10,460
+Lalakay, Los Baños, 5,032
+Maahas, Los Baños, 7,536
+Malinta, Los Baños, 7,368
+Mayondon, Los Baños, 17,071
+Putho Tuntungin, Los Baños, 9,068
+San Antonio, Los Baños, 13,537
+Tadlak, Los Baños, 3,319
+Timugan (Poblacion), Los Baños, 5,775
+Barangay Zone I (Poblacion), Luisiana, 476
+Barangay Zone II (Poblacion), Luisiana, 267
+Barangay Zone III (Poblacion), Luisiana, 525
+Barangay Zone IV (Poblacion), Luisiana, 502
+Barangay Zone V (Poblacion), Luisiana, 893
+Barangay Zone VI (Poblacion), Luisiana, 538
+Barangay Zone VII (Poblacion), Luisiana, 469
+Barangay Zone VIII (Poblacion), Luisiana, 341
+De La Paz, Luisiana, 538
+San Antonio, Luisiana, 3,093
+San Buenaventura, Luisiana, 1,819
+San Diego, Luisiana, 2,669
+San Isidro, Luisiana, 2,423
+San Jose, Luisiana, 830
+San Juan, Luisiana, 383
+San Luis, Luisiana, 290
+San Pablo, Luisiana, 231
+San Pedro, Luisiana, 218
+San Rafael, Luisiana, 168
+San Roque, Luisiana, 327
+San Salvador, Luisiana, 418
+Santo Domingo, Luisiana, 503
+Santo Tomas, Luisiana, 1,799
+Bagong Silang, Lumban, 2,830
+Balimbingan (Poblacion), Lumban, 928
+Balubad, Lumban, 1,963
+Caliraya, Lumban, 971
+Concepcion, Lumban, 3,796
+Lewin, Lumban, 2,125
+Maracta (Poblacion), Lumban, 976
+Maytalang I, Lumban, 3,622
+Maytalang II, Lumban, 1,067
+Primera Parang (Poblacion), Lumban, 1,080
+Primera Pulo (Poblacion), Lumban, 2,296
+Salac (Poblacion), Lumban, 1,317
+Santo Niño (Poblacion), Lumban, 1,192
+Segunda Parang (Poblacion), Lumban, 1,252
+Segunda Pulo (Poblacion), Lumban, 1,544
+Wawa, Lumban, 3,693
+Amuyong, Mabitac, 654
+Bayanihan (Poblacion), Mabitac, 520
+Lambac (Poblacion), Mabitac, 975
+Libis ng Nayon (Poblacion), Mabitac, 921
+Lucong, Mabitac, 1,118
+Maligaya (Poblacion), Mabitac, 403
+Masikap (Poblacion), Mabitac, 508
+Matalatala, Mabitac, 3,818
+Nanguma, Mabitac, 2,562
+Numero, Mabitac, 548
+Paagahan, Mabitac, 4,035
+Pag‑asa (Poblacion), Mabitac, 1,172
+San Antonio, Mabitac, 1,445
+San Miguel, Mabitac, 1,061
+Sinagtala (Poblacion), Mabitac, 790
+Alipit, Magdalena, 326
+Baanan, Magdalena, 881
+Balanac, Magdalena, 1,120
+Bucal, Magdalena, 983
+Buenavista, Magdalena, 2,209
+Bungkol, Magdalena, 742
+Buo, Magdalena, 267
+Burlungan, Magdalena, 584
+Cigaras, Magdalena, 3,106
+Halayhayin, Magdalena, 192
+Ibabang Atingay, Magdalena, 455
+Ibabang Butnong, Magdalena, 1,735
+Ilayang Atingay, Magdalena, 271
+Ilayang Butnong, Magdalena, 1,165
+Ilog, Magdalena, 376
+Malaking Ambling, Magdalena, 770
+Malinao, Magdalena, 537
+Maravilla, Magdalena, 571
+Munting Ambling, Magdalena, 1,157
+Poblacion, Magdalena, 2,485
+Sabang, Magdalena, 1,308
+Salasad, Magdalena, 2,477
+Tanawan, Magdalena, 296
+Tipunan, Magdalena, 1,253
+Amonoy, Majayjay, 510
+Bakia, Majayjay, 533
+Balanac, Majayjay, 163
+Balayong, Majayjay, 208
+Banilad, Majayjay, 215
+Banti, Majayjay, 310
+Bitaoy, Majayjay, 276
+Botocan, Majayjay, 814
+Bukal, Majayjay, 801
+Burgos, Majayjay, 272
+Burol, Majayjay, 370
+Coralao, Majayjay, 567
+Gagalot, Majayjay, 541
+Ibabang Banga, Majayjay, 609
+Ibabang Bayucain, Majayjay, 237
+Ilayang Banga, Majayjay, 1,287
+Ilayang Bayucain, Majayjay, 219
+Isabang, Majayjay, 129
+Malinao, Majayjay, 972
+May‑It, Majayjay, 369
+Munting Kawayan, Majayjay, 752
+Olla, Majayjay, 1,095
+Oobi, Majayjay, 858
+Origuel (Poblacion), Majayjay, 1,551
+Panalaban, Majayjay, 302
+Pangil, Majayjay, 820
+Panglan, Majayjay, 570
+Piit, Majayjay, 562
+Pook, Majayjay, 400
+Rizal, Majayjay, 306
+San Francisco (Poblacion), Majayjay, 2,354
+San Isidro, Majayjay, 581
+San Miguel (Poblacion), Majayjay, 2,621
+San Roque, Majayjay, 275
+Santa Catalina (Poblacion), Majayjay, 1,336
+Suba, Majayjay, 1,929
+Talortor, Majayjay, 946
+Tanawan, Majayjay, 275
+Taytay, Majayjay, 639
+Villa Nogales, Majayjay, 218
+Abo, Nagcarlan, 1,088
+Alibungbungan, Nagcarlan, 1,934
+Alumbrado, Nagcarlan, 972
+Balayong, Nagcarlan, 330
+Balimbing, Nagcarlan, 424
+Balinacon, Nagcarlan, 539
+Bambang, Nagcarlan, 2,366
+Banago, Nagcarlan, 2,611
+Banca‑banca, Nagcarlan, 1,487
+Bangcuro, Nagcarlan, 496
+Banilad, Nagcarlan, 624
+Bayaquitos, Nagcarlan, 149
+Buboy, Nagcarlan, 1,362
+Buenavista, Nagcarlan, 419
+Buhanginan, Nagcarlan, 347
+Bukal, Nagcarlan, 808
+Bunga, Nagcarlan, 359
+Cabuyew, Nagcarlan, 299
+Calumpang, Nagcarlan, 996
+Kanluran Kabubuhayan, Nagcarlan, 374
+Kanluran Lazaan, Nagcarlan, 580
+Labangan, Nagcarlan, 382
+Lagulo, Nagcarlan, 311
+Lawaguin, Nagcarlan, 405
+Maiit, Nagcarlan, 273
+Malaya, Nagcarlan, 2,298
+Malinao, Nagcarlan, 1,352
+Manaol, Nagcarlan, 1,798
+Maravilla, Nagcarlan, 1,217
+Nagcalbang, Nagcarlan, 221
+Oples, Nagcarlan, 407
+Palayan, Nagcarlan, 1,229
+Palina, Nagcarlan, 1,527
+Poblacion I (Poblacion), Nagcarlan, 1,749
+Poblacion II (Poblacion), Nagcarlan, 3,419
+Poblacion III (Poblacion), Nagcarlan, 2,409
+Sabang, Nagcarlan, 363
+San Francisco, Nagcarlan, 2,713
+Santa Lucia, Nagcarlan, 2,787
+Sibulan, Nagcarlan, 504
+Silangan Ilaya, Nagcarlan, 2,273
+Silangan Kabubuhayan, Nagcarlan, 909
+Silangan Lazaan, Nagcarlan, 1,251
+Silangan Napapatid, Nagcarlan, 830
+Sinipian, Nagcarlan, 619
+Sulsuguin, Nagcarlan, 253
+Talahib, Nagcarlan, 301
+Talangan, Nagcarlan, 2,104
+Taytay, Nagcarlan, 3,532
+Tipacan, Nagcarlan, 185
+Wakat, Nagcarlan, 1,726
+Yukos, Nagcarlan, 5,146
+Bagumbayan (Poblacion), Paete, 4,894
+Bangkusay (Poblacion), Paete, 534
+Ermita (Poblacion), Paete, 578
+Ibaba del Norte (Poblacion), Paete, 3,233
+Ibaba del Sur (Poblacion), Paete, 2,636
+Ilaya del Norte (Poblacion), Paete, 2,384
+Ilaya del Sur (Poblacion), Paete, 1,697
+Maytoong (Poblacion), Paete, 1,799
+Quinale (Poblacion), Paete, 7,341
+Anibong, Pagsanjan, 352
+Barangay I (Poblacion), Pagsanjan, 1,559
+Barangay II (Poblacion), Pagsanjan, 2,206
+Biñan, Pagsanjan, 5,706
+Buboy, Pagsanjan, 1,649
+Cabanbanan, Pagsanjan, 5,394
+Calusiche, Pagsanjan, 898
+Dingin, Pagsanjan, 1,222
+Lambac, Pagsanjan, 936
+Layugan, Pagsanjan, 296
+Magdapio, Pagsanjan, 2,136
+Maulawin, Pagsanjan, 4,209
+Pinagsanjan, Pagsanjan, 5,136
+Sabang, Pagsanjan, 3,147
+Sampaloc, Pagsanjan, 4,333
+San Isidro, Pagsanjan, 2,985
+Banilan, Pakil, 1,680
+Baño (Poblacion), Pakil, 425
+Burgos (Poblacion), Pakil, 2,152
+Casa Real, Pakil, 1,505
+Casinsin, Pakil, 1,662
+Dorado, Pakil, 585
+Gonzales (Poblacion), Pakil, 2,549
+Kabulusan, Pakil, 3,500
+Matikiw, Pakil, 697
+Rizal (Poblacion), Pakil, 2,362
+Saray, Pakil, 269
+Taft (Poblacion), Pakil, 1,347
+Tavera (Poblacion), Pakil, 1,926
+Balian, Pangil, 6,014
+Dambo, Pangil, 2,228
+Galalan, Pangil, 709
+Isla (Poblacion), Pangil, 3,016
+Mabato‑Azufre, Pangil, 1,654
+Natividad (Poblacion), Pangil, 2,720
+San Jose (Poblacion), Pangil, 1,387
+Sulib, Pangil, 6,546
+Aplaya, Pila, 3,137
+Bagong Pook, Pila, 3,632
+Bukal, Pila, 721
+Bulilan Norte (Poblacion), Pila, 2,210
+Bulilan Sur (Poblacion), Pila, 3,340
+Concepcion, Pila, 1,111
+Labuin, Pila, 5,467
+Linga, Pila, 3,477
+Masico, Pila, 2,408
+Mojon, Pila, 1,117
+Pansol, Pila, 2,499
+Pinagbayanan, Pila, 5,691
+San Antonio, Pila, 3,443
+San Miguel, Pila, 1,448
+Santa Clara Norte (Poblacion), Pila, 2,630
+Santa Clara Sur (Poblacion), Pila, 5,579
+Tubuan, Pila, 2,379
+Antipolo, Rizal, 2,753
+East Poblacion, Rizal, 695
+Entablado, Rizal, 146
+Laguan, Rizal, 395
+Paule 1, Rizal, 1,278
+Paule 2, Rizal, 1,939
+Pook, Rizal, 2,047
+Tala, Rizal, 2,897
+Talaga, Rizal, 2,131
+Tuy, Rizal, 1,887
+West Poblacion, Rizal, 1,085
+Atisan, San Pablo, 1,289
+Bagong Bayan II‑A (Poblacion), San Pablo, 6,302
+Bagong Pook VI‑C (Poblacion), San Pablo, 1,887
+Barangay I‑A (Poblacion), San Pablo, 554
+Barangay I‑B (Poblacion), San Pablo, 4,260
+Barangay II‑A (Poblacion), San Pablo, 2,753
+Barangay II‑B (Poblacion), San Pablo, 2,216
+Barangay II‑C (Poblacion), San Pablo, 1,192
+Barangay II‑D (Poblacion), San Pablo, 1,214
+Barangay II‑E (Poblacion), San Pablo, 2,989
+Barangay II‑F (Poblacion), San Pablo, 2,160
+Barangay III‑A (Poblacion), San Pablo, 143
+Barangay III‑B (Poblacion), San Pablo, 997
+Barangay III‑C (Poblacion), San Pablo, 3,005
+Barangay III‑D (Poblacion), San Pablo, 1,174
+Barangay III‑E (Poblacion), San Pablo, 531
+Barangay III‑F (Poblacion), San Pablo, 228
+Barangay IV‑A (Poblacion), San Pablo, 739
+Barangay IV‑B (Poblacion), San Pablo, 474
+Barangay IV‑C (Poblacion), San Pablo, 769
+Barangay V‑A (Poblacion), San Pablo, 495
+Barangay V‑B (Poblacion), San Pablo, 1,118
+Barangay V‑C (Poblacion), San Pablo, 375
+Barangay V‑D (Poblacion), San Pablo, 295
+Barangay VI‑A (Poblacion), San Pablo, 440
+Barangay VI‑B (Poblacion), San Pablo, 744
+Barangay VI‑D (Poblacion), San Pablo, 1,782
+Barangay VI‑E (Poblacion), San Pablo, 2,766
+Barangay VII‑A (Poblacion), San Pablo, 1,545
+Barangay VII‑B (Poblacion), San Pablo, 603
+Barangay VII‑C (Poblacion), San Pablo, 44
+Barangay VII‑D (Poblacion), San Pablo, 122
+Barangay VII‑E (Poblacion), San Pablo, 123
+Bautista, San Pablo, 2,717
+Concepcion, San Pablo, 8,273
+Del Remedio, San Pablo, 15,829
+Dolores, San Pablo, 2,400
+San Antonio 1, San Pablo, 5,287
+San Antonio 2, San Pablo, 3,938
+San Bartolome, San Pablo, 3,502
+San Buenaventura, San Pablo, 3,809
+San Crispin, San Pablo, 3,759
+San Cristobal, San Pablo, 5,278
+San Diego, San Pablo, 5,011
+San Francisco, San Pablo, 15,859
+San Gabriel, San Pablo, 8,929
+San Gregorio, San Pablo, 5,818
+San Ignacio, San Pablo, 5,281
+San Isidro, San Pablo, 3,726
+San Joaquin, San Pablo, 1,665
+San Jose, San Pablo, 9,001
+San Juan, San Pablo, 3,618
+San Lorenzo, San Pablo, 1,985
+San Lucas 1, San Pablo, 6,014
+San Lucas 2, San Pablo, 5,742
+San Marcos, San Pablo, 2,990
+San Mateo, San Pablo, 2,458
+San Miguel, San Pablo, 3,274
+San Nicolas, San Pablo, 5,145
+San Pedro, San Pablo, 2,814
+San Rafael, San Pablo, 3,744
+San Roque, San Pablo, 3,463
+San Vicente, San Pablo, 3,540
+Santa Ana, San Pablo, 2,706
+Santa Catalina, San Pablo, 2,507
+Santa Cruz, San Pablo, 2,475
+Santa Elena, San Pablo, 4,963
+Santa Felomina, San Pablo, 3,500
+Santa Isabel, San Pablo, 3,503
+Santa Maria, San Pablo, 3,418
+Santa Maria Magdalena, San Pablo, 2,517
+Santa Monica, San Pablo, 8,054
+Santa Veronica, San Pablo, 1,763
+Santiago I, San Pablo, 2,355
+Santiago II, San Pablo, 3,274
+Santisimo Rosario, San Pablo, 4,753
+Santo Angel, San Pablo, 8,494
+Santo Cristo, San Pablo, 3,102
+Santo Niño, San Pablo, 5,223
+Soledad, San Pablo, 3,264
+Bagong Silang, San Pedro, 5,539
+Calendola, San Pedro, 4,728
+Chrysanthemum, San Pedro, 10,482
+Cuyab, San Pedro, 21,731
+Estrella, San Pedro, 7,478
+Fatima, San Pedro, 8,704
+G.S.I.S., San Pedro, 2,867
+Landayan, San Pedro, 31,407
+Langgam, San Pedro, 29,625
+Laram, San Pedro, 6,285
+Magsaysay, San Pedro, 12,172
+Maharlika, San Pedro, 6,343
+Narra, San Pedro, 2,429
+Nueva, San Pedro, 4,967
+Pacita 1, San Pedro, 20,362
+Pacita 2, San Pedro, 12,811
+Poblacion, San Pedro, 5,890
+Riverside, San Pedro, 3,226
+Rosario, San Pedro, 5,613
+Sampaguita Village, San Pedro, 5,733
+San Antonio, San Pedro, 61,428
+San Lorenzo Ruiz, San Pedro, 5,073
+San Roque, San Pedro, 7,011
+San Vicente, San Pedro, 26,129
+Santo Niño, San Pedro, 4,172
+United Bayanihan, San Pedro, 7,086
+United Better Living, San Pedro, 6,518
+Alipit, Santa Cruz, 381
+Bagumbayan, Santa Cruz, 11,251
+Barangay I (Poblacion), Santa Cruz, 1,443
+Barangay II (Poblacion), Santa Cruz, 1,672
+Barangay III (Poblacion), Santa Cruz, 578
+Barangay IV (Poblacion), Santa Cruz, 996
+Barangay V (Poblacion), Santa Cruz, 577
+Bubukal, Santa Cruz, 6,097
+Calios, Santa Cruz, 9,655
+Duhat, Santa Cruz, 6,636
+Gatid, Santa Cruz, 9,329
+Jasaan, Santa Cruz, 872
+Labuin, Santa Cruz, 4,741
+Malinao, Santa Cruz, 736
+Oogong, Santa Cruz, 4,297
+Pagsawitan, Santa Cruz, 9,682
+Palasan, Santa Cruz, 3,597
+Patimbao, Santa Cruz, 8,282
+San Jose, Santa Cruz, 2,506
+San Juan, Santa Cruz, 3,473
+San Pablo Norte, Santa Cruz, 2,882
+San Pablo Sur, Santa Cruz, 3,610
+Santisima Cruz, Santa Cruz, 9,986
+Santo Angel Central, Santa Cruz, 3,926
+Santo Angel Norte, Santa Cruz, 5,828
+Santo Angel Sur, Santa Cruz, 4,572
+Adia, Santa Maria, 1,140
+Bagong Pook, Santa Maria, 2,283
+Bagumbayan, Santa Maria, 1,744
+Barangay I (Poblacion), Santa Maria, 973
+Barangay II (Poblacion), Santa Maria, 621
+Barangay III (Poblacion), Santa Maria, 855
+Barangay IV (Poblacion), Santa Maria, 525
+Bubukal, Santa Maria, 1,141
+Cabooan, Santa Maria, 1,862
+Calangay, Santa Maria, 1,312
+Cambuja, Santa Maria, 2,131
+Coralan, Santa Maria, 2,550
+Cueva, Santa Maria, 1,043
+Inayapan, Santa Maria, 868
+Jose Laurel, Sr., Sr., 529
+Jose Rizal, Santa Maria, 1,094
+Kayhakat, Santa Maria, 1,231
+Macasipac, Santa Maria, 566
+Masinao, Santa Maria, 900
+Mataling‑Ting, Santa Maria, 630
+Pao‑o, Santa Maria, 776
+Parang ng Buho, Santa Maria, 886
+Santiago, Santa Maria, 1,846
+Talangka, Santa Maria, 1,831
+Tungkod, Santa Maria, 1,493
+Aplaya, Santa Rosa, 15,519
+Balibago, Santa Rosa, 20,594
+Caingin, Santa Rosa, 21,597
+Dila, Santa Rosa, 30,863
+Dita, Santa Rosa, 28,258
+Don Jose, Santa Rosa, 18,872
+Ibaba, Santa Rosa, 8,291
+Kanluran (Poblacion), Santa Rosa, 4,785
+Labas, Santa Rosa, 19,395
+Macabling, Santa Rosa, 19,432
+Malitlit, Santa Rosa, 24,500
+Malusak (Poblacion), Santa Rosa, 2,664
+Market Area (Poblacion), Santa Rosa, 14,110
+Pook, Santa Rosa, 42,784
+Pulong Santa Cruz, Santa Rosa, 22,553
+Santo Domingo, Santa Rosa, 4,092
+Sinalhan, Santa Rosa, 21,797
+Tagapo, Santa Rosa, 33,661
+Acevida, Siniloan, 1,323
+Bagong Pag‑asa (Poblacion), Siniloan, 496
+Bagumbarangay (Poblacion), Siniloan, 166
+Buhay, Siniloan, 1,129
+G. Redor (Poblacion), Siniloan, 617
+Gen. Luna, Siniloan, 1,780
+Halayhayin, Siniloan, 4,555
+J. Rizal (Poblacion), Siniloan, 379
+Kapatalan, Siniloan, 2,528
+Laguio, Siniloan, 628
+Liyang, Siniloan, 698
+Llavac, Siniloan, 1,774
+Macatad, Siniloan, 2,812
+Magsaysay, Siniloan, 1,896
+Mayatba, Siniloan, 346
+Mendiola, Siniloan, 5,555
+P. Burgos, Siniloan, 2,884
+Pandeno, Siniloan, 3,676
+Salubungan, Siniloan, 1,751
+Wawa, Siniloan, 3,074
+Banca‑banca, Victoria, 3,837
+Daniw, Victoria, 1,341
+Masapang, Victoria, 6,183
+Nanhaya (Poblacion), Victoria, 7,155
+Pagalangan, Victoria, 1,434
+San Benito, Victoria, 3,350
+San Felix, Victoria, 1,384
+San Francisco, Victoria, 5,608
+San Roque (Poblacion), Victoria, 9,029

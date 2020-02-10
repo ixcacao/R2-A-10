@@ -1,0 +1,367 @@
+Apo‑Aporawan, Aborlan, 961
+Apoc‑apoc, Aborlan, 1,257
+Aporawan, Aborlan, 3,403
+Barake, Aborlan, 888
+Cabigaan, Aborlan, 1,951
+Culandanum, Aborlan, 1,296
+Gogognan, Aborlan, 586
+Iraan, Aborlan, 1,852
+Isaub, Aborlan, 2,466
+Jose Rizal, Aborlan, 1,371
+Mabini, Aborlan, 1,038
+Magbabadil, Aborlan, 1,237
+Plaridel, Aborlan, 3,297
+Poblacion, Aborlan, 2,462
+Ramon Magsaysay, Aborlan, 2,714
+Sagpangan, Aborlan, 1,608
+San Juan, Aborlan, 3,793
+Tagpait, Aborlan, 1,003
+Tigman, Aborlan, 1,908
+Abagat (Poblacion), Agutaya, 387
+Algeciras, Agutaya, 4,584
+Bangcal (Poblacion), Agutaya, 265
+Cambian (Poblacion), Agutaya, 397
+Concepcion, Agutaya, 3,813
+Diit, Agutaya, 1,064
+Maracanao, Agutaya, 309
+Matarawis, Agutaya, 349
+Villafria, Agutaya, 516
+Villasol, Agutaya, 861
+Balogo, Araceli, 805
+Dagman, Araceli, 868
+Dalayawon, Araceli, 474
+Lumacad, Araceli, 622
+Madoldolon, Araceli, 958
+Mauringuen, Araceli, 1,057
+Osmeña, Araceli, 993
+Poblacion (Centro), Araceli, 3,217
+San Jose de Oro, Araceli, 744
+Santo Niño, Araceli, 592
+Taloto, Araceli, 559
+Tinintinan, Araceli, 1,591
+Tudela (Calandagan), Araceli, 2,429
+Agutayan, Balabac, 794
+Bancalaan, Balabac, 11,701
+Bugsuk (New Cagayancillo), Balabac, 1,010
+Catagupan, Balabac, 2,373
+Indalawan, Balabac, 1,351
+Malaking Ilog, Balabac, 900
+Mangsee, Balabac, 9,016
+Melville, Balabac, 1,386
+Pandanan, Balabac, 1,148
+Pasig, Balabac, 407
+Poblacion I, Balabac, 236
+Poblacion II, Balabac, 488
+Poblacion III, Balabac, 460
+Poblacion IV, Balabac, 475
+Poblacion V, Balabac, 565
+Poblacion VI, Balabac, 1,424
+Rabor, Balabac, 435
+Ramos, Balabac, 2,331
+Salang, Balabac, 2,529
+Sebaring, Balabac, 1,113
+Bono‑bono, Bataraza, 3,293
+Bulalacao, Bataraza, 1,940
+Buliluyan, Bataraza, 1,782
+Culandanum, Bataraza, 3,966
+Igang‑igang, Bataraza, 1,542
+Inogbong, Bataraza, 4,062
+Iwahig, Bataraza, 2,064
+Malihud, Bataraza, 2,112
+Malitub, Bataraza, 701
+Marangas (Poblacion), Bataraza, 8,183
+Ocayan, Bataraza, 2,418
+Puring, Bataraza, 1,293
+Rio Tuba, Bataraza, 21,330
+Sandoval, Bataraza, 3,424
+Sapa, Bataraza, 1,886
+Sarong, Bataraza, 1,788
+Sumbiling, Bataraza, 3,609
+Tabud, Bataraza, 1,161
+Tagnato, Bataraza, 1,037
+Tagolango, Bataraza, 943
+Taratak, Bataraza, 2,008
+Tarusan, Bataraza, 4,926
+Amas, Brooke's Point, 2,157
+Aribungos, Brooke's Point, 4,746
+Barong‑barong, Brooke's Point, 4,197
+Calasaguen, Brooke's Point, 2,942
+Imulnod, Brooke's Point, 2,392
+Ipilan, Brooke's Point, 5,944
+Maasin, Brooke's Point, 3,445
+Mainit, Brooke's Point, 2,956
+Malis, Brooke's Point, 3,133
+Mambalot, Brooke's Point, 2,769
+Oring‑oring, Brooke's Point, 1,892
+Pangobilian, Brooke's Point, 9,581
+Poblacion I, Brooke's Point, 5,385
+Poblacion II, Brooke's Point, 3,253
+Salogon, Brooke's Point, 3,623
+Samareñana, Brooke's Point, 3,042
+Saraza, Brooke's Point, 3,529
+Tubtub, Brooke's Point, 1,388
+Bogtong, Busuanga, 1,076
+Buluang, Busuanga, 2,475
+Cheey, Busuanga, 2,258
+Concepcion, Busuanga, 1,769
+Maglalambay, Busuanga, 1,276
+New Busuanga (Poblacion), Busuanga, 1,558
+Old Busuanga, Busuanga, 906
+Panlaitan, Busuanga, 2,550
+Quezon, Busuanga, 985
+Sagrada, Busuanga, 1,096
+Salvacion, Busuanga, 3,084
+San Isidro, Busuanga, 1,055
+San Rafael, Busuanga, 689
+Santo Niño, Busuanga, 1,269
+Bantayan (Poblacion), Cagayancillo, 390
+Calsada (Poblacion), Cagayancillo, 218
+Convento (Poblacion), Cagayancillo, 310
+Lipot North (Poblacion), Cagayancillo, 201
+Lipot South (Poblacion), Cagayancillo, 135
+Magsaysay, Cagayancillo, 1,432
+Mampio, Cagayancillo, 679
+Nusa, Cagayancillo, 531
+Santa Cruz, Cagayancillo, 922
+Tacas (Poblacion), Cagayancillo, 183
+Talaga, Cagayancillo, 1,111
+Wahig (Poblacion), Cagayancillo, 173
+Banuang Daan, Coron, 907
+Barangay I (Poblacion), Coron, 5,112
+Barangay II (Poblacion), Coron, 1,000
+Barangay III (Poblacion), Coron, 775
+Barangay IV (Poblacion), Coron, 737
+Barangay V (Poblacion), Coron, 3,903
+Barangay VI (Poblacion), Coron, 2,305
+Bintuan, Coron, 2,797
+Borac, Coron, 2,491
+Buenavista, Coron, 989
+Bulalacao, Coron, 3,488
+Cabugao, Coron, 2,142
+Decabobo, Coron, 1,161
+Decalachao, Coron, 2,027
+Guadalupe, Coron, 3,730
+Lajala, Coron, 1,467
+Malawig, Coron, 787
+Marcilla, Coron, 1,479
+San Jose, Coron, 1,367
+San Nicolas, Coron, 1,982
+Tagumpay, Coron, 6,966
+Tara, Coron, 1,629
+Turda, Coron, 2,562
+Balala, Culion, 671
+Baldat, Culion, 723
+Binudac, Culion, 2,167
+Burabod, Culion, 829
+Culango, Culion, 346
+De Carabao, Culion, 1,799
+Galoc, Culion, 1,956
+Halsey, Culion, 823
+Jardin, Culion, 1,319
+Libis, Culion, 1,312
+Luac, Culion, 1,688
+Malaking Patag, Culion, 1,688
+Osmeña, Culion, 3,693
+Tiza, Culion, 1,125
+Balading, Cuyo, 759
+Bangcal (Poblacion), Cuyo, 1,441
+Cabigsing (Poblacion), Cuyo, 2,064
+Caburian, Cuyo, 431
+Caponayan, Cuyo, 1,211
+Catadman (Poblacion), Cuyo, 1,219
+Funda, Cuyo, 536
+Lagaoriao (Poblacion), Cuyo, 720
+Lubid, Cuyo, 825
+Lungsod (Poblacion), Cuyo, 1,034
+Manamoc, Cuyo, 2,631
+Maringian, Cuyo, 1,419
+Pawa, Cuyo, 1,542
+San Carlos, Cuyo, 1,412
+Suba, Cuyo, 4,037
+Tenga‑tenga (Poblacion), Cuyo, 679
+Tocadan (Poblacion), Cuyo, 400
+Bacao, Dumaran, 1,719
+Bohol, Dumaran, 1,551
+Calasag, Dumaran, 305
+Capayas, Dumaran, 1,410
+Catep, Dumaran, 852
+Culasian, Dumaran, 924
+Danleg, Dumaran, 1,974
+Dumaran (Poblacion), Dumaran, 2,024
+Ilian, Dumaran, 1,657
+Itangil, Dumaran, 1,920
+Magsaysay, Dumaran, 1,644
+San Juan, Dumaran, 858
+Santa Maria, Dumaran, 891
+Santa Teresita, Dumaran, 3,234
+Santo Tomas, Dumaran, 1,157
+Tanatanaon, Dumaran, 1,614
+Aberawan, El Nido, 1,318
+Bagong Bayan, El Nido, 1,207
+Barotuan, El Nido, 2,279
+Bebeladan, El Nido, 2,171
+Bucana, El Nido, 4,498
+Buena Suerte Poblacion (Barangay 2), El Nido, 2,643
+Corong‑corong Poblacion (Barangay 4), El Nido, 2,804
+Mabini, El Nido, 1,381
+Maligaya Poblacion (Barangay 1), El Nido, 1,492
+Manlag, El Nido, 2,200
+Masagana Poblacion (Barangay 3), El Nido, 1,851
+New Ibajay, El Nido, 3,003
+Pasadeña, El Nido, 2,001
+San Fernando, El Nido, 2,249
+Sibaltan, El Nido, 1,653
+Teneguiban, El Nido, 4,449
+Villa Libertad, El Nido, 3,289
+Villa Paz, El Nido, 1,118
+Pag‑asa, Kalayaan, 184
+Barangonan (Iloc), Linapacan, 968
+Cabunlawan, Linapacan, 743
+Calibangbangan, Linapacan, 1,206
+Decabaitot, Linapacan, 573
+Maroyogroyog, Linapacan, 1,853
+Nangalao, Linapacan, 2,496
+New Culaylayan, Linapacan, 1,287
+Pical, Linapacan, 1,451
+San Miguel (Poblacion), Linapacan, 4,103
+San Nicolas, Linapacan, 988
+Alcoba, Magsaysay, 596
+Balaguen, Magsaysay, 1,812
+Canipo, Magsaysay, 864
+Cocoro, Magsaysay, 1,305
+Danawan (Poblacion), Magsaysay, 676
+Emilod, Magsaysay, 621
+Igabas, Magsaysay, 958
+Lacaren, Magsaysay, 419
+Los Angeles, Magsaysay, 949
+Lucbuan, Magsaysay, 1,921
+Rizal, Magsaysay, 2,075
+Antipuluan, Narra, 7,067
+Aramaywan, Narra, 4,045
+Bagong Sikat, Narra, 1,905
+Batang‑batang, Narra, 1,345
+Bato‑bato, Narra, 2,633
+Burirao, Narra, 2,628
+Caguisan, Narra, 1,442
+Calategas, Narra, 4,563
+Dumagueña, Narra, 3,406
+Elvita, Narra, 967
+Estrella Village, Narra, 1,084
+Ipilan, Narra, 1,839
+Malatgao, Narra, 2,153
+Malinao, Narra, 2,984
+Narra (Poblacion), Narra, 11,989
+Panacan, Narra, 4,515
+Panacan 2, Narra, 5,571
+Princess Urduja, Narra, 5,295
+Sandoval, Narra, 2,420
+Tacras, Narra, 1,198
+Taritien, Narra, 1,896
+Teresa, Narra, 1,370
+Tinagong Dagat, Narra, 897
+Alfonso XIII (Poblacion), Quezon, 15,081
+Aramaywan, Quezon, 3,600
+Berong, Quezon, 3,808
+Calatagbak, Quezon, 1,615
+Calumpang, Quezon, 2,343
+Isugod, Quezon, 4,103
+Maasin, Quezon, 1,980
+Malatgao, Quezon, 2,914
+Panitian, Quezon, 6,482
+Pinaglabanan, Quezon, 3,266
+Quinlogan, Quezon, 3,956
+Sowangan, Quezon, 3,116
+Tabon, Quezon, 4,845
+Tagusao, Quezon, 3,871
+Bunog, Rizal, 2,868
+Campong Ulay, Rizal, 2,057
+Candawaga, Rizal, 5,771
+Canipaan, Rizal, 2,374
+Culasian, Rizal, 2,620
+Iraan, Rizal, 6,780
+Latud, Rizal, 2,156
+Panalingaan, Rizal, 4,556
+Punta Baja, Rizal, 10,594
+Ransang, Rizal, 4,983
+Taburi, Rizal, 5,337
+Abaroan, Roxas, 3,824
+Antonino, Roxas, 1,271
+Bagong Bayan, Roxas, 1,059
+Barangay 1 (Poblacion), Roxas, 4,010
+Barangay II (Poblacion), Roxas, 911
+Barangay III (Poblacion), Roxas, 4,312
+Barangay IV (Poblacion), Roxas, 6,006
+Barangay V Poblacion (Porao Island), Roxas, 0
+Barangay VI Poblacion (Johnson Island), Roxas, 555
+Caramay, Roxas, 2,773
+Dumarao, Roxas, 2,701
+Iraan, Roxas, 853
+Jolo, Roxas, 1,032
+Magara (Arasan), Roxas, 5,139
+Malcampo, Roxas, 1,779
+Mendoza, Roxas, 1,339
+Narra (Minara), Roxas, 1,180
+New Barbacan (Retac), Roxas, 4,359
+New Cuyo, Roxas, 1,712
+Nicanor Zabala, Roxas, 2,035
+Rizal, Roxas, 1,000
+Salvacion, Roxas, 688
+San Isidro, Roxas, 672
+San Jose, Roxas, 1,544
+San Miguel, Roxas, 1,148
+San Nicolas, Roxas, 1,272
+Sandoval, Roxas, 1,908
+Tagumpay, Roxas, 2,849
+Taradungan, Roxas, 1,164
+Tinitian, Roxas, 1,919
+Tumarbong, Roxas, 4,344
+Alimanguan, San Vicente, 4,711
+Binga, San Vicente, 1,600
+Caruray, San Vicente, 4,534
+Kemdeng, San Vicente, 1,044
+New Agutaya, San Vicente, 3,384
+New Canipo, San Vicente, 1,426
+Poblacion (San Vicente), San Vicente, 6,502
+Port Barton, San Vicente, 5,844
+San Isidro, San Vicente, 908
+Santo Niño, San Vicente, 1,279
+Abo‑abo, Sofronio Española, 2,596
+Iraray, Sofronio Española, 2,925
+Isumbo, Sofronio Española, 2,127
+Labog, Sofronio Española, 3,534
+Panitian, Sofronio Española, 5,274
+Pulot Center, Sofronio Española, 5,789
+Pulot Interior (Pulot II), Sofronio Española, 3,060
+Pulot Shore (Pulot I), Sofronio Española, 4,523
+Punang, Sofronio Española, 3,048
+Abongan, Taytay, 4,011
+Alacalian, Taytay, 2,637
+Banbanan, Taytay, 1,982
+Bantulan, Taytay, 2,303
+Baras (Pangpang), Taytay, 1,221
+Batas, Taytay, 1,171
+Bato, Taytay, 2,827
+Beton, Taytay, 1,664
+Busy Bees, Taytay, 1,211
+Calawag, Taytay, 4,947
+Casian, Taytay, 4,487
+Cataban, Taytay, 939
+Debangan, Taytay, 1,266
+Depla, Taytay, 1,113
+Libertad, Taytay, 1,800
+Liminangcong, Taytay, 5,533
+Meytegued, Taytay, 1,079
+Minapla, Taytay, 641
+New Guinlo, Taytay, 3,379
+Old Guinlo, Taytay, 960
+Paglaum, Taytay, 2,056
+Paly (Paly Island), Taytay, 2,805
+Pamantolon, Taytay, 1,847
+Pancol, Taytay, 2,408
+Poblacion, Taytay, 11,097
+Pularaquen (Canique), Taytay, 2,507
+San Jose, Taytay, 2,192
+Sandoval, Taytay, 1,284
+Silanga, Taytay, 1,288
+Talog, Taytay, 1,021
+Tumbod, Taytay, 1,489

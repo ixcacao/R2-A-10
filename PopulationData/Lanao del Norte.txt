@@ -1,0 +1,462 @@
+Alegria, Bacolod, 549
+Babalaya, Bacolod, 655
+Babalayan Townsite, Bacolod, 768
+Binuni, Bacolod, 1,798
+Delabayan West, Bacolod, 596
+Demologan, Bacolod, 1,801
+Dimarao, Bacolod, 763
+Esperanza, Bacolod, 2,527
+Kahayag, Bacolod, 739
+Liangan East, Bacolod, 2,019
+Mati, Bacolod, 597
+Minaulon, Bacolod, 694
+Pagayawan, Bacolod, 1,327
+Poblacion Bacolod, Bacolod, 5,647
+Punod (Maliwanag), Bacolod, 856
+Rupagan, Bacolod, 1,698
+Abaga, Baloi, 2,990
+Adapun‑Ali (Dariat), Baloi, 2,041
+Angandog (Bulao), Baloi, 1,420
+Angayen (Balut), Baloi, 2,035
+Bangko, Baloi, 1,780
+Batolacongan (Basagad), Baloi, 2,146
+Buenavista, Baloi, 1,512
+Cadayonan, Baloi, 1,811
+Landa (Gadongan), Baloi, 2,824
+Lumbac, Baloi, 2,231
+Mamaanun, Baloi, 2,517
+Maria‑Cristina, Baloi, 6,485
+Matampay, Baloi, 2,374
+Nangka, Baloi, 3,420
+Pacalundo, Baloi, 5,608
+Poblacion East, Baloi, 4,789
+Poblacion West, Baloi, 5,278
+Sandor (Daduan), Baloi, 1,519
+Sangcad (Cormatan), Baloi, 1,555
+Sarip‑Alawi (Payawan), Baloi, 2,584
+Sigayan, Baloi, 1,464
+Andil, Baroy, 364
+Bagong Dawis, Baroy, 2,260
+Baroy Daku, Baroy, 1,419
+Bato, Baroy, 399
+Cabasagan, Baroy, 460
+Dalama, Baroy, 1,186
+Libertad, Baroy, 462
+Limwag, Baroy, 473
+Lindongan, Baroy, 852
+Maliwanag, Baroy, 776
+Manan‑ao, Baroy, 903
+Pange, Baroy, 746
+Pindolonan, Baroy, 453
+Poblacion, Baroy, 3,019
+Princesa, Baroy, 985
+Rawan Point, Baroy, 1,498
+Riverside, Baroy, 544
+Sagadan (Sagadan Lower), Baroy, 1,769
+Sagadan Upper, Baroy, 624
+Salong, Baroy, 854
+San Juan, Baroy, 1,108
+Tinubdan, Baroy, 365
+Village, Baroy, 1,081
+Bagong Badian, Kapatagan, 523
+Bagong Silang, Kapatagan, 1,788
+Balili, Kapatagan, 2,777
+Bansarvil, Kapatagan, 1,907
+Belis, Kapatagan, 879
+Buenavista, Kapatagan, 791
+Butadon, Kapatagan, 4,321
+Cathedral Falls, Kapatagan, 858
+Concepcion, Kapatagan, 729
+Curvada, Kapatagan, 1,830
+De Asis, Kapatagan, 1,168
+Donggoan, Kapatagan, 2,748
+Durano, Kapatagan, 501
+Kahayagan, Kapatagan, 704
+Kidalos, Kapatagan, 1,027
+La Libertad, Kapatagan, 704
+Lapinig, Kapatagan, 4,564
+Mahayahay, Kapatagan, 1,654
+Malinas, Kapatagan, 726
+Maranding, Kapatagan, 2,664
+Margos, Kapatagan, 2,991
+Poblacion, Kapatagan, 13,422
+Pulang Yuta, Kapatagan, 574
+San Isidro, Kapatagan, 545
+San Vicente, Kapatagan, 1,502
+Santa Cruz, Kapatagan, 1,197
+Santo Tomas, Kapatagan, 1,423
+Suso, Kapatagan, 683
+Taguitic, Kapatagan, 4,446
+Tiacongan, Kapatagan, 867
+Tipolo, Kapatagan, 650
+Tulatulahan, Kapatagan, 557
+Waterfalls, Kapatagan, 1,133
+Bagumbayan (Poblacion), Kauswagan, 3,726
+Bara‑ason, Kauswagan, 1,318
+Cayontor, Kauswagan, 902
+Delabayan, Kauswagan, 2,582
+Inudaran, Kauswagan, 841
+Kawit Occidental, Kauswagan, 1,141
+Kawit Oriental, Kauswagan, 1,378
+Libertad, Kauswagan, 4,036
+Paiton, Kauswagan, 917
+Poblacion, Kauswagan, 4,331
+Tacub, Kauswagan, 2,754
+Tingintingin, Kauswagan, 1,274
+Tugar, Kauswagan, 1,078
+Austin Heights, Kolambugan, 1,157
+Baybay, Kolambugan, 2,726
+Bubong, Kolambugan, 151
+Caromatan, Kolambugan, 1,466
+Inudaran, Kolambugan, 252
+Kulasihan, Kolambugan, 823
+Libertad, Kolambugan, 2,331
+Lumbac, Kolambugan, 494
+Manga, Kolambugan, 1,663
+Matampay, Kolambugan, 212
+Mukas, Kolambugan, 1,707
+Muntay, Kolambugan, 1,728
+Pagalungan, Kolambugan, 196
+Palao, Kolambugan, 367
+Pantaon, Kolambugan, 324
+Pantar, Kolambugan, 367
+Poblacion, Kolambugan, 2,069
+Rebucon, Kolambugan, 959
+Riverside, Kolambugan, 1,752
+San Roque, Kolambugan, 280
+Santo Niño, Kolambugan, 699
+Simbuco, Kolambugan, 1,303
+Small Banisilan, Kolambugan, 227
+Sucodan, Kolambugan, 648
+Tabigue, Kolambugan, 1,514
+Titunod, Kolambugan, 1,590
+Abaga, Lala, 3,807
+Andil, Lala, 619
+Cabasagan, Lala, 2,986
+Camalan, Lala, 982
+Darumawang Bucana, Lala, 1,230
+Darumawang Ilaya, Lala, 3,633
+El Salvador, Lala, 1,349
+Gumagamot, Lala, 1,915
+Lala Proper (Poblacion), Lala, 3,900
+Lanipao, Lala, 4,807
+Magpatao, Lala, 2,044
+Maranding, Lala, 12,114
+Matampay Bucana, Lala, 892
+Matampay Ilaya, Lala, 1,415
+Pacita, Lala, 1,471
+Pendolonan, Lala, 986
+Pinoyak, Lala, 3,197
+Raw‑an, Lala, 2,102
+Rebe, Lala, 4,546
+San Isidro Lower, Lala, 1,659
+San Isidro Upper, Lala, 1,372
+San Manuel, Lala, 1,346
+Santa Cruz Lower, Lala, 1,128
+Santa Cruz Upper, Lala, 731
+Simpak, Lala, 3,684
+Tenazas, Lala, 2,523
+Tuna‑an, Lala, 1,289
+Busque, Linamon, 1,437
+Larapan, Linamon, 814
+Magoong, Linamon, 3,004
+Napo, Linamon, 745
+Poblacion, Linamon, 7,098
+Purakan, Linamon, 1,081
+Robocon, Linamon, 2,626
+Samburon, Linamon, 3,536
+Babasalon, Magsaysay, 802
+Baguiguicon, Magsaysay, 1,183
+Daan Campo, Magsaysay, 686
+Durianon, Magsaysay, 500
+Ilihan, Magsaysay, 431
+Lamigadato, Magsaysay, 525
+Lemoncret, Magsaysay, 892
+Lower Caningag (Perimbangan), Magsaysay, 329
+Lubo, Magsaysay, 1,015
+Lumbac, Magsaysay, 1,745
+Malabaogan, Magsaysay, 601
+Mapantao, Magsaysay, 443
+Olango, Magsaysay, 655
+Pangao, Magsaysay, 940
+Pelingkingan, Magsaysay, 893
+Poblacion (Bago-a-Ingud), Magsaysay, 2,191
+Rarab, Magsaysay, 627
+Somiorang, Magsaysay, 460
+Talambo, Magsaysay, 1,213
+Tambacon, Magsaysay, 1,016
+Tawinian, Magsaysay, 709
+Tipaan, Magsaysay, 401
+Tombador, Magsaysay, 485
+Upper Caningag (Taguitingan), Magsaysay, 277
+Balagatasa, Maigo, 4,090
+Camp 1, Maigo, 499
+Claro M. Recto, Maigo, 1,613
+Inoma, Maigo, 631
+Kulasihan (Villanueva), Maigo, 827
+Labuay, Maigo, 2,882
+Liangan West, Maigo, 2,155
+Mahayahay, Maigo, 537
+Maliwanag, Maigo, 669
+Mentring, Maigo, 1,257
+Poblacion, Maigo, 3,454
+Santa Cruz, Maigo, 942
+Segapod, Maigo, 2,110
+Bangco, Matungao, 915
+Batal, Matungao, 1,225
+Batangan, Matungao, 1,943
+Bubong Radapan, Matungao, 830
+Cadayonan, Matungao, 1,174
+Matampay, Matungao, 767
+Pangi, Matungao, 759
+Pasayanon, Matungao, 1,990
+Poblacion (Matungao), Matungao, 2,030
+Puntod, Matungao, 599
+Santa Cruz, Matungao, 466
+Somiorang, Matungao, 1,277
+Bacayawan, Munai, 1,051
+Balabacun, Munai, 1,278
+Balintad, Munai, 666
+Dalama, Munai, 1,200
+Kadayonan, Munai, 688
+Lindongan, Munai, 1,124
+Lingco‑an, Munai, 906
+Lininding, Munai, 1,641
+Lumba‑Bayabao, Munai, 1,397
+Madaya, Munai, 747
+Maganding, Munai, 640
+Matampay, Munai, 1,431
+North Cadulawan, Munai, 1,048
+Old Poblacion, Munai, 3,636
+Panggao, Munai, 2,306
+Pantao, Munai, 699
+Pantao‑A‑Munai, Munai, 900
+Pantaon, Munai, 588
+Pindolonan, Munai, 2,035
+Punong, Munai, 729
+Ramain, Munai, 1,514
+Sandigamunai, Munai, 912
+Tagoranao, Munai, 397
+Tambo, Munai, 2,575
+Tamparan (Mandaya), Munai, 1,687
+Taporog, Munai, 1,178
+Abaga, Nunungan, 488
+Bangco, Nunungan, 715
+Cabasaran (Laya), Nunungan, 659
+Canibongan, Nunungan, 580
+Dimayon, Nunungan, 621
+Inayawan, Nunungan, 891
+Kaludan, Nunungan, 1,164
+Karcum, Nunungan, 1,098
+Katubuan, Nunungan, 778
+Liangan, Nunungan, 555
+Lupitan, Nunungan, 737
+Malaig, Nunungan, 560
+Mangan, Nunungan, 709
+Masibay, Nunungan, 791
+Notongan, Nunungan, 489
+Panganapan, Nunungan, 590
+Pantar, Nunungan, 870
+Paridi, Nunungan, 563
+Petadun, Nunungan, 1,155
+Poblacion (Nunungan Proper), Nunungan, 981
+Rarab, Nunungan, 919
+Raraban, Nunungan, 579
+Rebucon, Nunungan, 633
+Songgod, Nunungan, 576
+Taraka, Nunungan, 666
+Aloon, Pantao Ragat, 1,546
+Banday, Pantao Ragat, 1,759
+Bobonga Pantao Ragat, Pantao Ragat, 1,390
+Bobonga Radapan, Pantao Ragat, 868
+Cabasagan, Pantao Ragat, 1,645
+Calawe, Pantao Ragat, 982
+Culubun, Pantao Ragat, 1,308
+Dilimbayan, Pantao Ragat, 1,337
+Dimayon, Pantao Ragat, 1,324
+Lomidong, Pantao Ragat, 1,417
+Madaya, Pantao Ragat, 1,099
+Maliwanag, Pantao Ragat, 1,633
+Matampay, Pantao Ragat, 1,186
+Natangcopan, Pantao Ragat, 1,282
+Pansor, Pantao Ragat, 1,317
+Pantao Marug, Pantao Ragat, 1,287
+Poblacion East, Pantao Ragat, 2,757
+Poblacion West, Pantao Ragat, 1,324
+Tangcal, Pantao Ragat, 1,180
+Tongcopan, Pantao Ragat, 1,225
+Bangcal, Pantar, 963
+Bowi, Pantar, 787
+Bubong Madaya, Pantar, 499
+Cabasaran, Pantar, 1,008
+Cadayonan, Pantar, 780
+Campong, Pantar, 693
+Dibarosan, Pantar, 725
+Kalanganan East, Pantar, 3,015
+Kalanganan Lower, Pantar, 1,423
+Kalilangan, Pantar, 482
+Lumba‑Punod, Pantar, 1,870
+Pantao‑Marug, Pantar, 652
+Pantao‑Ranao, Pantar, 878
+Pantar East, Pantar, 1,461
+Pitubo, Pantar, 673
+Poblacion, Pantar, 1,207
+Poona‑Punod, Pantar, 1,040
+Punod, Pantar, 1,078
+Sundiga‑Punod, Pantar, 878
+Tawanan, Pantar, 788
+West Pantar, Pantar, 873
+Alowin, Poona Piagapo, 872
+Bubong‑Dinaig, Poona Piagapo, 979
+Cabasaran, Poona Piagapo, 949
+Cadayonan, Poona Piagapo, 1,136
+Caromatan, Poona Piagapo, 1,576
+Daramba, Poona Piagapo, 1,359
+Dinaig, Poona Piagapo, 875
+Kablangan, Poona Piagapo, 751
+Linindingan, Poona Piagapo, 1,094
+Lumbatan, Poona Piagapo, 1,052
+Lupitan, Poona Piagapo, 849
+Madamba, Poona Piagapo, 910
+Madaya, Poona Piagapo, 1,150
+Maliwanag, Poona Piagapo, 1,188
+Nunang, Poona Piagapo, 1,118
+Nunungan, Poona Piagapo, 863
+Pantao Raya, Poona Piagapo, 1,213
+Pantaon, Poona Piagapo, 905
+Pendolonan, Poona Piagapo, 1,158
+Pened, Poona Piagapo, 1,078
+Piangamangaan, Poona Piagapo, 961
+Poblacion (Lumbacaingud), Poona Piagapo, 1,426
+Sulo, Poona Piagapo, 852
+Tagoranao, Poona Piagapo, 788
+Tangclao, Poona Piagapo, 909
+Timbangalan, Poona Piagapo, 1,007
+Barandia, Salvador, 619
+Bulacon, Salvador, 865
+Buntong, Salvador, 1,486
+Calimodan, Salvador, 1,150
+Camp III, Salvador, 1,132
+Curva‑Miagao, Salvador, 2,271
+Daligdigan, Salvador, 674
+Inasagan, Salvador, 2,648
+Kilala, Salvador, 800
+Mabatao, Salvador, 721
+Madaya, Salvador, 1,534
+Mamaanon, Salvador, 1,003
+Mapantao, Salvador, 703
+Mindalano, Salvador, 646
+Padianan, Salvador, 1,022
+Pagalongan, Salvador, 707
+Pagayawan, Salvador, 757
+Panaliwad‑on, Salvador, 1,095
+Pangantapan, Salvador, 677
+Pansor, Salvador, 1,608
+Patidon, Salvador, 755
+Pawak, Salvador, 865
+Poblacion, Salvador, 6,755
+Saumay, Salvador, 491
+Sudlon, Salvador, 861
+Baning, Sapad, 1,278
+Buriasan (Poblacion), Sapad, 4,873
+Dansalan, Sapad, 1,528
+Gamal, Sapad, 519
+Inudaran I, Sapad, 573
+Inudaran II, Sapad, 715
+Karkum, Sapad, 1,093
+Katipunan, Sapad, 1,255
+Mabugnao, Sapad, 541
+Maito Salug, Sapad, 620
+Mala Salug, Sapad, 1,191
+Mama‑anon, Sapad, 587
+Mapurog, Sapad, 803
+Pancilan, Sapad, 1,005
+Panoloon, Sapad, 2,425
+Pili, Sapad, 1,116
+Sapad, Sapad, 1,187
+Bangaan, Sultan Naga Dimaporo, 1,678
+Bangco, Sultan Naga Dimaporo, 1,290
+Bansarvil II, Sultan Naga Dimaporo, 1,804
+Bauyan, Sultan Naga Dimaporo, 4,043
+Cabongbongan, Sultan Naga Dimaporo, 439
+Calibao, Sultan Naga Dimaporo, 1,634
+Calipapa, Sultan Naga Dimaporo, 297
+Calube, Sultan Naga Dimaporo, 616
+Campo Islam, Sultan Naga Dimaporo, 469
+Capocao, Sultan Naga Dimaporo, 270
+Dabliston, Sultan Naga Dimaporo, 2,275
+Dalama, Sultan Naga Dimaporo, 1,233
+Dangulaan, Sultan Naga Dimaporo, 2,515
+Ditago, Sultan Naga Dimaporo, 788
+Ilian, Sultan Naga Dimaporo, 1,238
+Kauswagan, Sultan Naga Dimaporo, 662
+Kirapan, Sultan Naga Dimaporo, 732
+Koreo, Sultan Naga Dimaporo, 1,325
+Lantawan, Sultan Naga Dimaporo, 274
+Mabuhay, Sultan Naga Dimaporo, 571
+Maguindanao, Sultan Naga Dimaporo, 1,619
+Mahayahay, Sultan Naga Dimaporo, 499
+Mamagum, Sultan Naga Dimaporo, 1,252
+Mina, Sultan Naga Dimaporo, 1,037
+Pandanan, Sultan Naga Dimaporo, 2,212
+Payong, Sultan Naga Dimaporo, 1,587
+Pikalawag, Sultan Naga Dimaporo, 3,568
+Pikinit, Sultan Naga Dimaporo, 1,752
+Piraka, Sultan Naga Dimaporo, 1,638
+Poblacion, Sultan Naga Dimaporo, 7,478
+Ramain, Sultan Naga Dimaporo, 2,390
+Rebucon, Sultan Naga Dimaporo, 1,151
+Sigayan, Sultan Naga Dimaporo, 1,741
+Sugod, Sultan Naga Dimaporo, 899
+Tagulo, Sultan Naga Dimaporo, 1,154
+Tantaon, Sultan Naga Dimaporo, 1,625
+Topocon (Capocgo), Sultan Naga Dimaporo, 1,009
+Dalamas, Tagoloan, 1,376
+Darimbang, Tagoloan, 1,345
+Dimayon, Tagoloan, 3,057
+Inagongan, Tagoloan, 2,711
+Kiazar (Poblacion), Tagoloan, 1,941
+Malimbato, Tagoloan, 1,153
+Panalawan, Tagoloan, 1,670
+Bayabao, Tangcal, 1,116
+Berwar, Tangcal, 745
+Big Banisilon, Tangcal, 1,356
+Big Meladoc, Tangcal, 537
+Bubong, Tangcal, 790
+Lamaosa, Tangcal, 697
+Linao, Tangcal, 700
+Lindongan, Tangcal, 348
+Lingco‑an, Tangcal, 575
+Papan, Tangcal, 480
+Pelingkingan, Tangcal, 1,172
+Poblacion, Tangcal, 2,561
+Poona Kapatagan, Tangcal, 516
+Punod, Tangcal, 508
+Small Banisilon, Tangcal, 753
+Small Meladoc, Tangcal, 356
+Somiorang, Tangcal, 658
+Tangcal Proper, Tangcal, 1,313
+Barakanas, Tubod, 647
+Baris (Lumangculob), Tubod, 430
+Bualan, Tubod, 2,798
+Bulod, Tubod, 2,067
+Camp V, Tubod, 1,685
+Candis, Tubod, 1,438
+Caniogan, Tubod, 1,928
+Dalama, Tubod, 2,245
+Kakai Renabor, Tubod, 1,278
+Kalilangan, Tubod, 1,016
+Licapao, Tubod, 937
+Malingao, Tubod, 3,730
+Palao, Tubod, 926
+Patudan, Tubod, 1,549
+Pigcarangan, Tubod, 3,166
+Pinpin, Tubod, 1,035
+Poblacion, Tubod, 10,260
+Pualas, Tubod, 2,099
+San Antonio, Tubod, 1,784
+Santo Niño, Tubod, 632
+Taden, Tubod, 964
+Taguranao, Tubod, 908
+Tangueguiron, Tubod, 1,744
+Tubaran, Tubod, 1,899

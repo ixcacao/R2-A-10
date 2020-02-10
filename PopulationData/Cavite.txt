@@ -1,0 +1,455 @@
+Amuyong, Alfonso, 2,037
+Barangay I (Poblacion), Alfonso, 530
+Barangay II (Poblacion), Alfonso, 624
+Barangay III (Poblacion), Alfonso, 1,317
+Barangay IV (Poblacion), Alfonso, 1,264
+Barangay V (Poblacion), Alfonso, 1,406
+Bilog, Alfonso, 1,057
+Buck Estate, Alfonso, 2,681
+Esperanza Ibaba, Alfonso, 1,316
+Esperanza Ilaya, Alfonso, 1,562
+Kaysuyo, Alfonso, 1,786
+Kaytitinga I, Alfonso, 1,847
+Kaytitinga II, Alfonso, 1,456
+Kaytitinga III, Alfonso, 1,418
+Luksuhin, Alfonso, 4,253
+Luksuhin Ilaya, Alfonso, 1,923
+Mangas I, Alfonso, 2,334
+Mangas II, Alfonso, 1,056
+Marahan I, Alfonso, 2,700
+Marahan II, Alfonso, 1,810
+Matagbak I, Alfonso, 1,631
+Matagbak II, Alfonso, 1,247
+Pajo, Alfonso, 2,013
+Palumlum, Alfonso, 851
+Santa Teresa, Alfonso, 1,314
+Sikat, Alfonso, 1,758
+Sinaliw Malaki, Alfonso, 1,447
+Sinaliw na Munti, Alfonso, 579
+Sulsugin, Alfonso, 1,290
+Taywanak Ibaba, Alfonso, 2,077
+Taywanak Ilaya, Alfonso, 1,391
+Upli, Alfonso, 1,864
+Banaybanay, Amadeo, 2,293
+Barangay I (Poblacion), Amadeo, 1,426
+Barangay II (Poblacion), Amadeo, 487
+Barangay III (Poblacion), Amadeo, 427
+Barangay IV (Poblacion), Amadeo, 889
+Barangay IX (Poblacion), Amadeo, 587
+Barangay V (Poblacion), Amadeo, 1,854
+Barangay VI (Poblacion), Amadeo, 857
+Barangay VII (Poblacion), Amadeo, 540
+Barangay VIII (Poblacion), Amadeo, 591
+Barangay X (Poblacion), Amadeo, 373
+Barangay XI (Poblacion), Amadeo, 452
+Barangay XII (Poblacion), Amadeo, 1,401
+Bucal, Amadeo, 993
+Buho, Amadeo, 1,495
+Dagatan, Amadeo, 2,722
+Halang, Amadeo, 2,202
+Loma, Amadeo, 2,231
+Maitim I, Amadeo, 2,820
+Maymangga, Amadeo, 1,082
+Minantok Kanluran, Amadeo, 862
+Minantok Silangan, Amadeo, 989
+Pangil, Amadeo, 2,909
+Salaban, Amadeo, 2,311
+Talon, Amadeo, 3,100
+Tamacan, Amadeo, 1,756
+Alima, Bacoor, 5,853
+Aniban I, Bacoor, 3,372
+Aniban II, Bacoor, 3,267
+Aniban III, Bacoor, 900
+Aniban IV, Bacoor, 2,003
+Aniban V, Bacoor, 2,659
+Banalo, Bacoor, 2,847
+Bayanan, Bacoor, 11,522
+Campo Santo, Bacoor, 1,418
+Daang Bukid, Bacoor, 2,967
+Digman, Bacoor, 2,249
+Dulong Bayan, Bacoor, 7,838
+Habay I, Bacoor, 17,747
+Habay II, Bacoor, 11,276
+Kaingin (Poblacion), Bacoor, 3,688
+Ligas I, Bacoor, 4,375
+Ligas II, Bacoor, 4,918
+Ligas III, Bacoor, 7,989
+Mabolo I, Bacoor, 997
+Mabolo II, Bacoor, 1,335
+Mabolo III, Bacoor, 2,123
+Maliksi I, Bacoor, 6,169
+Maliksi II, Bacoor, 2,375
+Maliksi III, Bacoor, 5,643
+Mambog I, Bacoor, 11,389
+Mambog II, Bacoor, 5,083
+Mambog III, Bacoor, 16,882
+Mambog IV, Bacoor, 9,434
+Mambog V, Bacoor, 3,238
+Molino I, Bacoor, 11,926
+Molino II, Bacoor, 37,396
+Molino III, Bacoor, 58,663
+Molino IV, Bacoor, 51,362
+Molino V, Bacoor, 5,198
+Molino VI, Bacoor, 18,100
+Molino VII, Bacoor, 11,789
+Niog I, Bacoor, 5,769
+Niog II, Bacoor, 6,651
+Niog III, Bacoor, 5,478
+P. F. Espiritu I (Panapaan), Bacoor, 4,070
+P. F. Espiritu II, Bacoor, 2,358
+P. F. Espiritu III, Bacoor, 4,341
+P. F. Espiritu IV, Bacoor, 10,482
+P. F. Espiritu V, Bacoor, 5,627
+P. F. Espiritu VI, Bacoor, 2,981
+P. F. Espiritu VII, Bacoor, 3,160
+P. F. Espiritu VIII, Bacoor, 5,300
+Queens Row Central, Bacoor, 5,373
+Queens Row East, Bacoor, 17,057
+Queens Row West, Bacoor, 12,763
+Real I, Bacoor, 4,890
+Real II, Bacoor, 4,223
+Salinas I, Bacoor, 13,926
+Salinas II, Bacoor, 4,630
+Salinas III, Bacoor, 1,563
+Salinas IV, Bacoor, 1,320
+San Nicolas I, Bacoor, 7,235
+San Nicolas II, Bacoor, 11,285
+San Nicolas III, Bacoor, 32,221
+Sineguelasan, Bacoor, 6,073
+Tabing Dagat, Bacoor, 3,902
+Talaba I, Bacoor, 2,757
+Talaba II, Bacoor, 11,724
+Talaba III, Bacoor, 1,520
+Talaba IV, Bacoor, 3,001
+Talaba V, Bacoor, 1,786
+Talaba VI, Bacoor, 2,489
+Talaba VII, Bacoor, 3,107
+Zapote I, Bacoor, 6,244
+Zapote II, Bacoor, 4,298
+Zapote III, Bacoor, 3,554
+Zapote IV, Bacoor, 2,121
+Zapote V, Bacoor, 19,340
+Bancal, Carmona, 14,797
+Barangay 1 (Poblacion), Carmona, 3,377
+Barangay 2 (Poblacion), Carmona, 718
+Barangay 3 (Poblacion), Carmona, 864
+Barangay 4 (Poblacion), Carmona, 661
+Barangay 5 (Poblacion), Carmona, 598
+Barangay 6 (Poblacion), Carmona, 798
+Barangay 7 (Poblacion), Carmona, 739
+Barangay 8 (Poblacion), Carmona, 2,988
+Cabilang Baybay, Carmona, 8,082
+Lantic, Carmona, 19,462
+Mabuhay, Carmona, 10,095
+Maduya, Carmona, 10,857
+Milagrosa, Carmona, 23,521
+Barangay 1 (Hen. M. Alvarez), Cavite City, 640
+Barangay 10 (Kingfisher), Cavite City, 1,367
+Barangay 10‑A (Kingfisher-A), Cavite City, 1,721
+Barangay 10‑B (Kingfisher-B), Cavite City, 2,412
+Barangay 11 (Lawin), Cavite City, 1,425
+Barangay 12 (Love Bird), Cavite City, 416
+Barangay 13 (Aguila), Cavite City, 1,739
+Barangay 14 (Loro), Cavite City, 1,089
+Barangay 15 (Kilyawan), Cavite City, 426
+Barangay 16 (Martines), Cavite City, 733
+Barangay 17 (Kalapati), Cavite City, 437
+Barangay 18 (Maya), Cavite City, 433
+Barangay 19 (Gemini), Cavite City, 698
+Barangay 2 (C. Tirona), Cavite City, 451
+Barangay 20 (Virgo), Cavite City, 583
+Barangay 21 (Scorpio), Cavite City, 539
+Barangay 22 (Leo), Cavite City, 1,753
+Barangay 22‑A (Leo A), Cavite City, 1,437
+Barangay 23 (Aquarius), Cavite City, 702
+Barangay 24 (Libra), Cavite City, 2,053
+Barangay 25 (Capricorn), Cavite City, 372
+Barangay 26 (Cancer), Cavite City, 1,361
+Barangay 27 (Sagitarius), Cavite City, 522
+Barangay 28 (Taurus), Cavite City, 1,694
+Barangay 29 (Lao-lao), Cavite City, 932
+Barangay 29‑A (Lao-lao A), Cavite City, 660
+Barangay 3 (Hen. E. Aguinaldo), Cavite City, 609
+Barangay 30 (Bid-bid), Cavite City, 2,024
+Barangay 31 (Maya-maya), Cavite City, 609
+Barangay 32 (Salay-salay), Cavite City, 475
+Barangay 33 (Buwan-buwan), Cavite City, 772
+Barangay 34 (Lapu-lapu), Cavite City, 627
+Barangay 35 (Hasa-hasa), Cavite City, 835
+Barangay 36 (Sap-sap), Cavite City, 1,855
+Barangay 36‑A (Sap-sap A), Cavite City, 922
+Barangay 37 (Cadena De Amor), Cavite City, 1,435
+Barangay 37‑A (Cadena de Amor A), Cavite City, 701
+Barangay 38 (Sampaguita), Cavite City, 907
+Barangay 38‑A (Sampaguita A), Cavite City, 659
+Barangay 39 (Jasmin), Cavite City, 737
+Barangay 4 (Hen. M. Trias), Cavite City, 211
+Barangay 40 (Gumamela), Cavite City, 477
+Barangay 41 (Rosal), Cavite City, 1,461
+Barangay 42 (Pinagbuklod), Cavite City, 2,123
+Barangay 42‑A (Pinagbuklod A), Cavite City, 1,324
+Barangay 42‑B (Pinagbuklod B), Cavite City, 997
+Barangay 42‑C (Pinagbuklod C), Cavite City, 2,087
+Barangay 43 (Pinagpala), Cavite City, 1,512
+Barangay 44 (Maligaya), Cavite City, 1,613
+Barangay 45 (Kaunlaran), Cavite City, 1,032
+Barangay 45‑A (Kaunlaran A), Cavite City, 1,129
+Barangay 46 (Sinagtala), Cavite City, 1,067
+Barangay 47 (Pagkakaisa), Cavite City, 971
+Barangay 47‑A (Pagkakaisa A), Cavite City, 840
+Barangay 47‑B (Pagkakaisa B), Cavite City, 1,244
+Barangay 48 (Narra), Cavite City, 1,660
+Barangay 48‑A (Narra A), Cavite City, 3,146
+Barangay 49 (Akasya), Cavite City, 1,657
+Barangay 49‑A (Akasya A), Cavite City, 796
+Barangay 5 (Hen. E. Evangelista), Cavite City, 1,555
+Barangay 50 (Kabalyero), Cavite City, 1,082
+Barangay 51 (Kamagong), Cavite City, 893
+Barangay 52 (Ipil), Cavite City, 1,095
+Barangay 53 (Yakal), Cavite City, 1,833
+Barangay 53‑A (Yakal A), Cavite City, 760
+Barangay 53‑B (Yakal B), Cavite City, 2,262
+Barangay 54 (Pechay), Cavite City, 1,612
+Barangay 54‑A (Pechay A), Cavite City, 1,053
+Barangay 55 (Ampalaya), Cavite City, 948
+Barangay 56 (Labanos), Cavite City, 1,300
+Barangay 57 (Repolyo), Cavite City, 1,150
+Barangay 58 (Patola), Cavite City, 1,592
+Barangay 58‑A (Patola A), Cavite City, 1,308
+Barangay 59 (Sitaw), Cavite City, 794
+Barangay 6 (Diego Silang), Cavite City, 2,113
+Barangay 60 (Letsugas), Cavite City, 1,442
+Barangay 61 (Talong), Cavite City, 691
+Barangay 61‑A (Talong A), Cavite City, 2,086
+Barangay 62 (Kangkong), Cavite City, 1,652
+Barangay 62‑A (Kangkong A), Cavite City, 3,057
+Barangay 62‑B (Kangkong B), Cavite City, 588
+Barangay 7 (Kapitan Kong), Cavite City, 1,613
+Barangay 8 (Manuel S. Rojas), Cavite City, 4,791
+Barangay 9 (Kanaway), Cavite City, 427
+Burol, Dasmariñas, 8,260
+Burol I, Dasmariñas, 15,751
+Burol II, Dasmariñas, 4,838
+Burol III, Dasmariñas, 9,077
+Datu Esmael (Bago-a-ingud), Dasmariñas, 13,112
+Emmanuel Bergado I, Dasmariñas, 7,386
+Emmanuel Bergado II, Dasmariñas, 2,982
+Fatima I, Dasmariñas, 6,291
+Fatima II, Dasmariñas, 4,023
+Fatima III, Dasmariñas, 3,712
+H‑2, Dasmariñas, 9,477
+Langkaan I, Dasmariñas, 21,426
+Langkaan II, Dasmariñas, 30,197
+Luzviminda I, Dasmariñas, 3,285
+Luzviminda II, Dasmariñas, 4,688
+Paliparan I, Dasmariñas, 7,153
+Paliparan II, Dasmariñas, 17,881
+Paliparan III, Dasmariñas, 68,224
+Sabang, Dasmariñas, 14,680
+Saint Peter I, Dasmariñas, 2,553
+Saint Peter II, Dasmariñas, 2,462
+Salawag, Dasmariñas, 80,136
+Salitran I, Dasmariñas, 5,626
+Salitran II, Dasmariñas, 11,371
+Salitran III, Dasmariñas, 14,949
+Salitran IV, Dasmariñas, 8,643
+Sampaloc I, Dasmariñas, 6,612
+Sampaloc II, Dasmariñas, 14,127
+Sampaloc III, Dasmariñas, 10,469
+Sampaloc IV, Dasmariñas, 39,950
+Sampaloc V, Dasmariñas, 3,224
+San Agustin I, Dasmariñas, 8,471
+San Agustin II, Dasmariñas, 10,514
+San Agustin III, Dasmariñas, 10,204
+San Andres I, Dasmariñas, 3,173
+San Andres II, Dasmariñas, 3,455
+San Antonio de Padua I, Dasmariñas, 3,110
+San Antonio de Padua II, Dasmariñas, 3,091
+San Dionisio (Barangay 1), Dasmariñas, 6,980
+San Esteban (Barangay 4), Dasmariñas, 4,219
+San Francisco I, Dasmariñas, 3,030
+San Francisco II, Dasmariñas, 3,495
+San Isidro Labrador I, Dasmariñas, 5,237
+San Isidro Labrador II, Dasmariñas, 2,194
+San Jose, Dasmariñas, 8,955
+San Juan (San Juan I), Dasmariñas, 3,612
+San Lorenzo Ruiz I, Dasmariñas, 3,190
+San Lorenzo Ruiz II, Dasmariñas, 4,109
+San Luis I, Dasmariñas, 3,921
+San Luis II, Dasmariñas, 4,524
+San Manuel I, Dasmariñas, 2,703
+San Manuel II, Dasmariñas, 3,037
+San Mateo, Dasmariñas, 4,877
+San Miguel, Dasmariñas, 4,240
+San Miguel II, Dasmariñas, 2,390
+San Nicolas I, Dasmariñas, 2,005
+San Nicolas II, Dasmariñas, 4,851
+San Roque (Santa Cristina II), Dasmariñas, 2,949
+San Simon (Barangay 7), Dasmariñas, 6,909
+Santa Cristina I, Dasmariñas, 3,219
+Santa Cristina II, Dasmariñas, 3,782
+Santa Cruz I, Dasmariñas, 4,864
+Santa Cruz II, Dasmariñas, 2,323
+Santa Fe, Dasmariñas, 6,750
+Santa Lucia (San Juan II), Dasmariñas, 6,754
+Santa Maria (Barangay 20), Dasmariñas, 5,135
+Santo Cristo (Barangay 3), Dasmariñas, 4,635
+Santo Niño I, Dasmariñas, 2,847
+Santo Niño II, Dasmariñas, 2,736
+Victoria Reyes, Dasmariñas, 14,248
+Zone I (Poblacion), Dasmariñas, 3,756
+Zone I‑B, Dasmariñas, 6,263
+Zone II (Poblacion), Dasmariñas, 1,258
+Zone III (Poblacion), Dasmariñas, 5,168
+Zone IV (Poblacion), Dasmariñas, 3,271
+A. Dalusag, General Emilio Aguinaldo, 1,476
+Batas Dao, General Emilio Aguinaldo, 857
+Castaños Cerca, General Emilio Aguinaldo, 2,662
+Castaños Lejos, General Emilio Aguinaldo, 2,305
+Kabulusan, General Emilio Aguinaldo, 1,626
+Kaymisas, General Emilio Aguinaldo, 1,161
+Kaypaaba, General Emilio Aguinaldo, 2,046
+Lumipa, General Emilio Aguinaldo, 1,024
+Narvaez, General Emilio Aguinaldo, 1,185
+Poblacion I, General Emilio Aguinaldo, 1,117
+Poblacion II, General Emilio Aguinaldo, 1,950
+Poblacion III, General Emilio Aguinaldo, 1,301
+Poblacion IV, General Emilio Aguinaldo, 1,687
+Tabora, General Emilio Aguinaldo, 1,823
+Aldiano Olaes, General Mariano Alvarez, 5,490
+Barangay 1 Poblacion (Area I), General Mariano Alvarez, 5,635
+Barangay 2 Poblacion, General Mariano Alvarez, 4,369
+Barangay 3 Poblacion, General Mariano Alvarez, 2,313
+Barangay 4 Poblacion, General Mariano Alvarez, 4,515
+Barangay 5 Poblacion, General Mariano Alvarez, 15,398
+Benjamin Tirona (Area D), General Mariano Alvarez, 2,735
+Bernardo Pulido (Area H), General Mariano Alvarez, 13,405
+Epifanio Malia, General Mariano Alvarez, 3,425
+Fiorello Calimag (Area C), General Mariano Alvarez, 2,597
+Francisco de Castro (Sunshine Vill.), General Mariano Alvarez, 8,886
+Francisco Reyes, General Mariano Alvarez, 5,832
+Gavino Maderan, General Mariano Alvarez, 7,789
+Gregoria de Jesus, General Mariano Alvarez, 10,346
+Inocencio Salud, General Mariano Alvarez, 2,488
+Jacinto Lumbreras, General Mariano Alvarez, 4,260
+Kapitan Kua (Area F), General Mariano Alvarez, 2,980
+Koronel Jose P. Elises (Area E), General Mariano Alvarez, 3,870
+Macario Dacon, General Mariano Alvarez, 4,859
+Marcelino Memije, General Mariano Alvarez, 4,895
+Nicolasa Virata (San Jose), General Mariano Alvarez, 6,105
+Pantaleon Granados (Area G), General Mariano Alvarez, 3,487
+Ramon Cruz (Area J), General Mariano Alvarez, 7,546
+San Gabriel (Area K), General Mariano Alvarez, 7,575
+San Jose, General Mariano Alvarez, 4,104
+Severino de Las Alas, General Mariano Alvarez, 6,982
+Tiniente Tiago, General Mariano Alvarez, 3,257
+Alingaro, General Trias, 3,755
+Arnaldo Poblacion (Barangay 7), General Trias, 975
+Bacao I, General Trias, 5,981
+Bacao II, General Trias, 7,646
+Bagumbayan Poblacion (Barangay 5), General Trias, 1,044
+Biclatan, General Trias, 14,703
+Buenavista I, General Trias, 5,593
+Buenavista II, General Trias, 9,902
+Buenavista III, General Trias, 8,047
+Corregidor Poblacion (Barangay 10), General Trias, 1,137
+Dulong Bayan Poblacion (Barangay 3), General Trias, 912
+Gov. Ferrer Poblacion (Barangay 1), General Trias, 276
+Javalera, General Trias, 5,370
+Manggahan, General Trias, 15,636
+Navarro, General Trias, 14,763
+Ninety Sixth Poblacion (Barangay 8), General Trias, 531
+Panungyanan, General Trias, 2,891
+Pasong Camachile I, General Trias, 19,906
+Pasong Camachile II, General Trias, 31,306
+Pasong Kawayan I, General Trias, 3,918
+Pasong Kawayan II, General Trias, 27,661
+Pinagtipunan, General Trias, 6,809
+Prinza Poblacion (Barangay 9), General Trias, 740
+Sampalucan Poblacion (Barangay 2), General Trias, 1,144
+San Francisco, General Trias, 74,344
+San Gabriel Poblacion (Barangay 4), General Trias, 1,996
+San Juan I, General Trias, 5,386
+San Juan II, General Trias, 4,971
+Santa Clara, General Trias, 3,495
+Santiago, General Trias, 22,727
+Tapia, General Trias, 2,643
+Tejero, General Trias, 7,024
+Vibora Poblacion (Barangay 6), General Trias, 1,071
+Alapan I‑A, Imus, 13,639
+Alapan I‑B, Imus, 7,352
+Alapan I‑C, Imus, 8,422
+Alapan II‑A, Imus, 8,805
+Alapan II‑B, Imus, 3,061
+Anabu I‑A, Imus, 7,206
+Anabu I‑B, Imus, 2,338
+Anabu I‑C, Imus, 6,062
+Anabu I‑D, Imus, 3,425
+Anabu I‑E, Imus, 2,641
+Anabu I‑F, Imus, 2,432
+Anabu I‑G, Imus, 5,092
+Anabu II‑A, Imus, 2,991
+Anabu II‑B, Imus, 6,656
+Anabu II‑C, Imus, 5,390
+Anabu II‑D, Imus, 4,440
+Anabu II‑E, Imus, 4,623
+Anabu II‑F, Imus, 11,112
+Bagong Silang (Bahayang Pag-asa), Imus, 960
+Bayan Luma I, Imus, 3,731
+Bayan Luma II, Imus, 1,770
+Bayan Luma III, Imus, 4,726
+Bayan Luma IV, Imus, 2,976
+Bayan Luma IX, Imus, 1,977
+Bayan Luma V, Imus, 4,884
+Bayan Luma VI, Imus, 2,738
+Bayan Luma VII, Imus, 3,580
+Bayan Luma VIII, Imus, 2,500
+Bucandala I, Imus, 5,602
+Bucandala II, Imus, 2,191
+Bucandala III, Imus, 8,456
+Bucandala IV, Imus, 3,372
+Bucandala V, Imus, 5,153
+Buhay na Tubig, Imus, 32,513
+Carsadang Bago I, Imus, 3,350
+Carsadang Bago II, Imus, 16,835
+Magdalo, Imus, 4,195
+Maharlika, Imus, 3,941
+Malagasang I‑A, Imus, 3,091
+Malagasang I‑B, Imus, 4,986
+Malagasang I‑C, Imus, 2,299
+Malagasang I‑D, Imus, 2,129
+Malagasang I‑E, Imus, 2,255
+Malagasang I‑F, Imus, 8,483
+Malagasang I‑G, Imus, 12,629
+Malagasang II‑A, Imus, 13,780
+Malagasang II‑B, Imus, 18,028
+Malagasang II‑C, Imus, 4,716
+Malagasang II‑D, Imus, 3,771
+Malagasang II‑E, Imus, 1,715
+Malagasang II‑F, Imus, 1,551
+Malagasang II‑G, Imus, 4,301
+Mariano Espeleta I, Imus, 1,613
+Mariano Espeleta II, Imus, 1,364
+Mariano Espeleta III, Imus, 2,206
+Medicion I‑A, Imus, 1,546
+Medicion I‑B, Imus, 2,596
+Medicion I‑C, Imus, 2,361
+Medicion I‑D, Imus, 1,207
+Medicion II‑A, Imus, 1,425
+Medicion II‑B, Imus, 2,172
+Medicion II‑C, Imus, 1,558
+Medicion II‑D, Imus, 1,583
+Medicion II‑E, Imus, 1,378
+Medicion II‑F, Imus, 1,667
+Pag‑asa I, Imus, 2,369
+Pag‑asa II, Imus, 4,445
+Pag‑asa III, Imus, 2,070
+Palico I, Imus, 2,174
+Palico II, Imus, 1,572
+Palico III, Imus, 599
+Palico IV, Imus, 2,772
+Pasong Buaya I, Imus, 1,579
+Pasong Buaya II, Imus, 27,006
+Pinagbuklod, Imus, 2,371
+Poblacion I‑A (Poblacion), Imus, 2,141
+Poblacion I‑B, Imus, 316

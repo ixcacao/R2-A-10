@@ -1,0 +1,543 @@
+Bao, Alamada, 9,595
+Barangiran, Alamada, 4,706
+Camansi, Alamada, 1,597
+Dado, Alamada, 11,800
+Guiling, Alamada, 5,424
+Kitacubong (Poblacion), Alamada, 5,297
+Lower Dado, Alamada, 1,775
+Macabasa, Alamada, 1,786
+Malitubog, Alamada, 2,068
+Mapurok, Alamada, 2,382
+Mirasol, Alamada, 1,353
+Pacao, Alamada, 2,092
+Paruayan, Alamada, 2,574
+Pigcawaran, Alamada, 4,323
+Polayagan, Alamada, 2,505
+Rangayen, Alamada, 3,484
+Raradangan, Alamada, 1,835
+Bagolibas, Aleosan, 1,562
+Cawilihan, Aleosan, 1,292
+Dualing, Aleosan, 2,998
+Dunguan, Aleosan, 2,805
+Katalicanan, Aleosan, 1,307
+Lawili, Aleosan, 1,868
+Lower Mingading, Aleosan, 1,373
+Luanan, Aleosan, 1,349
+Malapang, Aleosan, 1,311
+New Leon, Aleosan, 2,049
+New Panay, Aleosan, 2,934
+Pagangan, Aleosan, 2,907
+Palacat, Aleosan, 1,101
+Pentil, Aleosan, 1,392
+San Mateo, Aleosan, 4,739
+Santa Cruz, Aleosan, 1,175
+Tapodoc, Aleosan, 2,255
+Tomado, Aleosan, 2,780
+Upper Mingading, Aleosan, 2,208
+B. Cadungon, Antipas, 844
+Camutan, Antipas, 2,128
+Canaan, Antipas, 719
+Datu Agod, Antipas, 1,025
+Dolores, Antipas, 955
+Kiyaab, Antipas, 2,434
+Luhong, Antipas, 1,326
+Magsaysay, Antipas, 1,484
+Malangag, Antipas, 988
+Malatad, Antipas, 3,198
+Malire, Antipas, 1,580
+New Pontevedra, Antipas, 1,418
+Poblacion, Antipas, 7,205
+Allab, Arakan, 694
+Anapolon, Arakan, 813
+Badiangon, Arakan, 2,011
+Binoongan, Arakan, 1,012
+Dallag, Arakan, 1,365
+Datu Ladayon, Arakan, 988
+Datu Matangkil, Arakan, 694
+Doroluman, Arakan, 4,360
+Gambodes, Arakan, 713
+Ganatan, Arakan, 2,499
+Greenfield, Arakan, 5,506
+Kabalantian, Arakan, 3,717
+Katipunan, Arakan, 614
+Kinawayan, Arakan, 1,084
+Kulaman Valley, Arakan, 936
+Lanao Kuran, Arakan, 1,742
+Libertad, Arakan, 1,218
+Makalangot, Arakan, 1,701
+Malibatuan, Arakan, 3,882
+Maria Caridad, Arakan, 690
+Meocan, Arakan, 3,317
+Naje, Arakan, 1,301
+Napalico, Arakan, 1,261
+Salasang, Arakan, 1,474
+San Miguel, Arakan, 1,009
+Santo Niño, Arakan, 1,570
+Sumalili, Arakan, 630
+Tumanding, Arakan, 1,427
+Banisilan Poblacion, Banisilan, 4,884
+Busaon, Banisilan, 2,191
+Capayangan, Banisilan, 1,304
+Carugmanan, Banisilan, 1,124
+Gastay, Banisilan, 2,243
+Kalawaig, Banisilan, 709
+Kiaring, Banisilan, 2,407
+Malagap, Banisilan, 2,850
+Malinao, Banisilan, 4,268
+Miguel Macasarte, Banisilan, 1,154
+Pantar, Banisilan, 1,265
+Paradise, Banisilan, 2,037
+Pinamulaan, Banisilan, 1,958
+Poblacion II, Banisilan, 2,947
+Puting‑bato, Banisilan, 1,384
+Solama, Banisilan, 4,306
+Thailand, Banisilan, 1,846
+Tinimbacan, Banisilan, 1,547
+Tumbao‑Camalig, Banisilan, 860
+Wadya, Banisilan, 2,393
+Aroman, Carmen, 2,500
+Bentangan, Carmen, 4,054
+Cadiis, Carmen, 3,071
+General Luna, Carmen, 1,961
+Katanayanan, Carmen, 1,188
+Kib‑Ayao, Carmen, 5,276
+Kibenes, Carmen, 2,685
+Kibugtongan, Carmen, 3,964
+Kilala, Carmen, 782
+Kimadzil, Carmen, 1,997
+Kitulaan, Carmen, 5,238
+Langogan, Carmen, 2,199
+Lanoon, Carmen, 1,792
+Liliongan, Carmen, 7,523
+Macabenban, Carmen, 2,905
+Malapag, Carmen, 5,885
+Manarapan, Carmen, 3,746
+Manili, Carmen, 2,693
+Nasapian, Carmen, 3,304
+Palanggalan, Carmen, 2,712
+Pebpoloan, Carmen, 2,155
+Poblacion, Carmen, 12,835
+Ranzo, Carmen, 2,321
+Tacupan, Carmen, 2,448
+Tambad, Carmen, 1,986
+Tonganon, Carmen, 2,836
+Tupig, Carmen, 2,727
+Ugalingan (Lumayong), Carmen, 3,138
+Aringay, Kabacan, 3,796
+Bangilan, Kabacan, 1,671
+Bannawag, Kabacan, 3,146
+Buluan, Kabacan, 1,383
+Cuyapon, Kabacan, 3,007
+Dagupan, Kabacan, 2,747
+Katidtuan, Kabacan, 4,769
+Kayaga, Kabacan, 10,904
+Kilagasan, Kabacan, 3,378
+Magatos, Kabacan, 3,289
+Malamote, Kabacan, 1,866
+Malanduague, Kabacan, 1,596
+Nanga‑an, Kabacan, 3,389
+Osias, Kabacan, 4,254
+Paatan Lower, Kabacan, 4,515
+Paatan Upper, Kabacan, 2,150
+Pedtad, Kabacan, 3,395
+Pisan, Kabacan, 3,074
+Poblacion, Kabacan, 19,453
+Salapungan, Kabacan, 1,096
+Sanggadong, Kabacan, 872
+Simbuhay, Kabacan, 1,853
+Simone, Kabacan, 2,282
+Tamped, Kabacan, 1,276
+Amas, Kidapawan, 7,289
+Amazion, Kidapawan, 1,210
+Balabag, Kidapawan, 1,683
+Balindog, Kidapawan, 5,756
+Benoligan, Kidapawan, 2,872
+Berada, Kidapawan, 1,648
+Gayola, Kidapawan, 1,275
+Ginatilan, Kidapawan, 1,476
+Ilomavis, Kidapawan, 3,626
+Indangan, Kidapawan, 1,058
+Junction, Kidapawan, 1,457
+Kalaisan, Kidapawan, 2,788
+Kalasuyan, Kidapawan, 3,061
+Katipunan, Kidapawan, 1,363
+Lanao, Kidapawan, 8,271
+Linangcob, Kidapawan, 2,617
+Luvimin, Kidapawan, 1,006
+Macabolig, Kidapawan, 1,677
+Magsaysay, Kidapawan, 3,541
+Malinan, Kidapawan, 850
+Manongol, Kidapawan, 4,424
+Marbel (Embac), Kidapawan, 1,395
+Mateo, Kidapawan, 2,241
+Meochao, Kidapawan, 1,663
+Mua‑an, Kidapawan, 2,484
+New Bohol, Kidapawan, 1,809
+Nuangan, Kidapawan, 2,485
+Onica, Kidapawan, 1,630
+Paco, Kidapawan, 4,611
+Patadon (Patadon East), Kidapawan, 2,051
+Perez, Kidapawan, 2,609
+Poblacion, Kidapawan, 31,586
+San Isidro, Kidapawan, 1,673
+San Roque, Kidapawan, 1,129
+Santo Niño, Kidapawan, 1,010
+Sibawan, Kidapawan, 1,419
+Sikitan, Kidapawan, 1,440
+Singao, Kidapawan, 8,041
+Sudapin, Kidapawan, 10,385
+Sumbao, Kidapawan, 1,586
+Abaga, Libungan, 1,925
+Baguer, Libungan, 3,735
+Barongis, Libungan, 2,592
+Batiocan, Libungan, 1,654
+Cabaruyan, Libungan, 4,465
+Cabpangi, Libungan, 2,812
+Demapaco, Libungan, 1,503
+Grebona, Libungan, 1,232
+Gumaga, Libungan, 4,540
+Kapayawi, Libungan, 1,728
+Kiloyao, Libungan, 952
+Kitubod, Libungan, 2,231
+Malengen, Libungan, 1,375
+Montay, Libungan, 2,696
+Nica‑an, Libungan, 1,844
+Palao, Libungan, 1,552
+Poblacion, Libungan, 6,082
+Sinapangan, Libungan, 1,856
+Sinawingan, Libungan, 2,226
+Ulamian, Libungan, 1,768
+Alibayon, Magpet, 1,001
+Amabel, Magpet, 1,318
+Bagumbayan, Magpet, 1,066
+Balete, Magpet, 1,674
+Bangkal, Magpet, 1,104
+Bantac, Magpet, 1,140
+Basak, Magpet, 2,535
+Binay, Magpet, 1,406
+Bongolanon, Magpet, 1,398
+Datu Celo, Magpet, 951
+Del Pilar, Magpet, 686
+Doles, Magpet, 1,284
+Don Panaca, Magpet, 750
+Gubatan, Magpet, 1,799
+Ilian, Magpet, 759
+Imamaling, Magpet, 1,040
+Inac, Magpet, 1,217
+Kamada, Magpet, 1,270
+Kauswagan, Magpet, 642
+Kinarum, Magpet, 964
+Kisandal, Magpet, 1,191
+Magcaalam, Magpet, 1,115
+Mahongcog, Magpet, 1,875
+Manobisa, Magpet, 1,711
+Manobo, Magpet, 2,832
+Noa, Magpet, 1,759
+Owas, Magpet, 705
+Pangao‑an, Magpet, 2,499
+Poblacion, Magpet, 6,849
+Sallab, Magpet, 1,509
+Tagbac, Magpet, 1,699
+Temporan, Magpet, 1,453
+Batasan, Makilala, 2,557
+Bato, Makilala, 1,097
+Biangan, Makilala, 1,181
+Buena Vida, Makilala, 1,452
+Buhay, Makilala, 1,679
+Bulakanon, Makilala, 2,194
+Cabilao, Makilala, 1,050
+Concepcion, Makilala, 1,595
+Dagupan, Makilala, 718
+Garsika, Makilala, 1,460
+Guangan, Makilala, 698
+Indangan, Makilala, 2,412
+Jose Rizal, Makilala, 1,807
+Katipunan II, Makilala, 856
+Kawayanon, Makilala, 840
+Kisante, Makilala, 4,824
+Leboce, Makilala, 368
+Libertad, Makilala, 1,336
+Luayon, Makilala, 2,134
+Luna Norte, Makilala, 1,398
+Luna Sur, Makilala, 1,032
+Malabuan, Makilala, 1,500
+Malasila, Makilala, 6,986
+Malungon, Makilala, 857
+New Baguio, Makilala, 1,246
+New Bulatukan, Makilala, 2,465
+New Cebu, Makilala, 1,118
+New Israel, Makilala, 1,944
+Old Bulatukan, Makilala, 2,753
+Poblacion, Makilala, 10,645
+Rodero, Makilala, 857
+Saguing, Makilala, 7,389
+San Vicente, Makilala, 5,973
+Santa Felomina, Makilala, 1,952
+Santo Niño, Makilala, 1,560
+Sinkatulan, Makilala, 1,647
+Taluntalunan, Makilala, 1,655
+Villaflores, Makilala, 616
+Arakan, Matalam, 1,349
+Bangbang, Matalam, 1,519
+Bato, Matalam, 1,183
+Central Malamote, Matalam, 3,156
+Dalapitan, Matalam, 3,321
+Estado, Matalam, 1,658
+Ilian, Matalam, 1,290
+Kabulacan, Matalam, 2,339
+Kibia, Matalam, 4,272
+Kibudoc, Matalam, 1,388
+Kidama, Matalam, 1,855
+Kilada, Matalam, 5,012
+Lampayan, Matalam, 3,109
+Latagan, Matalam, 1,942
+Linao, Matalam, 4,550
+Lower Malamote, Matalam, 1,077
+Manubuan, Matalam, 2,868
+Manupal, Matalam, 1,055
+Marbel, Matalam, 3,586
+Minamaing, Matalam, 2,010
+Natutungan, Matalam, 1,426
+New Abra, Matalam, 1,090
+New Alimodian, Matalam, 2,097
+New Bugasong, Matalam, 1,900
+New Pandan, Matalam, 1,823
+Patadon West, Matalam, 814
+Pinamaton, Matalam, 1,043
+Poblacion, Matalam, 6,748
+Salvacion, Matalam, 1,677
+Santa Maria, Matalam, 1,899
+Sarayan, Matalam, 2,723
+Taculen, Matalam, 983
+Taguranao, Matalam, 4,227
+Tamped (Tampad), Matalam, 2,372
+Agriculture, Midsayap, 1,954
+Anonang, Midsayap, 2,634
+Arizona, Midsayap, 2,107
+Bagumba, Midsayap, 1,747
+Baliki, Midsayap, 1,681
+Barangay Poblacion 1, Midsayap, 3,312
+Barangay Poblacion 2, Midsayap, 3,458
+Barangay Poblacion 3, Midsayap, 2,985
+Barangay Poblacion 4, Midsayap, 1,410
+Barangay Poblacion 5, Midsayap, 2,468
+Barangay Poblacion 6, Midsayap, 4,345
+Barangay Poblacion 7, Midsayap, 3,412
+Barangay Poblacion 8, Midsayap, 5,893
+Bitoka, Midsayap, 755
+Bual Norte, Midsayap, 1,493
+Bual Sur, Midsayap, 1,691
+Bulanan Upper, Midsayap, 1,790
+Central Bulanan, Midsayap, 1,518
+Central Glad, Midsayap, 2,416
+Central Katingawan, Midsayap, 2,513
+Central Labas, Midsayap, 1,945
+Damatulan, Midsayap, 4,117
+Ilbocean, Midsayap, 1,654
+Kadigasan, Midsayap, 4,816
+Kadingilan, Midsayap, 2,531
+Kapinpilan, Midsayap, 3,964
+Kimagango, Midsayap, 3,677
+Kiwanan, Midsayap, 2,859
+Kudarangan, Midsayap, 3,106
+Lagumbingan, Midsayap, 1,391
+Lomopog, Midsayap, 2,559
+Lower Glad, Midsayap, 2,498
+Lower Katingawan, Midsayap, 3,413
+Macasendeg, Midsayap, 5,539
+Malamote, Midsayap, 1,946
+Malingao, Midsayap, 3,354
+Milaya, Midsayap, 992
+Mudseng, Midsayap, 1,815
+Nabalawag, Midsayap, 3,120
+Nalin, Midsayap, 3,338
+Nes, Midsayap, 1,789
+Olandang, Midsayap, 2,683
+Palongoguen, Midsayap, 1,354
+Patindeguen, Midsayap, 2,279
+Rangaban, Midsayap, 2,339
+Sadaan, Midsayap, 6,253
+Salunayan, Midsayap, 3,294
+Sambulawan, Midsayap, 2,830
+San Isidro, Midsayap, 2,352
+San Pedro, Midsayap, 987
+Santa Cruz, Midsayap, 970
+Tugal, Midsayap, 3,304
+Tumbras, Midsayap, 2,380
+Upper Glad I, Midsayap, 1,823
+Upper Glad II, Midsayap, 1,502
+Upper Labas, Midsayap, 2,522
+Villarica, Midsayap, 4,807
+Bagontapay, M'lang, 6,725
+Bialong, M'lang, 4,440
+Buayan, M'lang, 4,873
+Calunasan, M'lang, 1,347
+Dagong, M'lang, 4,829
+Dalipe, M'lang, 3,020
+Dungo‑an, M'lang, 6,470
+Gaunan, M'lang, 3,080
+Inas, M'lang, 4,174
+Katipunan, M'lang, 1,626
+La Fortuna, M'lang, 1,088
+La Suerte, M'lang, 800
+Langkong, M'lang, 1,835
+Lepaga, M'lang, 2,718
+Liboo, M'lang, 1,166
+Lika, M'lang, 4,590
+Luz Village, M'lang, 1,652
+Magallon, M'lang, 1,120
+Malayan, M'lang, 1,406
+New Antique, M'lang, 3,445
+New Barbaza, M'lang, 1,386
+New Consolacion, M'lang, 1,218
+New Esperanza, M'lang, 1,061
+New Janiuay, M'lang, 2,213
+New Kalibo, M'lang, 871
+New Lawa‑an, M'lang, 1,804
+New Rizal, M'lang, 2,327
+Nueva Vida, M'lang, 2,241
+Pag‑asa, M'lang, 2,163
+Palma‑Perez, M'lang, 921
+Poblacion, M'lang, 5,119
+Poblacion B, M'lang, 4,097
+Pulang‑lupa, M'lang, 1,467
+Sangat, M'lang, 3,010
+Tawantawan, M'lang, 1,711
+Tibao, M'lang, 2,437
+Ugpay, M'lang, 620
+Anick (Upper Balogo), Pigcawayan, 1,130
+Balacayon, Pigcawayan, 1,067
+Balogo, Pigcawayan, 2,541
+Banucagon, Pigcawayan, 1,410
+Buluan, Pigcawayan, 1,153
+Bulucaon, Pigcawayan, 2,949
+Buricain, Pigcawayan, 2,035
+Cabpangi, Pigcawayan, 1,482
+Capayuran, Pigcawayan, 2,918
+Central Panatan, Pigcawayan, 1,059
+Datu Binasing, Pigcawayan, 1,437
+Datu Mantil, Pigcawayan, 1,063
+Kadingilan, Pigcawayan, 1,337
+Kimarayang, Pigcawayan, 2,531
+Libungan Torreta, Pigcawayan, 2,189
+Lower Baguer, Pigcawayan, 957
+Lower Pangangkalan, Pigcawayan, 1,111
+Malagakit, Pigcawayan, 598
+Maluao, Pigcawayan, 1,551
+Matilac, Pigcawayan, 1,579
+Midpapan I, Pigcawayan, 2,032
+Midpapan II, Pigcawayan, 1,511
+Mulok, Pigcawayan, 615
+New Culasi, Pigcawayan, 886
+New Igbaras, Pigcawayan, 856
+New Panay, Pigcawayan, 1,139
+North Manuangan, Pigcawayan, 2,462
+Patot, Pigcawayan, 1,927
+Payong‑payong, Pigcawayan, 1,104
+Poblacion I, Pigcawayan, 2,184
+Poblacion II, Pigcawayan, 2,719
+Poblacion III, Pigcawayan, 3,223
+Presbitero, Pigcawayan, 1,329
+Renibon, Pigcawayan, 1,144
+Simsiman, Pigcawayan, 2,173
+South Manuangan, Pigcawayan, 2,297
+Tigbawan, Pigcawayan, 1,053
+Tubon, Pigcawayan, 2,365
+Upper Baguer (Baguer), Pigcawayan, 2,670
+Upper Pangangkalan, Pigcawayan, 1,010
+Bagoaingud (Bagoinged), Pikit, 3,034
+Balabak, Pikit, 4,076
+Balatican, Pikit, 2,438
+Balong, Pikit, 3,178
+Balungis, Pikit, 5,031
+Barungis, Pikit, 2,873
+Batulawan, Pikit, 6,781
+Bualan, Pikit, 2,176
+Buliok, Pikit, 3,041
+Bulod, Pikit, 2,301
+Bulol, Pikit, 4,203
+Calawag, Pikit, 848
+Dalingaoen (Lalingaon), Pikit, 2,721
+Damalasak, Pikit, 2,769
+Fort Pikit, Pikit, 7,326
+Ginatilan, Pikit, 1,262
+Gligli, Pikit, 3,323
+Gokoton (Gokotan), Pikit, 4,973
+Inug‑ug, Pikit, 3,112
+Kabasalan, Pikit, 5,769
+Kalacacan, Pikit, 2,020
+Katilacan, Pikit, 3,270
+Kolambog, Pikit, 1,697
+Ladtingan, Pikit, 2,552
+Lagunde, Pikit, 3,701
+Langayen, Pikit, 2,695
+Macabual, Pikit, 4,016
+Macasendeg, Pikit, 3,775
+Manaulanan, Pikit, 7,477
+Nabundas, Pikit, 4,106
+Nalapaan, Pikit, 2,199
+Nunguan, Pikit, 4,569
+Paidu Pulangi, Pikit, 5,191
+Pamalian, Pikit, 2,982
+Panicupan, Pikit, 2,363
+Poblacion, Pikit, 8,722
+Punol, Pikit, 5,397
+Rajah Muda, Pikit, 3,423
+Silik, Pikit, 1,230
+Takipan, Pikit, 2,946
+Talitay, Pikit, 2,806
+Tinutulan, Pikit, 6,069
+Alegria, President Roxas, 1,442
+Bato‑bato, President Roxas, 949
+Cabangbangan, President Roxas, 1,112
+Camasi, President Roxas, 1,054
+Datu Indang, President Roxas, 910
+Datu Sandongan, President Roxas, 1,221
+Del Carmen, President Roxas, 3,294
+F. Cajelo (New Maasin), President Roxas, 850
+Greenhill, President Roxas, 1,925
+Idaoman, President Roxas, 1,596
+Ilustre, President Roxas, 1,471
+Kamarahan, President Roxas, 1,460
+Kimaruhing, President Roxas, 470
+Kisupaan, President Roxas, 2,096
+La Esperanza, President Roxas, 282
+Labu‑o, President Roxas, 3,398
+Lamalama, President Roxas, 1,394
+Lomonay, President Roxas, 1,029
+Mabuhay, President Roxas, 1,367
+New Cebu, President Roxas, 3,160
+Poblacion, President Roxas, 7,737
+Sagcungan, President Roxas, 1,260
+Salat, President Roxas, 2,010
+Sarayan, President Roxas, 1,636
+Tuael, President Roxas, 4,452
+Bacong, Tulunan, 2,794
+Bagumbayan, Tulunan, 2,391
+Banayal, Tulunan, 1,786
+Batang, Tulunan, 422
+Bituan, Tulunan, 748
+Bual, Tulunan, 5,564
+Bunawan, Tulunan, 594
+Daig, Tulunan, 1,430
+Damawato, Tulunan, 2,577
+Dungos, Tulunan, 2,418
+F. Cajelo, Tulunan, 1,485
+Galidan, Tulunan, 1,680
+Genoveva Baynosa, Tulunan, 256
+Kanibong, Tulunan, 1,556
+La Esperanza, Tulunan, 3,934
+Lampagang, Tulunan, 1,057
+Magbok, Tulunan, 717
+Maybula, Tulunan, 1,611
+Minapan, Tulunan, 2,965
+Nabundasan, Tulunan, 944
+New Caridad, Tulunan, 1,102
+New Culasi, Tulunan, 1,559
+New Panay, Tulunan, 1,475
+Paraiso, Tulunan, 761
+Poblacion, Tulunan, 7,083
+Popoyon, Tulunan, 1,265
+Sibsib, Tulunan, 4,131
+Tambac, Tulunan, 1,224
+Tuburan, Tulunan, 984

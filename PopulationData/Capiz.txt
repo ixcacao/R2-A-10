@@ -1,0 +1,473 @@
+Agcabugao, Cuartero, 842
+Agdahon, Cuartero, 2,145
+Agnaga, Cuartero, 831
+Angub, Cuartero, 1,294
+Balingasag, Cuartero, 937
+Bito‑on Ilawod, Cuartero, 1,092
+Bito‑on Ilaya, Cuartero, 1,121
+Bun‑od, Cuartero, 706
+Carataya, Cuartero, 1,682
+Lunayan, Cuartero, 736
+Mahabang Sapa, Cuartero, 714
+Mahunodhunod, Cuartero, 1,588
+Maindang, Cuartero, 1,332
+Mainit, Cuartero, 1,222
+Malagab‑i, Cuartero, 1,640
+Nagba, Cuartero, 1,682
+Poblacion Ilawod, Cuartero, 1,144
+Poblacion Ilaya, Cuartero, 1,029
+Poblacion Takas, Cuartero, 1,722
+Puti‑an, Cuartero, 1,168
+San Antonio, Cuartero, 1,699
+Sinabsaban, Cuartero, 1,082
+Aganan, Dao, 590
+Agtambi, Dao, 1,179
+Agtanguay, Dao, 1,333
+Balucuan, Dao, 3,308
+Bita, Dao, 570
+Centro, Dao, 869
+Daplas, Dao, 803
+Duyoc, Dao, 2,782
+Ilas Sur, Dao, 1,570
+Lacaron, Dao, 2,347
+Malonoy, Dao, 1,424
+Manhoy, Dao, 1,994
+Mapulang Bato, Dao, 610
+Matagnop, Dao, 3,667
+Nasunogan, Dao, 2,659
+Poblacion Ilawod, Dao, 939
+Poblacion Ilaya, Dao, 1,741
+Quinabcaban, Dao, 1,403
+Quinayuya, Dao, 1,270
+San Agustin (Ilas Norte), Dao, 1,438
+Concepcion, Dumalag, 1,427
+Consolacion, Dumalag, 2,346
+Dolores, Dumalag, 1,553
+Duran, Dumalag, 3,283
+Poblacion, Dumalag, 2,711
+San Agustin, Dumalag, 663
+San Jose, Dumalag, 1,321
+San Martin, Dumalag, 458
+San Miguel, Dumalag, 2,044
+San Rafael, Dumalag, 1,681
+San Roque, Dumalag, 1,964
+Santa Carmen, Dumalag, 779
+Santa Cruz, Dumalag, 2,183
+Santa Monica, Dumalag, 567
+Santa Rita, Dumalag, 661
+Santa Teresa, Dumalag, 802
+Santo Angel, Dumalag, 2,480
+Santo Niño, Dumalag, 1,919
+Santo Rosario, Dumalag, 624
+Agbatuan, Dumarao, 849
+Aglalana, Dumarao, 1,218
+Aglanot, Dumarao, 1,471
+Agsirab, Dumarao, 1,151
+Alipasiawan, Dumarao, 525
+Astorga, Dumarao, 3,302
+Bayog, Dumarao, 206
+Bungsuan, Dumarao, 4,883
+Calapawan, Dumarao, 969
+Codingle, Dumarao, 1,563
+Cubi, Dumarao, 591
+Dacuton, Dumarao, 2,555
+Dangula, Dumarao, 1,157
+Gibato, Dumarao, 2,411
+Guinotos, Dumarao, 717
+Jambad, Dumarao, 629
+Janguslob, Dumarao, 1,490
+Lawaan, Dumarao, 1,795
+Malonoy, Dumarao, 917
+Nagsulang, Dumarao, 1,469
+Ongol Ilawod, Dumarao, 517
+Ongol Ilaya, Dumarao, 815
+Poblacion Ilawod, Dumarao, 1,576
+Poblacion Ilaya, Dumarao, 1,969
+Sagrada Familia, Dumarao, 2,183
+Salcedo, Dumarao, 1,483
+San Juan, Dumarao, 1,063
+Sibariwan, Dumarao, 1,511
+Tamulalod, Dumarao, 823
+Taslan, Dumarao, 868
+Tina, Dumarao, 1,184
+Tinaytayan, Dumarao, 1,166
+Traciano, Dumarao, 1,131
+Agmalobo, Ivisan, 1,005
+Agustin Navarra, Ivisan, 1,104
+Balaring, Ivisan, 1,634
+Basiao, Ivisan, 2,860
+Cabugao, Ivisan, 1,492
+Cudian, Ivisan, 1,791
+Ilaya‑Ivisan, Ivisan, 3,688
+Malocloc Norte, Ivisan, 2,409
+Malocloc Sur, Ivisan, 1,636
+Matnog, Ivisan, 944
+Mianay, Ivisan, 2,049
+Ondoy, Ivisan, 2,087
+Poblacion Norte, Ivisan, 2,482
+Poblacion Sur, Ivisan, 2,613
+Santa Cruz, Ivisan, 1,261
+Agambulong, Jamindan, 2,590
+Agbun‑od, Jamindan, 937
+Agcagay, Jamindan, 1,324
+Aglibacao, Jamindan, 496
+Agloloway, Jamindan, 899
+Bayebaye, Jamindan, 1,817
+Caridad, Jamindan, 542
+Esperanza, Jamindan, 922
+Fe, Jamindan, 528
+Ganzon, Jamindan, 910
+Guintas, Jamindan, 1,058
+Igang, Jamindan, 436
+Jaena Norte, Jamindan, 4,097
+Jaena Sur, Jamindan, 1,442
+Jagnaya, Jamindan, 1,262
+Lapaz, Jamindan, 1,097
+Linambasan, Jamindan, 1,231
+Lucero, Jamindan, 2,332
+Maantol, Jamindan, 822
+Masgrau, Jamindan, 192
+Milan, Jamindan, 1,389
+Molet, Jamindan, 404
+Pangabat, Jamindan, 1,396
+Pangabuan, Jamindan, 1,855
+Pasol‑o, Jamindan, 890
+Poblacion, Jamindan, 1,782
+San Jose, Jamindan, 1,048
+San Juan, Jamindan, 838
+San Vicente, Jamindan, 1,079
+Santo Rosario, Jamindan, 1,062
+Aglimocon, Maayon, 1,321
+Alasaging, Maayon, 878
+Alayunan, Maayon, 611
+Balighot, Maayon, 1,463
+Batabat, Maayon, 1,334
+Bongbongan, Maayon, 1,170
+Cabungahan, Maayon, 1,501
+Canapian, Maayon, 1,518
+Carataya, Maayon, 984
+Duluan, Maayon, 662
+East Villaflores, Maayon, 1,659
+Fernandez, Maayon, 616
+Guinbi‑alan, Maayon, 737
+Indayagan, Maayon, 1,379
+Jebaca, Maayon, 809
+Maalan, Maayon, 920
+Manayupit, Maayon, 996
+New Guia, Maayon, 1,158
+Old Guia, Maayon, 860
+Palaguian, Maayon, 1,080
+Parallan, Maayon, 749
+Piña, Maayon, 1,000
+Poblacion Ilawod, Maayon, 1,174
+Poblacion Ilaya, Maayon, 1,883
+Poblacion Tabuc, Maayon, 1,590
+Quevedo (Ngalan), Maayon, 1,506
+Quinabonglan, Maayon, 1,064
+Quinat‑uyan, Maayon, 1,182
+Salgan, Maayon, 1,424
+Tapulang, Maayon, 1,511
+Tuburan, Maayon, 2,282
+West Villaflores, Maayon, 1,395
+Atiplo, Mambusao, 2,395
+Balat‑an, Mambusao, 1,151
+Balit, Mambusao, 1,024
+Batiano, Mambusao, 912
+Bating, Mambusao, 1,025
+Bato Bato, Mambusao, 2,129
+Baye, Mambusao, 841
+Bergante, Mambusao, 998
+Bula, Mambusao, 3,000
+Bunga, Mambusao, 1,298
+Bungsi, Mambusao, 795
+Burias, Mambusao, 4,049
+Caidquid, Mambusao, 2,032
+Cala‑agus, Mambusao, 951
+Libo‑o, Mambusao, 455
+Manibad, Mambusao, 1,792
+Maralag, Mambusao, 1,334
+Najus‑an, Mambusao, 1,324
+Pangpang Norte, Mambusao, 866
+Pangpang Sur, Mambusao, 754
+Pinay, Mambusao, 1,072
+Poblacion Proper, Mambusao, 3,148
+Poblacion Tabuc, Mambusao, 2,675
+Sinondojan, Mambusao, 604
+Tugas, Mambusao, 1,497
+Tumalalud, Mambusao, 1,523
+Agbalo, Panay, 1,271
+Agbanban, Panay, 985
+Agojo, Panay, 1,767
+Anhawon, Panay, 1,059
+Bagacay, Panay, 555
+Bago Chiquito, Panay, 1,173
+Bago Grande, Panay, 849
+Bahit, Panay, 400
+Bantique, Panay, 1,306
+Bato, Panay, 2,026
+Binangig, Panay, 473
+Binantuan, Panay, 708
+Bonga, Panay, 1,993
+Buntod, Panay, 1,108
+Butacal, Panay, 1,304
+Cabugao Este, Panay, 916
+Cabugao Oeste, Panay, 915
+Calapawan, Panay, 1,608
+Calitan, Panay, 1,167
+Candual, Panay, 1,373
+Cogon, Panay, 1,013
+Daga, Panay, 1,588
+Ilamnay, Panay, 163
+Jamul‑awon, Panay, 823
+Lanipga, Panay, 980
+Lat‑Asan, Panay, 771
+Libon, Panay, 970
+Linao, Panay, 849
+Linateran, Panay, 1,129
+Lomboy, Panay, 955
+Lus‑Onan, Panay, 922
+Magubilan, Panay, 904
+Navitas, Panay, 1,443
+Pawa, Panay, 2,515
+Pili, Panay, 303
+Poblacion Ilawod, Panay, 579
+Poblacion Ilaya, Panay, 1,501
+Poblacion Tabuc, Panay, 1,015
+Talasa, Panay, 351
+Tanza Norte, Panay, 1,717
+Tanza Sur, Panay, 1,398
+Tico, Panay, 1,269
+Agbabadiang, Panitan, 547
+Agkilo, Panitan, 1,150
+Agloway, Panitan, 1,155
+Ambilay, Panitan, 1,366
+Bahit, Panitan, 1,126
+Balatucan, Panitan, 1,848
+Banga‑an, Panitan, 973
+Cabangahan, Panitan, 1,143
+Cabugao, Panitan, 923
+Cadio, Panitan, 1,158
+Cala‑an, Panitan, 1,426
+Capagao, Panitan, 2,586
+Cogon, Panitan, 3,789
+Conciencia, Panitan, 1,826
+Ensenagan, Panitan, 1,142
+Intampilan, Panitan, 2,407
+Pasugue, Panitan, 910
+Poblacion Ilawod, Panitan, 746
+Poblacion Ilaya, Panitan, 1,802
+Quios, Panitan, 1,157
+Salocon, Panitan, 2,079
+Tabuc Norte, Panitan, 882
+Tabuc Sur, Panitan, 1,390
+Timpas, Panitan, 4,003
+Tincupon, Panitan, 1,516
+Tinigban, Panitan, 1,239
+Balogo, Pilar, 1,478
+Binaobawan, Pilar, 1,103
+Blasco, Pilar, 572
+Casanayan, Pilar, 3,240
+Cayus, Pilar, 2,008
+Dayhagan, Pilar, 1,616
+Dulangan, Pilar, 5,760
+Monteflor, Pilar, 940
+Natividad, Pilar, 3,935
+Olalo, Pilar, 426
+Poblacion, Pilar, 2,164
+Rosario, Pilar, 1,190
+San Antonio, Pilar, 1,337
+San Blas, Pilar, 1,056
+San Esteban, Pilar, 1,814
+San Fernando, Pilar, 1,925
+San Nicolas, Pilar, 1,845
+San Pedro, Pilar, 1,768
+San Ramon, Pilar, 2,493
+San Silvestre, Pilar, 808
+Santa Fe, Pilar, 2,555
+Sinamongan, Pilar, 2,123
+Tabun‑acan, Pilar, 1,899
+Yating, Pilar, 1,232
+Agbanog, Pontevedra, 1,186
+Agdalipe, Pontevedra, 543
+Ameligan, Pontevedra, 1,433
+Bailan, Pontevedra, 2,800
+Banate, Pontevedra, 881
+Bantigue, Pontevedra, 630
+Binuntucan, Pontevedra, 4,737
+Cabugao, Pontevedra, 472
+Gabuc (Caugiat), Pontevedra, 521
+Guba, Pontevedra, 632
+Hipona, Pontevedra, 2,546
+Ilawod (Poblacion), Pontevedra, 2,176
+Ilaya (Poblacion), Pontevedra, 1,019
+Intungcan, Pontevedra, 1,342
+Jolongajog, Pontevedra, 2,056
+Lantangan, Pontevedra, 2,279
+Linampongan, Pontevedra, 1,414
+Malag‑it, Pontevedra, 2,293
+Manapao, Pontevedra, 770
+Rizal, Pontevedra, 2,478
+San Pedro, Pontevedra, 1,293
+Solo, Pontevedra, 926
+Sublangon, Pontevedra, 2,124
+Tabuc, Pontevedra, 3,725
+Tacas, Pontevedra, 4,431
+Yatingan, Pontevedra, 1,721
+Aranguel, President Roxas, 1,212
+Badiangon, President Roxas, 2,133
+Bayuyan, President Roxas, 1,003
+Cabugcabug, President Roxas, 1,690
+Carmencita, President Roxas, 929
+Cubay, President Roxas, 1,000
+Culilang, President Roxas, 404
+Goce, President Roxas, 929
+Hanglid, President Roxas, 1,467
+Ibaca, President Roxas, 1,717
+Madulano, President Roxas, 876
+Manoling, President Roxas, 865
+Marita, President Roxas, 1,628
+Pandan, President Roxas, 534
+Pantalan Cabugcabug, President Roxas, 1,934
+Pinamihagan, President Roxas, 337
+Poblacion (Elizalde), President Roxas, 6,596
+Pondol, President Roxas, 815
+Quiajo, President Roxas, 518
+Sangkal, President Roxas, 455
+Santo Niño, President Roxas, 170
+Vizcaya, President Roxas, 2,464
+Adlawan, Roxas City, 2,617
+Bago, Roxas City, 1,765
+Balijuagan, Roxas City, 1,944
+Banica, Roxas City, 8,737
+Barra, Roxas City, 2,941
+Bato, Roxas City, 2,363
+Baybay, Roxas City, 9,431
+Bolo, Roxas City, 7,482
+Cabugao, Roxas City, 2,259
+Cagay, Roxas City, 5,943
+Cogon, Roxas City, 1,878
+Culajao, Roxas City, 1,938
+Culasi, Roxas City, 8,429
+Dayao, Roxas City, 4,765
+Dinginan, Roxas City, 6,253
+Dumolog, Roxas City, 3,974
+Gabu‑an, Roxas City, 1,335
+Inzo Arnaldo Village (Cadimahan), Roxas City, 4,949
+Jumaguicjic, Roxas City, 1,468
+Lanot, Roxas City, 6,273
+Lawa‑an, Roxas City, 9,823
+Libas, Roxas City, 7,798
+Liong, Roxas City, 1,335
+Loctugan, Roxas City, 2,311
+Lonoy, Roxas City, 3,067
+Milibili, Roxas City, 6,740
+Mongpong, Roxas City, 4,569
+Olotayan, Roxas City, 840
+Poblacion I (Barangay I), Roxas City, 1,385
+Poblacion II (Barangay II), Roxas City, 1,365
+Poblacion III (Barangay III), Roxas City, 502
+Poblacion IV (Barangay IV), Roxas City, 152
+Poblacion IX (Barangay IX), Roxas City, 1,789
+Poblacion V (Barangay V), Roxas City, 2,085
+Poblacion VI (Barangay VI), Roxas City, 585
+Poblacion VII (Barangay VII), Roxas City, 1,762
+Poblacion VIII (Barangay VIII), Roxas City, 985
+Poblacion X (Barangay X), Roxas City, 1,347
+Poblacion XI (Barangay XI), Roxas City, 1,086
+Punta Cogon, Roxas City, 1,232
+Punta Tabuc, Roxas City, 5,581
+San Jose, Roxas City, 2,078
+Sibaguan, Roxas City, 3,428
+Talon, Roxas City, 2,229
+Tanque, Roxas City, 5,998
+Tanza, Roxas City, 2,014
+Tiza, Roxas City, 8,173
+Agsilab, Sapian, 1,251
+Agtatacay Norte, Sapian, 948
+Agtatacay Sur, Sapian, 1,186
+Bilao, Sapian, 3,317
+Damayan, Sapian, 2,416
+Dapdapan, Sapian, 2,664
+Lonoy, Sapian, 3,622
+Majanlud, Sapian, 2,297
+Maninang, Sapian, 2,856
+Poblacion, Sapian, 5,264
+Acbo, Sigma, 1,017
+Amaga, Sigma, 2,263
+Balucuan, Sigma, 1,185
+Bangonbangon, Sigma, 1,292
+Capuyhan, Sigma, 525
+Cogon, Sigma, 1,092
+Dayhagon, Sigma, 869
+Guintas, Sigma, 869
+Malapad Cogon, Sigma, 1,308
+Mangoso, Sigma, 2,483
+Mansacul, Sigma, 905
+Matangcong, Sigma, 1,156
+Matinabus, Sigma, 1,110
+Mianay, Sigma, 3,658
+Oyong, Sigma, 1,068
+Pagbunitan, Sigma, 1,313
+Parian, Sigma, 3,113
+Pinamalatican, Sigma, 749
+Poblacion Norte, Sigma, 1,408
+Poblacion Sur, Sigma, 1,896
+Tawog, Sigma, 855
+Abangay, Tapaz, 583
+Acuña, Tapaz, 674
+Agcococ, Tapaz, 945
+Aglinab, Tapaz, 795
+Aglupacan, Tapaz, 158
+Agpalali, Tapaz, 626
+Apero, Tapaz, 864
+Artuz, Tapaz, 1,577
+Bag‑Ong Barrio, Tapaz, 1,146
+Bato‑bato, Tapaz, 364
+Buri, Tapaz, 518
+Camburanan, Tapaz, 1,395
+Candelaria, Tapaz, 2,053
+Carida, Tapaz, 1,145
+Cristina, Tapaz, 1,355
+Da‑an Banwa, Tapaz, 835
+Da‑an Norte, Tapaz, 702
+Da‑an Sur, Tapaz, 881
+Garcia, Tapaz, 731
+Gebio‑an, Tapaz, 848
+Hilwan, Tapaz, 799
+Initan, Tapaz, 990
+Katipunan, Tapaz, 927
+Lagdungan, Tapaz, 1,048
+Lahug, Tapaz, 340
+Libertad, Tapaz, 659
+Mabini, Tapaz, 369
+Maliao, Tapaz, 646
+Malitbog, Tapaz, 1,140
+Minan, Tapaz, 641
+Nayawan, Tapaz, 357
+Poblacion, Tapaz, 2,783
+Rizal Norte, Tapaz, 247
+Rizal Sur, Tapaz, 476
+Roosevelt, Tapaz, 680
+Roxas, Tapaz, 1,149
+Salong, Tapaz, 581
+San Antonio, Tapaz, 895
+San Francisco, Tapaz, 938
+San Jose, Tapaz, 692
+San Julian, Tapaz, 1,388
+San Miguel Ilawod, Tapaz, 931
+San Miguel Ilaya, Tapaz, 1,035
+San Nicolas, Tapaz, 2,656
+San Pedro, Tapaz, 454
+San Roque, Tapaz, 1,016
+San Vicente, Tapaz, 482
+Santa Ana, Tapaz, 1,074
+Santa Petronila, Tapaz, 488
+Senonod, Tapaz, 286
+Siya, Tapaz, 904
+Switch, Tapaz, 1,272
+Tabon, Tapaz, 637
+Tacayan, Tapaz, 385
+Taft, Tapaz, 1,341
+Taganghin, Tapaz, 580
+Taslan, Tapaz, 797
+Wright, Tapaz, 1,035

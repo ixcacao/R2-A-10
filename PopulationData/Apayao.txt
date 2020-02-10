@@ -1,0 +1,133 @@
+Butao, Calanasan, 832
+Cadaclan, Calanasan, 629
+Don Roque Ablan Sr., Calanasan, 239
+Eleazar, Calanasan, 139
+Eva Puzon, Calanasan, 1,254
+Kabugawan, Calanasan, 519
+Langnao, Calanasan, 229
+Lubong, Calanasan, 494
+Macalino, Calanasan, 348
+Naguilian, Calanasan, 332
+Namaltugan, Calanasan, 918
+Poblacion, Calanasan, 2,008
+Sabangan, Calanasan, 454
+Santa Elena, Calanasan, 292
+Santa Filomena, Calanasan, 1,002
+Tanglagan, Calanasan, 2,018
+Tubang, Calanasan, 456
+Tubongan, Calanasan, 441
+Allangigan, Conner, 494
+Banban, Conner, 1,088
+Buluan, Conner, 1,537
+Caglayan (New Poblacion), Conner, 2,132
+Calafug, Conner, 1,041
+Cupis, Conner, 446
+Daga, Conner, 1,315
+Guinaang, Conner, 1,507
+Guinamgaman, Conner, 798
+Ili, Conner, 1,325
+Karikitan, Conner, 1,879
+Katablangan, Conner, 559
+Malama, Conner, 2,979
+Manag, Conner, 1,771
+Mawegui, Conner, 800
+Nabuangan, Conner, 528
+Paddaoan, Conner, 1,678
+Puguin, Conner, 859
+Ripang (Old Poblacion), Conner, 979
+Sacpil, Conner, 1,230
+Talifugo, Conner, 1,106
+Allig, Flora, 1,635
+Anninipan, Flora, 1,047
+Atok, Flora, 642
+Bagutong, Flora, 1,365
+Balasi, Flora, 243
+Balluyan, Flora, 1,429
+Malayugan, Flora, 1,294
+Mallig, Flora, 564
+Malubibit Norte, Flora, 1,008
+Malubibit Sur, Flora, 588
+Poblacion East, Flora, 2,717
+Poblacion West, Flora, 1,990
+San Jose, Flora, 714
+Santa Maria, Flora, 998
+Tamalunog, Flora, 921
+Upper Atok (Coliman), Flora, 236
+Badduat, Kabugao, 943
+Baliwanan, Kabugao, 480
+Bulu, Kabugao, 297
+Cabetayan, Kabugao, 613
+Dagara, Kabugao, 541
+Dibagat, Kabugao, 704
+Karagawan, Kabugao, 655
+Kumao, Kabugao, 570
+Laco, Kabugao, 411
+Lenneng (Liyyeng), Kabugao, 2,541
+Lucab, Kabugao, 604
+Luttuacan, Kabugao, 1,042
+Madatag, Kabugao, 798
+Madduang, Kabugao, 467
+Magabta, Kabugao, 203
+Maragat, Kabugao, 453
+Musimut, Kabugao, 607
+Nagbabalayan, Kabugao, 482
+Poblacion, Kabugao, 2,629
+Tuyangan, Kabugao, 285
+Waga, Kabugao, 212
+Bacsay, Luna, 769
+Cagandungan, Luna, 647
+Calabigan, Luna, 368
+Cangisitan, Luna, 713
+Capagaypayan, Luna, 524
+Dagupan, Luna, 2,194
+Lappa, Luna, 727
+Luyon, Luna, 383
+Marag, Luna, 581
+Poblacion, Luna, 1,181
+Quirino, Luna, 1,353
+Salvacion, Luna, 372
+San Francisco, Luna, 880
+San Gregorio, Luna, 548
+San Isidro Norte, Luna, 759
+San Isidro Sur, Luna, 1,545
+San Sebastian, Luna, 442
+Santa Lina, Luna, 1,166
+Shalom, Luna, 652
+Tumog, Luna, 1,495
+Turod, Luna, 1,092
+Zumigui, Luna, 672
+Aga, Pudtol, 343
+Alem, Pudtol, 855
+Amado, Pudtol, 802
+Aurora, Pudtol, 355
+Cabatacan, Pudtol, 1,529
+Cacalaggan, Pudtol, 513
+Capannikian, Pudtol, 1,381
+Doña Loreta, Pudtol, 737
+Emilia, Pudtol, 537
+Imelda, Pudtol, 621
+Lower Maton, Pudtol, 369
+Lt. Bilag, Pudtol, 214
+Lydia, Pudtol, 624
+Malibang, Pudtol, 539
+Mataguisi, Pudtol, 1,004
+Poblacion, Pudtol, 911
+San Antonio (Pugo), Pudtol, 186
+San Jose, Pudtol, 344
+San Luis, Pudtol, 772
+San Mariano, Pudtol, 377
+Swan, Pudtol, 1,503
+Upper Maton, Pudtol, 409
+Barocboc, Santa Marcela, 1,448
+Consuelo, Santa Marcela, 1,037
+Emiliana, Santa Marcela, 785
+Imelda (Sipa Annex), Santa Marcela, 978
+Malekkeg, Santa Marcela, 1,141
+Marcela (Poblacion), Santa Marcela, 1,296
+Nueva, Santa Marcela, 803
+Panay, Santa Marcela, 969
+San Antonio, Santa Marcela, 822
+San Carlos, Santa Marcela, 1,390
+San Juan, Santa Marcela, 638
+San Mariano, Santa Marcela, 1,069
+Sipa Proper, Santa Marcela, 1,237

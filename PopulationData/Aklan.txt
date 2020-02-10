@@ -1,0 +1,327 @@
+Cabangila, Altavas, 1,705
+Cabugao, Altavas, 1,964
+Catmon, Altavas, 1,208
+Dalipdip, Altavas, 772
+Ginictan, Altavas, 1,521
+Linayasan, Altavas, 1,872
+Lumaynay, Altavas, 1,593
+Lupo, Altavas, 2,127
+Man‑up, Altavas, 1,112
+Odiong, Altavas, 3,028
+Poblacion, Altavas, 4,406
+Quinasay‑an, Altavas, 491
+Talon, Altavas, 1,589
+Tibiao, Altavas, 1,231
+Aranas, Balete, 5,256
+Arcangel, Balete, 3,486
+Calizo, Balete, 3,863
+Cortes, Balete, 3,278
+Feliciano, Balete, 2,883
+Fulgencio, Balete, 3,568
+Guanko, Balete, 1,321
+Morales, Balete, 3,184
+Oquendo, Balete, 1,234
+Poblacion, Balete, 847
+Agbanawan, Banga, 1,524
+Bacan, Banga, 1,703
+Badiangan, Banga, 1,747
+Cerrudo, Banga, 1,485
+Cupang, Banga, 740
+Daguitan, Banga, 459
+Daja Norte, Banga, 1,340
+Daja Sur, Banga, 512
+Dingle, Banga, 698
+Jumarap, Banga, 1,835
+Lapnag, Banga, 627
+Libas, Banga, 1,717
+Linabuan Sur, Banga, 3,756
+Mambog, Banga, 1,803
+Mangan, Banga, 1,542
+Muguing, Banga, 764
+Pagsanghan, Banga, 1,917
+Palale, Banga, 678
+Poblacion, Banga, 1,997
+Polo, Banga, 955
+Polocate, Banga, 1,707
+San Isidro, Banga, 320
+Sibalew, Banga, 989
+Sigcay, Banga, 1,012
+Taba‑ao, Banga, 1,164
+Tabayon, Banga, 1,777
+Tinapuay, Banga, 457
+Torralba, Banga, 1,890
+Ugsod, Banga, 1,566
+Venturanza, Banga, 824
+Ambolong, Batan, 2,302
+Angas, Batan, 1,577
+Bay‑ang, Batan, 2,120
+Cabugao, Batan, 2,408
+Caiyang, Batan, 941
+Camaligan, Batan, 2,821
+Camanci, Batan, 2,628
+Ipil, Batan, 484
+Lalab, Batan, 2,990
+Lupit, Batan, 1,562
+Magpag‑ong, Batan, 1,359
+Magubahay, Batan, 550
+Mambuquiao, Batan, 1,442
+Mandong, Batan, 1,701
+Man‑up, Batan, 972
+Napti, Batan, 1,120
+Palay, Batan, 1,371
+Poblacion, Batan, 1,611
+Songcolan, Batan, 1,160
+Tabon, Batan, 913
+Alegria, Buruanga, 1,709
+Bagongbayan, Buruanga, 1,050
+Balusbos, Buruanga, 1,085
+Bel‑is, Buruanga, 722
+Cabugan, Buruanga, 882
+El Progreso, Buruanga, 1,147
+Habana, Buruanga, 1,850
+Katipunan, Buruanga, 2,006
+Mayapay, Buruanga, 1,106
+Nazareth, Buruanga, 1,923
+Panilongan, Buruanga, 1,186
+Poblacion, Buruanga, 1,062
+Santander, Buruanga, 1,330
+Tag‑osip, Buruanga, 299
+Tigum, Buruanga, 1,646
+Agbago, Ibajay, 1,826
+Agdugayan, Ibajay, 1,221
+Antipolo, Ibajay, 817
+Aparicio, Ibajay, 887
+Aquino, Ibajay, 3,095
+Aslum, Ibajay, 1,434
+Bagacay, Ibajay, 1,077
+Batuan, Ibajay, 1,186
+Buenavista, Ibajay, 485
+Bugtongbato, Ibajay, 1,577
+Cabugao, Ibajay, 225
+Capilijan, Ibajay, 1,060
+Colongcolong, Ibajay, 1,137
+Laguinbanua, Ibajay, 3,226
+Mabusao, Ibajay, 661
+Malindog, Ibajay, 198
+Maloco, Ibajay, 2,635
+Mina‑a, Ibajay, 683
+Monlaque, Ibajay, 899
+Naile, Ibajay, 2,517
+Naisud, Ibajay, 3,055
+Naligusan, Ibajay, 833
+Ondoy, Ibajay, 2,484
+Poblacion, Ibajay, 2,944
+Polo, Ibajay, 1,095
+Regador, Ibajay, 1,998
+Rivera, Ibajay, 240
+Rizal, Ibajay, 1,307
+San Isidro, Ibajay, 1,704
+San Jose, Ibajay, 2,048
+Santa Cruz, Ibajay, 1,278
+Tagbaya, Ibajay, 1,761
+Tul‑ang, Ibajay, 829
+Unat, Ibajay, 820
+Yawan, Ibajay, 322
+Andagaw, Kalibo, 12,703
+Bachaw Norte, Kalibo, 2,336
+Bachaw Sur, Kalibo, 3,131
+Briones, Kalibo, 1,321
+Buswang New, Kalibo, 10,431
+Buswang Old, Kalibo, 3,247
+Caano, Kalibo, 1,803
+Estancia, Kalibo, 8,372
+Linabuan Norte, Kalibo, 4,130
+Mabilo, Kalibo, 2,378
+Mobo, Kalibo, 1,543
+Nalook, Kalibo, 3,323
+Poblacion, Kalibo, 11,751
+Pook, Kalibo, 5,744
+Tigayon, Kalibo, 5,640
+Tinigaw, Kalibo, 2,752
+Agcawilan, Lezo, 1,565
+Bagto, Lezo, 997
+Bugasongan, Lezo, 1,231
+Carugdog, Lezo, 1,428
+Cogon, Lezo, 970
+Ibao, Lezo, 1,413
+Mina, Lezo, 1,158
+Poblacion, Lezo, 1,975
+Santa Cruz, Lezo, 1,238
+Santa Cruz Bigaa, Lezo, 1,086
+Silakat‑Nonok, Lezo, 919
+Tayhawan, Lezo, 1,244
+Agmailig, Libacao, 736
+Alfonso XII, Libacao, 1,331
+Batobato, Libacao, 501
+Bonza, Libacao, 395
+Calacabian, Libacao, 865
+Calamcan, Libacao, 620
+Can‑Awan, Libacao, 487
+Casit‑an, Libacao, 352
+Dalagsa‑an, Libacao, 1,908
+Guadalupe, Libacao, 1,529
+Janlud, Libacao, 1,011
+Julita, Libacao, 1,971
+Luctoga, Libacao, 1,442
+Magugba, Libacao, 600
+Manika, Libacao, 2,091
+Ogsip, Libacao, 920
+Ortega, Libacao, 1,248
+Oyang, Libacao, 1,068
+Pampango, Libacao, 1,455
+Pinonoy, Libacao, 727
+Poblacion, Libacao, 4,010
+Rivera, Libacao, 648
+Rosal, Libacao, 1,591
+Sibalew, Libacao, 735
+Alaminos, Madalag, 1,257
+Alas‑as, Madalag, 710
+Bacyang, Madalag, 509
+Balactasan, Madalag, 735
+Cabangahan, Madalag, 433
+Cabilawan, Madalag, 487
+Catabana, Madalag, 448
+Dit‑Ana, Madalag, 441
+Galicia, Madalag, 363
+Guinatu‑an, Madalag, 445
+Logohon, Madalag, 504
+Mamba, Madalag, 830
+Maria Cristina, Madalag, 887
+Medina, Madalag, 1,105
+Mercedes, Madalag, 546
+Napnot, Madalag, 517
+Pang‑Itan, Madalag, 906
+Paningayan, Madalag, 1,127
+Panipiason, Madalag, 1,484
+Poblacion, Madalag, 1,775
+San Jose, Madalag, 937
+Singay, Madalag, 413
+Talangban, Madalag, 506
+Talimagao, Madalag, 347
+Tigbawan, Madalag, 677
+Agbalogo, Makato, 1,127
+Aglucay, Makato, 557
+Alibagon, Makato, 641
+Bagong Barrio, Makato, 487
+Baybay, Makato, 2,077
+Cabatanga, Makato, 1,246
+Cajilo, Makato, 1,446
+Calangcang, Makato, 1,715
+Calimbajan, Makato, 2,068
+Castillo, Makato, 956
+Cayangwan, Makato, 2,125
+Dumga, Makato, 2,170
+Libang, Makato, 1,401
+Mantiguib, Makato, 1,921
+Poblacion, Makato, 3,288
+Tibiawan, Makato, 869
+Tina, Makato, 1,223
+Tugas, Makato, 1,945
+Argao, Malay, 1,213
+Balabag, Malay, 12,296
+Balusbus, Malay, 1,310
+Cabulihan, Malay, 772
+Caticlan, Malay, 7,996
+Cogon, Malay, 647
+Cubay Norte, Malay, 365
+Cubay Sur, Malay, 1,423
+Dumlog, Malay, 863
+Manoc‑Manoc, Malay, 14,810
+Motag, Malay, 903
+Naasug, Malay, 557
+Nabaoy, Malay, 1,220
+Napaan, Malay, 751
+Poblacion, Malay, 1,304
+San Viray, Malay, 1,382
+Yapak, Malay, 5,161
+Banaybanay, Malinao, 919
+Biga‑a, Malinao, 879
+Bulabud, Malinao, 1,551
+Cabayugan, Malinao, 1,228
+Capataga, Malinao, 40
+Cogon, Malinao, 491
+Dangcalan, Malinao, 679
+Kinalangay Nuevo, Malinao, 968
+Kinalangay Viejo, Malinao, 2,043
+Lilo‑an, Malinao, 1,437
+Malandayon, Malinao, 876
+Manhanip, Malinao, 1,149
+Navitas, Malinao, 1,170
+Osman, Malinao, 691
+Poblacion, Malinao, 1,505
+Rosario, Malinao, 1,889
+San Dimas, Malinao, 873
+San Ramon, Malinao, 940
+San Roque, Malinao, 1,406
+Sipac, Malinao, 417
+Sugnod, Malinao, 498
+Tambuan, Malinao, 1,163
+Tigpalas, Malinao, 382
+Alimbo‑Baybay, Nabas, 1,356
+Buenafortuna, Nabas, 1,262
+Buenasuerte, Nabas, 2,009
+Buenavista, Nabas, 1,491
+Gibon, Nabas, 3,239
+Habana, Nabas, 1,313
+Laserna, Nabas, 2,950
+Libertad, Nabas, 1,653
+Magallanes, Nabas, 885
+Matabana, Nabas, 854
+Nagustan, Nabas, 3,307
+Pawa, Nabas, 309
+Pinatuad, Nabas, 736
+Poblacion, Nabas, 2,115
+Rizal, Nabas, 1,489
+Solido, Nabas, 1,855
+Tagororoc, Nabas, 1,091
+Toledo, Nabas, 2,608
+Unidos, Nabas, 3,066
+Union, Nabas, 2,847
+Candelaria, New Washington, 1,708
+Cawayan, New Washington, 4,168
+Dumaguit, New Washington, 2,139
+Fatima, New Washington, 1,219
+Guinbaliwan, New Washington, 3,031
+Jalas, New Washington, 1,518
+Jugas, New Washington, 2,577
+Lawa‑an, New Washington, 1,361
+Mabilo, New Washington, 3,552
+Mataphao, New Washington, 1,842
+Ochando, New Washington, 3,369
+Pinamuk‑an, New Washington, 2,951
+Poblacion, New Washington, 5,974
+Polo, New Washington, 3,514
+Puis, New Washington, 2,675
+Tambak, New Washington, 3,409
+Albasan, Numancia, 1,526
+Aliputos, Numancia, 2,493
+Badio, Numancia, 1,551
+Bubog, Numancia, 1,647
+Bulwang, Numancia, 4,401
+Camanci Norte, Numancia, 2,880
+Camanci Sur, Numancia, 1,085
+Dongon East, Numancia, 1,915
+Dongon West, Numancia, 2,185
+Joyao‑joyao, Numancia, 1,696
+Laguinbanua East, Numancia, 2,354
+Laguinbanua West, Numancia, 1,714
+Marianos, Numancia, 1,052
+Navitas, Numancia, 1,451
+Poblacion, Numancia, 1,573
+Pusiw, Numancia, 1,454
+Tabangka, Numancia, 957
+Afga, Tangalan, 1,612
+Baybay, Tangalan, 1,597
+Dapdap, Tangalan, 1,042
+Dumatad, Tangalan, 1,130
+Jawili, Tangalan, 1,822
+Lanipga, Tangalan, 330
+Napatag, Tangalan, 224
+Panayakan, Tangalan, 3,116
+Poblacion, Tangalan, 1,516
+Pudiot, Tangalan, 1,828
+Tagas, Tangalan, 2,407
+Tamalagon, Tangalan, 2,609
+Tamokoe, Tangalan, 154
+Tondog, Tangalan, 1,955
+Vivo, Tangalan, 574

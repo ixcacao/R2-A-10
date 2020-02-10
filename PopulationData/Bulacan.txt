@@ -1,0 +1,569 @@
+Banaban, Angat, 2,140
+Baybay, Angat, 855
+Binagbag, Angat, 5,182
+Donacion, Angat, 2,603
+Encanto, Angat, 4,665
+Laog, Angat, 1,225
+Marungko, Angat, 4,344
+Niugan, Angat, 4,607
+Paltok, Angat, 1,447
+Pulong Yantok, Angat, 4,940
+San Roque (Poblacion), Angat, 5,168
+Santa Cruz (Poblacion), Angat, 5,641
+Santa Lucia, Angat, 2,475
+Santo Cristo (Poblacion), Angat, 4,999
+Sulucan, Angat, 5,723
+Taboc, Angat, 3,223
+Borol 1st, Balagtas, 10,190
+Borol 2nd, Balagtas, 7,243
+Dalig, Balagtas, 1,949
+Longos, Balagtas, 2,779
+Panginay, Balagtas, 12,578
+Pulong Gubat, Balagtas, 7,701
+San Juan, Balagtas, 10,158
+Santol, Balagtas, 16,346
+Wawa (Poblacion), Balagtas, 4,985
+Bagong Nayon, Baliuag, 5,616
+Barangca, Baliuag, 3,051
+Calantipay, Baliuag, 2,784
+Catulinan, Baliuag, 1,916
+Concepcion, Baliuag, 9,933
+Hinukay, Baliuag, 2,140
+Makinabang, Baliuag, 11,715
+Matangtubig, Baliuag, 2,630
+Pagala, Baliuag, 3,843
+Paitan, Baliuag, 1,517
+Piel, Baliuag, 2,229
+Pinagbarilan, Baliuag, 5,357
+Poblacion, Baliuag, 9,448
+Sabang, Baliuag, 11,350
+San Jose, Baliuag, 6,575
+San Roque, Baliuag, 3,554
+Santa Barbara, Baliuag, 11,676
+Santo Cristo, Baliuag, 8,840
+Santo Niño, Baliuag, 3,818
+Subic, Baliuag, 5,506
+Sulivan, Baliuag, 5,070
+Tangos, Baliuag, 5,699
+Tarcan, Baliuag, 7,333
+Tiaong, Baliuag, 5,006
+Tibag, Baliuag, 3,014
+Tilapayong, Baliuag, 3,389
+Virgen delas Flores, Baliuag, 6,945
+Antipona, Bocaue, 2,289
+Bagumbayan, Bocaue, 3,573
+Bambang, Bocaue, 7,830
+Batia, Bocaue, 31,663
+Biñang 1st, Bocaue, 3,496
+Biñang 2nd, Bocaue, 2,072
+Bolacan, Bocaue, 1,199
+Bundukan, Bocaue, 6,796
+Bunlo, Bocaue, 4,686
+Caingin, Bocaue, 5,551
+Duhat, Bocaue, 7,444
+Igulot, Bocaue, 1,408
+Lolomboy, Bocaue, 16,507
+Poblacion, Bocaue, 405
+Sulucan, Bocaue, 2,572
+Taal, Bocaue, 8,681
+Tambobong, Bocaue, 5,558
+Turo, Bocaue, 6,058
+Wakas, Bocaue, 1,887
+Bagumbayan, Bulakan, 3,701
+Balubad, Bulakan, 3,357
+Bambang, Bulakan, 13,604
+Matungao, Bulakan, 11,646
+Maysantol, Bulakan, 2,768
+Perez, Bulakan, 2,381
+Pitpitan, Bulakan, 4,516
+San Francisco, Bulakan, 6,145
+San Jose (Poblacion), Bulakan, 3,372
+San Nicolas, Bulakan, 5,804
+Santa Ana, Bulakan, 8,122
+Santa Ines, Bulakan, 2,508
+Taliptip, Bulakan, 5,490
+Tibig, Bulakan, 3,151
+Bonga Mayor, Bustos, 3,792
+Bonga Menor, Bustos, 4,619
+Buisan, Bustos, 1,869
+Camachilihan, Bustos, 2,552
+Cambaog, Bustos, 6,242
+Catacte, Bustos, 7,990
+Liciada, Bustos, 5,017
+Malamig, Bustos, 5,633
+Malawak, Bustos, 2,789
+Poblacion, Bustos, 7,153
+San Pedro, Bustos, 6,994
+Talampas, Bustos, 3,325
+Tanawan, Bustos, 2,862
+Tibagan, Bustos, 6,202
+Balite, Calumpit, 3,216
+Balungao, Calumpit, 5,044
+Buguion, Calumpit, 3,296
+Bulusan, Calumpit, 2,564
+Calizon, Calumpit, 1,999
+Calumpang, Calumpit, 4,159
+Caniogan, Calumpit, 4,278
+Corazon, Calumpit, 2,458
+Frances, Calumpit, 5,770
+Gatbuca, Calumpit, 6,332
+Gugo, Calumpit, 1,770
+Iba Este, Calumpit, 2,754
+Iba O'Este, Calumpit, 12,359
+Longos, Calumpit, 3,444
+Meysulao, Calumpit, 4,109
+Meyto, Calumpit, 2,971
+Palimbang, Calumpit, 2,117
+Panducot, Calumpit, 2,501
+Pio Cruzcosa, Calumpit, 4,336
+Poblacion, Calumpit, 1,909
+Pungo, Calumpit, 8,347
+San Jose, Calumpit, 5,437
+San Marcos, Calumpit, 2,255
+San Miguel, Calumpit, 4,998
+Santa Lucia, Calumpit, 2,206
+Santo Niño, Calumpit, 1,955
+Sapang Bayan, Calumpit, 2,762
+Sergio Bayan, Calumpit, 1,967
+Sucol, Calumpit, 1,444
+Bayabas, Doña Remedios Trinidad, 1,575
+Camachile, Doña Remedios Trinidad, 4,166
+Camachin, Doña Remedios Trinidad, 1,043
+Kabayunan, Doña Remedios Trinidad, 1,745
+Kalawakan, Doña Remedios Trinidad, 6,909
+Pulong Sampalok, Doña Remedios Trinidad, 2,859
+Sapang Bulak, Doña Remedios Trinidad, 2,620
+Talbak, Doña Remedios Trinidad, 1,746
+Cutcut, Guiguinto, 2,940
+Daungan, Guiguinto, 1,800
+Ilang‑Ilang, Guiguinto, 5,628
+Malis, Guiguinto, 16,223
+Panginay, Guiguinto, 1,528
+Poblacion, Guiguinto, 4,099
+Pritil, Guiguinto, 5,172
+Pulong Gubat, Guiguinto, 1,879
+Santa Cruz, Guiguinto, 12,216
+Santa Rita, Guiguinto, 13,687
+Tabang, Guiguinto, 8,832
+Tabe, Guiguinto, 8,310
+Tiaong, Guiguinto, 7,640
+Tuktukan, Guiguinto, 9,776
+Abulalas, Hagonoy, 5,283
+Carillo, Hagonoy, 1,708
+Iba, Hagonoy, 5,321
+Iba‑Ibayo, Hagonoy, 2,564
+Mercado, Hagonoy, 7,114
+Palapat, Hagonoy, 2,364
+Pugad, Hagonoy, 1,907
+Sagrada Familia, Hagonoy, 6,569
+San Agustin, Hagonoy, 10,336
+San Isidro, Hagonoy, 8,102
+San Jose, Hagonoy, 4,646
+San Juan, Hagonoy, 3,542
+San Miguel, Hagonoy, 5,888
+San Nicolas, Hagonoy, 5,113
+San Pablo, Hagonoy, 3,346
+San Pascual, Hagonoy, 5,957
+San Pedro, Hagonoy, 5,042
+San Roque, Hagonoy, 4,908
+San Sebastian, Hagonoy, 8,193
+Santa Cruz, Hagonoy, 3,484
+Santa Elena, Hagonoy, 4,918
+Santa Monica, Hagonoy, 8,317
+Santo Niño (Poblacion), Hagonoy, 4,415
+Santo Rosario, Hagonoy, 5,251
+Tampok, Hagonoy, 2,635
+Tibaguin, Hagonoy, 2,884
+Anilao, Malolos, 3,078
+Atlag, Malolos, 5,294
+Babatnin, Malolos, 958
+Bagna, Malolos, 5,321
+Bagong Bayan, Malolos, 3,688
+Balayong, Malolos, 3,338
+Balite, Malolos, 2,813
+Bangkal, Malolos, 12,437
+Barihan, Malolos, 5,833
+Bulihan, Malolos, 13,510
+Bungahan, Malolos, 2,965
+Caingin, Malolos, 6,899
+Calero, Malolos, 1,281
+Caliligawan, Malolos, 302
+Canalate, Malolos, 4,124
+Caniogan, Malolos, 5,132
+Catmon, Malolos, 2,382
+Cofradia, Malolos, 3,937
+Dakila, Malolos, 5,352
+Guinhawa, Malolos, 4,086
+Ligas, Malolos, 6,624
+Liyang, Malolos, 1,661
+Longos, Malolos, 14,864
+Look 1st, Malolos, 6,808
+Look 2nd, Malolos, 3,108
+Lugam, Malolos, 4,711
+Mabolo, Malolos, 6,435
+Mambog, Malolos, 2,673
+Masile, Malolos, 832
+Matimbo, Malolos, 6,516
+Mojon, Malolos, 18,239
+Namayan, Malolos, 771
+Niugan, Malolos, 828
+Pamarawan, Malolos, 3,336
+Panasahan, Malolos, 8,818
+Pinagbakahan, Malolos, 6,087
+San Agustin, Malolos, 2,262
+San Gabriel, Malolos, 2,467
+San Juan, Malolos, 4,388
+San Pablo, Malolos, 5,240
+San Vicente (Poblacion), Malolos, 2,790
+Santiago, Malolos, 1,973
+Santisima Trinidad, Malolos, 6,524
+Santo Cristo, Malolos, 2,025
+Santo Niño (Poblacion), Malolos, 561
+Santo Rosario (Poblacion), Malolos, 7,633
+Santol, Malolos, 8,646
+Sumapang Bata, Malolos, 2,645
+Sumapang Matanda, Malolos, 7,554
+Taal, Malolos, 2,231
+Tikay, Malolos, 10,094
+Abangan Norte, Marilao, 9,424
+Abangan Sur, Marilao, 9,625
+Ibayo, Marilao, 10,103
+Lambakin, Marilao, 42,821
+Lias, Marilao, 12,900
+Loma de Gato, Marilao, 57,569
+Nagbalon, Marilao, 4,015
+Patubig, Marilao, 7,501
+Poblacion I, Marilao, 1,826
+Poblacion II, Marilao, 5,475
+Prenza I, Marilao, 7,065
+Prenza II, Marilao, 11,229
+Santa Rosa I, Marilao, 10,793
+Santa Rosa II, Marilao, 9,648
+Saog, Marilao, 14,950
+Tabing Ilog, Marilao, 7,021
+Bagbaguin, Meycauayan, 7,760
+Bahay Pare, Meycauayan, 11,568
+Bancal, Meycauayan, 12,589
+Banga, Meycauayan, 2,913
+Bayugo, Meycauayan, 18,560
+Caingin, Meycauayan, 5,443
+Calvario, Meycauayan, 5,317
+Camalig, Meycauayan, 8,972
+Hulo, Meycauayan, 1,675
+Iba, Meycauayan, 8,032
+Langka, Meycauayan, 3,871
+Lawa, Meycauayan, 12,854
+Libtong, Meycauayan, 10,552
+Liputan, Meycauayan, 1,584
+Longos, Meycauayan, 3,412
+Malhacan, Meycauayan, 22,205
+Pajo, Meycauayan, 6,166
+Pandayan, Meycauayan, 15,264
+Pantoc, Meycauayan, 11,804
+Perez, Meycauayan, 17,251
+Poblacion, Meycauayan, 348
+Saint Francis (Gasak), Meycauayan, 1,288
+Saluysoy, Meycauayan, 10,347
+Tugatog, Meycauayan, 4,407
+Ubihan, Meycauayan, 2,255
+Zamora, Meycauayan, 2,646
+Bangkal, Norzagaray, 1,419
+Baraka, Norzagaray, 523
+Bigte, Norzagaray, 12,118
+Bitungol, Norzagaray, 10,177
+Friendship Village Resources, Norzagaray, 14,690
+Matictic, Norzagaray, 12,025
+Minuyan, Norzagaray, 10,038
+Partida, Norzagaray, 5,422
+Pinagtulayan, Norzagaray, 1,996
+Poblacion, Norzagaray, 16,262
+San Lorenzo, Norzagaray, 1,990
+San Mateo, Norzagaray, 8,630
+Tigbe, Norzagaray, 16,058
+Binuangan, Obando, 5,218
+Catanghalan, Obando, 3,164
+Hulo, Obando, 2,503
+Lawa, Obando, 8,452
+Paco, Obando, 6,866
+Pag‑asa, Obando, 3,458
+Paliwas, Obando, 6,113
+Panghulo, Obando, 12,763
+Salambao, Obando, 1,575
+San Pascual, Obando, 7,228
+Tawiran, Obando, 1,857
+Bagbaguin, Pandi, 2,327
+Bagong Barrio, Pandi, 10,857
+Baka‑bakahan, Pandi, 848
+Bunsuran I, Pandi, 4,607
+Bunsuran II, Pandi, 3,404
+Bunsuran III, Pandi, 2,416
+Cacarong Bata, Pandi, 1,434
+Cacarong Matanda, Pandi, 6,193
+Cupang, Pandi, 2,719
+Malibong Bata, Pandi, 2,387
+Malibong Matanda, Pandi, 6,296
+Manatal, Pandi, 3,047
+Mapulang Lupa, Pandi, 8,775
+Masagana, Pandi, 2,496
+Masuso, Pandi, 3,240
+Pinagkuartelan, Pandi, 4,013
+Poblacion, Pandi, 7,764
+Real de Cacarong, Pandi, 3,421
+San Roque, Pandi, 2,676
+Santo Niño, Pandi, 1,601
+Siling Bata, Pandi, 4,875
+Siling Matanda, Pandi, 3,679
+Binakod, Paombong, 1,582
+Kapitangan, Paombong, 4,262
+Malumot, Paombong, 1,439
+Masukol, Paombong, 1,545
+Pinalagdan, Paombong, 3,163
+Poblacion, Paombong, 1,194
+San Isidro I, Paombong, 3,641
+San Isidro II, Paombong, 11,177
+San Jose, Paombong, 5,211
+San Roque, Paombong, 4,847
+San Vicente, Paombong, 2,811
+Santa Cruz, Paombong, 1,611
+Santo Niño, Paombong, 3,640
+Santo Rosario, Paombong, 7,171
+Agnaya, Plaridel, 2,585
+Bagong Silang, Plaridel, 3,322
+Banga I, Plaridel, 7,030
+Banga II, Plaridel, 9,036
+Bintog, Plaridel, 4,122
+Bulihan, Plaridel, 5,721
+Culianin, Plaridel, 4,130
+Dampol, Plaridel, 3,183
+Lagundi, Plaridel, 4,243
+Lalangan, Plaridel, 2,077
+Lumang Bayan, Plaridel, 5,361
+Parulan, Plaridel, 7,590
+Poblacion, Plaridel, 3,901
+Rueda, Plaridel, 1,803
+San Jose, Plaridel, 4,448
+Santa Ines, Plaridel, 2,953
+Santo Niño, Plaridel, 10,761
+Sipat, Plaridel, 5,856
+Tabang, Plaridel, 19,683
+Balatong A, Pulilan, 1,656
+Balatong B, Pulilan, 3,691
+Cutcot, Pulilan, 7,152
+Dampol I, Pulilan, 6,028
+Dampol II‑A, Pulilan, 4,225
+Dampol II‑B, Pulilan, 4,706
+Dulong Malabon, Pulilan, 3,926
+Inaon, Pulilan, 8,037
+Longos, Pulilan, 5,426
+Lumbac, Pulilan, 4,073
+Paltao, Pulilan, 6,543
+Penabatan, Pulilan, 1,996
+Poblacion, Pulilan, 12,227
+Santa Peregrina, Pulilan, 1,553
+Santo Cristo, Pulilan, 6,831
+Taal, Pulilan, 6,774
+Tabon, Pulilan, 4,355
+Tibag, Pulilan, 4,235
+Tinejero, Pulilan, 3,889
+Akle, San Ildefonso, 4,330
+Alagao, San Ildefonso, 3,506
+Anyatam, San Ildefonso, 4,169
+Bagong Barrio, San Ildefonso, 2,150
+Basuit, San Ildefonso, 2,068
+Bubulong Malaki, San Ildefonso, 2,069
+Bubulong Munti, San Ildefonso, 2,245
+Buhol na Mangga, San Ildefonso, 1,402
+Bulusukan, San Ildefonso, 1,948
+Calasag, San Ildefonso, 3,578
+Calawitan, San Ildefonso, 3,435
+Casalat, San Ildefonso, 1,811
+Gabihan, San Ildefonso, 3,393
+Garlang, San Ildefonso, 1,183
+Lapnit, San Ildefonso, 3,134
+Maasim, San Ildefonso, 3,774
+Makapilapil, San Ildefonso, 2,234
+Malipampang, San Ildefonso, 5,897
+Mataas na Parang, San Ildefonso, 2,460
+Matimbubong, San Ildefonso, 2,583
+Nabaong Garlang, San Ildefonso, 1,914
+Palapala, San Ildefonso, 6,087
+Pasong Bangkal, San Ildefonso, 839
+Pinaod, San Ildefonso, 7,283
+Poblacion, San Ildefonso, 4,080
+Pulong Tamo, San Ildefonso, 1,987
+San Juan, San Ildefonso, 5,149
+Santa Catalina Bata, San Ildefonso, 1,502
+Santa Catalina Matanda, San Ildefonso, 2,620
+Sapang Dayap, San Ildefonso, 1,483
+Sapang Putik, San Ildefonso, 3,946
+Sapang Putol, San Ildefonso, 1,988
+Sumandig, San Ildefonso, 2,257
+Telepatio, San Ildefonso, 1,020
+Umpucan, San Ildefonso, 2,423
+Upig, San Ildefonso, 2,524
+Assumption, San Jose del Monte, 4,460
+Bagong Buhay, San Jose del Monte, 7,258
+Bagong Buhay II, San Jose del Monte, 4,301
+Bagong Buhay III, San Jose del Monte, 5,854
+Citrus, San Jose del Monte, 20,937
+Ciudad Real, San Jose del Monte, 2,519
+Dulong Bayan, San Jose del Monte, 8,806
+Fatima, San Jose del Monte, 3,085
+Fatima II, San Jose del Monte, 1,855
+Fatima III, San Jose del Monte, 1,922
+Fatima IV, San Jose del Monte, 2,243
+Fatima V, San Jose del Monte, 2,519
+Francisco Homes‑Guijo, San Jose del Monte, 6,132
+Francisco Homes‑Mulawin, San Jose del Monte, 11,608
+Francisco Homes‑Narra, San Jose del Monte, 7,152
+Francisco Homes‑Yakal, San Jose del Monte, 3,327
+Gaya‑gaya, San Jose del Monte, 43,683
+Graceville, San Jose del Monte, 38,478
+Gumaoc Central, San Jose del Monte, 3,864
+Gumaoc East, San Jose del Monte, 5,352
+Gumaoc West, San Jose del Monte, 7,828
+Kaybanban, San Jose del Monte, 2,974
+Kaypian, San Jose del Monte, 38,407
+Lawang Pari, San Jose del Monte, 3,969
+Maharlika, San Jose del Monte, 3,282
+Minuyan, San Jose del Monte, 3,344
+Minuyan II, San Jose del Monte, 5,641
+Minuyan III, San Jose del Monte, 2,773
+Minuyan IV, San Jose del Monte, 5,191
+Minuyan Proper, San Jose del Monte, 38,846
+Minuyan V, San Jose del Monte, 2,478
+Muzon, San Jose del Monte, 106,603
+Paradise III, San Jose del Monte, 4,088
+Poblacion, San Jose del Monte, 2,161
+Poblacion I, San Jose del Monte, 4,445
+Saint Martin de Porres, San Jose del Monte, 2,326
+San Isidro, San Jose del Monte, 5,767
+San Manuel, San Jose del Monte, 11,452
+San Martin, San Jose del Monte, 3,897
+San Martin II, San Jose del Monte, 3,554
+San Martin III, San Jose del Monte, 3,163
+San Martin IV, San Jose del Monte, 3,830
+San Pedro, San Jose del Monte, 15,565
+San Rafael, San Jose del Monte, 8,053
+San Rafael I, San Jose del Monte, 3,249
+San Rafael III, San Jose del Monte, 3,031
+San Rafael IV, San Jose del Monte, 6,732
+San Rafael V, San Jose del Monte, 2,982
+San Roque, San Jose del Monte, 2,188
+Santa Cruz, San Jose del Monte, 4,613
+Santa Cruz II, San Jose del Monte, 3,110
+Santa Cruz III, San Jose del Monte, 2,829
+Santa Cruz IV, San Jose del Monte, 3,132
+Santa Cruz V, San Jose del Monte, 3,957
+Santo Cristo, San Jose del Monte, 39,039
+Santo Niño, San Jose del Monte, 2,770
+Santo Niño II, San Jose del Monte, 3,046
+Sapang Palay, San Jose del Monte, 5,563
+Tungkong Mangga, San Jose del Monte, 12,856
+Bagong Pag‑asa, San Miguel, 1,314
+Bagong Silang, San Miguel, 1,876
+Balaong, San Miguel, 2,670
+Balite, San Miguel, 2,598
+Bantog, San Miguel, 3,695
+Bardias, San Miguel, 1,636
+Baritan, San Miguel, 1,553
+Batasan Bata, San Miguel, 2,037
+Batasan Matanda, San Miguel, 3,003
+Biak‑na‑Bato, San Miguel, 1,737
+Biclat, San Miguel, 1,870
+Buga, San Miguel, 1,512
+Buliran, San Miguel, 4,862
+Bulualto, San Miguel, 2,873
+Calumpang, San Miguel, 3,980
+Cambio, San Miguel, 1,886
+Camias, San Miguel, 7,560
+Ilog‑Bulo, San Miguel, 1,604
+King Kabayo, San Miguel, 1,662
+Labne, San Miguel, 1,431
+Lambakin, San Miguel, 2,805
+Magmarale, San Miguel, 2,163
+Malibay, San Miguel, 1,935
+Maligaya, San Miguel, 2,092
+Mandile, San Miguel, 1,878
+Masalipit, San Miguel, 2,883
+Pacalag, San Miguel, 1,165
+Paliwasan, San Miguel, 2,849
+Partida, San Miguel, 3,205
+Pinambaran, San Miguel, 3,860
+Poblacion, San Miguel, 3,127
+Pulong Bayabas, San Miguel, 2,030
+Pulong Duhat, San Miguel, 1,389
+Sacdalan, San Miguel, 2,216
+Salacot, San Miguel, 3,127
+Salangan, San Miguel, 5,056
+San Agustin, San Miguel, 3,755
+San Jose, San Miguel, 4,951
+San Juan, San Miguel, 8,602
+San Vicente, San Miguel, 2,860
+Santa Ines, San Miguel, 6,000
+Santa Lucia, San Miguel, 3,335
+Santa Rita Bata, San Miguel, 2,945
+Santa Rita Matanda, San Miguel, 2,829
+Sapang, San Miguel, 1,632
+Sibul, San Miguel, 10,161
+Tartaro, San Miguel, 6,001
+Tibagan, San Miguel, 3,678
+Tigpalas, San Miguel, 3,994
+Banca‑banca, San Rafael, 1,174
+BMA‑Balagtas, San Rafael, 1,515
+Caingin, San Rafael, 10,262
+Capihan, San Rafael, 6,423
+Coral na Bato, San Rafael, 1,500
+Cruz na Daan, San Rafael, 1,372
+Dagat‑dagatan, San Rafael, 1,347
+Diliman I, San Rafael, 3,340
+Diliman II, San Rafael, 850
+Libis, San Rafael, 2,228
+Lico, San Rafael, 2,023
+Maasim, San Rafael, 1,346
+Mabalas‑balas, San Rafael, 3,667
+Maguinao, San Rafael, 4,123
+Maronguillo, San Rafael, 3,284
+Paco, San Rafael, 1,101
+Pansumaloc, San Rafael, 997
+Pantubig, San Rafael, 3,750
+Pasong Bangkal, San Rafael, 955
+Pasong Callos, San Rafael, 818
+Pasong Intsik, San Rafael, 1,459
+Pinacpinacan, San Rafael, 1,815
+Poblacion, San Rafael, 1,636
+Pulo, San Rafael, 3,488
+Pulong Bayabas, San Rafael, 1,071
+Salapungan, San Rafael, 2,058
+Sampaloc, San Rafael, 4,009
+San Agustin, San Rafael, 1,486
+San Roque, San Rafael, 8,233
+Sapang Pahalang, San Rafael, 822
+Talacsan, San Rafael, 3,659
+Tambubong, San Rafael, 7,810
+Tukod, San Rafael, 2,381
+Ulingao, San Rafael, 2,653
+Bagbaguin, Santa Maria, 8,912
+Balasing, Santa Maria, 7,900
+Buenavista, Santa Maria, 2,436
+Bulac, Santa Maria, 9,225
+Camangyanan, Santa Maria, 5,388
+Catmon, Santa Maria, 13,334
+Cay Pombo, Santa Maria, 28,947
+Caysio, Santa Maria, 14,365
+Guyong, Santa Maria, 14,749
+Lalakhan, Santa Maria, 2,337
+Mag‑asawang Sapa, Santa Maria, 9,373
+Mahabang Parang, Santa Maria, 4,361
+Manggahan, Santa Maria, 2,398
+Parada, Santa Maria, 8,448
+Poblacion, Santa Maria, 12,876
+Pulong Buhangin, Santa Maria, 36,893
+San Gabriel, Santa Maria, 8,465
+San Jose Patag, Santa Maria, 11,282
+San Vicente, Santa Maria, 16,871
+Santa Clara, Santa Maria, 12,115
+Santa Cruz, Santa Maria, 9,211
+Silangan, Santa Maria, 2,028
+Tabing Bakod, Santa Maria, 5,716
+Tumana, Santa Maria, 8,824
