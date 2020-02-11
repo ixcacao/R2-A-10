@@ -1,0 +1,230 @@
+Bancal, Botolan, 1,142
+Bangan, Botolan, 1,327
+Batonlapoc, Botolan, 1,092
+Belbel, Botolan, 372
+Beneg, Botolan, 1,575
+Binuclutan, Botolan, 1,126
+Burgos, Botolan, 650
+Cabatuan, Botolan, 507
+Capayawan, Botolan, 1,010
+Carael, Botolan, 2,057
+Danacbunga, Botolan, 2,970
+Maguisguis, Botolan, 664
+Malomboy, Botolan, 276
+Mambog, Botolan, 4,145
+Moraza, Botolan, 501
+Nacolcol, Botolan, 776
+Owaog‑Nibloc, Botolan, 479
+Paco (Poblacion), Botolan, 1,598
+Palis, Botolan, 409
+Panan, Botolan, 2,728
+Parel, Botolan, 1,091
+Paudpod, Botolan, 860
+Poonbato, Botolan, 998
+Porac, Botolan, 3,306
+San Isidro, Botolan, 1,533
+San Juan, Botolan, 7,002
+San Miguel, Botolan, 1,355
+Santiago, Botolan, 2,025
+Tampo (Poblacion), Botolan, 1,733
+Taugtog, Botolan, 11,393
+Villar, Botolan, 1,007
+Anonang, Cabangan, 890
+Apo‑apo, Cabangan, 658
+Arew, Cabangan, 1,049
+Banuambayo (Poblacion), Cabangan, 275
+Cadmang‑Reserva, Cabangan, 2,005
+Camiling (Camiing), Cabangan, 1,582
+Casabaan, Cabangan, 604
+Del Carmen (Poblacion), Cabangan, 392
+Dolores (Poblacion), Cabangan, 1,219
+Felmida‑Diaz, Cabangan, 499
+Laoag, Cabangan, 1,224
+Lomboy, Cabangan, 641
+Longos, Cabangan, 1,052
+Mabanglit, Cabangan, 1,991
+New San Juan, Cabangan, 1,533
+San Antonio, Cabangan, 742
+San Isidro, Cabangan, 2,180
+San Juan (Poblacion), Cabangan, 1,655
+San Rafael, Cabangan, 932
+Santa Rita, Cabangan, 1,944
+Santo Niño, Cabangan, 996
+Tondo, Cabangan, 1,100
+Babancal, Candelaria, 1,769
+Binabalian, Candelaria, 1,951
+Catol, Candelaria, 1,344
+Dampay, Candelaria, 927
+Lauis, Candelaria, 1,894
+Libertador, Candelaria, 1,360
+Malabon (San Roque), Candelaria, 2,627
+Malimanga, Candelaria, 1,148
+Pamibian, Candelaria, 1,316
+Panayonan, Candelaria, 1,067
+Pinagrealan, Candelaria, 1,183
+Poblacion, Candelaria, 1,093
+Sinabacan, Candelaria, 3,563
+Taposo, Candelaria, 1,088
+Uacon, Candelaria, 3,471
+Yamot, Candelaria, 1,373
+Balaybay, Castillejos, 11,064
+Buenavista, Castillejos, 850
+Del Pilar, Castillejos, 9,115
+Looc, Castillejos, 1,954
+Magsaysay, Castillejos, 3,466
+Nagbayan, Castillejos, 2,978
+Nagbunga, Castillejos, 6,202
+San Agustin, Castillejos, 4,545
+San Jose (Poblacion), Castillejos, 3,589
+San Juan (Poblacion), Castillejos, 991
+San Nicolas, Castillejos, 4,893
+San Pablo (Poblacion), Castillejos, 11,579
+San Roque, Castillejos, 1,571
+Santa Maria, Castillejos, 2,044
+Amungan, Iba, 9,017
+Bangantalinga, Iba, 4,759
+Dirita‑Baloguen, Iba, 3,162
+Lipay‑Dingin‑Panibuatan, Iba, 2,987
+Palanginan (Palanguinan-Tambak), Iba, 10,413
+San Agustin, Iba, 5,609
+Santa Barbara, Iba, 4,345
+Santo Rosario, Iba, 3,979
+Zone 1 Poblacion (Libaba), Iba, 2,136
+Zone 2 Poblacion (Aypa), Iba, 860
+Zone 3 Poblacion (Botlay), Iba, 415
+Zone 4 Poblacion (Sagapan), Iba, 523
+Zone 5 Poblacion (Bano), Iba, 1,611
+Zone 6 Poblacion (Baytan), Iba, 690
+Baloganon, Masinloc, 6,783
+Bamban, Masinloc, 2,429
+Bani, Masinloc, 3,972
+Collat, Masinloc, 2,781
+Inhobol, Masinloc, 8,409
+North Poblacion, Masinloc, 1,681
+San Lorenzo, Masinloc, 3,151
+San Salvador, Masinloc, 2,214
+Santa Rita, Masinloc, 2,840
+Santo Rosario, Masinloc, 2,102
+South Poblacion, Masinloc, 4,112
+Taltal, Masinloc, 4,541
+Tapuac, Masinloc, 2,704
+Alwa, Palauig, 672
+Bato, Palauig, 1,912
+Bulawen, Palauig, 4,939
+Cauyan, Palauig, 1,081
+East Poblacion, Palauig, 1,641
+Garreta, Palauig, 1,369
+Libaba, Palauig, 740
+Liozon, Palauig, 3,435
+Lipay, Palauig, 2,707
+Locloc, Palauig, 1,597
+Macarang, Palauig, 1,545
+Magalawa, Palauig, 373
+Pangolingan, Palauig, 1,791
+Salaza, Palauig, 4,126
+San Juan, Palauig, 1,209
+Santo Niño, Palauig, 1,739
+Santo Tomas, Palauig, 1,384
+Tition (San Vicente), Palauig, 1,586
+West Poblacion, Palauig, 1,101
+Angeles, San Antonio, 1,854
+Antipolo (Poblacion), San Antonio, 1,765
+Burgos (Poblacion), San Antonio, 5,215
+East Dirita, San Antonio, 3,573
+Luna (Poblacion), San Antonio, 2,792
+Pundaquit, San Antonio, 2,878
+Rizal, San Antonio, 568
+San Esteban, San Antonio, 1,525
+San Gregorio (Poblacion), San Antonio, 931
+San Juan (Poblacion), San Antonio, 1,645
+San Miguel, San Antonio, 4,322
+San Nicolas (Poblacion), San Antonio, 2,933
+Santiago, San Antonio, 1,513
+West Dirita, San Antonio, 3,147
+Amagna (Poblacion), San Felipe, 1,259
+Apostol (Poblacion), San Felipe, 1,832
+Balincaguing, San Felipe, 1,027
+Farañal (Poblacion), San Felipe, 1,672
+Feria (Poblacion), San Felipe, 974
+Maloma, San Felipe, 5,290
+Manglicmot (Poblacion), San Felipe, 1,723
+Rosete (Poblacion), San Felipe, 1,520
+San Rafael, San Felipe, 1,296
+Santo Niño, San Felipe, 4,307
+Sindol, San Felipe, 2,283
+Aglao, San Marcelino, 1,939
+Buhawen, San Marcelino, 2,803
+Burgos (Poblacion), San Marcelino, 2,060
+Central (Poblacion), San Marcelino, 761
+Consuelo Norte, San Marcelino, 2,013
+Consuelo Sur (Poblacion), San Marcelino, 1,931
+La Paz (Poblacion), San Marcelino, 1,236
+Laoag, San Marcelino, 2,900
+Linasin, San Marcelino, 2,544
+Linusungan, San Marcelino, 1,654
+Lucero (Poblacion), San Marcelino, 1,617
+Nagbunga, San Marcelino, 2,129
+Rabanes, San Marcelino, 2,035
+Rizal (Poblacion), San Marcelino, 910
+San Guillermo (Poblacion), San Marcelino, 883
+San Isidro (Poblacion), San Marcelino, 1,931
+San Rafael, San Marcelino, 2,480
+Santa Fe, San Marcelino, 1,839
+Alusiis, San Narciso, 1,450
+Beddeng, San Narciso, 3,293
+Candelaria (Poblacion), San Narciso, 831
+Dallipawen, San Narciso, 1,061
+Grullo, San Narciso, 1,749
+La Paz, San Narciso, 3,836
+Libertad (Poblacion), San Narciso, 489
+Namatacan, San Narciso, 1,808
+Natividad (Poblacion), San Narciso, 3,278
+Omaya, San Narciso, 610
+Paite, San Narciso, 653
+Patrocinio (Poblacion), San Narciso, 2,291
+San Jose (Poblacion), San Narciso, 542
+San Juan (Poblacion), San Narciso, 1,476
+San Pascual (Poblacion), San Narciso, 1,874
+San Rafael (Poblacion), San Narciso, 1,297
+Siminublan, San Narciso, 1,822
+Babuyan, Santa Cruz, 523
+Bangcol, Santa Cruz, 925
+Bayto, Santa Cruz, 3,925
+Biay, Santa Cruz, 2,379
+Bolitoc, Santa Cruz, 3,375
+Bulawon, Santa Cruz, 1,244
+Canaynayan, Santa Cruz, 1,225
+Gama, Santa Cruz, 2,025
+Guinabon, Santa Cruz, 1,351
+Guisguis, Santa Cruz, 3,356
+Lipay, Santa Cruz, 6,190
+Lomboy, Santa Cruz, 1,553
+Lucapon North, Santa Cruz, 2,521
+Lucapon South, Santa Cruz, 3,941
+Malabago, Santa Cruz, 2,299
+Naulo, Santa Cruz, 2,021
+Pagatpat, Santa Cruz, 3,101
+Pamonoran, Santa Cruz, 1,193
+Poblacion North, Santa Cruz, 3,033
+Poblacion South, Santa Cruz, 3,437
+Sabang, Santa Cruz, 1,138
+San Fernando, Santa Cruz, 2,227
+Tabalong, Santa Cruz, 593
+Tubotubo North, Santa Cruz, 2,514
+Tubotubo South, Santa Cruz, 2,062
+Aningway Sacatihan, Subic, 5,357
+Asinan Poblacion, Subic, 1,212
+Asinan Proper, Subic, 7,855
+Baraca‑Camachile (Poblacion), Subic, 3,596
+Batiawan, Subic, 1,310
+Calapacuan, Subic, 14,307
+Calapandayan (Poblacion), Subic, 9,684
+Cawag, Subic, 15,956
+Ilwas (Poblacion), Subic, 3,226
+Mangan‑Vaca, Subic, 11,557
+Matain, Subic, 8,275
+Naugsol, Subic, 2,704
+Pamatawan, Subic, 4,292
+San Isidro, Subic, 7,869
+Santo Tomas, Subic, 5,481
+Wawandue (Poblacion), Subic, 2,090

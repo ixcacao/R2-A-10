@@ -1,0 +1,309 @@
+Amaga, Barobo, 2,783
+Bahi, Barobo, 1,961
+Cabacungan, Barobo, 1,549
+Cambagang, Barobo, 2,292
+Causwagan, Barobo, 589
+Dapdap, Barobo, 1,473
+Dughan, Barobo, 1,177
+Gamut, Barobo, 3,203
+Javier, Barobo, 3,703
+Kinayan, Barobo, 1,142
+Mamis, Barobo, 497
+Poblacion, Barobo, 13,267
+Rizal, Barobo, 1,725
+San Jose, Barobo, 1,214
+San Roque, Barobo, 807
+San Vicente, Barobo, 1,160
+Sua, Barobo, 841
+Sudlon, Barobo, 358
+Tambis, Barobo, 6,928
+Unidad, Barobo, 965
+Wakat, Barobo, 2,096
+Amag, Bayabas, 1,397
+Balete (Poblacion), Bayabas, 781
+Cabugo, Bayabas, 411
+Cagbaoto, Bayabas, 828
+La Paz, Bayabas, 2,171
+Magobawok, Bayabas, 1,133
+Panaosawon, Bayabas, 1,443
+Bucto, Bislig, 670
+Burboanan, Bislig, 1,595
+Caguyao, Bislig, 763
+Coleto, Bislig, 1,190
+Comawas, Bislig, 3,472
+Kahayag, Bislig, 1,162
+Labisma, Bislig, 2,394
+Lawigan, Bislig, 1,140
+Maharlika, Bislig, 2,853
+Mangagoy, Bislig, 32,464
+Mone, Bislig, 1,538
+Pamanlinan, Bislig, 784
+Pamaypayan, Bislig, 1,448
+Poblacion, Bislig, 9,477
+San Antonio, Bislig, 1,186
+San Fernando, Bislig, 2,371
+San Isidro (Bagnan), Bislig, 1,837
+San Jose, Bislig, 4,108
+San Roque (Cadanglasan), Bislig, 6,040
+San Vicente, Bislig, 2,490
+Santa Cruz, Bislig, 928
+Sibaroy, Bislig, 759
+Tabon, Bislig, 13,015
+Tumanan, Bislig, 851
+Aras‑Asan, Cagwait, 4,595
+Bacolod, Cagwait, 2,070
+Bitaugan East, Cagwait, 840
+Bitaugan West, Cagwait, 1,536
+La Purisima (Palhe), Cagwait, 1,319
+Lactudan, Cagwait, 783
+Mat‑e, Cagwait, 648
+Poblacion, Cagwait, 1,683
+Tawagan, Cagwait, 500
+Tubo‑tubo, Cagwait, 2,644
+Unidad, Cagwait, 3,766
+Bugsukan, Cantilan, 637
+Buntalid, Cantilan, 1,240
+Cabangahan, Cantilan, 1,194
+Cabas‑an, Cantilan, 1,159
+Calagdaan, Cantilan, 1,980
+Consuelo, Cantilan, 1,379
+General Island, Cantilan, 877
+Lininti‑an (Poblacion), Cantilan, 4,335
+Lobo, Cantilan, 595
+Magasang, Cantilan, 1,322
+Magosilom (Poblacion), Cantilan, 4,820
+Pag‑antayan, Cantilan, 2,205
+Palasao, Cantilan, 1,326
+Parang, Cantilan, 4,038
+San Pedro, Cantilan, 2,853
+Tapi, Cantilan, 592
+Tigabong, Cantilan, 940
+Antao, Carmen, 1,101
+Cancavan, Carmen, 451
+Carmen (Poblacion), Carmen, 2,913
+Esperanza, Carmen, 732
+Hinapoyan, Carmen, 2,176
+Puyat, Carmen, 1,318
+San Vicente, Carmen, 670
+Santa Cruz, Carmen, 986
+Adlay, Carrascal, 6,332
+Babuyan, Carrascal, 721
+Bacolod, Carrascal, 1,018
+Baybay (Poblacion), Carrascal, 1,527
+Bon‑ot, Carrascal, 1,862
+Caglayag, Carrascal, 382
+Dahican, Carrascal, 866
+Doyos (Poblacion), Carrascal, 1,725
+Embarcadero (Poblacion), Carrascal, 645
+Gamuton, Carrascal, 2,171
+Panikian, Carrascal, 2,910
+Pantukan, Carrascal, 737
+Saca (Poblacion), Carrascal, 1,100
+Tag‑Anito, Carrascal, 483
+Balibadon, Cortes, 844
+Burgos, Cortes, 3,299
+Capandan, Cortes, 336
+Mabahin, Cortes, 2,564
+Madrelino, Cortes, 587
+Manlico, Cortes, 481
+Matho, Cortes, 1,124
+Poblacion, Cortes, 2,747
+Tag‑Anongan, Cortes, 736
+Tigao, Cortes, 2,164
+Tuboran, Cortes, 263
+Uba, Cortes, 767
+Baculin, Hinatuan, 1,302
+Benigno Aquino (Zone I Poblacion), Hinatuan, 1,841
+Bigaan, Hinatuan, 2,995
+Cambatong, Hinatuan, 2,003
+Campa, Hinatuan, 524
+Dugmanon, Hinatuan, 1,414
+Harip, Hinatuan, 378
+La Casa (Poblacion), Hinatuan, 5,115
+Loyola, Hinatuan, 2,641
+Maligaya, Hinatuan, 538
+Pagtigni‑an (Bitoon), Hinatuan, 1,687
+Pocto, Hinatuan, 1,031
+Port Lamon, Hinatuan, 1,460
+Roxas, Hinatuan, 1,023
+San Juan, Hinatuan, 1,226
+Sasa, Hinatuan, 886
+Tagasaka, Hinatuan, 2,264
+Tagbobonga, Hinatuan, 557
+Talisay, Hinatuan, 1,588
+Tarusan, Hinatuan, 660
+Tidman, Hinatuan, 3,060
+Tiwi, Hinatuan, 562
+Zone II (Poblacion), Hinatuan, 3,207
+Zone III Maharlika (Poblacion), Hinatuan, 1,880
+Agsam, Lanuza, 2,094
+Bocawe, Lanuza, 747
+Bunga, Lanuza, 1,264
+Gamuton, Lanuza, 1,105
+Habag, Lanuza, 820
+Mampi, Lanuza, 625
+Nurcia, Lanuza, 1,115
+Pakwan, Lanuza, 1,042
+Sibahay, Lanuza, 1,086
+Zone I (Poblacion), Lanuza, 464
+Zone II (Poblacion), Lanuza, 319
+Zone III (Poblacion), Lanuza, 802
+Zone IV (Poblacion), Lanuza, 518
+Anibongan, Lianga, 1,188
+Banahao, Lianga, 2,298
+Ban‑as, Lianga, 1,618
+Baucawe, Lianga, 1,280
+Diatagon, Lianga, 6,198
+Ganayon, Lianga, 1,068
+Liatimco, Lianga, 1,921
+Manyayay, Lianga, 2,265
+Payasan, Lianga, 1,991
+Poblacion, Lianga, 4,574
+Saint Christine, Lianga, 2,707
+San Isidro, Lianga, 1,156
+San Pedro, Lianga, 1,229
+Anibongan, Lingig, 766
+Barcelona, Lingig, 3,497
+Bogak, Lingig, 1,528
+Bongan, Lingig, 807
+Handamayan, Lingig, 502
+Mahayahay, Lingig, 2,016
+Mandus, Lingig, 1,834
+Mansa‑ilao, Lingig, 481
+Pagtila‑an, Lingig, 2,118
+Palo Alto, Lingig, 839
+Poblacion, Lingig, 6,778
+Rajah Cabungso‑an, Lingig, 2,251
+Sabang, Lingig, 2,208
+Salvacion, Lingig, 449
+San Roque, Lingig, 1,356
+Tagpoporan, Lingig, 1,598
+Union, Lingig, 1,381
+Valencia, Lingig, 1,076
+Bagsac, Madrid, 495
+Bayogo, Madrid, 878
+Linibonan, Madrid, 1,592
+Magsaysay, Madrid, 1,194
+Manga, Madrid, 759
+Panayogon, Madrid, 736
+Patong Patong, Madrid, 1,213
+Quirino (Poblacion), Madrid, 3,139
+San Antonio, Madrid, 819
+San Juan, Madrid, 1,305
+San Roque, Madrid, 562
+San Vicente, Madrid, 667
+Songkit, Madrid, 516
+Union, Madrid, 1,348
+Alegria, Marihatag, 774
+Amontay, Marihatag, 956
+Antipolo, Marihatag, 1,568
+Arorogan, Marihatag, 1,354
+Bayan, Marihatag, 2,180
+Mahaba, Marihatag, 1,415
+Mararag, Marihatag, 2,252
+Poblacion, Marihatag, 3,710
+San Antonio, Marihatag, 149
+San Isidro, Marihatag, 2,018
+San Pedro, Marihatag, 916
+Santa Cruz, Marihatag, 1,226
+Bretania, San Agustin, 966
+Buatong, San Agustin, 1,837
+Buhisan, San Agustin, 1,290
+Gata, San Agustin, 2,627
+Hornasan, San Agustin, 3,329
+Janipaan, San Agustin, 1,032
+Kauswagan, San Agustin, 1,805
+Oteiza, San Agustin, 1,873
+Poblacion, San Agustin, 1,151
+Pong‑on, San Agustin, 744
+Pongtod, San Agustin, 1,462
+Salvacion, San Agustin, 2,493
+Santo Niño, San Agustin, 2,170
+Bagyang, San Miguel, 1,181
+Baras, San Miguel, 1,472
+Bitaugan, San Miguel, 1,338
+Bolhoon, San Miguel, 4,666
+Calatngan, San Miguel, 1,148
+Carromata, San Miguel, 2,874
+Castillo, San Miguel, 1,326
+Libas Gua, San Miguel, 1,418
+Libas Sud, San Miguel, 2,717
+Magroyong, San Miguel, 1,940
+Mahayag (Maitum), San Miguel, 1,641
+Patong, San Miguel, 1,495
+Poblacion, San Miguel, 3,658
+Sagbayan, San Miguel, 2,586
+San Roque, San Miguel, 3,490
+Siagao, San Miguel, 1,726
+Tina, San Miguel, 3,594
+Umalag, San Miguel, 1,070
+Batunan, Tagbina, 839
+Carpenito, Tagbina, 1,306
+Doña Carmen, Tagbina, 2,841
+Hinagdanan, Tagbina, 975
+Kahayagan, Tagbina, 1,530
+Lago, Tagbina, 731
+Maglambing, Tagbina, 1,489
+Maglatab, Tagbina, 1,060
+Magsaysay, Tagbina, 922
+Malixi, Tagbina, 1,422
+Manambia, Tagbina, 960
+Osmeña, Tagbina, 1,299
+Poblacion, Tagbina, 6,067
+Quezon, Tagbina, 2,255
+San Vicente, Tagbina, 1,234
+Santa Cruz, Tagbina, 791
+Santa Fe, Tagbina, 541
+Santa Juana, Tagbina, 2,578
+Santa Maria, Tagbina, 2,014
+Sayon, Tagbina, 534
+Soriano, Tagbina, 1,371
+Tagongon, Tagbina, 2,287
+Trinidad, Tagbina, 508
+Ugoban, Tagbina, 1,158
+Villaverde, Tagbina, 2,121
+Alba, Tago, 1,686
+Anahao Bag‑o, Tago, 1,070
+Anahao Daan, Tago, 1,927
+Badong, Tago, 1,137
+Bajao, Tago, 1,039
+Bangsud, Tago, 884
+Cabangahan, Tago, 1,447
+Cagdapao, Tago, 1,013
+Camagong, Tago, 818
+Caras‑an, Tago, 1,163
+Cayale, Tago, 1,184
+Dayo‑an, Tago, 1,499
+Gamut, Tago, 2,398
+Jubang, Tago, 848
+Kinabigtasan, Tago, 1,221
+Layog, Tago, 910
+Lindoy, Tago, 836
+Mercedes, Tago, 403
+Purisima (Poblacion), Tago, 6,556
+Sumo‑sumo, Tago, 2,275
+Umbay, Tago, 449
+Unaban, Tago, 1,071
+Unidos, Tago, 1,242
+Victoria, Tago, 2,253
+Awasian, Tandag, 1,427
+Bagong Lungsod (Poblacion), Tandag, 5,493
+Bioto, Tandag, 1,186
+Bongtod Poblacion (East West), Tandag, 5,577
+Buenavista, Tandag, 2,687
+Dagocdoc (Poblacion), Tandag, 4,153
+Mabua, Tandag, 6,271
+Mabuhay, Tandag, 1,041
+Maitum, Tandag, 1,829
+Maticdum, Tandag, 823
+Pandanon, Tandag, 818
+Pangi, Tandag, 880
+Quezon, Tandag, 1,468
+Rosario, Tandag, 3,262
+Salvacion, Tandag, 893
+San Agustin Norte, Tandag, 2,135
+San Agustin Sur, Tandag, 5,485
+San Antonio, Tandag, 669
+San Isidro, Tandag, 786
+San Jose, Tandag, 710
+Telaje, Tandag, 8,771

@@ -1,0 +1,681 @@
+Acad, Aurora, 1,064
+Alang‑alang, Aurora, 695
+Alegria, Aurora, 355
+Anonang, Aurora, 1,854
+Bagong Mandaue, Aurora, 414
+Bagong Maslog, Aurora, 661
+Bagong Oslob, Aurora, 636
+Bagong Pitogo, Aurora, 388
+Baki, Aurora, 333
+Balas, Aurora, 1,746
+Balide, Aurora, 1,368
+Balintawak, Aurora, 1,520
+Bayabas, Aurora, 1,415
+Bemposa, Aurora, 544
+Cabilinan, Aurora, 982
+Campo Uno, Aurora, 1,468
+Ceboneg, Aurora, 370
+Commonwealth, Aurora, 1,006
+Gubaan, Aurora, 1,909
+Inasagan, Aurora, 817
+Inroad, Aurora, 442
+Kahayagan East (Katipunan), Aurora, 1,097
+Kahayagan West, Aurora, 815
+Kauswagan, Aurora, 650
+La Paz (Tinibtiban), Aurora, 735
+La Victoria, Aurora, 927
+Lantungan, Aurora, 1,698
+Libertad, Aurora, 1,964
+Lintugop, Aurora, 2,564
+Lubid, Aurora, 585
+Maguikay, Aurora, 681
+Mahayahay, Aurora, 764
+Monte Alegre, Aurora, 1,155
+Montela, Aurora, 734
+Napo, Aurora, 200
+Panaghiusa, Aurora, 473
+Poblacion, Aurora, 6,851
+Resthouse, Aurora, 588
+Romarate, Aurora, 1,544
+San Jose, Aurora, 3,306
+San Juan, Aurora, 613
+Sapa Loboc, Aurora, 1,310
+Tagulalo, Aurora, 856
+Waterfall, Aurora, 658
+Baking, Bayog, 329
+Balukbahan, Bayog, 1,304
+Balumbunan, Bayog, 737
+Bantal, Bayog, 575
+Bobuan, Bayog, 1,636
+Camp Blessing, Bayog, 459
+Canoayan, Bayog, 1,621
+Conacon, Bayog, 613
+Dagum, Bayog, 351
+Damit, Bayog, 2,085
+Datagan, Bayog, 909
+Depase, Bayog, 2,625
+Depili, Bayog, 859
+Depore, Bayog, 1,821
+Deporehan, Bayog, 706
+Dimalinao, Bayog, 782
+Kahayagan, Bayog, 3,889
+Kanipaan, Bayog, 681
+Lamare, Bayog, 977
+Liba, Bayog, 607
+Matin‑ao, Bayog, 798
+Matun‑og, Bayog, 451
+Pangi (San Isidro), Bayog, 532
+Poblacion, Bayog, 4,626
+Pulang Bato, Bayog, 812
+Salawagan, Bayog, 1,110
+Sigacad, Bayog, 1,158
+Supon, Bayog, 538
+Bacayawan, Dimataling, 1,591
+Baha, Dimataling, 407
+Balanagan, Dimataling, 1,095
+Baluno, Dimataling, 884
+Binuay, Dimataling, 1,913
+Buburay, Dimataling, 1,478
+Grap, Dimataling, 984
+Josefina, Dimataling, 693
+Kagawasan, Dimataling, 2,731
+Lalab, Dimataling, 579
+Libertad, Dimataling, 1,137
+Magahis, Dimataling, 347
+Mahayag, Dimataling, 915
+Mercedes, Dimataling, 433
+Poblacion, Dimataling, 4,347
+Saloagan, Dimataling, 2,367
+San Roque, Dimataling, 524
+Sugbay Uno, Dimataling, 1,134
+Sumbato, Dimataling, 768
+Sumpot, Dimataling, 1,785
+Tinggabulong, Dimataling, 1,377
+Tiniguangan, Dimataling, 1,514
+Tipangi, Dimataling, 659
+Upper Ludiong, Dimataling, 419
+Bacawan, Dinas, 647
+Benuatan, Dinas, 2,437
+Beray, Dinas, 629
+Don Jose, Dinas, 1,178
+Dongos, Dinas, 990
+East Migpulao, Dinas, 1,730
+Guinicolalay, Dinas, 2,283
+Ignacio Garrata (New Mirapao), Dinas, 1,320
+Kinacap, Dinas, 878
+Legarda 1, Dinas, 1,899
+Legarda 2, Dinas, 1,707
+Legarda 3, Dinas, 1,082
+Lower Dimaya, Dinas, 957
+Lucoban, Dinas, 782
+Ludiong, Dinas, 590
+Nangka, Dinas, 620
+Nian, Dinas, 1,103
+Old Mirapao, Dinas, 1,304
+Pisa‑an, Dinas, 589
+Poblacion, Dinas, 2,096
+Proper Dimaya, Dinas, 1,422
+Sagacad, Dinas, 1,776
+Sambulawan, Dinas, 1,151
+San Isidro, Dinas, 653
+Songayan, Dinas, 701
+Sumpotan, Dinas, 1,638
+Tarakan, Dinas, 1,251
+Upper Dimaya, Dinas, 428
+Upper Sibul, Dinas, 805
+West Migpulao, Dinas, 858
+Anonang, Dumalinao, 1,003
+Baga, Dumalinao, 1,069
+Bag‑ong Misamis, Dumalinao, 231
+Bag‑ong Silao, Dumalinao, 967
+Baloboan, Dumalinao, 631
+Banta‑ao, Dumalinao, 334
+Bibilik, Dumalinao, 1,506
+Calingayan, Dumalinao, 803
+Camalig, Dumalinao, 583
+Camanga, Dumalinao, 1,669
+Cuatro‑cuatro, Dumalinao, 442
+Locuban, Dumalinao, 1,077
+Malasik, Dumalinao, 656
+Mama (San Juan), Dumalinao, 958
+Matab‑ang, Dumalinao, 511
+Mecolong, Dumalinao, 1,212
+Metokong, Dumalinao, 703
+Motosawa, Dumalinao, 653
+Pag‑asa (Poblacion), Dumalinao, 864
+Paglaum (Poblacion), Dumalinao, 2,487
+Pantad, Dumalinao, 988
+Piniglibano, Dumalinao, 673
+Rebokon, Dumalinao, 3,210
+San Agustin, Dumalinao, 1,008
+Sibucao, Dumalinao, 1,481
+Sumadat, Dumalinao, 2,779
+Tikwas, Dumalinao, 1,538
+Tina, Dumalinao, 897
+Tubo‑Pait, Dumalinao, 554
+Upper Dumalinao, Dumalinao, 526
+Bagong Kauswagan, Dumingag, 336
+Bagong Silang, Dumingag, 369
+Bag‑ong Valencia, Dumingag, 758
+Bucayan, Dumingag, 599
+Calumanggi, Dumingag, 600
+Canibongan, Dumingag, 585
+Caridad, Dumingag, 1,819
+Danlugan, Dumingag, 802
+Dapiwak, Dumingag, 1,140
+Datu Totocan, Dumingag, 997
+Dilud, Dumingag, 982
+Ditulan, Dumingag, 1,106
+Dulian, Dumingag, 572
+Dulop, Dumingag, 2,555
+Guintananan, Dumingag, 704
+Guitran, Dumingag, 1,472
+Gumpingan, Dumingag, 398
+La Fortuna, Dumingag, 737
+Labangon, Dumingag, 1,330
+Libertad, Dumingag, 1,212
+Licabang, Dumingag, 1,136
+Lipawan, Dumingag, 682
+Lower Landing, Dumingag, 2,218
+Lower Timonan, Dumingag, 1,579
+Macasing, Dumingag, 576
+Mahayahay, Dumingag, 1,236
+Malagalad, Dumingag, 412
+Manlabay, Dumingag, 1,152
+Maralag, Dumingag, 1,895
+Marangan, Dumingag, 1,190
+New Basak, Dumingag, 1,198
+Saad, Dumingag, 944
+Salvador, Dumingag, 1,523
+San Juan, Dumingag, 275
+San Pablo (Poblacion), Dumingag, 2,239
+San Pedro (Poblacion), Dumingag, 4,241
+San Vicente, Dumingag, 383
+Senote, Dumingag, 742
+Sinonok, Dumingag, 729
+Sunop, Dumingag, 446
+Tagun, Dumingag, 425
+Tamurayan, Dumingag, 335
+Upper Landing, Dumingag, 1,602
+Upper Timonan, Dumingag, 1,254
+Bagong Oroquieta, Guipos, 1,632
+Baguitan, Guipos, 1,260
+Balongating, Guipos, 2,065
+Canunan, Guipos, 2,050
+Dacsol, Guipos, 383
+Dagohoy, Guipos, 706
+Dalapang, Guipos, 891
+Datagan, Guipos, 652
+Guling, Guipos, 1,717
+Katipunan, Guipos, 1,102
+Lintum, Guipos, 506
+Litan, Guipos, 515
+Magting, Guipos, 377
+Poblacion (Guipos), Guipos, 4,988
+Regla, Guipos, 874
+Sikatuna, Guipos, 341
+Singclot, Guipos, 670
+Bogo Calabat, Josefina, 1,170
+Dawa (Diwa), Josefina, 1,014
+Ebarle, Josefina, 507
+Gumahan (Poblacion), Josefina, 1,819
+Leonardo, Josefina, 825
+Litapan, Josefina, 799
+Lower Bagong Tudela, Josefina, 300
+Mansanas, Josefina, 930
+Moradji, Josefina, 520
+Nemeño, Josefina, 507
+Nopulan, Josefina, 1,020
+Sebukang, Josefina, 447
+Tagaytay Hill, Josefina, 241
+Upper Bagong Tudela (Poblacion), Josefina, 1,700
+Bogayo, Kumalarang, 1,341
+Bolisong, Kumalarang, 651
+Boyugan East, Kumalarang, 1,268
+Boyugan West, Kumalarang, 1,799
+Bualan, Kumalarang, 923
+Diplo, Kumalarang, 3,540
+Gawil, Kumalarang, 1,676
+Gusom, Kumalarang, 805
+Kitaan Dagat, Kumalarang, 372
+Lantawan, Kumalarang, 354
+Limamawan, Kumalarang, 304
+Mahayahay, Kumalarang, 776
+Pangi, Kumalarang, 718
+Picanan, Kumalarang, 3,886
+Poblacion, Kumalarang, 7,086
+Salagmanok, Kumalarang, 803
+Secade, Kumalarang, 1,244
+Suminalum, Kumalarang, 923
+Bagalupa, Labangan, 1,058
+Balimbingan (West Luya), Labangan, 1,809
+Binayan, Labangan, 978
+Bokong, Labangan, 1,653
+Bulanit, Labangan, 2,180
+Cogonan, Labangan, 1,790
+Combo, Labangan, 880
+Dalapang, Labangan, 2,110
+Dimasangca, Labangan, 849
+Dipaya, Labangan, 1,121
+Langapod, Labangan, 1,880
+Lantian, Labangan, 2,260
+Lower Campo Islam (Poblacion), Labangan, 1,417
+Lower Pulacan, Labangan, 1,683
+Lower Sang‑an, Labangan, 953
+New Labangan, Labangan, 2,241
+Noboran, Labangan, 1,280
+Old Labangan, Labangan, 996
+San Isidro, Labangan, 1,587
+Santa Cruz, Labangan, 1,310
+Tapodoc, Labangan, 1,920
+Tawagan Norte, Labangan, 2,841
+Upper Campo Islam (Poblacion), Labangan, 1,456
+Upper Pulacan, Labangan, 4,172
+Upper Sang‑an, Labangan, 1,366
+Bagong Kahayag, Lakewood, 1,884
+Baking, Lakewood, 1,493
+Biswangan, Lakewood, 1,713
+Bululawan, Lakewood, 1,265
+Dagum, Lakewood, 419
+Gasa, Lakewood, 545
+Gatub, Lakewood, 1,204
+Lukuan, Lakewood, 453
+Matalang, Lakewood, 678
+Poblacion (Lakewood), Lakewood, 5,135
+Sapang Pinoles, Lakewood, 693
+Sebuguey, Lakewood, 689
+Tiwales, Lakewood, 584
+Tubod, Lakewood, 3,619
+Bulawan, Lapuyan, 1,555
+Carpoc, Lapuyan, 1,571
+Danganan, Lapuyan, 773
+Dansal, Lapuyan, 827
+Dumara, Lapuyan, 433
+Linokmadalum, Lapuyan, 862
+Luanan, Lapuyan, 430
+Lubusan, Lapuyan, 1,099
+Mahalingeb, Lapuyan, 454
+Mandeg, Lapuyan, 496
+Maralag, Lapuyan, 574
+Maruing, Lapuyan, 2,286
+Molum, Lapuyan, 996
+Pampang, Lapuyan, 1,179
+Pantad, Lapuyan, 387
+Pingalay, Lapuyan, 861
+Poblacion, Lapuyan, 5,728
+Salambuyan, Lapuyan, 941
+San Jose, Lapuyan, 401
+Sayog, Lapuyan, 469
+Tabon, Lapuyan, 429
+Talabab, Lapuyan, 455
+Tiguha, Lapuyan, 2,061
+Tininghalang, Lapuyan, 906
+Tipasan, Lapuyan, 687
+Tugaya, Lapuyan, 404
+Bag‑ong Balamban, Mahayag, 1,609
+Bag‑ong Dalaguete, Mahayag, 480
+Boniao, Mahayag, 1,594
+Delusom, Mahayag, 1,516
+Diwan, Mahayag, 1,166
+Guripan, Mahayag, 1,465
+Kaangayan, Mahayag, 1,968
+Kabuhi, Mahayag, 1,513
+Lourmah (Lower Mahayag), Mahayag, 1,831
+Lower Salug Daku, Mahayag, 2,215
+Lower Santo Niño, Mahayag, 1,451
+Malubo, Mahayag, 841
+Manguiles, Mahayag, 1,409
+Marabanan (Balanan), Mahayag, 607
+Panagaan, Mahayag, 1,557
+Paraiso, Mahayag, 916
+Pedagan, Mahayag, 451
+Poblacion (Upper Mahayag), Mahayag, 6,908
+Pugwan, Mahayag, 1,012
+San Isidro, Mahayag, 3,134
+San Jose, Mahayag, 2,458
+San Vicente, Mahayag, 772
+Santa Cruz, Mahayag, 1,168
+Sicpao, Mahayag, 2,830
+Tuboran, Mahayag, 734
+Tulan, Mahayag, 474
+Tumapic, Mahayag, 1,198
+Upper Salug Daku, Mahayag, 1,149
+Upper Santo Niño, Mahayag, 2,090
+Balintawak, Margosatubig, 831
+Bularong, Margosatubig, 1,039
+Digon, Margosatubig, 1,388
+Guinimanan, Margosatubig, 892
+Igat Island, Margosatubig, 1,927
+Josefina, Margosatubig, 1,332
+Kalian, Margosatubig, 2,734
+Kolot, Margosatubig, 484
+Limabatong, Margosatubig, 1,559
+Limamawan, Margosatubig, 838
+Lumbog, Margosatubig, 2,327
+Magahis, Margosatubig, 683
+Poblacion, Margosatubig, 14,981
+Sagua, Margosatubig, 701
+Talanusa, Margosatubig, 1,257
+Tiguian, Margosatubig, 2,555
+Tulapoc, Margosatubig, 2,345
+Bacahan, Midsalip, 916
+Balonai, Midsalip, 1,509
+Bibilop, Midsalip, 1,243
+Buloron, Midsalip, 1,993
+Cabaloran, Midsalip, 1,199
+Canipay Norte, Midsalip, 1,053
+Canipay Sur, Midsalip, 810
+Cumaron, Midsalip, 1,179
+Dakayakan, Midsalip, 299
+Duelic, Midsalip, 1,154
+Dumalinao, Midsalip, 644
+Ecuan, Midsalip, 436
+Golictop, Midsalip, 815
+Guinabot, Midsalip, 671
+Guitalos, Midsalip, 485
+Guma, Midsalip, 783
+Kahayagan, Midsalip, 290
+Licuro‑an, Midsalip, 474
+Lumpunid, Midsalip, 1,510
+Matalang, Midsalip, 1,367
+New Katipunan, Midsalip, 826
+New Unidos, Midsalip, 374
+Palili, Midsalip, 1,105
+Pawan, Midsalip, 615
+Pili, Midsalip, 602
+Pisompongan, Midsalip, 1,018
+Piwan, Midsalip, 531
+Poblacion A, Midsalip, 1,755
+Poblacion B, Midsalip, 2,351
+Sigapod, Midsalip, 1,595
+Timbaboy, Midsalip, 1,122
+Tulbong, Midsalip, 467
+Tuluan, Midsalip, 884
+Alicia, Molave, 1,567
+Ariosa, Molave, 1,143
+Bagong Argao, Molave, 1,371
+Bagong Gutlang, Molave, 790
+Blancia, Molave, 2,728
+Bogo Capalaran, Molave, 2,236
+Culo, Molave, 6,071
+Dalaon, Molave, 2,051
+Dipolo, Molave, 2,894
+Dontulan, Molave, 581
+Gonosan, Molave, 1,405
+Lower Dimalinao, Molave, 451
+Lower Dimorok, Molave, 964
+Mabuhay, Molave, 1,391
+Madasigon (Poblacion), Molave, 5,030
+Makuguihon (Poblacion), Molave, 4,283
+Maloloy‑on (Poblacion), Molave, 4,569
+Miligan, Molave, 2,319
+Parasan, Molave, 1,303
+Rizal, Molave, 1,742
+Santo Rosario, Molave, 448
+Silangit, Molave, 931
+Simata, Molave, 1,506
+Sudlon, Molave, 3,184
+Upper Dimorok, Molave, 1,048
+Alegria, Pagadian, 1,116
+Balangasan (Poblacion), Pagadian, 14,384
+Balintawak, Pagadian, 2,617
+Baloyboan, Pagadian, 921
+Banale, Pagadian, 8,099
+Bogo, Pagadian, 1,362
+Bomba, Pagadian, 3,927
+Buenavista, Pagadian, 6,589
+Bulatok, Pagadian, 3,803
+Bulawan, Pagadian, 1,192
+Dampalan, Pagadian, 1,050
+Danlugan, Pagadian, 4,004
+Dao, Pagadian, 5,818
+Datagan, Pagadian, 1,456
+Deborok, Pagadian, 1,249
+Ditoray, Pagadian, 1,087
+Dumagoc, Pagadian, 7,585
+Gatas (Poblacion), Pagadian, 2,245
+Gubac, Pagadian, 1,135
+Gubang, Pagadian, 1,839
+Kagawasan, Pagadian, 2,422
+Kahayagan, Pagadian, 1,495
+Kalasan, Pagadian, 1,587
+Kawit, Pagadian, 8,381
+La Suerte, Pagadian, 1,176
+Lala, Pagadian, 2,011
+Lapidian, Pagadian, 1,636
+Lenienza, Pagadian, 3,664
+Lizon Valley, Pagadian, 3,002
+Lourdes, Pagadian, 1,449
+Lower Sibatang, Pagadian, 1,161
+Lumad, Pagadian, 1,290
+Lumbia, Pagadian, 4,988
+Macasing, Pagadian, 1,772
+Manga, Pagadian, 2,962
+Muricay, Pagadian, 3,172
+Napolan, Pagadian, 8,128
+Palpalan, Pagadian, 750
+Pedulonan, Pagadian, 610
+Poloyagan, Pagadian, 3,107
+San Francisco (Poblacion), Pagadian, 3,243
+San Jose (Poblacion), Pagadian, 7,443
+San Pedro (Poblacion), Pagadian, 7,717
+Santa Lucia (Poblacion), Pagadian, 8,553
+Santa Maria, Pagadian, 5,158
+Santiago (Poblacion), Pagadian, 3,292
+Santo Niño, Pagadian, 8,470
+Tawagan Sur, Pagadian, 2,377
+Tiguma, Pagadian, 12,401
+Tuburan (Poblacion), Pagadian, 9,450
+Tulangan, Pagadian, 838
+Tulawas, Pagadian, 1,260
+Upper Sibatang, Pagadian, 982
+White Beach, Pagadian, 1,635
+Balabawan, Pitogo, 1,166
+Balong‑balong, Pitogo, 1,367
+Colojo, Pitogo, 463
+Liasan, Pitogo, 927
+Liguac, Pitogo, 920
+Limbayan, Pitogo, 1,129
+Lower Paniki‑an, Pitogo, 1,255
+Matin‑ao, Pitogo, 731
+Panubigan, Pitogo, 3,389
+Poblacion (Pitogo), Pitogo, 7,836
+Punta Flecha, Pitogo, 2,311
+San Isidro, Pitogo, 781
+Sugbay Dos, Pitogo, 2,103
+Tongao, Pitogo, 1,060
+Upper Paniki‑an, Pitogo, 1,619
+Bagong Opon, Ramon Magsaysay, 550
+Bambong Daku, Ramon Magsaysay, 649
+Bambong Diut, Ramon Magsaysay, 595
+Bobongan, Ramon Magsaysay, 1,284
+Campo IV, Ramon Magsaysay, 1,550
+Campo V, Ramon Magsaysay, 899
+Caniangan, Ramon Magsaysay, 731
+Dipalusan, Ramon Magsaysay, 629
+Eastern Bobongan, Ramon Magsaysay, 915
+Esperanza, Ramon Magsaysay, 2,039
+Gapasan, Ramon Magsaysay, 1,168
+Katipunan, Ramon Magsaysay, 1,543
+Kauswagan, Ramon Magsaysay, 453
+Lower Sambulawan, Ramon Magsaysay, 507
+Mabini, Ramon Magsaysay, 438
+Magsaysay, Ramon Magsaysay, 954
+Malating, Ramon Magsaysay, 694
+Paradise, Ramon Magsaysay, 1,079
+Pasingkalan, Ramon Magsaysay, 1,259
+Poblacion, Ramon Magsaysay, 2,873
+San Fernando, Ramon Magsaysay, 557
+Santo Rosario, Ramon Magsaysay, 631
+Sapa Anding, Ramon Magsaysay, 1,312
+Sinaguing, Ramon Magsaysay, 952
+Switch, Ramon Magsaysay, 1,283
+Upper Laperian, Ramon Magsaysay, 682
+Wakat, Ramon Magsaysay, 380
+Betinan, San Miguel, 1,562
+Bulawan, San Miguel, 965
+Calube, San Miguel, 707
+Concepcion, San Miguel, 524
+Dao‑an, San Miguel, 1,617
+Dumalian, San Miguel, 670
+Fatima, San Miguel, 766
+Langilan, San Miguel, 886
+Lantawan, San Miguel, 875
+Laperian, San Miguel, 492
+Libuganan, San Miguel, 636
+Limonan, San Miguel, 1,937
+Mati, San Miguel, 1,677
+Ocapan, San Miguel, 732
+Poblacion, San Miguel, 2,769
+San Isidro, San Miguel, 666
+Sayog, San Miguel, 1,289
+Tapian, San Miguel, 435
+Bag‑ong Misamis, San Pablo, 407
+Bubual, San Pablo, 705
+Buton, San Pablo, 223
+Culasian, San Pablo, 1,379
+Daplayan, San Pablo, 940
+Kalilangan, San Pablo, 961
+Kapamanok, San Pablo, 1,431
+Kondum, San Pablo, 521
+Lumbayao, San Pablo, 659
+Mabuhay, San Pablo, 559
+Marcos Village, San Pablo, 1,361
+Miasin, San Pablo, 1,001
+Molansong, San Pablo, 473
+Pantad, San Pablo, 1,412
+Pao, San Pablo, 725
+Payag, San Pablo, 1,148
+Poblacion (San Pablo), San Pablo, 3,734
+Pongapong, San Pablo, 855
+Sacbulan, San Pablo, 844
+Sagasan, San Pablo, 1,024
+San Juan, San Pablo, 357
+Senior, San Pablo, 417
+Songgoy, San Pablo, 794
+Tandubuay, San Pablo, 1,554
+Taniapan, San Pablo, 1,191
+Ticala Island, San Pablo, 531
+Tubo‑pait, San Pablo, 415
+Villakapa, San Pablo, 485
+Bag‑ong Baroy, Sominot, 416
+Bag‑ong Oroquieta, Sominot, 581
+Barubuhan, Sominot, 919
+Bulanay, Sominot, 897
+Datagan, Sominot, 1,301
+Eastern Poblacion, Sominot, 1,185
+Lantawan, Sominot, 728
+Libertad, Sominot, 596
+Lumangoy, Sominot, 474
+New Carmen, Sominot, 870
+Picturan, Sominot, 1,046
+Poblacion, Sominot, 3,394
+Rizal, Sominot, 1,187
+San Miguel, Sominot, 371
+Santo Niño, Sominot, 1,163
+Sawa, Sominot, 414
+Tungawan, Sominot, 1,798
+Upper Sicpao, Sominot, 1,197
+Abong‑abong, Tabina, 2,136
+Baganian, Tabina, 3,121
+Baya‑baya, Tabina, 1,190
+Capisan, Tabina, 744
+Concepcion, Tabina, 1,185
+Culabay, Tabina, 1,899
+Doña Josefina, Tabina, 829
+Lumbia, Tabina, 769
+Mabuhay, Tabina, 1,878
+Malim, Tabina, 2,820
+Manikaan, Tabina, 987
+New Oroquieta, Tabina, 718
+Poblacion, Tabina, 5,392
+San Francisco, Tabina, 720
+Tultolan, Tabina, 673
+Alang‑alang, Tambulig, 1,266
+Angeles, Tambulig, 753
+Bag‑ong Kauswagan, Tambulig, 672
+Bag‑ong Tabogon, Tambulig, 449
+Balugo, Tambulig, 1,378
+Cabgan, Tambulig, 1,884
+Calolot, Tambulig, 1,624
+Dimalinao, Tambulig, 403
+Fabian (Balucot), Tambulig, 1,341
+Gabunon, Tambulig, 1,875
+Happy Valley (Poblacion), Tambulig, 2,372
+Kapalaran, Tambulig, 996
+Libato, Tambulig, 712
+Limamawan, Tambulig, 710
+Lower Liasan, Tambulig, 406
+Lower Lodiong (Poblacion), Tambulig, 1,841
+Lower Tiparak, Tambulig, 1,807
+Lower Usogan, Tambulig, 814
+Maya‑maya, Tambulig, 331
+New Village (Poblacion), Tambulig, 1,920
+Pelocoban, Tambulig, 603
+Riverside (Poblacion), Tambulig, 1,839
+Sagrada Familia, Tambulig, 896
+San Jose, Tambulig, 641
+San Vicente, Tambulig, 654
+Sumalig, Tambulig, 2,767
+Tuluan, Tambulig, 957
+Tungawan, Tambulig, 1,828
+Upper Liason, Tambulig, 395
+Upper Lodiong, Tambulig, 335
+Upper Tiparak, Tambulig, 1,691
+Begong, Tigbao, 3,359
+Busol, Tigbao, 714
+Caluma, Tigbao, 548
+Diana Countryside, Tigbao, 775
+Guinlin, Tigbao, 779
+Lacarayan, Tigbao, 985
+Lacupayan, Tigbao, 793
+Libayoy, Tigbao, 733
+Limas, Tigbao, 924
+Longmot, Tigbao, 1,131
+Maragang, Tigbao, 1,752
+Mate, Tigbao, 1,022
+Nangan‑nangan, Tigbao, 683
+New Tuburan, Tigbao, 507
+Nilo, Tigbao, 1,630
+Tigbao, Tigbao, 2,875
+Timolan, Tigbao, 772
+Upper Nilo, Tigbao, 997
+Alindahaw, Tukuran, 1,864
+Baclay, Tukuran, 1,534
+Balimbingan, Tukuran, 282
+Buenasuerte, Tukuran, 778
+Camanga, Tukuran, 2,109
+Curvada, Tukuran, 1,817
+Laperian, Tukuran, 1,716
+Libertad, Tukuran, 678
+Lower Bayao, Tukuran, 824
+Luy‑a, Tukuran, 731
+Manilan, Tukuran, 524
+Manlayag, Tukuran, 749
+Militar, Tukuran, 2,019
+Navalan, Tukuran, 2,224
+Panduma Senior, Tukuran, 2,974
+Sambulawan, Tukuran, 1,298
+San Antonio, Tukuran, 486
+San Carlos (Poblacion), Tukuran, 2,901
+Santo Niño (Poblacion), Tukuran, 7,991
+Santo Rosario, Tukuran, 358
+Sugod, Tukuran, 1,276
+Tabuan, Tukuran, 1,670
+Tagulo, Tukuran, 932
+Tinotungan, Tukuran, 1,139
+Upper Bayao, Tukuran, 946
+Ambulon, Vincenzo A. Sagun, 1,212
+Bui‑os, Vincenzo A. Sagun, 1,438
+Cogon, Vincenzo A. Sagun, 1,489
+Danan, Vincenzo A. Sagun, 2,413
+Kabatan, Vincenzo A. Sagun, 4,920
+Kapatagan, Vincenzo A. Sagun, 1,621
+Limason, Vincenzo A. Sagun, 1,609
+Linoguayan, Vincenzo A. Sagun, 904
+Lumbal, Vincenzo A. Sagun, 1,240
+Lunib, Vincenzo A. Sagun, 1,685
+Maculay, Vincenzo A. Sagun, 902
+Maraya, Vincenzo A. Sagun, 1,331
+Sagucan, Vincenzo A. Sagun, 1,227
+Waling‑waling, Vincenzo A. Sagun, 1,768

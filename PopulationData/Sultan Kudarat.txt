@@ -1,0 +1,249 @@
+Bai Sarifinang, Bagumbayan, 7,651
+Biwang, Bagumbayan, 4,767
+Busok, Bagumbayan, 3,861
+Chua, Bagumbayan, 1,871
+Daguma, Bagumbayan, 4,297
+Daluga, Bagumbayan, 1,947
+Kabulanan, Bagumbayan, 2,565
+Kanulay, Bagumbayan, 884
+Kapaya, Bagumbayan, 5,357
+Kinayao, Bagumbayan, 2,614
+Masiag, Bagumbayan, 7,102
+Monteverde, Bagumbayan, 2,229
+Poblacion, Bagumbayan, 5,465
+Santo Niño, Bagumbayan, 3,010
+Sison, Bagumbayan, 2,327
+South Sepaka, Bagumbayan, 2,487
+Sumilil, Bagumbayan, 2,447
+Titulok, Bagumbayan, 1,857
+Tuka, Bagumbayan, 4,323
+Bantangan (Lasak), Columbio, 1,954
+Datablao, Columbio, 3,189
+Eday, Columbio, 900
+Elbebe, Columbio, 1,662
+Lasak, Columbio, 1,419
+Libertad, Columbio, 2,000
+Lomoyon, Columbio, 2,133
+Makat (Sumali Pas), Columbio, 738
+Maligaya, Columbio, 1,316
+Mayo, Columbio, 2,119
+Natividad, Columbio, 938
+Poblacion, Columbio, 7,006
+Polomolok, Columbio, 1,876
+Sinapulan, Columbio, 1,576
+Sucob, Columbio, 1,414
+Telafas, Columbio, 3,018
+Ala, Esperanza, 2,805
+Daladap, Esperanza, 2,904
+Dukay, Esperanza, 2,782
+Guiamalia, Esperanza, 1,994
+Ilian, Esperanza, 2,426
+Kangkong, Esperanza, 2,325
+Laguinding, Esperanza, 2,016
+Magsaysay, Esperanza, 1,239
+Margues, Esperanza, 2,671
+New Panay, Esperanza, 3,605
+Numo, Esperanza, 2,923
+Paitan, Esperanza, 3,659
+Pamantingan, Esperanza, 3,901
+Poblacion, Esperanza, 7,272
+Sagasa, Esperanza, 3,972
+Salabaca, Esperanza, 3,528
+Saliao, Esperanza, 5,500
+Salumping, Esperanza, 7,577
+Villamor, Esperanza, 2,996
+Bambad, Isulan, 6,141
+Bual, Isulan, 4,953
+Dansuli, Isulan, 5,796
+D'Lotilla, Isulan, 3,641
+Impao, Isulan, 2,224
+Kalawag I (Poblacion), Isulan, 10,208
+Kalawag II (Poblacion), Isulan, 15,330
+Kalawag III (Poblacion), Isulan, 6,407
+Kenram, Isulan, 5,256
+Kolambog, Isulan, 2,670
+Kudanding, Isulan, 3,146
+Lagandang, Isulan, 2,615
+Laguilayan, Isulan, 10,182
+Mapantig, Isulan, 2,261
+New Pangasinan, Isulan, 2,220
+Sampao, Isulan, 6,076
+Tayugo, Isulan, 1,556
+Bantogon (Santa Clara), Kalamansig, 4,897
+Cadiz, Kalamansig, 2,277
+Datu Ito Andong, Kalamansig, 3,140
+Datu Wasay, Kalamansig, 2,606
+Dumangas Nuevo, Kalamansig, 2,380
+Hinalaan, Kalamansig, 2,948
+Limulan, Kalamansig, 2,840
+Nalilidan, Kalamansig, 3,180
+Obial, Kalamansig, 2,945
+Pag‑asa, Kalamansig, 4,936
+Paril, Kalamansig, 1,732
+Poblacion, Kalamansig, 7,085
+Sabanal, Kalamansig, 2,859
+Sangay, Kalamansig, 2,969
+Santa Maria, Kalamansig, 2,265
+Caridad (Cuyapon), Lambayong, 1,081
+Didtaras, Lambayong, 2,013
+Gansing (Bilumen), Lambayong, 2,451
+Kabulakan, Lambayong, 796
+Kapingkong, Lambayong, 3,260
+Katitisan, Lambayong, 1,823
+Lagao, Lambayong, 2,003
+Lilit, Lambayong, 2,317
+Madanding, Lambayong, 2,475
+Maligaya, Lambayong, 1,489
+Mamali, Lambayong, 2,484
+Matiompong, Lambayong, 2,384
+Midtapok, Lambayong, 2,526
+New Cebu, Lambayong, 2,663
+Palumbi, Lambayong, 2,487
+Pidtiguian, Lambayong, 3,941
+Pimbalayan, Lambayong, 4,714
+Pinguiaman, Lambayong, 3,378
+Poblacion (Lambayong), Lambayong, 11,132
+Sadsalan, Lambayong, 3,380
+Seneben, Lambayong, 2,496
+Sigayan, Lambayong, 2,355
+Tambak, Lambayong, 2,619
+Tinumigues, Lambayong, 5,123
+Tumiao (Tinaga), Lambayong, 2,331
+Udtong, Lambayong, 3,292
+Aurelio F. Freires (Poblacion II), Lebak, 4,351
+Barurao, Lebak, 3,156
+Barurao II, Lebak, 1,856
+Basak, Lebak, 4,956
+Bolebok, Lebak, 1,949
+Bululawan, Lebak, 1,528
+Capilan, Lebak, 2,793
+Christiannuevo, Lebak, 3,459
+Datu Karon, Lebak, 1,671
+Kalamongog, Lebak, 3,244
+Keytodac, Lebak, 5,733
+Kinodalan, Lebak, 2,696
+New Calinog, Lebak, 1,507
+Nuling, Lebak, 3,138
+Pansud, Lebak, 2,665
+Pasandalan, Lebak, 2,786
+Poblacion, Lebak, 3,403
+Poblacion III, Lebak, 2,752
+Poloy‑poloy, Lebak, 4,703
+Purikay, Lebak, 2,745
+Ragandang, Lebak, 2,281
+Salaman, Lebak, 4,281
+Salangsang, Lebak, 5,276
+Taguisa, Lebak, 3,801
+Tibpuan, Lebak, 6,391
+Tran, Lebak, 2,242
+Villamonte, Lebak, 3,505
+Antong, Lutayan, 3,589
+Bayasong, Lutayan, 4,077
+Blingkong, Lutayan, 6,794
+Lutayan Proper, Lutayan, 10,702
+Maindang, Lutayan, 4,728
+Mamali, Lutayan, 6,780
+Manili, Lutayan, 3,593
+Palavilla, Lutayan, 5,291
+Sampao, Lutayan, 3,978
+Sisiman, Lutayan, 4,673
+Tamnag (Poblacion), Lutayan, 8,824
+Akol, Palimbang, 1,589
+Badiangon, Palimbang, 2,945
+Baliango, Palimbang, 2,031
+Balwan (Bulan), Palimbang, 3,997
+Bambanen, Palimbang, 1,222
+Baranayan, Palimbang, 1,189
+Barongis, Palimbang, 2,301
+Batang‑baglas, Palimbang, 1,382
+Butril, Palimbang, 2,268
+Colobe (Tagadtal), Palimbang, 2,678
+Datu Maguiales, Palimbang, 1,958
+Domolol, Palimbang, 1,475
+Kabuling, Palimbang, 1,578
+Kalibuhan, Palimbang, 2,323
+Kanipaan, Palimbang, 2,444
+Kidayan, Palimbang, 1,907
+Kiponget, Palimbang, 1,610
+Kisek, Palimbang, 1,544
+Kraan, Palimbang, 2,026
+Kulong‑kulong, Palimbang, 3,064
+Langali, Palimbang, 2,017
+Libua, Palimbang, 2,540
+Ligao, Palimbang, 1,354
+Lopoken (Lepolon), Palimbang, 2,241
+Lumitan, Palimbang, 1,996
+Maganao, Palimbang, 2,548
+Maguid, Palimbang, 1,760
+Malatuneng (Malatunol), Palimbang, 1,762
+Malisbong, Palimbang, 5,599
+Medol, Palimbang, 1,721
+Milbuk, Palimbang, 2,581
+Mina, Palimbang, 1,213
+Molon, Palimbang, 1,819
+Namat Masla, Palimbang, 2,532
+Napnapon, Palimbang, 1,448
+Poblacion, Palimbang, 7,408
+San Roque, Palimbang, 3,513
+Tibuhol (East Badiangon), Palimbang, 1,904
+Wal, Palimbang, 1,486
+Wasag, Palimbang, 1,451
+Bagumbayan, President Quirino, 1,132
+Bannawag, President Quirino, 2,363
+Bayawa, President Quirino, 2,826
+C. Mangilala, President Quirino, 1,348
+Estrella, President Quirino, 2,208
+Kalanawe I, President Quirino, 1,750
+Kalanawe II, President Quirino, 2,530
+Katico, President Quirino, 3,589
+Malingon, President Quirino, 1,736
+Mangalen, President Quirino, 949
+Pedtubo, President Quirino, 2,102
+Poblacion (Sambulawan), President Quirino, 6,502
+Romualdez, President Quirino, 1,450
+San Jose, President Quirino, 1,160
+San Pedro (Tuato), President Quirino, 1,099
+Sinakulay, President Quirino, 2,028
+Suben, President Quirino, 814
+Tinaungan, President Quirino, 2,955
+Tual (Liguasan), President Quirino, 2,867
+Banali, Senator Ninoy Aquino, 2,307
+Basag, Senator Ninoy Aquino, 2,530
+Buenaflores, Senator Ninoy Aquino, 2,666
+Bugso, Senator Ninoy Aquino, 4,110
+Buklod, Senator Ninoy Aquino, 1,177
+Gapok, Senator Ninoy Aquino, 1,750
+Kadi, Senator Ninoy Aquino, 1,392
+Kapatagan, Senator Ninoy Aquino, 848
+Kiadsam, Senator Ninoy Aquino, 1,841
+Kuden, Senator Ninoy Aquino, 3,957
+Kulaman, Senator Ninoy Aquino, 4,701
+Lagubang, Senator Ninoy Aquino, 2,736
+Langgal, Senator Ninoy Aquino, 2,081
+Limuhay, Senator Ninoy Aquino, 1,180
+Malegdeg, Senator Ninoy Aquino, 2,398
+Midtungok, Senator Ninoy Aquino, 3,382
+Nati, Senator Ninoy Aquino, 1,511
+Sewod, Senator Ninoy Aquino, 2,361
+Tacupis, Senator Ninoy Aquino, 1,200
+Tinalon, Senator Ninoy Aquino, 2,754
+Baras, Tacurong, 3,135
+Buenaflor, Tacurong, 6,006
+Calean, Tacurong, 2,498
+Carmen, Tacurong, 3,377
+D'Ledesma, Tacurong, 1,356
+Gansing, Tacurong, 6,537
+Kalandagan, Tacurong, 2,439
+Lancheta, Tacurong, 1,243
+Lower Katungal, Tacurong, 6,264
+New Isabela, Tacurong, 11,711
+New Lagao, Tacurong, 2,795
+New Passi, Tacurong, 2,963
+Poblacion, Tacurong, 16,199
+Rajah Nuda, Tacurong, 3,868
+San Antonio, Tacurong, 1,306
+San Emmanuel, Tacurong, 6,472
+San Pablo, Tacurong, 12,722
+San Rafael, Tacurong, 1,113
+Tina, Tacurong, 2,576
+Upper Katungal, Tacurong, 3,736

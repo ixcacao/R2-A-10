@@ -1,0 +1,188 @@
+Bagumbayan, Angono, 2,867
+Kalayaan, Angono, 16,854
+Mahabang Parang, Angono, 32,744
+Poblacion Ibaba, Angono, 2,789
+Poblacion Itaas, Angono, 583
+San Isidro, Angono, 31,339
+San Pedro, Angono, 1,919
+San Roque, Angono, 9,898
+San Vicente, Angono, 11,898
+Santo Niño, Angono, 2,392
+Bagong Nayon, Antipolo, 45,976
+Beverly Hills, Antipolo, 1,562
+Calawis, Antipolo, 5,709
+Cupang, Antipolo, 113,613
+Dalig, Antipolo, 52,222
+Dela Paz (Poblacion), Antipolo, 68,946
+Inarawan, Antipolo, 22,894
+Mambugan, Antipolo, 52,479
+Mayamot, Antipolo, 50,421
+Muntingdilaw, Antipolo, 11,644
+San Isidro (Poblacion), Antipolo, 64,136
+San Jose (Poblacion), Antipolo, 103,051
+San Juan, Antipolo, 8,671
+San Luis, Antipolo, 53,230
+San Roque (Poblacion), Antipolo, 58,840
+Santa Cruz, Antipolo, 62,992
+Concepcion, Baras, 1,293
+Evangelista, Baras, 4,386
+Mabini, Baras, 2,532
+Pinugay, Baras, 38,758
+Rizal (Poblacion), Baras, 3,003
+San Jose, Baras, 3,174
+San Juan, Baras, 4,506
+San Miguel, Baras, 1,418
+San Salvador, Baras, 6,310
+Santiago, Baras, 3,920
+Bangad, Binangonan, 1,563
+Batingan, Binangonan, 13,931
+Bilibiran, Binangonan, 16,905
+Binitagan, Binangonan, 598
+Bombong, Binangonan, 3,256
+Buhangin, Binangonan, 1,871
+Calumpang, Binangonan, 18,596
+Ginoong Sanay, Binangonan, 1,638
+Gulod, Binangonan, 1,197
+Habagatan, Binangonan, 1,275
+Ithan, Binangonan, 3,090
+Janosa, Binangonan, 2,917
+Kalawaan, Binangonan, 36,853
+Kalinawan, Binangonan, 2,062
+Kasile, Binangonan, 475
+Kaytome, Binangonan, 2,296
+Kinaboogan, Binangonan, 1,370
+Kinagatan, Binangonan, 1,466
+Layunan (Poblacion), Binangonan, 2,491
+Libid (Poblacion), Binangonan, 7,089
+Libis (Poblacion), Binangonan, 6,738
+Limbon‑limbon, Binangonan, 1,590
+Lunsad, Binangonan, 10,800
+Macamot, Binangonan, 9,221
+Mahabang Parang, Binangonan, 8,935
+Malakaban, Binangonan, 1,216
+Mambog, Binangonan, 9,988
+Pag‑asa, Binangonan, 16,848
+Palangoy, Binangonan, 14,038
+Pantok, Binangonan, 15,116
+Pila Pila, Binangonan, 9,190
+Pinagdilawan, Binangonan, 778
+Pipindan, Binangonan, 2,429
+Rayap, Binangonan, 2,001
+San Carlos, Binangonan, 11,983
+Sapang, Binangonan, 2,265
+Tabon, Binangonan, 823
+Tagpos, Binangonan, 15,560
+Tatala, Binangonan, 10,773
+Tayuman, Binangonan, 11,243
+San Andres (Poblacion), Cainta, 95,838
+San Isidro, Cainta, 69,377
+San Juan, Cainta, 98,849
+San Roque, Cainta, 8,817
+Santa Rosa, Cainta, 1,627
+Santo Domingo, Cainta, 41,507
+Santo Niño, Cainta, 6,113
+Balibago, Cardona, 1,839
+Boor, Cardona, 825
+Calahan, Cardona, 5,536
+Dalig, Cardona, 6,436
+Del Remedio (Poblacion), Cardona, 2,074
+Iglesia (Poblacion), Cardona, 1,682
+Lambac, Cardona, 1,836
+Looc, Cardona, 9,981
+Malanggam‑Calubacan, Cardona, 396
+Nagsulo, Cardona, 270
+Navotas, Cardona, 3,262
+Patunhay, Cardona, 1,916
+Real (Poblacion), Cardona, 500
+Sampad, Cardona, 2,125
+San Roque (Poblacion), Cardona, 3,457
+Subay, Cardona, 3,810
+Ticulio, Cardona, 2,266
+Tuna, Cardona, 823
+Bagumbong, Jalajala, 3,470
+Bayugo, Jalajala, 4,830
+Lubo, Jalajala, 1,668
+Paalaman, Jalajala, 343
+Pagkalinawan, Jalajala, 2,084
+Palaypalay, Jalajala, 2,325
+Punta, Jalajala, 3,120
+Second District (Poblacion), Jalajala, 2,201
+Sipsipin, Jalajala, 4,926
+Special District (Poblacion), Jalajala, 4,196
+Third District (Poblacion), Jalajala, 3,091
+Bombongan, Morong, 3,684
+Can‑Cal‑Lan (Caniogan-Calero-Lanang), Morong, 4,714
+Lagundi, Morong, 9,665
+Maybancal, Morong, 8,725
+San Guillermo, Morong, 9,722
+San Jose (Poblacion), Morong, 4,333
+San Juan (Poblacion), Morong, 10,715
+San Pedro (Poblacion), Morong, 6,560
+Bagumbayan (Poblacion), Pililla, 11,101
+Halayhayin, Pililla, 8,090
+Hulo (Poblacion), Pililla, 9,966
+Imatong (Poblacion), Pililla, 931
+Malaya, Pililla, 7,748
+Niogan, Pililla, 4,938
+Quisao, Pililla, 15,826
+Takungan (Poblacion), Pililla, 1,677
+Wawa (Poblacion), Pililla, 4,535
+Balite (Poblacion), Rodriguez, 9,983
+Burgos, Rodriguez, 44,100
+Geronimo, Rodriguez, 5,554
+Macabud, Rodriguez, 9,707
+Manggahan, Rodriguez, 13,913
+Mascap, Rodriguez, 4,699
+Puray, Rodriguez, 3,921
+Rosario, Rodriguez, 7,244
+San Isidro, Rodriguez, 117,277
+San Jose, Rodriguez, 124,868
+San Rafael, Rodriguez, 27,956
+Ampid I, San Mateo, 28,840
+Ampid II, San Mateo, 6,242
+Banaba, San Mateo, 24,950
+Dulong Bayan 1, San Mateo, 6,944
+Dulong Bayan 2, San Mateo, 8,777
+Guinayang, San Mateo, 9,241
+Guitnang Bayan I (Poblacion), San Mateo, 30,598
+Guitnang Bayan II (Poblacion), San Mateo, 17,243
+Gulod Malaya, San Mateo, 11,406
+Malanday, San Mateo, 15,707
+Maly, San Mateo, 13,865
+Pintong Bocawe, San Mateo, 4,156
+Santa Ana, San Mateo, 10,160
+Santo Niño, San Mateo, 11,402
+Silangan, San Mateo, 52,996
+Cayabu, Tanay, 698
+Cuyambay, Tanay, 2,899
+Daraitan, Tanay, 4,682
+Katipunan‑Bayan (Poblacion), Tanay, 5,727
+Kaybuto (Poblacion), Tanay, 7,669
+Laiban, Tanay, 1,952
+Mag‑Ampon (Poblacion), Tanay, 2,036
+Mamuyao, Tanay, 767
+Pinagkamaligan (Poblacion), Tanay, 2,851
+Plaza Aldea (Poblacion), Tanay, 21,355
+Sampaloc, Tanay, 30,341
+San Andres, Tanay, 1,405
+San Isidro (Poblacion), Tanay, 3,383
+Santa Inez, Tanay, 2,202
+Santo Niño, Tanay, 1,075
+Tabing Ilog (Poblacion), Tanay, 1,871
+Tandang Kutyo (Poblacion), Tanay, 18,023
+Tinucan, Tanay, 842
+Wawa (Poblacion), Tanay, 8,052
+Dolores (Poblacion), Taytay, 61,115
+Muzon, Taytay, 26,523
+San Isidro, Taytay, 36,780
+San Juan, Taytay, 103,343
+Santa Ana, Taytay, 91,343
+Bagumbayan, Teresa, 11,638
+Calumpang Santo Cristo, Teresa, 1,710
+Dalig, Teresa, 12,365
+Dulumbayan, Teresa, 8,353
+May‑Iba, Teresa, 8,590
+Poblacion, Teresa, 2,519
+Prinza, Teresa, 5,247
+San Gabriel, Teresa, 3,950
+San Roque, Teresa, 3,383

@@ -1,0 +1,410 @@
+Bakkaan, Banguingui, 1,021
+Bangalaw, Banguingui, 1,467
+Danao, Banguingui, 1,509
+Dungon, Banguingui, 3,500
+Kahikukuk, Banguingui, 1,367
+Luuk (Poblacion), Banguingui, 1,470
+North Paarol, Banguingui, 1,263
+Sigumbal, Banguingui, 1,202
+South Paarol, Banguingui, 2,354
+Tabialan, Banguingui, 1,925
+Tainga‑Bakkao, Banguingui, 1,971
+Tambun‑bun, Banguingui, 1,605
+Tattalan, Banguingui, 1,892
+Tinutungan, Banguingui, 1,615
+Bangas (Poblacion), Hadji Panglima Tahil, 1,995
+Bubuan, Hadji Panglima Tahil, 930
+Kabuukan, Hadji Panglima Tahil, 1,610
+Pag‑asinan, Hadji Panglima Tahil, 1,147
+Teomabal, Hadji Panglima Tahil, 693
+Adjid, Indanan, 2,030
+Bangalan, Indanan, 1,734
+Bato‑bato, Indanan, 4,744
+Buanza, Indanan, 3,879
+Bud‑Taran, Indanan, 1,154
+Bunut, Indanan, 1,858
+Jati‑Tunggal, Indanan, 1,454
+Kabbon Maas, Indanan, 1,415
+Kagay, Indanan, 2,205
+Kajatian, Indanan, 15,845
+Kan Islam, Indanan, 1,984
+Kandang Tukay, Indanan, 1,122
+Karawan, Indanan, 1,280
+Katian, Indanan, 1,447
+Kuppong, Indanan, 1,736
+Lambayong, Indanan, 1,264
+Langpas, Indanan, 2,220
+Licup, Indanan, 1,422
+Malimbaya, Indanan, 1,491
+Manggis, Indanan, 1,869
+Manilop, Indanan, 1,315
+Paligue, Indanan, 1,296
+Panabuan, Indanan, 1,903
+Panglima Misuari (Sasak), Indanan, 1,278
+Pasil, Indanan, 2,240
+Poblacion (Indanan), Indanan, 2,618
+Sapah Malaum, Indanan, 1,383
+Sawaki, Indanan, 995
+Sionogan, Indanan, 2,855
+Tagbak, Indanan, 2,690
+Timbangan, Indanan, 4,885
+Tubig Dakulah, Indanan, 2,019
+Tubig Parang, Indanan, 1,936
+Tumantangis, Indanan, 1,317
+Alat, Jolo, 10,277
+Asturias, Jolo, 23,085
+Bus‑bus, Jolo, 36,650
+Chinese Pier, Jolo, 6,575
+San Raymundo, Jolo, 16,143
+Takut‑takut, Jolo, 7,500
+Tulay, Jolo, 13,891
+Walled City (Poblacion), Jolo, 11,443
+Kambing, Kalingalan Caluang, 2,386
+Kanlagay, Kalingalan Caluang, 2,599
+Karungdong (Poblacion), Kalingalan Caluang, 5,957
+Masjid Bayle, Kalingalan Caluang, 2,602
+Masjid Punjungan, Kalingalan Caluang, 2,497
+Pang, Kalingalan Caluang, 3,136
+Pangdan Pangdan, Kalingalan Caluang, 2,501
+Pitogo, Kalingalan Caluang, 6,665
+Tunggol, Kalingalan Caluang, 3,224
+Alu Bus‑Bus, Lugus, 2,946
+Alu‑Duyong, Lugus, 3,683
+Bas Lugus, Lugus, 829
+Gapas Rugasan, Lugus, 1,060
+Gapas Tubig Tuwak, Lugus, 894
+Huwit‑huwit Bas Nonok, Lugus, 648
+Huwit‑huwit Proper, Lugus, 531
+Kutah Parang, Lugus, 880
+Laha, Lugus, 1,144
+Larap, Lugus, 544
+Lugus Proper, Lugus, 604
+Mangkallay, Lugus, 1,552
+Mantan, Lugus, 927
+Pait, Lugus, 1,681
+Parian Kayawan, Lugus, 1,584
+Sibul, Lugus, 1,306
+Tingkangan, Lugus, 1,084
+Bual, Luuk, 2,233
+Guimbaun, Luuk, 1,544
+Kan‑Bulak, Luuk, 1,875
+Kan‑Mindus, Luuk, 1,892
+Lambago, Luuk, 1,172
+Lianutan, Luuk, 2,387
+Lingah, Luuk, 1,249
+Mananti, Luuk, 2,261
+Niog‑niog, Luuk, 2,594
+Tandu‑Bato, Luuk, 2,376
+Tubig‑Puti (Poblacion), Luuk, 10,635
+Tulayan Island, Luuk, 1,944
+Anak Jati, Maimbung, 558
+Bato Ugis, Maimbung, 1,237
+Bualo Lahi, Maimbung, 525
+Bualo Lipid, Maimbung, 1,919
+Bulabog, Maimbung, 674
+Duhol Kabbon, Maimbung, 459
+Gulangan, Maimbung, 731
+Ipil, Maimbung, 692
+Kandang, Maimbung, 761
+Kapok‑Punggol, Maimbung, 920
+Kulasi, Maimbung, 4,370
+Labah, Maimbung, 549
+Lagasan Asibih, Maimbung, 972
+Lantong, Maimbung, 1,095
+Lapa, Maimbung, 631
+Laud Kulasi, Maimbung, 2,711
+Laum Maimbung, Maimbung, 2,337
+Lower Tambaking, Maimbung, 416
+Lunggang, Maimbung, 595
+Matatal, Maimbung, 1,806
+Patao, Maimbung, 1,162
+Poblacion (Maimbung), Maimbung, 9,086
+Ratag Limbon, Maimbung, 854
+Tabu‑Bato, Maimbung, 559
+Tandu Patong, Maimbung, 970
+Tubig‑Samin, Maimbung, 859
+Upper Tambaking, Maimbung, 466
+Asin, Old Panamao, 1,524
+Bakud, Old Panamao, 1,112
+Bangday, Old Panamao, 972
+Baunoh, Old Panamao, 1,140
+Bitanag, Old Panamao, 834
+Bud Seit, Old Panamao, 791
+Bulangsi, Old Panamao, 1,336
+Datag, Old Panamao, 739
+Kamalig, Old Panamao, 1,340
+Kan Asaali, Old Panamao, 921
+Kan Ukol, Old Panamao, 1,055
+Kan‑Dayok, Old Panamao, 1,444
+Kan‑Sipat, Old Panamao, 685
+Kawasan, Old Panamao, 719
+Kulay‑kulay, Old Panamao, 1,900
+Lakit, Old Panamao, 696
+Lower Patibulan, Old Panamao, 1,019
+Lunggang, Old Panamao, 836
+Parang, Old Panamao, 1,027
+Pugad Manaul, Old Panamao, 1,054
+Puhagan, Old Panamao, 1,018
+Seit Higad, Old Panamao, 740
+Seit Lake (Poblacion), Old Panamao, 2,139
+Su‑uh, Old Panamao, 8,789
+Tabu Manuk, Old Panamao, 1,350
+Tandu‑tandu, Old Panamao, 706
+Tayungan, Old Panamao, 1,089
+Tinah, Old Panamao, 501
+Tubig Gantang, Old Panamao, 1,179
+Tubig Jati, Old Panamao, 704
+Upper Patibulan, Old Panamao, 1,639
+Andalan, Omar, 1,403
+Angilan, Omar, 3,149
+Capual Island, Omar, 6,119
+Huwit‑huwit, Omar, 2,522
+Lahing‑Lahing, Omar, 2,898
+Niangkaan, Omar, 4,132
+Sucuban, Omar, 2,404
+Tangkuan, Omar, 2,489
+Baligtang, Pandami, 1,247
+Bud Sibaud, Pandami, 1,058
+Hambilan, Pandami, 4,109
+Kabbon, Pandami, 1,113
+Lahi, Pandami, 1,302
+Lapak, Pandami, 1,937
+Laud Sibaud, Pandami, 685
+Malanta, Pandami, 1,264
+Mamanok, Pandami, 747
+North Manubul, Pandami, 3,857
+Parian Dakula, Pandami, 1,739
+Sibaud Proper, Pandami, 759
+Siganggang, Pandami, 2,432
+South Manubul, Pandami, 673
+Suba‑suba, Pandami, 1,987
+Tenga Manubul, Pandami, 976
+Gagguil, Panglima Estino, 1,630
+Gata‑gata, Panglima Estino, 2,227
+Jinggan, Panglima Estino, 1,807
+Kamih‑Pungud, Panglima Estino, 1,481
+Lihbug Kabaw, Panglima Estino, 1,944
+Likbah, Panglima Estino, 1,570
+Lubuk‑lubuk, Panglima Estino, 2,319
+Marsada, Panglima Estino, 1,446
+Paiksa, Panglima Estino, 1,830
+Pandakan, Panglima Estino, 3,235
+Punay (Poblacion), Panglima Estino, 7,500
+Tiptipon, Panglima Estino, 1,828
+Alu Bunah, Pangutaran, 770
+Bangkilay, Pangutaran, 1,510
+Kawitan, Pangutaran, 2,031
+Kehi Niog, Pangutaran, 1,886
+Lantong Babag, Pangutaran, 1,846
+Lumah Dapdap, Pangutaran, 2,617
+Pandan Niog, Pangutaran, 2,800
+Panducan, Pangutaran, 2,341
+Panitikan, Pangutaran, 1,487
+Patutol, Pangutaran, 1,111
+Se‑ipang, Pangutaran, 1,301
+Simbahan (Poblacion), Pangutaran, 4,871
+Suang Bunah, Pangutaran, 1,364
+Tonggasang, Pangutaran, 1,187
+Tubig Nonok, Pangutaran, 1,572
+Tubig Sallang, Pangutaran, 1,919
+Alu Layag‑Layag, Parang, 3,652
+Alu Pangkoh, Parang, 2,386
+Bagsak, Parang, 1,891
+Bawisan, Parang, 2,821
+Biid, Parang, 1,044
+Bukid, Parang, 884
+Buli Bawang, Parang, 1,021
+Buton, Parang, 1,339
+Buton Mahablo, Parang, 1,067
+Danapa, Parang, 1,104
+Duyan Kabao, Parang, 946
+Gimba Lagasan, Parang, 1,516
+Kaha, Parang, 2,328
+Kahoy Sinah, Parang, 1,580
+Kanaway, Parang, 2,885
+Kutah Sairap, Parang, 1,475
+Lagasan Higad, Parang, 1,410
+Lanao Dakula, Parang, 1,337
+Laum Buwahan, Parang, 1,293
+Laum Suwah, Parang, 1,289
+Liang, Parang, 1,396
+Linuho, Parang, 980
+Lipunos, Parang, 1,754
+Lower Sampunay, Parang, 1,247
+Lumbaan Mahaba, Parang, 1,502
+Lungan Gitong, Parang, 1,321
+Lupa Abu, Parang, 1,863
+Nonokan, Parang, 2,022
+Paugan, Parang, 724
+Payuhan, Parang, 1,684
+Piyahan, Parang, 1,555
+Poblacion (Parang), Parang, 2,235
+Saldang, Parang, 1,166
+Sampunay, Parang, 1,179
+Silangkan, Parang, 1,703
+Taingting, Parang, 1,352
+Tikong, Parang, 1,154
+Tukay, Parang, 1,311
+Tumangas, Parang, 1,382
+Wanni Piyanjihan, Parang, 1,374
+Andalan, Pata, 734
+Daungdong, Pata, 1,793
+Kamawi, Pata, 1,013
+Kanjarang, Pata, 1,371
+Kayawan (Poblacion), Pata, 1,504
+Kiput, Pata, 1,425
+Likud, Pata, 1,142
+Luuk‑tulay, Pata, 1,342
+Niog‑niog, Pata, 1,109
+Patian, Pata, 717
+Pisak‑pisak, Pata, 1,895
+Saimbangon, Pata, 4,398
+Sangkap, Pata, 1,801
+Timuddas, Pata, 1,919
+Anuling, Patikul, 17,504
+Bakong, Patikul, 677
+Bangkal, Patikul, 2,882
+Bonbon, Patikul, 1,223
+Buhanginan (Darayan), Patikul, 1,357
+Bungkaung, Patikul, 1,105
+Danag, Patikul, 1,375
+Gandasuli, Patikul, 2,714
+Igasan, Patikul, 1,469
+Kabbon Takas, Patikul, 870
+Kadday Mampallam, Patikul, 1,197
+Kan Ague, Patikul, 1,638
+Kaunayan, Patikul, 690
+Langhub, Patikul, 1,036
+Latih, Patikul, 6,089
+Liang, Patikul, 3,077
+Maligay, Patikul, 761
+Mauboh, Patikul, 3,711
+Pangdanon, Patikul, 979
+Panglayahan, Patikul, 636
+Pansul, Patikul, 1,374
+Patikul Higad, Patikul, 931
+Sandah, Patikul, 550
+Taglibi (Poblacion), Patikul, 1,893
+Tandu‑Bagua, Patikul, 794
+Tanum, Patikul, 1,682
+Taung, Patikul, 1,201
+Timpok, Patikul, 1,187
+Tugas, Patikul, 635
+Umangay, Patikul, 1,050
+Bakud, Siasi, 875
+Buan, Siasi, 2,551
+Bulansing Tara, Siasi, 640
+Bulihkullul, Siasi, 777
+Campo Islam, Siasi, 2,113
+Duggo, Siasi, 2,085
+Duhol Tara, Siasi, 1,001
+East Kungtad, Siasi, 1,049
+East Sisangat, Siasi, 1,133
+Ipil, Siasi, 722
+Jambangan, Siasi, 798
+Kabubu, Siasi, 931
+Kong‑Kong Laminusa, Siasi, 1,202
+Kud‑kud, Siasi, 1,087
+Kungtad West, Siasi, 1,044
+Latung, Siasi, 2,732
+Luuk Laminusa, Siasi, 831
+Luuk Tara, Siasi, 706
+Manta, Siasi, 1,259
+Minapan, Siasi, 2,424
+Nipa‑nipa, Siasi, 757
+North Laud, Siasi, 2,846
+North Manta, Siasi, 683
+North Musu Laud, Siasi, 874
+North Silumpak, Siasi, 405
+Pislong, Siasi, 882
+Poblacion (Campo Baro), Siasi, 4,525
+Punungan, Siasi, 629
+Puukan Laminusa, Siasi, 669
+Ratag, Siasi, 1,965
+Sablay, Siasi, 911
+Sarukot, Siasi, 1,017
+Siburi, Siasi, 779
+Singko, Siasi, 864
+Siolakan, Siasi, 2,025
+Siowing, Siasi, 1,208
+Sipanding, Siasi, 1,490
+Sisangat, Siasi, 857
+Siundoh, Siasi, 737
+South Musu Laud, Siasi, 597
+South Silumpak, Siasi, 1,145
+Southwestern Bulikullul, Siasi, 618
+Subah Buaya, Siasi, 3,220
+Tampakan Laminusa, Siasi, 1,581
+Tengah Laminusa, Siasi, 1,398
+Tong Laminusa, Siasi, 2,520
+Tonglabah, Siasi, 962
+Tong‑tong, Siasi, 2,086
+Tubig Kutah, Siasi, 830
+Tulling, Siasi, 2,665
+Andalan, Talipao, 2,404
+Bagsak, Talipao, 1,848
+Bandang, Talipao, 1,413
+Bilaan (Poblacion), Talipao, 3,730
+Bud Bunga, Talipao, 1,579
+Buntod, Talipao, 2,678
+Buroh, Talipao, 1,087
+Dalih, Talipao, 1,376
+Gata, Talipao, 1,462
+Kabatuhan Bilaan, Talipao, 1,423
+Kabatuhan Tiis, Talipao, 1,563
+Kabungkol, Talipao, 1,370
+Kagay, Talipao, 1,493
+Kahawa, Talipao, 1,366
+Kandaga, Talipao, 1,325
+Kanlibot, Talipao, 1,882
+Kiutaan, Talipao, 1,533
+Kuhaw, Talipao, 1,862
+Kulamboh, Talipao, 1,301
+Kuttong, Talipao, 1,010
+Lagtoh, Talipao, 1,629
+Lambanah, Talipao, 1,420
+Liban, Talipao, 1,773
+Liu‑Bud Pantao, Talipao, 1,031
+Lower Binuang, Talipao, 1,336
+Lower Kamuntayan, Talipao, 1,077
+Lower Laus, Talipao, 1,189
+Lower Sinumaan, Talipao, 1,777
+Lower Talipao, Talipao, 1,501
+Lumbayao, Talipao, 1,357
+Lumping Pigih Daho, Talipao, 1,314
+Lungkiaban, Talipao, 2,121
+Mabahay, Talipao, 1,489
+Mahala, Talipao, 1,741
+Mampallam, Talipao, 1,570
+Marsada, Talipao, 1,852
+Mauboh, Talipao, 1,293
+Mungit‑mungit, Talipao, 1,691
+Niog‑Sangahan, Talipao, 1,217
+Pantao, Talipao, 1,513
+Samak, Talipao, 1,249
+Talipao Proper, Talipao, 1,911
+Tampakan, Talipao, 1,657
+Tiis, Talipao, 1,566
+Tinggah, Talipao, 1,392
+Tubod, Talipao, 1,198
+Tuyang, Talipao, 2,053
+Upper Binuang, Talipao, 1,501
+Upper Kamuntayan, Talipao, 1,067
+Upper Laus, Talipao, 847
+Upper Sinumaan, Talipao, 1,158
+Upper Talipao, Talipao, 1,060
+Alu‑Kabingaan, Tapul, 1,599
+Banting, Tapul, 677
+Hawan, Tapul, 1,135
+Kalang (Poblacion), Tapul, 2,560
+Kamaunggi, Tapul, 1,613
+Kanaway, Tapul, 751
+Kanmangon, Tapul, 934
+Kaumpang, Tapul, 712
+Pagatpat, Tapul, 1,034
+Pangdan, Tapul, 1,708
+Puok, Tapul, 1,196
+Sayli, Tapul, 773
+Sumambat, Tapul, 663
+Tangkapaan, Tapul, 1,261
+Tulakan, Tapul, 1,581

@@ -1,0 +1,219 @@
+Bagsik, Alcantara, 986
+Bonlao, Alcantara, 1,239
+Calagonsao, Alcantara, 1,236
+Camili, Alcantara, 1,623
+Camod‑Om, Alcantara, 937
+Gui‑ob, Alcantara, 1,439
+Lawan, Alcantara, 697
+Madalag, Alcantara, 1,313
+Poblacion, Alcantara, 2,108
+San Isidro, Alcantara, 1,061
+San Roque, Alcantara, 1,000
+Tugdan, Alcantara, 2,712
+Balogo, Banton, 450
+Banice, Banton, 382
+Hambi‑an, Banton, 291
+Lagang, Banton, 65
+Libtong, Banton, 239
+Mainit, Banton, 342
+Nabalay, Banton, 83
+Nasunogan, Banton, 320
+Poblacion, Banton, 1,173
+Sibay, Banton, 367
+Tan‑Ag, Banton, 278
+Toctoc, Banton, 135
+Togbongan, Banton, 67
+Togong, Banton, 362
+Tumalum, Banton, 322
+Tungonan, Banton, 333
+Yabawon, Banton, 327
+Alibagon, Cajidiocan, 605
+Cambajao, Cajidiocan, 2,446
+Cambalo, Cajidiocan, 2,038
+Cambijang, Cajidiocan, 1,708
+Cantagda, Cajidiocan, 1,383
+Danao, Cajidiocan, 2,876
+Gutivan, Cajidiocan, 1,192
+Lico, Cajidiocan, 695
+Lumbang Este, Cajidiocan, 694
+Lumbang Weste, Cajidiocan, 1,521
+Marigondon, Cajidiocan, 1,635
+Poblacion, Cajidiocan, 1,724
+Sugod, Cajidiocan, 1,978
+Taguilos, Cajidiocan, 1,366
+Balogo, Calatrava, 1,700
+Linao, Calatrava, 1,511
+Pagsangahan, Calatrava, 810
+Pangulo, Calatrava, 1,674
+Poblacion, Calatrava, 1,746
+San Roque, Calatrava, 1,587
+Talisay, Calatrava, 1,247
+Bachawan, Concepcion, 464
+Calabasahan, Concepcion, 587
+Dalajican, Concepcion, 346
+Masadya, Concepcion, 252
+Masudsud, Concepcion, 370
+Poblacion, Concepcion, 910
+Sampong, Concepcion, 397
+San Pedro (Agbatang), Concepcion, 448
+San Vicente, Concepcion, 263
+Alegria, Corcuera, 1,720
+Ambulong, Corcuera, 487
+Colongcolong, Corcuera, 710
+Gobon, Corcuera, 673
+Guintiguiban, Corcuera, 289
+Ilijan, Corcuera, 848
+Labnig, Corcuera, 487
+Mabini, Corcuera, 298
+Mahaba, Corcuera, 760
+Mangansag, Corcuera, 962
+Poblacion, Corcuera, 513
+San Agustin, Corcuera, 552
+San Roque, Corcuera, 960
+San Vicente, Corcuera, 514
+Tacasan, Corcuera, 510
+Agnonoc, Ferrol, 614
+Bunsoran, Ferrol, 894
+Claro M. Recto, Ferrol, 660
+Hinaguman, Ferrol, 1,125
+Poblacion (Ferrol), Ferrol, 1,852
+Tubigon, Ferrol, 1,819
+Agojo, Looc, 1,753
+Balatucan, Looc, 1,088
+Buenavista, Looc, 1,409
+Camandao, Looc, 2,007
+Guinhayaan, Looc, 1,534
+Limon Norte, Looc, 1,980
+Limon Sur, Looc, 2,468
+Manhac, Looc, 1,368
+Pili, Looc, 1,072
+Poblacion, Looc, 3,370
+Punta, Looc, 2,995
+Tuguis, Looc, 1,218
+Agsao, Magdiwang, 782
+Agutay, Magdiwang, 1,616
+Ambulong, Magdiwang, 1,195
+Dulangan, Magdiwang, 1,621
+Ipil, Magdiwang, 1,716
+Jao‑asan, Magdiwang, 964
+Poblacion, Magdiwang, 2,586
+Silum, Magdiwang, 718
+Tampayan, Magdiwang, 2,944
+Amatong, Odiongan, 1,272
+Anahao, Odiongan, 1,997
+Bangon, Odiongan, 1,364
+Batiano, Odiongan, 2,008
+Budiong, Odiongan, 2,596
+Canduyong, Odiongan, 1,790
+Dapawan, Odiongan, 4,126
+Gabawan, Odiongan, 2,587
+Libertad, Odiongan, 2,347
+Ligaya (Poblacion), Odiongan, 1,035
+Liwanag (Poblacion), Odiongan, 1,047
+Liwayway (Poblacion), Odiongan, 729
+Malilico, Odiongan, 950
+Mayha, Odiongan, 1,181
+Panique, Odiongan, 2,713
+Pato‑o, Odiongan, 2,862
+Poctoy, Odiongan, 2,370
+Progreso Este, Odiongan, 1,441
+Progreso Weste, Odiongan, 861
+Rizal, Odiongan, 1,715
+Tabing Dagat (Poblacion), Odiongan, 1,117
+Tabobo‑an, Odiongan, 1,322
+Tuburan, Odiongan, 1,716
+Tulay, Odiongan, 1,999
+Tumingad, Odiongan, 2,222
+Agbaluto, Romblon, 680
+Agbudia, Romblon, 631
+Agnaga, Romblon, 949
+Agnay, Romblon, 733
+Agnipa, Romblon, 1,115
+Agpanabat, Romblon, 920
+Agtongo, Romblon, 1,523
+Alad, Romblon, 1,855
+Bagacay, Romblon, 2,663
+Barangay I (Poblacion), Romblon, 554
+Barangay II (Poblacion), Romblon, 1,277
+Barangay III (Poblacion), Romblon, 1,360
+Barangay IV (Poblacion), Romblon, 1,201
+Cajimos, Romblon, 2,667
+Calabogo, Romblon, 897
+Capaclan, Romblon, 4,444
+Cobrador (Naguso), Romblon, 822
+Ginablan, Romblon, 725
+Guimpingan, Romblon, 690
+Ilauran, Romblon, 1,625
+Lamao, Romblon, 977
+Li‑o, Romblon, 1,323
+Logbon, Romblon, 712
+Lonos, Romblon, 1,739
+Lunas, Romblon, 642
+Macalas, Romblon, 1,189
+Mapula, Romblon, 654
+Palje, Romblon, 587
+Sablayan, Romblon, 1,555
+Sawang, Romblon, 1,424
+Tambac, Romblon, 625
+Bachawan, San Agustin, 1,986
+Binongahan, San Agustin, 1,774
+Binugusan, San Agustin, 819
+Buli, San Agustin, 824
+Cabolutan, San Agustin, 1,795
+Cagbuaya, San Agustin, 1,398
+Camantaya, San Agustin, 505
+Carmen, San Agustin, 1,953
+Cawayan, San Agustin, 858
+Doña Juana, San Agustin, 2,514
+Dubduban, San Agustin, 2,148
+Lusong, San Agustin, 1,000
+Mahabang Baybay (Long Beach), San Agustin, 2,013
+Poblacion, San Agustin, 1,496
+Sugod, San Agustin, 1,515
+Agpudlos, San Andres, 1,317
+Calunacon, San Andres, 1,681
+Doña Trinidad, San Andres, 614
+Juncarlo, San Andres, 604
+Linawan, San Andres, 1,444
+Mabini, San Andres, 1,421
+Marigondon Norte, San Andres, 961
+Marigondon Sur, San Andres, 1,191
+Matutuna, San Andres, 1,404
+Pag‑alad, San Andres, 1,173
+Poblacion, San Andres, 1,563
+Tan‑Agan, San Andres, 1,627
+Victoria, San Andres, 589
+Agtiwa, San Fernando, 1,397
+Azarga, San Fernando, 1,922
+Campalingo, San Fernando, 1,725
+Canjalon, San Fernando, 1,764
+España, San Fernando, 2,191
+Mabini, San Fernando, 1,366
+Mabulo, San Fernando, 2,046
+Otod, San Fernando, 2,000
+Panangcalan, San Fernando, 1,115
+Pili, San Fernando, 1,238
+Poblacion, San Fernando, 1,462
+Taclobo, San Fernando, 5,045
+Busay, San Jose, 1,760
+Combot, San Jose, 905
+Lanas, San Jose, 2,966
+Pinamihagan, San Jose, 1,852
+Poblacion (Agcogon), San Jose, 3,398
+Agmanic, Santa Fe, 1,729
+Canyayo, Santa Fe, 1,552
+Danao Norte, Santa Fe, 1,200
+Danao Sur, Santa Fe, 751
+Guinbirayan, Santa Fe, 1,714
+Guintigbasan, Santa Fe, 741
+Magsaysay, Santa Fe, 1,409
+Mat‑i, Santa Fe, 1,191
+Pandan, Santa Fe, 1,360
+Poblacion, Santa Fe, 2,342
+Tabugon, Santa Fe, 2,109
+Bonga, Santa Maria, 1,184
+Concepcion Norte (Poblacion), Santa Maria, 2,641
+Concepcion Sur, Santa Maria, 2,175
+Paroyhog, Santa Maria, 701
+San Isidro, Santa Maria, 568
+Santo Niño, Santa Maria, 1,239

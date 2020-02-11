@@ -1,0 +1,132 @@
+Alicia, Aglipay, 1,325
+Cabugao, Aglipay, 468
+Dagupan, Aglipay, 1,090
+Diodol, Aglipay, 891
+Dumabel, Aglipay, 1,160
+Dungo (Osmeña), Aglipay, 896
+Guinalbin, Aglipay, 823
+Ligaya, Aglipay, 1,844
+Nagabgaban, Aglipay, 651
+Palacian, Aglipay, 1,988
+Pinaripad Norte, Aglipay, 1,152
+Pinaripad Sur, Aglipay, 1,242
+Progreso (Poblacion), Aglipay, 1,192
+Ramos, Aglipay, 768
+Rang‑ayan, Aglipay, 273
+San Antonio, Aglipay, 551
+San Benigno, Aglipay, 1,343
+San Francisco, Aglipay, 1,836
+San Leonardo (Cabarroguis), Aglipay, 2,352
+San Manuel, Aglipay, 853
+San Ramon, Aglipay, 706
+Victoria, Aglipay, 1,295
+Villa Pagaduan, Aglipay, 818
+Villa Santiago, Aglipay, 1,452
+Villa Ventura, Aglipay, 818
+Banuar, Cabarroguis, 473
+Burgos, Cabarroguis, 3,591
+Calaocan, Cabarroguis, 777
+Del Pilar, Cabarroguis, 561
+Dibibi, Cabarroguis, 2,618
+Dingasan, Cabarroguis, 1,283
+Eden, Cabarroguis, 1,180
+Gomez, Cabarroguis, 522
+Gundaway (Poblacion), Cabarroguis, 4,188
+Mangandingay (Poblacion), Cabarroguis, 3,448
+San Marcos, Cabarroguis, 2,506
+Santo Domingo, Cabarroguis, 652
+Tucod, Cabarroguis, 1,956
+Villa Peña (Capellangan), Cabarroguis, 708
+Villamor, Cabarroguis, 2,279
+Villarose, Cabarroguis, 735
+Zamora, Cabarroguis, 3,105
+Aklan Village, Diffun, 909
+Andres Bonifacio (Poblacion), Diffun, 3,740
+Aurora East (Poblacion), Diffun, 1,658
+Aurora West (Poblacion), Diffun, 2,652
+Baguio Village, Diffun, 949
+Balagbag, Diffun, 1,730
+Bannawag, Diffun, 2,126
+Cajel, Diffun, 2,089
+Campamento, Diffun, 1,517
+Diego Silang, Diffun, 1,852
+Don Faustino Pagaduan, Diffun, 513
+Don Mariano Perez, Sr., Sr., 792
+Doña Imelda, Diffun, 605
+Dumanisi, Diffun, 1,957
+Gabriela Silang, Diffun, 2,150
+Gregorio Pimentel, Diffun, 830
+Gulac, Diffun, 1,770
+Guribang, Diffun, 1,350
+Ifugao Village, Diffun, 1,506
+Isidro Paredes, Diffun, 1,800
+Liwayway, Diffun, 2,542
+Luttuad, Diffun, 1,989
+Magsaysay, Diffun, 940
+Makate, Diffun, 681
+Maria Clara, Diffun, 1,505
+Rafael Palma (Don Sergio Osmeña), Diffun, 786
+Ricarte Norte, Diffun, 1,588
+Ricarte Sur, Diffun, 698
+Rizal (Poblacion), Diffun, 3,674
+San Antonio, Diffun, 1,542
+San Isidro, Diffun, 1,940
+San Pascual, Diffun, 698
+Villa Pascua, Diffun, 1,491
+Abbag, Maddela, 856
+Balligui, Maddela, 2,250
+Buenavista, Maddela, 1,262
+Cabaruan, Maddela, 1,731
+Cabua‑an, Maddela, 806
+Cofcaville, Maddela, 688
+Diduyon, Maddela, 854
+Dipintin, Maddela, 2,929
+Divisoria Norte, Maddela, 616
+Divisoria Sur (Bisangal), Maddela, 999
+Dumabato Norte, Maddela, 1,498
+Dumabato Sur, Maddela, 1,422
+Jose Ancheta, Maddela, 1,120
+Lusod, Maddela, 2,061
+Manglad, Maddela, 684
+Pedlisan, Maddela, 638
+Poblacion Norte, Maddela, 3,111
+Poblacion Sur, Maddela, 2,220
+San Bernabe, Maddela, 953
+San Dionisio I, Maddela, 595
+San Martin, Maddela, 1,084
+San Pedro, Maddela, 1,133
+San Salvador, Maddela, 509
+Santa Maria, Maddela, 744
+Santo Niño, Maddela, 1,052
+Santo Tomas, Maddela, 588
+Villa Agullana, Maddela, 415
+Villa Gracia, Maddela, 942
+Villa Hermosa Norte, Maddela, 1,568
+Villa Hermosa Sur, Maddela, 2,075
+Villa Jose V Ylanan, Maddela, 480
+Ysmael, Maddela, 616
+Anak, Nagtipunan, 1,680
+Asaklat, Nagtipunan, 1,252
+Dipantan, Nagtipunan, 1,415
+Dissimungal, Nagtipunan, 1,954
+Guino (Giayan), Nagtipunan, 1,741
+La Conwap (Guingin), Nagtipunan, 523
+Landingan, Nagtipunan, 1,868
+Mataddi, Nagtipunan, 531
+Matmad, Nagtipunan, 431
+Old Gumiad, Nagtipunan, 845
+Ponggo, Nagtipunan, 3,081
+San Dionisio II, Nagtipunan, 3,795
+San Pugo, Nagtipunan, 431
+San Ramos, Nagtipunan, 829
+Sangbay, Nagtipunan, 1,900
+Wasid, Nagtipunan, 1,208
+Cardenas, Saguday, 961
+Dibul, Saguday, 1,376
+Gamis, Saguday, 1,029
+La Paz, Saguday, 2,984
+Magsaysay (Poblacion), Saguday, 2,867
+Rizal (Poblacion), Saguday, 3,211
+Salvacion, Saguday, 1,405
+Santo Tomas, Saguday, 1,328
+Tres Reyes, Saguday, 909

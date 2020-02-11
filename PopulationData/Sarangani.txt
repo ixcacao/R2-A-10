@@ -1,0 +1,141 @@
+Alegria, Alabel, 7,848
+Bagacay, Alabel, 3,310
+Baluntay, Alabel, 4,346
+Datal Anggas, Alabel, 7,672
+Domolok, Alabel, 4,371
+Kawas, Alabel, 6,337
+Ladol, Alabel, 4,099
+Maribulan, Alabel, 6,526
+Pag‑asa, Alabel, 7,587
+Paraiso, Alabel, 2,307
+Poblacion (Alabel), Alabel, 18,104
+Spring, Alabel, 4,430
+Tokawal, Alabel, 3,422
+Baliton, Glan, 6,870
+Batotuling, Glan, 1,472
+Batulaki, Glan, 1,858
+Big Margus, Glan, 4,700
+Burias, Glan, 3,530
+Cablalan, Glan, 3,067
+Calabanit, Glan, 6,189
+Calpidong, Glan, 2,427
+Congan, Glan, 3,149
+Cross, Glan, 2,155
+Datalbukay, Glan, 6,732
+E. Alegado, Glan, 4,942
+Glan Padidu, Glan, 4,664
+Gumasa, Glan, 3,314
+Ilaya, Glan, 4,688
+Kaltuad, Glan, 2,470
+Kapatan, Glan, 3,305
+Lago, Glan, 2,194
+Laguimit, Glan, 3,482
+Mudan, Glan, 2,654
+New Aklan, Glan, 1,886
+Pangyan, Glan, 6,643
+Poblacion, Glan, 9,812
+Rio del Pilar, Glan, 1,459
+San Jose, Glan, 1,760
+San Vicente, Glan, 3,381
+Small Margus, Glan, 3,899
+Sufatubo, Glan, 2,571
+Taluya, Glan, 6,886
+Tango, Glan, 2,980
+Tapon, Glan, 3,124
+Badtasan, Kiamba, 2,777
+Datu Dani, Kiamba, 2,324
+Gasi, Kiamba, 1,743
+Kapate, Kiamba, 2,070
+Katubao, Kiamba, 4,686
+Kayupo, Kiamba, 3,986
+Kling (Lumit), Kiamba, 853
+Lagundi, Kiamba, 2,094
+Lebe, Kiamba, 929
+Lomuyon, Kiamba, 4,823
+Luma, Kiamba, 1,352
+Maligang, Kiamba, 2,258
+Nalus, Kiamba, 4,897
+Poblacion, Kiamba, 12,726
+Salakit, Kiamba, 2,063
+Suli, Kiamba, 2,671
+Tablao, Kiamba, 1,281
+Tamadang, Kiamba, 1,908
+Tambilil, Kiamba, 5,617
+Amsipit, Maasim, 4,367
+Bales, Maasim, 1,056
+Colon, Maasim, 5,470
+Daliao, Maasim, 3,515
+Kabatiol, Maasim, 2,983
+Kablacan, Maasim, 6,755
+Kamanga, Maasim, 4,005
+Kanalo, Maasim, 1,626
+Lumasal, Maasim, 4,591
+Lumatil, Maasim, 2,501
+Malbang, Maasim, 3,621
+Nomoh, Maasim, 2,954
+Pananag, Maasim, 1,686
+Poblacion (Maasim), Maasim, 7,943
+Seven Hills, Maasim, 515
+Tinoto, Maasim, 5,880
+Bati‑an, Maitum, 1,037
+Kalaneg, Maitum, 1,575
+Kalaong, Maitum, 2,538
+Kiambing, Maitum, 1,032
+Kiayap, Maitum, 1,258
+Mabay, Maitum, 3,842
+Maguling, Maitum, 2,729
+Malalag (Poblacion), Maitum, 4,451
+Mindupok, Maitum, 3,564
+New La Union, Maitum, 1,264
+Old Poblacion (Maitum), Maitum, 4,458
+Pangi (Linao), Maitum, 1,072
+Pinol, Maitum, 3,248
+Sison (Edenton), Maitum, 2,011
+Ticulab, Maitum, 1,774
+Tuanadatu, Maitum, 2,703
+Upo (Lanao), Maitum, 2,794
+Wali (Kambuhan), Maitum, 1,584
+Zion, Maitum, 1,661
+Daan Suyan, Malapatan, 4,078
+Kihan, Malapatan, 3,966
+Kinam, Malapatan, 10,830
+Libi, Malapatan, 2,272
+Lun Masla, Malapatan, 4,718
+Lun Padidu, Malapatan, 10,226
+Patag, Malapatan, 2,269
+Poblacion (Malapatan), Malapatan, 15,920
+Sapu Masla, Malapatan, 7,763
+Sapu Padidu, Malapatan, 3,215
+Tuyan, Malapatan, 6,340
+Upper Suyan, Malapatan, 5,317
+Alkikan, Malungon, 1,161
+Ampon, Malungon, 1,893
+Atlae, Malungon, 2,188
+Banahaw, Malungon, 1,999
+Banate, Malungon, 4,134
+B'Laan, Malungon, 1,482
+Datal Batong, Malungon, 2,536
+Datal Bila, Malungon, 1,249
+Datal Tampal, Malungon, 2,913
+J. P. Laurel, Malungon, 2,943
+Kawayan, Malungon, 1,712
+Kibala, Malungon, 739
+Kiblat, Malungon, 2,508
+Kinabalan, Malungon, 2,107
+Lower Mainit, Malungon, 2,344
+Lutay, Malungon, 4,355
+Malabod, Malungon, 1,524
+Malalag Cogon, Malungon, 4,512
+Malandag, Malungon, 15,071
+Malungon Gamay, Malungon, 2,963
+Nagpan, Malungon, 3,298
+Panamin, Malungon, 1,757
+Poblacion, Malungon, 9,895
+San Juan, Malungon, 1,185
+San Miguel, Malungon, 2,892
+San Roque, Malungon, 4,105
+Talus, Malungon, 2,774
+Tamban, Malungon, 8,219
+Upper Biangan, Malungon, 2,717
+Upper Lumabat, Malungon, 2,138
+Upper Mainit, Malungon, 4,291

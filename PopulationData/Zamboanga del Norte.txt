@@ -1,0 +1,691 @@
+Alegria, Baliguian, 1,396
+Diangas, Baliguian, 384
+Diculom, Baliguian, 949
+Guimotan, Baliguian, 383
+Kauswagan, Baliguian, 1,766
+Kilalaban, Baliguian, 1,910
+Linay, Baliguian, 2,153
+Lumay, Baliguian, 1,001
+Malinao, Baliguian, 1,543
+Mamad, Baliguian, 2,271
+Mamawan, Baliguian, 821
+Milidan, Baliguian, 1,528
+Nonoyan, Baliguian, 1,582
+Poblacion, Baliguian, 2,234
+San Jose, Baliguian, 1,231
+Tamao, Baliguian, 859
+Tan‑awan, Baliguian, 577
+Aliguay, Dapitan, 682
+Antipolo, Dapitan, 1,510
+Aseniero, Dapitan, 1,924
+Ba‑ao, Dapitan, 849
+Bagting (Poblacion), Dapitan, 1,215
+Banbanan, Dapitan, 1,092
+Banonong (Poblacion), Dapitan, 4,437
+Barcelona, Dapitan, 2,128
+Baylimango, Dapitan, 1,390
+Burgos, Dapitan, 1,378
+Canlucani, Dapitan, 1,176
+Carang, Dapitan, 759
+Cawa‑cawa (Poblacion), Dapitan, 2,746
+Dampalan, Dapitan, 1,474
+Daro, Dapitan, 572
+Dawo (Poblacion), Dapitan, 2,655
+Diwa‑an, Dapitan, 1,078
+Guimputlan, Dapitan, 811
+Hilltop, Dapitan, 765
+Ilaya, Dapitan, 2,975
+Kauswagan (Talisay), Dapitan, 1,217
+Larayan, Dapitan, 2,018
+Linabo (Poblacion), Dapitan, 1,505
+Liyang, Dapitan, 1,122
+Maria Cristina, Dapitan, 2,045
+Maria Uray, Dapitan, 1,525
+Masidlakon, Dapitan, 1,198
+Matagobtob Poblacion (Talisay), Dapitan, 3,084
+Napo, Dapitan, 1,044
+Opao, Dapitan, 1,510
+Oro, Dapitan, 1,113
+Owaon, Dapitan, 1,922
+Oyan, Dapitan, 859
+Polo, Dapitan, 3,226
+Potol (Poblacion), Dapitan, 1,729
+Potungan, Dapitan, 1,559
+San Francisco, Dapitan, 555
+San Nicolas, Dapitan, 1,294
+San Pedro, Dapitan, 2,017
+San Vicente, Dapitan, 2,781
+Santa Cruz (Poblacion), Dapitan, 1,683
+Santo Niño, Dapitan, 1,810
+Sicayab Bocana, Dapitan, 2,537
+Sigayan, Dapitan, 919
+Silinog, Dapitan, 697
+Sinonoc, Dapitan, 1,578
+Sulangon, Dapitan, 3,150
+Tag‑olo, Dapitan, 754
+Taguilon, Dapitan, 3,358
+Tamion, Dapitan, 993
+Barra (Poblacion), Dipolog, 3,466
+Biasong (Poblacion), Dipolog, 3,496
+Central (Poblacion), Dipolog, 2,029
+Cogon, Dipolog, 1,665
+Dicayas, Dipolog, 9,618
+Diwan, Dipolog, 3,747
+Estaca (Poblacion), Dipolog, 7,590
+Galas, Dipolog, 17,540
+Gulayon, Dipolog, 7,359
+Lugdungan, Dipolog, 2,269
+Minaog, Dipolog, 7,904
+Miputak (Poblacion), Dipolog, 7,997
+Olingan, Dipolog, 13,250
+Punta, Dipolog, 2,923
+San Jose, Dipolog, 1,068
+Sangkol, Dipolog, 2,092
+Santa Filomena, Dipolog, 8,762
+Santa Isabel, Dipolog, 7,665
+Sicayab, Dipolog, 7,979
+Sinaman, Dipolog, 2,033
+Turno, Dipolog, 10,307
+Baluno, Godod, 623
+Banuangan, Godod, 1,054
+Bunawan, Godod, 1,576
+Dilucot, Godod, 385
+Dipopor, Godod, 964
+Guisapong, Godod, 603
+Limbonga (Limboangan), Godod, 518
+Lomogom, Godod, 512
+Mauswagon, Godod, 1,158
+Miampic, Godod, 1,080
+Poblacion, Godod, 2,503
+Raba, Godod, 1,657
+Rambon, Godod, 891
+San Pedro, Godod, 1,332
+Sarawagan, Godod, 587
+Sianan, Godod, 791
+Sioran, Godod, 1,190
+Bacong, Gutalac, 539
+Bagong Silang, Gutalac, 979
+Banganon, Gutalac, 991
+Bayanihan, Gutalac, 517
+Buenavista, Gutalac, 855
+Canupong, Gutalac, 790
+Cocob, Gutalac, 1,228
+Datagan, Gutalac, 753
+Imelda, Gutalac, 1,900
+Immaculada Concepcion, Gutalac, 765
+La Libertad, Gutalac, 1,308
+Loay, Gutalac, 1,210
+Lower Lux, Gutalac, 743
+Lux, Gutalac, 1,135
+Malian, Gutalac, 488
+Mamawan, Gutalac, 1,252
+Map, Gutalac, 819
+Matunoy, Gutalac, 760
+New Dapitan, Gutalac, 390
+Panganuran, Gutalac, 1,096
+Pitawe, Gutalac, 1,192
+Pitogo, Gutalac, 693
+Poblacion (Gutalac), Gutalac, 1,598
+Salvador, Gutalac, 1,649
+San Isidro, Gutalac, 1,370
+San Juan, Gutalac, 1,460
+San Roque, Gutalac, 874
+San Vicente, Gutalac, 1,596
+Santo Niño, Gutalac, 610
+Sas, Gutalac, 1,079
+Sibalic, Gutalac, 881
+Tipan, Gutalac, 1,682
+Upper Gutalac, Gutalac, 1,452
+Balatakan, Jose Dalman, 1,126
+Bitoon, Jose Dalman, 761
+Dinasan, Jose Dalman, 1,676
+Ilihan, Jose Dalman, 656
+Labakid, Jose Dalman, 1,178
+Lipay, Jose Dalman, 1,017
+Litalip, Jose Dalman, 927
+Lopero, Jose Dalman, 444
+Lumanping, Jose Dalman, 1,241
+Madalag, Jose Dalman, 1,943
+Manawan, Jose Dalman, 1,160
+Marupay, Jose Dalman, 832
+Poblacion (Ponot), Jose Dalman, 4,742
+Sigamok, Jose Dalman, 958
+Siparok, Jose Dalman, 2,670
+Tabon, Jose Dalman, 2,676
+Tamarok, Jose Dalman, 1,164
+Tamil, Jose Dalman, 2,217
+Batayan, Kalawit, 2,885
+Botong, Kalawit, 1,410
+Concepcion, Kalawit, 730
+Daniel Maing (Dominolog), Kalawit, 2,507
+Fatima (Lacsutan), Kalawit, 1,215
+Gatas, Kalawit, 1,296
+Kalawit (Poblacion), Kalawit, 4,590
+Marcelo, Kalawit, 1,067
+New Calamba, Kalawit, 1,163
+Palalian, Kalawit, 1,298
+Paraiso, Kalawit, 777
+Pianon, Kalawit, 2,182
+San Jose, Kalawit, 1,488
+Tugop, Kalawit, 1,025
+Balok, Katipunan, 1,133
+Barangay Dos (Poblacion), Katipunan, 2,415
+Barangay Uno (Poblacion), Katipunan, 2,828
+Basagan, Katipunan, 1,053
+Biniray, Katipunan, 573
+Bulawan, Katipunan, 1,672
+Carupay, Katipunan, 1,509
+Daanglungsod, Katipunan, 1,906
+Dabiak, Katipunan, 1,660
+Dr. Jose Rizal (Lower Mias), Katipunan, 1,384
+Fimagas, Katipunan, 1,372
+Loyuran, Katipunan, 791
+Malasay, Katipunan, 1,260
+Malugas, Katipunan, 1,174
+Matam, Katipunan, 1,296
+Mias, Katipunan, 1,687
+Miatan, Katipunan, 1,010
+Nanginan, Katipunan, 1,430
+New Tambo, Katipunan, 2,018
+Patik, Katipunan, 896
+San Antonio (Looy), Katipunan, 2,605
+San Vicente, Katipunan, 1,344
+Sanao, Katipunan, 858
+Santo Niño, Katipunan, 537
+Seres, Katipunan, 2,173
+Seroan, Katipunan, 1,260
+Singatong, Katipunan, 1,438
+Sinuyak, Katipunan, 1,336
+Sitog, Katipunan, 3,191
+Tuburan, Katipunan, 1,768
+El Paraiso, La Libertad, 929
+La Union, La Libertad, 648
+La Victoria, La Libertad, 396
+Mauswagon, La Libertad, 1,130
+Mercedes, La Libertad, 529
+New Argao, La Libertad, 339
+New Bataan, La Libertad, 311
+New Carcar, La Libertad, 445
+Poblacion, La Libertad, 1,507
+San Jose, La Libertad, 416
+Santa Catalina, La Libertad, 307
+Santa Cruz, La Libertad, 562
+Singaran, La Libertad, 887
+Antonino (Poblacion), Labason, 3,952
+Balas, Labason, 1,609
+Bobongan, Labason, 1,165
+Dansalan, Labason, 1,805
+Gabu, Labason, 1,268
+Gil Sanchez, Labason, 2,769
+Imelda, Labason, 2,683
+Immaculada, Labason, 813
+Kipit, Labason, 3,364
+La Union, Labason, 2,041
+Lapatan, Labason, 1,358
+Lawagan, Labason, 1,562
+Lawigan, Labason, 1,404
+Lopoc (Poblacion), Labason, 2,746
+Malintuboan, Labason, 2,941
+New Salvacion, Labason, 822
+Osukan, Labason, 4,195
+Patawag, Labason, 2,480
+San Isidro, Labason, 556
+Ubay, Labason, 1,824
+Bacungan (Poblacion), Leon B. Postigo, 5,072
+Bogabongan, Leon B. Postigo, 2,004
+Delusom, Leon B. Postigo, 1,478
+Mangop, Leon B. Postigo, 848
+Manil, Leon B. Postigo, 1,824
+Mawal, Leon B. Postigo, 562
+Midatag, Leon B. Postigo, 650
+Morob, Leon B. Postigo, 699
+Nasibac, Leon B. Postigo, 1,513
+Rizon, Leon B. Postigo, 2,024
+Santa Maria, Leon B. Postigo, 1,294
+Sipacong, Leon B. Postigo, 868
+Talinga, Leon B. Postigo, 2,437
+Tinaplan, Leon B. Postigo, 636
+Tiniguiban, Leon B. Postigo, 1,092
+Tinuyop, Leon B. Postigo, 1,162
+Tiogan, Leon B. Postigo, 935
+Titik, Leon B. Postigo, 1,123
+Banigan, Liloy, 1,220
+Baybay (Poblacion), Liloy, 6,395
+Cabangcalan, Liloy, 252
+Canaan, Liloy, 511
+Candelaria, Liloy, 878
+Causwagan, Liloy, 1,176
+Communal, Liloy, 1,870
+Compra, Liloy, 1,138
+Dela Paz, Liloy, 914
+El Paraiso, Liloy, 717
+Fatima, Liloy, 3,611
+Ganase, Liloy, 286
+Goaw, Liloy, 728
+Goin, Liloy, 833
+Kayok, Liloy, 1,695
+La Libertad (Mawal), Liloy, 477
+Lamao, Liloy, 1,389
+Mabuhay, Liloy, 709
+Maigang, Liloy, 629
+Malila, Liloy, 498
+Mauswagon, Liloy, 582
+New Bethlehem, Liloy, 442
+Overview, Liloy, 865
+Panabang, Liloy, 412
+Patawag, Liloy, 807
+Punta, Liloy, 911
+San Francisco, Liloy, 1,070
+San Isidro, Liloy, 670
+San Miguel, Liloy, 837
+San Roque, Liloy, 549
+Santa Cruz, Liloy, 941
+Santo Niño, Liloy, 431
+Silucap, Liloy, 849
+Tapican, Liloy, 682
+Timan, Liloy, 1,015
+Villa Calixto Sudiacal, Liloy, 1,563
+Villa M. Tejero, Liloy, 1,260
+Dipane, Manukan, 1,325
+Disakan, Manukan, 1,689
+Don Jose Aguirre, Manukan, 3,429
+East Poblacion, Manukan, 3,025
+Gupot, Manukan, 1,022
+Libuton, Manukan, 1,357
+Linay, Manukan, 1,490
+Lingatongan, Manukan, 765
+Lupasang, Manukan, 591
+Mate, Manukan, 1,339
+Meses, Manukan, 1,049
+Palaranan, Manukan, 934
+Pangandao, Manukan, 1,467
+Patagan, Manukan, 1,181
+Poblacion, Manukan, 4,213
+Punta Blanca, Manukan, 2,092
+Saluyong, Manukan, 1,385
+San Antonio, Manukan, 2,322
+Serongan, Manukan, 1,552
+Suisayan, Manukan, 947
+Upper Disakan, Manukan, 1,985
+Villaramos, Manukan, 1,367
+Alvenda, Mutia, 891
+Buenasuerte, Mutia, 1,254
+Diland, Mutia, 540
+Diolen, Mutia, 506
+Head Tipan, Mutia, 455
+New Casul, Mutia, 349
+New Siquijor, Mutia, 936
+Newland, Mutia, 719
+Paso Rio, Mutia, 392
+Poblacion, Mutia, 1,884
+San Miguel, Mutia, 570
+Santo Tomas, Mutia, 1,712
+Tinglan, Mutia, 620
+Totongon, Mutia, 571
+Tubac, Mutia, 566
+Unidos, Mutia, 710
+Adante, Piñan, 631
+Bacuyong, Piñan, 1,090
+Bagong Silang, Piñan, 279
+Calican, Piñan, 1,272
+Del Pilar, Piñan, 1,375
+Desin, Piñan, 559
+Dilawa, Piñan, 1,168
+Dionum, Piñan, 692
+Lapu‑lapu, Piñan, 1,074
+Lower Gumay, Piñan, 829
+Luzvilla, Piñan, 658
+Poblacion North, Piñan, 2,916
+Poblacion South, Piñan, 1,717
+Santa Fe, Piñan, 368
+Segabe, Piñan, 777
+Sikitan, Piñan, 675
+Silano, Piñan, 836
+Teresita, Piñan, 1,168
+Tinaytayan, Piñan, 651
+Ubay (Daan Tipan), Piñan, 552
+Upper Gumay, Piñan, 299
+Villarico, Piñan, 575
+Anastacio, Polanco, 1,463
+Bandera, Polanco, 1,336
+Bethlehem, Polanco, 680
+Dangi, Polanco, 506
+Dansullan, Polanco, 1,219
+De Venta Perla, Polanco, 972
+Guinles, Polanco, 2,234
+Isis, Polanco, 1,767
+Labrador (Prinda), Polanco, 1,343
+Lapayanbaja, Polanco, 811
+Letapan, Polanco, 1,227
+Linabo, Polanco, 325
+Lingasad, Polanco, 2,545
+Macleodes, Polanco, 659
+Magangon, Polanco, 1,247
+Maligaya, Polanco, 333
+Milad, Polanco, 851
+New Lebangon, Polanco, 655
+New Sicayab, Polanco, 888
+Obay, Polanco, 4,261
+Pian, Polanco, 777
+Poblacion North, Polanco, 2,066
+Poblacion South, Polanco, 1,832
+San Antonio (Paetan), Polanco, 1,486
+San Miguel (Loboc), Polanco, 775
+San Pedro, Polanco, 1,223
+Santo Niño (Lantoy), Polanco, 1,452
+Sianib, Polanco, 1,073
+Silawe, Polanco, 1,973
+Villahermosa, Polanco, 1,368
+Balubo, President Manuel A. Roxas, 917
+Banbanan, President Manuel A. Roxas, 839
+Canibongan, President Manuel A. Roxas, 1,616
+Capase, President Manuel A. Roxas, 1,131
+Cape, President Manuel A. Roxas, 460
+Denoman, President Manuel A. Roxas, 1,294
+Dohinob, President Manuel A. Roxas, 1,663
+Galokso, President Manuel A. Roxas, 1,155
+Gubat, President Manuel A. Roxas, 862
+Irasan, President Manuel A. Roxas, 2,790
+Labakid, President Manuel A. Roxas, 755
+Langatian, President Manuel A. Roxas, 4,203
+Lipakan, President Manuel A. Roxas, 1,236
+Marupay, President Manuel A. Roxas, 1,584
+Moliton, President Manuel A. Roxas, 967
+Nabilid, President Manuel A. Roxas, 2,030
+Panampalay, President Manuel A. Roxas, 1,642
+Pangologon, President Manuel A. Roxas, 720
+Piao, President Manuel A. Roxas, 1,284
+Piñalan, President Manuel A. Roxas, 758
+Piñamar, President Manuel A. Roxas, 1,120
+Pongolan, President Manuel A. Roxas, 794
+Salisig, President Manuel A. Roxas, 924
+Sebod, President Manuel A. Roxas, 710
+Sibatog, President Manuel A. Roxas, 633
+Situbo, President Manuel A. Roxas, 1,959
+Tanayan, President Manuel A. Roxas, 855
+Tantingon, President Manuel A. Roxas, 1,099
+Upper Irasan, President Manuel A. Roxas, 1,450
+Upper Minang, President Manuel A. Roxas, 730
+Villahermoso, President Manuel A. Roxas, 1,143
+Balubohan, Rizal, 483
+Birayan, Rizal, 251
+Damasing, Rizal, 679
+East Poblacion, Rizal, 741
+La Esperanza, Rizal, 600
+Mabuhay, Rizal, 531
+Mabunao, Rizal, 449
+Mitimos, Rizal, 555
+Nangca, Rizal, 682
+Nangcaan, Rizal, 648
+Napilan, Rizal, 477
+Nasipang, Rizal, 854
+New Dapitan, Rizal, 940
+Nilabo, Rizal, 411
+North Mapang, Rizal, 864
+Rizalina, Rizal, 533
+San Roque, Rizal, 532
+Sebaca, Rizal, 800
+Sipaon, Rizal, 639
+South Mapang, Rizal, 981
+Tolon, Rizal, 776
+West Poblacion, Rizal, 595
+Bacong, Salug, 1,370
+Balakan, Salug, 1,134
+Binoni, Salug, 1,444
+Calucap, Salug, 1,085
+Canawan, Salug, 1,492
+Caracol, Salug, 2,906
+Danao, Salug, 740
+Dinoan, Salug, 1,027
+Dipolod, Salug, 877
+Fatima (Pogan), Salug, 977
+Ipilan, Salug, 772
+Lanawan, Salug, 880
+Liguac, Salug, 1,230
+Lipakan, Salug, 1,167
+Mucas, Salug, 1,963
+Pacuhan, Salug, 674
+Poblacion (Salug), Salug, 2,992
+Poblacion East, Salug, 3,664
+Pukay, Salug, 969
+Ramon Magsaysay, Salug, 1,895
+Santo Niño, Salug, 1,010
+Tambalang, Salug, 1,151
+Tapalan, Salug, 785
+Antonino, Sergio Osmeña Sr., 422
+Bagong Baguio, Sergio Osmeña Sr., 925
+Bagumbayan, Sergio Osmeña Sr., 1,005
+Biayon, Sergio Osmeña Sr., 1,755
+Buenavista, Sergio Osmeña Sr., 694
+Dampalan, Sergio Osmeña Sr., 1,371
+Danao, Sergio Osmeña Sr., 422
+Don Eleno, Sergio Osmeña Sr., 299
+Kauswagan, Sergio Osmeña Sr., 771
+Labiray, Sergio Osmeña Sr., 633
+Liwanag, Sergio Osmeña Sr., 316
+Mabuhay, Sergio Osmeña Sr., 345
+Macalibre, Sergio Osmeña Sr., 413
+Mahayahay, Sergio Osmeña Sr., 489
+Marapong, Sergio Osmeña Sr., 1,250
+Nazareth, Sergio Osmeña Sr., 965
+Nebo, Sergio Osmeña Sr., 634
+New Rizal, Sergio Osmeña Sr., 410
+New Tangub, Sergio Osmeña Sr., 559
+Nuevavista, Sergio Osmeña Sr., 354
+Pedagan, Sergio Osmeña Sr., 564
+Penacio, Sergio Osmeña Sr., 215
+Poblacion Alto, Sergio Osmeña Sr., 1,819
+Poblacion Bajo, Sergio Osmeña Sr., 1,423
+Princesa Freshia, Sergio Osmeña Sr., 396
+Princesa Lamaya, Sergio Osmeña Sr., 1,053
+San Antonio, Sergio Osmeña Sr., 606
+San Francisco, Sergio Osmeña Sr., 830
+San Isidro, Sergio Osmeña Sr., 1,331
+San Jose, Sergio Osmeña Sr., 2,195
+San Juan, Sergio Osmeña Sr., 794
+Sinaad, Sergio Osmeña Sr., 360
+Sinai, Sergio Osmeña Sr., 1,005
+Situbo, Sergio Osmeña Sr., 529
+Tinago, Sergio Osmeña Sr., 293
+Tinindugan, Sergio Osmeña Sr., 297
+Tuburan, Sergio Osmeña Sr., 472
+Venus, Sergio Osmeña Sr., 1,506
+Wilben, Sergio Osmeña Sr., 500
+Balok, Siayan, 1,376
+Balunokan, Siayan, 764
+Datagan, Siayan, 1,125
+Denoyan, Siayan, 1,417
+Diongan, Siayan, 2,420
+Domogok, Siayan, 1,421
+Dumpilas, Siayan, 956
+Gonayen, Siayan, 872
+Guibo, Siayan, 3,580
+Gunyan, Siayan, 1,911
+Litolet, Siayan, 1,091
+Macasing, Siayan, 1,538
+Mangilay, Siayan, 2,192
+Moyo, Siayan, 1,849
+Muñoz, Siayan, 978
+Pange, Siayan, 1,386
+Paranglumba (Poblacion), Siayan, 2,027
+Polayo, Siayan, 1,106
+Sayaw, Siayan, 664
+Seriac, Siayan, 919
+Siayan Proper (Poblacion), Siayan, 3,931
+Suguilon, Siayan, 1,443
+Anongan, Sibuco, 1,974
+Basak, Sibuco, 130
+Bongalao, Sibuco, 656
+Cabbunan, Sibuco, 535
+Cawit‑cawit, Sibuco, 1,497
+Culaguan, Sibuco, 436
+Cusipan, Sibuco, 822
+Dinulan, Sibuco, 236
+Jatian, Sibuco, 1,682
+Kamarangan, Sibuco, 506
+Lakiki, Sibuco, 596
+Lambagoan, Sibuco, 403
+Limpapa, Sibuco, 489
+Lingayon, Sibuco, 1,121
+Lintangan, Sibuco, 4,739
+Litawan, Sibuco, 619
+Lunday, Sibuco, 1,570
+Malayal, Sibuco, 3,570
+Mantivo, Sibuco, 655
+Nala (Poblacion), Sibuco, 465
+Panganuran, Sibuco, 1,304
+Pangian, Sibuco, 1,059
+Paniran, Sibuco, 859
+Pasilnahut, Sibuco, 747
+Poblacion, Sibuco, 3,906
+Puliran, Sibuco, 1,155
+Santo Niño (Culabog), Sibuco, 1,771
+Tangarak, Sibuco, 1,118
+Bagacay, Sibutad, 895
+Calilic, Sibutad, 532
+Calube, Sibutad, 1,051
+Delapa, Sibutad, 629
+Kanim, Sibutad, 988
+Libay, Sibutad, 2,410
+Magsaysay, Sibutad, 1,321
+Marapong, Sibutad, 876
+Minlasag, Sibutad, 836
+Oyan, Sibutad, 614
+Panganuran, Sibutad, 298
+Poblacion (Sibutad), Sibutad, 3,293
+Sawang, Sibutad, 1,331
+Sibuloc, Sibutad, 648
+Sinipay, Sibutad, 531
+Sipaloc, Sibutad, 1,392
+Bago, Sindangan, 2,775
+Balok, Sindangan, 1,311
+Bantayan, Sindangan, 2,353
+Bato, Sindangan, 1,429
+Benigno Aquino Jr., Sindangan, 2,382
+Binuangan, Sindangan, 2,403
+Bitoon, Sindangan, 2,043
+Bucana, Sindangan, 1,573
+Calatunan, Sindangan, 2,424
+Caluan, Sindangan, 1,667
+Calubian, Sindangan, 1,819
+Dagohoy, Sindangan, 832
+Dapaon, Sindangan, 2,480
+Datagan, Sindangan, 867
+Datu Tangkilan, Sindangan, 2,389
+Dicoyong, Sindangan, 2,038
+Disud, Sindangan, 3,302
+Don Ricardo Macias (Dinobot), Sindangan, 2,492
+Doña Josefa, Sindangan, 1,916
+Dumalogdog, Sindangan, 2,049
+Fatima, Sindangan, 613
+Gampis, Sindangan, 1,880
+Goleo, Sindangan, 2,881
+Imelda, Sindangan, 1,220
+Inuman, Sindangan, 1,745
+Joaquin Macias, Sindangan, 1,374
+La Concepcion, Sindangan, 1,688
+La Roche San Miguel, Sindangan, 1,764
+Labakid, Sindangan, 1,938
+Lagag, Sindangan, 1,725
+Lapero, Sindangan, 988
+Lawis, Sindangan, 2,849
+Magsaysay, Sindangan, 1,445
+Mandih, Sindangan, 4,217
+Maras, Sindangan, 2,115
+Mawal, Sindangan, 1,094
+Misok, Sindangan, 1,005
+Motibot, Sindangan, 2,614
+Nato, Sindangan, 1,638
+Nipaan, Sindangan, 1,191
+Pangalalan, Sindangan, 1,768
+Piao, Sindangan, 2,573
+Poblacion, Sindangan, 3,269
+Santo Niño, Sindangan, 915
+Santo Rosario, Sindangan, 916
+Siare, Sindangan, 3,834
+Talinga, Sindangan, 1,400
+Tigbao, Sindangan, 2,159
+Tinaplan, Sindangan, 1,510
+Titik, Sindangan, 1,759
+Upper Inuman, Sindangan, 2,210
+Upper Nipaan, Sindangan, 594
+Andres Micubo Jr. (Balili), Siocon, 947
+Balagunan, Siocon, 1,812
+Bucana, Siocon, 2,773
+Bulacan, Siocon, 782
+Candiz, Siocon, 3,529
+Datu Sailila, Siocon, 548
+Dionisio Riconalla, Siocon, 1,416
+Jose P. Brillantes, Sr., Sr. (Old Lituban), 1,954
+Latabon, Siocon, 1,658
+Makiang, Siocon, 2,143
+Malambuhangin, Siocon, 582
+Malipot, Siocon, 728
+Manaol, Siocon, 1,744
+Mateo Francisco, Siocon, 1,090
+Matiag, Siocon, 1,039
+New Lituban, Siocon, 1,775
+Pangian, Siocon, 927
+Pisawak, Siocon, 1,824
+Poblacion, Siocon, 6,328
+S. Cabral, Siocon, 843
+Santa Maria, Siocon, 3,046
+Siay, Siocon, 1,747
+Suhaile Arabi, Siocon, 2,482
+Tabayo, Siocon, 3,600
+Tagaytay, Siocon, 454
+Tibangao, Siocon, 1,136
+Balatakan, Sirawai, 614
+Balonkan, Sirawai, 376
+Balubuan, Sirawai, 326
+Bitugan, Sirawai, 529
+Bongon, Sirawai, 725
+Catuyan, Sirawai, 346
+Culasian, Sirawai, 845
+Danganon, Sirawai, 385
+Doña Cecilia, Sirawai, 1,237
+Guban, Sirawai, 9,078
+Lagundi, Sirawai, 325
+Libucon, Sirawai, 541
+Lubok, Sirawai, 765
+Macuyon, Sirawai, 347
+Minanga, Sirawai, 230
+Motong, Sirawai, 421
+Napulan, Sirawai, 346
+Panabutan, Sirawai, 507
+Piacan, Sirawai, 695
+Piña, Sirawai, 373
+Pisa Itom, Sirawai, 321
+Pisa Puti, Sirawai, 324
+Pugos, Sirawai, 359
+Pula Bato, Sirawai, 574
+Pulang Lupa, Sirawai, 356
+Saint Mary (Poblacion), Sirawai, 1,030
+San Nicolas (Poblacion), Sirawai, 1,351
+San Roque (Poblacion), Sirawai, 1,324
+San Vicente (Poblacion), Sirawai, 605
+Sipakit, Sirawai, 486
+Sipawa, Sirawai, 604
+Sirawai Proper (Poblacion), Sirawai, 1,776
+Talabiga, Sirawai, 286
+Tapanayan, Sirawai, 392
+Balacbaan, Tampilisan, 891
+Banbanan, Tampilisan, 1,019
+Barili, Tampilisan, 709
+Cabong, Tampilisan, 778
+Camul, Tampilisan, 1,367
+Farmington, Tampilisan, 1,315
+Galingon, Tampilisan, 1,590
+Lawaan, Tampilisan, 1,242
+Lumbayao, Tampilisan, 1,045
+Malila‑t, Tampilisan, 755
+Molos, Tampilisan, 1,273
+New Dapitan, Tampilisan, 1,417
+Poblacion (Tampilisan), Tampilisan, 4,366
+Sandayong, Tampilisan, 592
+Santo Niño, Tampilisan, 1,246
+Situbo, Tampilisan, 1,494
+Tilubog, Tampilisan, 391
+Tininggaan, Tampilisan, 429
+Tubod, Tampilisan, 768
+Znac, Tampilisan, 1,620

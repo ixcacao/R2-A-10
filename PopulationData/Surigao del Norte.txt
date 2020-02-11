@@ -1,0 +1,335 @@
+Alipao, Alegria, 2,161
+Anahaw, Alegria, 1,630
+Budlingin, Alegria, 630
+Camp Eduard (Geotina), Alegria, 505
+Ferlda, Alegria, 174
+Gamuton, Alegria, 759
+Julio Ouano (Poblacion), Alegria, 2,056
+Ombong, Alegria, 966
+Poblacion (Alegria), Alegria, 1,871
+Pongtud, Alegria, 1,536
+San Juan, Alegria, 1,503
+San Pedro, Alegria, 2,220
+Cabugao, Bacuag, 1,275
+Cambuayon, Bacuag, 688
+Campo, Bacuag, 2,099
+Dugsangon, Bacuag, 1,271
+Pautao, Bacuag, 1,200
+Payapag, Bacuag, 1,545
+Poblacion, Bacuag, 5,475
+Pungtod, Bacuag, 480
+Santo Rosario, Bacuag, 453
+Baybay, Burgos, 915
+Bitaug, Burgos, 319
+Matin‑ao, Burgos, 288
+Poblacion 1, Burgos, 888
+Poblacion 2, Burgos, 1,250
+San Mateo, Burgos, 374
+Bagakay (Poblacion West), Claver, 2,331
+Cabugo, Claver, 2,542
+Cagdianao, Claver, 4,140
+Daywan, Claver, 2,587
+Hayanggabon, Claver, 2,373
+Ladgaron (Poblacion), Claver, 2,946
+Lapinigan, Claver, 824
+Magallanes, Claver, 747
+Panatao, Claver, 1,767
+Sapa, Claver, 987
+Taganito, Claver, 4,702
+Tayaga (Poblacion East), Claver, 3,307
+Urbiztondo, Claver, 2,939
+Wangke, Claver, 581
+Bagakay, Dapa, 475
+Barangay 1 (Poblacion), Dapa, 2,610
+Barangay 10 (Poblacion), Dapa, 486
+Barangay 11 (Poblacion), Dapa, 439
+Barangay 12 (Poblacion), Dapa, 2,467
+Barangay 13 (Poblacion), Dapa, 1,881
+Barangay 2 (Poblacion), Dapa, 747
+Barangay 3 (Poblacion), Dapa, 547
+Barangay 4 (Poblacion), Dapa, 448
+Barangay 5 (Poblacion), Dapa, 257
+Barangay 6 (Poblacion), Dapa, 563
+Barangay 7 (Poblacion), Dapa, 143
+Barangay 8 (Poblacion), Dapa, 216
+Barangay 9 (Poblacion), Dapa, 355
+Buenavista, Dapa, 401
+Cabawa, Dapa, 400
+Cambas‑ac, Dapa, 704
+Consolacion, Dapa, 1,783
+Corregidor, Dapa, 471
+Dagohoy, Dapa, 281
+Don Paulino, Dapa, 762
+Jubang, Dapa, 396
+Montserrat, Dapa, 422
+Osmeña, Dapa, 1,752
+San Carlos, Dapa, 492
+San Miguel, Dapa, 833
+Santa Fe, Dapa, 733
+Santa Felomina, Dapa, 303
+Union, Dapa, 2,420
+Antipolo, Del Carmen, 852
+Bagakay (Alburo), Del Carmen, 579
+Bitoon, Del Carmen, 797
+Cabugao, Del Carmen, 640
+Cancohoy, Del Carmen, 966
+Caub, Del Carmen, 1,571
+Del Carmen (Poblacion), Del Carmen, 3,420
+Domoyog, Del Carmen, 312
+Esperanza, Del Carmen, 896
+Halian, Del Carmen, 861
+Jamoyaon, Del Carmen, 1,118
+Katipunan, Del Carmen, 449
+Lobogon, Del Carmen, 584
+Mabuhay, Del Carmen, 296
+Mahayahay, Del Carmen, 517
+Quezon, Del Carmen, 384
+San Fernando, Del Carmen, 575
+San Jose (Poblacion), Del Carmen, 1,859
+Sayak, Del Carmen, 986
+Tuboran, Del Carmen, 730
+Anajawan, General Luna, 428
+Cabitoonan, General Luna, 381
+Catangnan, General Luna, 1,130
+Consuelo, General Luna, 1,598
+Corazon, General Luna, 412
+Daku, General Luna, 335
+La Januza, General Luna, 320
+Libertad, General Luna, 946
+Magsaysay, General Luna, 651
+Malinao, General Luna, 975
+Poblacion I (Purok I), General Luna, 1,792
+Poblacion II (Purok II), General Luna, 958
+Poblacion III (Purok III), General Luna, 877
+Poblacion IV (Purok IV), General Luna, 725
+Poblacion V (Purok V), General Luna, 2,128
+Santa Cruz, General Luna, 661
+Santa Fe, General Luna, 1,024
+Suyangan, General Luna, 868
+Tawin‑tawin, General Luna, 562
+Alambique (Poblacion), Gigaquit, 2,000
+Anibongan, Gigaquit, 351
+Camam‑onan, Gigaquit, 2,041
+Cam‑boayon, Gigaquit, 447
+Ipil (Poblacion), Gigaquit, 1,683
+Lahi, Gigaquit, 826
+Mahanub, Gigaquit, 2,930
+Poniente, Gigaquit, 1,674
+San Antonio (Bonot), Gigaquit, 976
+San Isidro, Gigaquit, 3,691
+Sico‑sico, Gigaquit, 902
+Villaflor, Gigaquit, 1,591
+Villafranca, Gigaquit, 1,752
+Binga, Mainit, 387
+Bobona‑on, Mainit, 209
+Cantugas, Mainit, 1,673
+Dayano, Mainit, 498
+Mabini, Mainit, 1,183
+Magpayang, Mainit, 1,731
+Magsaysay (Poblacion), Mainit, 2,074
+Mansayao, Mainit, 732
+Marayag, Mainit, 339
+Matin‑ao, Mainit, 4,177
+Paco, Mainit, 591
+Quezon (Poblacion), Mainit, 3,743
+Roxas, Mainit, 1,506
+San Francisco, Mainit, 2,051
+San Isidro, Mainit, 1,851
+San Jose, Mainit, 840
+Siana, Mainit, 977
+Silop, Mainit, 355
+Tagbuyawan, Mainit, 363
+Tapi‑an, Mainit, 247
+Tolingon, Mainit, 1,214
+Bunyasan, Malimono, 976
+Cagtinae, Malimono, 1,237
+Can‑aga, Malimono, 721
+Cansayong, Malimono, 1,435
+Cantapoy, Malimono, 2,560
+Cayawan, Malimono, 919
+Doro (Binocaran), Malimono, 1,309
+Hanagdong, Malimono, 1,239
+Karihatag, Malimono, 1,387
+Masgad, Malimono, 2,411
+Pili, Malimono, 1,609
+San Isidro (Poblacion), Malimono, 923
+Tinago, Malimono, 757
+Villariza, Malimono, 571
+Asinan (Poblacion), Pilar, 950
+Caridad, Pilar, 1,349
+Centro (Poblacion), Pilar, 329
+Consolacion, Pilar, 223
+Datu, Pilar, 564
+Dayaohay, Pilar, 304
+Jaboy, Pilar, 312
+Katipunan, Pilar, 578
+Maasin, Pilar, 1,084
+Mabini, Pilar, 275
+Mabuhay, Pilar, 510
+Pilaring (Poblacion), Pilar, 929
+Punta (Poblacion), Pilar, 424
+Salvacion, Pilar, 864
+San Roque, Pilar, 1,057
+Amoslog, Placer, 1,491
+Anislagan, Placer, 1,882
+Bad‑as, Placer, 2,160
+Boyongan, Placer, 665
+Bugas‑bugas, Placer, 816
+Central (Poblacion), Placer, 2,783
+Ellaperal (Nonok), Placer, 1,244
+Ipil (Poblacion), Placer, 1,021
+Lakandula, Placer, 916
+Mabini, Placer, 1,190
+Macalaya, Placer, 1,141
+Magsaysay (Poblacion), Placer, 5,252
+Magupange, Placer, 292
+Pananay‑an, Placer, 746
+Panhutongan, Placer, 607
+San Isidro, Placer, 552
+Sani‑sani, Placer, 438
+Santa Cruz, Placer, 2,616
+Suyoc, Placer, 633
+Tagbongabong, Placer, 649
+Bongdo, San Benito, 481
+Maribojoc, San Benito, 1,066
+Nuevo Campo, San Benito, 517
+San Juan, San Benito, 678
+Santa Cruz (Poblacion), San Benito, 870
+Talisay (Poblacion), San Benito, 1,792
+Amontay, San Francisco, 1,060
+Balite, San Francisco, 1,835
+Banbanon, San Francisco, 1,192
+Diaz, San Francisco, 1,779
+Honrado, San Francisco, 1,368
+Jubgan, San Francisco, 1,587
+Linongganan, San Francisco, 1,003
+Macopa, San Francisco, 776
+Magtangale, San Francisco, 843
+Oslao, San Francisco, 1,182
+Poblacion, San Francisco, 1,927
+Buhing Calipay, San Isidro, 365
+Del Carmen (Poblacion), San Isidro, 2,134
+Del Pilar, San Isidro, 452
+Macapagal, San Isidro, 205
+Pacifico, San Isidro, 344
+Pelaez, San Isidro, 337
+Roxas, San Isidro, 1,039
+San Miguel, San Isidro, 221
+Santa Paz, San Isidro, 632
+Santo Niño, San Isidro, 454
+Tambacan, San Isidro, 394
+Tigasao, San Isidro, 748
+Abad Santos, Santa Monica, 602
+Alegria, Santa Monica, 979
+Bailan, Santa Monica, 517
+Garcia, Santa Monica, 440
+Libertad, Santa Monica, 787
+Mabini, Santa Monica, 497
+Mabuhay (Poblacion), Santa Monica, 1,140
+Magsaysay, Santa Monica, 658
+Rizal, Santa Monica, 1,443
+T. Arlan (Poblacion), Santa Monica, 1,071
+Tangbo, Santa Monica, 674
+Biyabid, Sison, 552
+Gacepan, Sison, 372
+Ima, Sison, 295
+Lower Patag, Sison, 1,016
+Mabuhay, Sison, 2,054
+Mayag, Sison, 1,015
+Poblacion (San Pedro), Sison, 3,857
+San Isidro, Sison, 642
+San Pablo, Sison, 1,415
+Tagbayani, Sison, 626
+Tinogpahan, Sison, 614
+Upper Patag, Sison, 697
+Albino Taruc, Socorro, 2,498
+Del Pilar, Socorro, 479
+Helene, Socorro, 839
+Honrado, Socorro, 365
+Navarro (Poblacion), Socorro, 3,784
+Nueva Estrella, Socorro, 1,854
+Pamosaingan, Socorro, 1,229
+Rizal (Poblacion), Socorro, 5,243
+Salog, Socorro, 930
+San Roque, Socorro, 825
+Santa Cruz, Socorro, 445
+Sering, Socorro, 1,927
+Songkoy, Socorro, 1,024
+Sudlon, Socorro, 872
+Alang‑alang, Surigao City, 405
+Alegria, Surigao City, 574
+Anomar, Surigao City, 1,727
+Aurora, Surigao City, 677
+Balibayon, Surigao City, 1,752
+Baybay, Surigao City, 330
+Bilabid, Surigao City, 293
+Bitaugan, Surigao City, 637
+Bonifacio, Surigao City, 3,534
+Buenavista, Surigao City, 916
+Cabongbongan, Surigao City, 905
+Cagniog, Surigao City, 5,225
+Cagutsan, Surigao City, 345
+Canlanipa, Surigao City, 9,697
+Cantiasay, Surigao City, 984
+Capalayan, Surigao City, 2,502
+Catadman, Surigao City, 382
+Danao, Surigao City, 593
+Danawan, Surigao City, 573
+Day‑asan, Surigao City, 1,883
+Ipil, Surigao City, 4,323
+Libuac, Surigao City, 949
+Lipata, Surigao City, 2,653
+Lisondra, Surigao City, 882
+Luna, Surigao City, 10,425
+Mabini, Surigao City, 2,337
+Mabua, Surigao City, 2,778
+Manyagao, Surigao City, 851
+Mapawa, Surigao City, 1,132
+Mat‑i, Surigao City, 5,722
+Nabago, Surigao City, 1,143
+Nonoc, Surigao City, 1,310
+Orok, Surigao City, 1,114
+Poctoy, Surigao City, 1,688
+Punta Bilar, Surigao City, 1,079
+Quezon, Surigao City, 2,229
+Rizal, Surigao City, 6,659
+Sabang, Surigao City, 4,705
+San Isidro, Surigao City, 586
+San Jose, Surigao City, 1,265
+San Juan, Surigao City, 14,925
+San Pedro (Hanigad), Surigao City, 865
+San Roque, Surigao City, 1,444
+Serna (Bad-asay), Surigao City, 1,438
+Sidlakan, Surigao City, 307
+Silop, Surigao City, 1,485
+Sugbay, Surigao City, 482
+Sukailang, Surigao City, 1,386
+Taft (Poblacion), Surigao City, 18,571
+Talisay, Surigao City, 1,403
+Togbongon, Surigao City, 2,105
+Trinidad, Surigao City, 2,587
+Washington (Poblacion), Surigao City, 18,900
+Zaragoza, Surigao City, 475
+Aurora (Poblacion), Tagana-An, 2,085
+Azucena (Poblacion), Tagana-An, 1,490
+Banban, Tagana-An, 1,502
+Cawilan, Tagana-An, 1,158
+Fabio, Tagana-An, 277
+Himamaug, Tagana-An, 1,561
+Laurel, Tagana-An, 748
+Lower Libas, Tagana-An, 841
+Opong, Tagana-An, 954
+Patino, Tagana-An, 869
+Sampaguita (Poblacion), Tagana-An, 897
+Talavera, Tagana-An, 3,047
+Union, Tagana-An, 444
+Upper Libas, Tagana-An, 555
+Capayahan, Tubod, 1,081
+Cawilan, Tubod, 1,755
+Del Rosario, Tubod, 1,443
+Marga, Tubod, 1,563
+Motorpool, Tubod, 1,594
+Poblacion (Tubod), Tubod, 1,624
+San Isidro, Tubod, 1,378
+San Pablo, Tubod, 1,362
+Timamana, Tubod, 2,406

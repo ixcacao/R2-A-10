@@ -1,0 +1,389 @@
+Alegria, Alicia, 750
+Bagong Buhay, Alicia, 567
+Bella, Alicia, 1,472
+Calades, Alicia, 809
+Concepcion, Alicia, 1,383
+Dawa‑dawa, Alicia, 2,621
+Gulayon, Alicia, 1,242
+Ilisan, Alicia, 619
+Kapatagan, Alicia, 808
+Kauswagan, Alicia, 747
+Kawayan, Alicia, 2,062
+La Paz, Alicia, 1,449
+Lambuyogan, Alicia, 1,244
+Lapirawan, Alicia, 803
+Litayon, Alicia, 1,039
+Lutiman, Alicia, 1,747
+Milagrosa (Baluno), Alicia, 1,520
+Naga‑naga, Alicia, 1,814
+Pandan‑pandan, Alicia, 1,316
+Payongan, Alicia, 1,323
+Poblacion, Alicia, 3,978
+Santa Maria, Alicia, 951
+Santo Niño, Alicia, 1,098
+Talaptap, Alicia, 1,450
+Tampalan, Alicia, 1,187
+Tandiong Muslim, Alicia, 903
+Timbang‑timbang, Alicia, 1,111
+Agutayan, Buug, 322
+Bagong Borbon, Buug, 322
+Basalem, Buug, 1,311
+Bawang, Buug, 1,156
+Bliss, Buug, 3,090
+Bulaan, Buug, 408
+Compostela, Buug, 1,025
+Danlugan, Buug, 306
+Datu Panas, Buug, 1,994
+Del Monte, Buug, 2,606
+Guintuloan, Buug, 363
+Guitom, Buug, 306
+Guminta, Buug, 803
+Labrador, Buug, 1,970
+Lantawan, Buug, 454
+Mabuhay, Buug, 610
+Maganay, Buug, 1,882
+Manlin, Buug, 1,283
+Muyo, Buug, 1,542
+Pamintayan, Buug, 1,460
+Pling, Buug, 729
+Poblacion, Buug, 7,818
+Pulog, Buug, 657
+San Jose, Buug, 489
+Talairan, Buug, 547
+Talamimi, Buug, 1,021
+Villacastor (Galit), Buug, 2,160
+Balangao, Diplahan, 2,379
+Butong, Diplahan, 867
+Ditay, Diplahan, 2,647
+Gaulan, Diplahan, 1,424
+Goling, Diplahan, 584
+Guinoman, Diplahan, 4,970
+Kauswagan, Diplahan, 1,738
+Lindang, Diplahan, 812
+Lobing, Diplahan, 402
+Luop, Diplahan, 1,024
+Manangon, Diplahan, 470
+Mejo, Diplahan, 752
+Natan, Diplahan, 1,257
+Paradise, Diplahan, 1,374
+Pilar, Diplahan, 1,213
+Poblacion (Diplahan), Diplahan, 5,410
+Sampoli A, Diplahan, 554
+Sampoli B, Diplahan, 1,585
+Santa Cruz, Diplahan, 814
+Songcuya, Diplahan, 975
+Tinongtongan, Diplahan, 824
+Tuno, Diplahan, 353
+Balugo, Imelda, 1,262
+Balungisan, Imelda, 512
+Baluyan, Imelda, 476
+Cana‑an, Imelda, 871
+Dumpoc, Imelda, 935
+Gandiangan, Imelda, 2,062
+Israel (Balian Israel), Imelda, 1,032
+La Victoria, Imelda, 2,030
+Little Baguio, Imelda, 2,740
+Lower Baluran, Imelda, 1,633
+Lumbog, Imelda, 1,081
+Lumpanac, Imelda, 978
+Mali Little Baguio, Imelda, 662
+Poblacion (Santa Fe), Imelda, 6,597
+Pulawan (Mt. View), Imelda, 750
+San Jose, Imelda, 2,129
+Santa Barbara, Imelda, 1,657
+Upper Baluran, Imelda, 611
+Bacalan, Ipil, 1,200
+Bangkerohan, Ipil, 4,247
+Bulu‑an, Ipil, 3,175
+Caparan, Ipil, 1,393
+Domandan, Ipil, 773
+Don Andres, Ipil, 6,080
+Doña Josefa, Ipil, 1,225
+Guituan, Ipil, 1,056
+Ipil Heights, Ipil, 3,471
+Labi, Ipil, 731
+Logan, Ipil, 740
+Lower Ipil Heights, Ipil, 1,707
+Lower Taway, Ipil, 2,845
+Lumbia, Ipil, 708
+Maasin, Ipil, 428
+Magdaup, Ipil, 4,691
+Makilas, Ipil, 2,270
+Pangi, Ipil, 2,967
+Poblacion, Ipil, 5,073
+Sanito, Ipil, 7,808
+Suclema, Ipil, 624
+Taway, Ipil, 3,855
+Tenan, Ipil, 1,797
+Tiayon, Ipil, 3,282
+Timalang, Ipil, 1,897
+Tomitom, Ipil, 974
+Upper Pangi, Ipil, 1,909
+Veteran's Village (Ruiz), Ipil, 7,730
+Banker, Kabasalan, 1,256
+Bolo Batallion, Kabasalan, 1,609
+Buayan, Kabasalan, 2,412
+Cainglet, Kabasalan, 2,468
+Calapan, Kabasalan, 999
+Calubihan, Kabasalan, 2,101
+Concepcion (Balungis), Kabasalan, 3,228
+Diampak, Kabasalan, 893
+Dipala, Kabasalan, 813
+Gacbusan, Kabasalan, 956
+Goodyear, Kabasalan, 2,332
+Lacnapan, Kabasalan, 1,048
+Little Baguio, Kabasalan, 695
+Lumbayao, Kabasalan, 2,773
+Nazareth, Kabasalan, 2,123
+Palinta, Kabasalan, 1,681
+Peñaranda, Kabasalan, 1,270
+Poblacion, Kabasalan, 1,608
+Riverside, Kabasalan, 2,336
+Sanghanan, Kabasalan, 1,707
+Santa Cruz, Kabasalan, 1,391
+Sayao, Kabasalan, 379
+Shiolan, Kabasalan, 455
+Simbol, Kabasalan, 1,556
+Sininan, Kabasalan, 1,128
+Tamin, Kabasalan, 422
+Tampilisan, Kabasalan, 1,105
+Tigbangagan, Kabasalan, 1,458
+Timuay Danda (Mangahas), Kabasalan, 2,134
+Abunda, Mabuhay, 847
+Bagong Silang, Mabuhay, 1,486
+Bangkaw‑bangkaw, Mabuhay, 1,958
+Caliran, Mabuhay, 2,813
+Catipan, Mabuhay, 1,245
+Kauswagan, Mabuhay, 1,520
+Ligaya, Mabuhay, 1,692
+Looc‑Barlak, Mabuhay, 2,287
+Malinao, Mabuhay, 4,077
+Pamansaan, Mabuhay, 1,113
+Pinalim (San Roque), Mabuhay, 1,479
+Poblacion, Mabuhay, 4,582
+Punawan, Mabuhay, 1,405
+Santo Niño (Caliran), Mabuhay, 1,159
+Sawa, Mabuhay, 2,917
+Sioton, Mabuhay, 710
+Taguisian, Mabuhay, 4,069
+Tandu‑Comot (Katipunan), Mabuhay, 1,511
+Bacao, Malangas, 821
+Basak‑bawang, Malangas, 755
+Bontong, Malangas, 542
+Camanga, Malangas, 1,274
+Candiis, Malangas, 1,517
+Catituan, Malangas, 1,117
+Dansulao, Malangas, 1,405
+Del Pilar, Malangas, 669
+Guilawa, Malangas, 1,730
+Kigay, Malangas, 2,042
+La Dicha, Malangas, 3,123
+Lipacan, Malangas, 1,352
+Logpond, Malangas, 494
+Mabini, Malangas, 1,303
+Malungon, Malangas, 748
+Mulom, Malangas, 529
+Overland, Malangas, 693
+Palalian, Malangas, 460
+Payag, Malangas, 639
+Poblacion, Malangas, 8,233
+Rebocon, Malangas, 517
+San Vicente, Malangas, 896
+Sinusayan, Malangas, 771
+Tackling, Malangas, 844
+Tigabon, Malangas, 906
+Aguinaldo, Naga, 1,742
+Baga, Naga, 1,656
+Baluno, Naga, 1,531
+Bangkaw‑bangkaw, Naga, 788
+Cabong, Naga, 300
+Crossing Santa Clara, Naga, 2,923
+Gubawang, Naga, 614
+Guintoloan, Naga, 1,167
+Kaliantana, Naga, 2,381
+La Paz, Naga, 2,087
+Lower Sulitan, Naga, 789
+Mamagon, Naga, 1,955
+Marsolo, Naga, 1,553
+Poblacion, Naga, 3,339
+San Isidro, Naga, 1,331
+Sandayong, Naga, 1,922
+Santa Clara, Naga, 2,067
+Sulo, Naga, 3,452
+Tambanan, Naga, 1,668
+Taytay Manubo, Naga, 1,346
+Tilubog, Naga, 1,060
+Tipan, Naga, 1,277
+Upper Sulitan, Naga, 1,599
+Bateria, Olutanga, 1,161
+Calais (Kalines), Olutanga, 2,295
+Esperanza, Olutanga, 1,089
+Fama, Olutanga, 1,622
+Galas, Olutanga, 2,166
+Gandaan, Olutanga, 1,285
+Kahayagan, Olutanga, 1,110
+Looc Sapi, Olutanga, 1,108
+Matim, Olutanga, 822
+Noque, Olutanga, 911
+Pulo Laum, Olutanga, 1,218
+Pulo Mabao, Olutanga, 2,916
+San Isidro, Olutanga, 818
+San Jose, Olutanga, 1,205
+Santa Maria, Olutanga, 1,356
+Solar (Poblacion), Olutanga, 7,429
+Tambanan, Olutanga, 2,233
+Villacorte, Olutanga, 1,765
+Villagonzalo, Olutanga, 1,162
+Balian, Payao, 1,225
+Balogo, Payao, 559
+Balungisan, Payao, 1,805
+Binangonan, Payao, 629
+Bulacan, Payao, 1,187
+Bulawan, Payao, 3,148
+Calape, Payao, 730
+Dalama, Payao, 565
+Fatima (Silal), Payao, 540
+Guintolan, Payao, 1,376
+Guiwan, Payao, 2,078
+Katipunan, Payao, 1,498
+Kima, Payao, 1,166
+Kulasian, Payao, 996
+Kulisap, Payao, 864
+La Fortuna, Payao, 756
+Labatan, Payao, 1,699
+Mayabo (Santa Maria), Payao, 265
+Minundas (Santo Niño), Payao, 593
+Mountain View (Puluan), Payao, 475
+Nanan, Payao, 920
+Poblacion (Payao), Payao, 4,809
+San Isidro, Payao, 648
+San Roque, Payao, 434
+San Vicente (Binangonan), Payao, 547
+Silal, Payao, 737
+Sumilong, Payao, 597
+Talaptap, Payao, 351
+Upper Sumilong, Payao, 489
+Ali Alsree, Roseller Lim, 2,414
+Balansag, Roseller Lim, 879
+Calula, Roseller Lim, 1,158
+Casacon, Roseller Lim, 1,196
+Don Perfecto, Roseller Lim, 4,037
+Gango, Roseller Lim, 1,466
+Katipunan, Roseller Lim, 2,884
+Kulambugan, Roseller Lim, 1,732
+Mabini, Roseller Lim, 1,797
+Magsaysay, Roseller Lim, 1,630
+Malubal, Roseller Lim, 2,390
+New Antique, Roseller Lim, 1,009
+New Sagay, Roseller Lim, 1,360
+Palmera, Roseller Lim, 787
+Pres. Roxas, Roseller Lim, 2,380
+Remedios, Roseller Lim, 749
+San Antonio, Roseller Lim, 1,443
+San Fernandino, Roseller Lim, 2,623
+San Jose, Roseller Lim, 862
+Santo Rosario, Roseller Lim, 1,960
+Siawang, Roseller Lim, 1,911
+Silingan, Roseller Lim, 1,467
+Surabay, Roseller Lim, 1,592
+Taruc, Roseller Lim, 1,237
+Tilasan, Roseller Lim, 1,227
+Tupilac, Roseller Lim, 1,456
+Bagong Silang, Siay, 454
+Balagon, Siay, 3,269
+Balingasan, Siay, 753
+Balucanan, Siay, 1,630
+Bataan, Siay, 1,380
+Batu, Siay, 3,718
+Buyogan, Siay, 1,158
+Camanga, Siay, 965
+Coloran, Siay, 1,633
+Kimos (Kima), Siay, 1,144
+Labasan, Siay, 926
+Lagting, Siay, 924
+Laih, Siay, 993
+Logpond, Siay, 1,723
+Magsaysay, Siay, 476
+Mahayahay, Siay, 1,001
+Maligaya, Siay, 1,337
+Maniha, Siay, 1,160
+Minsulao, Siay, 954
+Mirangan, Siay, 1,366
+Monching, Siay, 4,239
+Paruk, Siay, 1,509
+Poblacion, Siay, 2,495
+Princesa Sumama, Siay, 352
+Salinding, Siay, 2,031
+San Isidro, Siay, 684
+Sibuguey, Siay, 1,139
+Siloh, Siay, 1,811
+Villagracia, Siay, 348
+Aurora, Talusan, 599
+Baganipay, Talusan, 2,038
+Bolingan, Talusan, 823
+Bualan, Talusan, 1,167
+Cawilan, Talusan, 1,673
+Florida, Talusan, 1,533
+Kasigpitan, Talusan, 1,630
+Laparay, Talusan, 3,014
+Mahayahay, Talusan, 1,130
+Moalboal, Talusan, 1,774
+Poblacion (Talusan), Talusan, 9,919
+Sagay, Talusan, 1,720
+Samonte, Talusan, 888
+Tuburan, Talusan, 2,061
+Achasol, Titay, 1,892
+Azusano, Titay, 1,008
+Bangco, Titay, 1,577
+Camanga, Titay, 1,195
+Culasian, Titay, 1,389
+Dalangin, Titay, 3,036
+Dalangin Muslim, Titay, 779
+Dalisay, Titay, 1,461
+Gomotoc, Titay, 648
+Imelda (Upper Camanga), Titay, 870
+Kipit, Titay, 1,659
+Kitabog, Titay, 3,822
+La Libertad, Titay, 841
+Longilog, Titay, 855
+Mabini, Titay, 1,212
+Malagandis, Titay, 1,094
+Mate, Titay, 989
+Moalboal, Titay, 645
+Namnama, Titay, 2,406
+New Canaan, Titay, 747
+Palomoc, Titay, 3,304
+Poblacion (Titay), Titay, 7,906
+Poblacion Muslim, Titay, 619
+Pulidan, Titay, 1,301
+San Antonio, Titay, 2,726
+San Isidro, Titay, 1,292
+Santa Fe, Titay, 1,361
+Supit, Titay, 1,091
+Tugop, Titay, 1,432
+Tugop Muslim, Titay, 516
+Baluran, Tungawan, 2,027
+Batungan, Tungawan, 1,565
+Cayamcam, Tungawan, 2,097
+Datu Tumanggong, Tungawan, 1,351
+Gaycon, Tungawan, 1,178
+Langon, Tungawan, 2,034
+Libertad (Poblacion), Tungawan, 5,213
+Linguisan, Tungawan, 1,088
+Little Margos, Tungawan, 409
+Loboc, Tungawan, 1,533
+Looc‑labuan, Tungawan, 1,370
+Lower Tungawan, Tungawan, 2,141
+Malungon, Tungawan, 1,841
+Masao, Tungawan, 1,017
+San Isidro, Tungawan, 2,023
+San Pedro, Tungawan, 2,682
+San Vicente, Tungawan, 1,094
+Santo Niño, Tungawan, 1,436
+Sisay, Tungawan, 1,913
+Taglibas, Tungawan, 980
+Tigbanuang, Tungawan, 1,611
+Tigbucay, Tungawan, 1,125
+Tigpalay, Tungawan, 2,112
+Timbabauan, Tungawan, 976
+Upper Tungawan, Tungawan, 1,214
