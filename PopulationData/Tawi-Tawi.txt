@@ -1,0 +1,203 @@
+Bongao Poblacion, Bongao, 12,503
+Ipil, Bongao, 1,165
+Kamagong, Bongao, 985
+Karungdong, Bongao, 1,819
+Lagasan, Bongao, 1,444
+Lakit Lakit, Bongao, 1,121
+Lamion, Bongao, 7,090
+Lapid Lapid, Bongao, 1,810
+Lato Lato, Bongao, 833
+Luuk Pandan, Bongao, 2,652
+Luuk Tulay, Bongao, 1,088
+Malassa, Bongao, 1,118
+Mandulan, Bongao, 1,991
+Masantong, Bongao, 938
+Montay Montay, Bongao, 1,410
+Nalil, Bongao, 4,637
+Pababag, Bongao, 1,639
+Pag‑asa, Bongao, 6,835
+Pagasinan, Bongao, 1,662
+Pagatpat, Bongao, 958
+Pahut, Bongao, 1,649
+Pakias, Bongao, 1,450
+Paniongan, Bongao, 906
+Pasiagan, Bongao, 3,310
+Sanga‑sanga, Bongao, 3,755
+Silubog, Bongao, 1,514
+Simandagit, Bongao, 8,584
+Sumangat, Bongao, 1,120
+Tarawakan, Bongao, 2,630
+Tongsinah, Bongao, 1,015
+Tubig Basag, Bongao, 1,418
+Tubig Tanah, Bongao, 5,742
+Tubig‑Boh, Bongao, 7,440
+Tubig‑Mampallam, Bongao, 5,295
+Ungus‑ungus, Bongao, 1,001
+Adnin, Languyan, 1,174
+Bakaw‑bakaw, Languyan, 1,142
+Bakong, Languyan, 1,657
+Bas‑bas Proper, Languyan, 1,135
+BasLikud, Languyan, 1,507
+Basnunuk, Languyan, 1,734
+Darussalam, Languyan, 4,206
+Jakarta (Lookan Latuan), Languyan, 1,465
+Kalupag, Languyan, 1,146
+Kiniktal, Languyan, 1,547
+Languyan Proper (Poblacion), Languyan, 3,441
+Marang‑marang, Languyan, 1,480
+Maraning, Languyan, 1,616
+Parang Pantay, Languyan, 2,085
+Sikullis, Languyan, 1,043
+Simalak, Languyan, 1,424
+Tubig Dakula, Languyan, 1,052
+Tuhog‑tuhog, Languyan, 1,816
+Tumahubong, Languyan, 1,110
+Tumbagaan, Languyan, 1,714
+Boki, Mapun, 2,018
+Duhul Batu, Mapun, 1,434
+Erok‑erok, Mapun, 2,114
+Guppah, Mapun, 1,938
+Kompang, Mapun, 1,023
+Liyubud, Mapun, 3,143
+Lubbak Parang, Mapun, 901
+Lupa Pula (Poblacion), Mapun, 2,926
+Mahalo, Mapun, 2,220
+Pawan, Mapun, 1,287
+Sapa, Mapun, 1,659
+Sikub, Mapun, 1,387
+Tabulian, Mapun, 1,053
+Tanduan, Mapun, 1,165
+Umus Mataha, Mapun, 2,329
+Balimbing Proper, Panglima Sugala, 4,887
+Batu‑batu (Poblacion), Panglima Sugala, 3,380
+Bauno Garing, Panglima Sugala, 2,427
+Belatan Halu, Panglima Sugala, 3,044
+Buan, Panglima Sugala, 3,795
+Dungon, Panglima Sugala, 1,850
+Karaha, Panglima Sugala, 1,439
+Kulape, Panglima Sugala, 2,236
+Liyaburan, Panglima Sugala, 2,251
+Luuk Buntal, Panglima Sugala, 2,056
+Magsaggaw, Panglima Sugala, 2,956
+Malacca, Panglima Sugala, 2,868
+Parangan, Panglima Sugala, 2,252
+Sumangday, Panglima Sugala, 2,172
+Tabunan, Panglima Sugala, 1,023
+Tundon, Panglima Sugala, 2,511
+Tungbangkaw, Panglima Sugala, 3,037
+Baldatal Islam, Sapa-Sapa, 1,441
+Butun, Sapa-Sapa, 967
+Dalo‑dalo, Sapa-Sapa, 1,400
+Kohec, Sapa-Sapa, 359
+Lakit‑lakit, Sapa-Sapa, 1,500
+Latuan (Suasang), Sapa-Sapa, 1,082
+Look Natuh, Sapa-Sapa, 640
+Lookan Banaran, Sapa-Sapa, 2,068
+Lookan Latuan, Sapa-Sapa, 1,263
+Malanta, Sapa-Sapa, 1,626
+Mantabuan Tabunan, Sapa-Sapa, 1,737
+Nunuk Likud Sikubong, Sapa-Sapa, 847
+Palate Gadjaminah, Sapa-Sapa, 1,056
+Pamasan, Sapa-Sapa, 744
+Sapaat, Sapa-Sapa, 778
+Sapa‑sapa (Poblacion), Sapa-Sapa, 1,465
+Sukah‑sukah, Sapa-Sapa, 944
+Tabunan Likud Sikubong, Sapa-Sapa, 660
+Tangngah (Lalung Sikubong), Sapa-Sapa, 1,244
+Tapian Bohe North, Sapa-Sapa, 995
+Tapian Bohe South, Sapa-Sapa, 960
+Tonggusong Banaran, Sapa-Sapa, 5,674
+Tup‑tup Banaran, Sapa-Sapa, 1,467
+Ambulong Sapal, Sibutu, 1,739
+Datu Amilhamja Jaafar, Sibutu, 1,372
+Hadji Imam Bidin, Sibutu, 1,158
+Hadji Mohtar Sulayman, Sibutu, 2,058
+Hadji Taha, Sibutu, 1,549
+Imam Hadji Mohammad, Sibutu, 1,524
+Ligayan, Sibutu, 1,964
+Nunukan, Sibutu, 2,124
+Sheik Makdum, Sibutu, 2,749
+Sibutu (Poblacion), Sibutu, 919
+Talisay, Sibutu, 1,630
+Tandu Banak, Sibutu, 2,509
+Taungoh, Sibutu, 3,050
+Tongehat, Sibutu, 1,559
+Tongsibalo, Sibutu, 2,216
+Ungus‑ungus, Sibutu, 2,267
+Bagid, Simunul, 762
+Bakong, Simunul, 2,707
+Doh‑Tong, Simunul, 1,596
+Luuk Datan, Simunul, 2,037
+Manuk Mangkaw, Simunul, 3,642
+Maruwa, Simunul, 938
+Mongkay, Simunul, 1,890
+Pagasinan, Simunul, 1,163
+Panglima Mastul, Simunul, 1,650
+Sukah‑Bulan, Simunul, 1,525
+Tampakan (Poblacion), Simunul, 2,453
+Timundon, Simunul, 4,551
+Tonggosong, Simunul, 1,321
+Tubig Indangan, Simunul, 3,463
+Ubol, Simunul, 1,525
+Datu Baguinda Putih, Sitangkai, 2,099
+Imam Sapie, Sitangkai, 4,214
+North Larap, Sitangkai, 2,540
+Panglima Alari, Sitangkai, 8,055
+Sipangkot, Sitangkai, 6,202
+Sitangkai Poblacion, Sitangkai, 3,285
+South Larap (Larap), Sitangkai, 1,766
+Tongmageng, Sitangkai, 2,194
+Tongusong, Sitangkai, 2,979
+Babagan, South Ubian, 699
+Bengkol, South Ubian, 756
+Bintawlan, South Ubian, 1,169
+Bohe, South Ubian, 872
+Bubuan, South Ubian, 531
+Bunay Bunay Center, South Ubian, 740
+Bunay Bunay Lookan, South Ubian, 1,372
+Bunay Bunay Tong, South Ubian, 717
+East Talisay, South Ubian, 717
+Lahad Dampong, South Ubian, 1,375
+Laitan, South Ubian, 756
+Lambi‑lambian, South Ubian, 920
+Laud, South Ubian, 717
+Likud Dampong, South Ubian, 537
+Likud Tabawan, South Ubian, 1,072
+Nunuk, South Ubian, 841
+Nusa, South Ubian, 690
+Nusa‑nusa, South Ubian, 365
+Pampang, South Ubian, 709
+Putat, South Ubian, 352
+Sollogan, South Ubian, 1,210
+Talisay, South Ubian, 718
+Tampakan Dampong, South Ubian, 920
+Tangngah, South Ubian, 741
+Tinda‑tindahan, South Ubian, 929
+Tong Tampakan, South Ubian, 891
+Tubig Dayang, South Ubian, 1,083
+Tubig Dayang Center, South Ubian, 937
+Tubig Dayang Riverside, South Ubian, 966
+Tukkai, South Ubian, 1,017
+Unas‑unas, South Ubian, 616
+Baliungan, Tandubas, 1,319
+Ballak, Tandubas, 754
+Butun, Tandubas, 1,601
+Himbah, Tandubas, 2,743
+Kakoong, Tandubas, 1,847
+Kalang‑kalang, Tandubas, 670
+Kepeng, Tandubas, 1,243
+Lahay‑lahay, Tandubas, 781
+Naungan, Tandubas, 977
+Salamat, Tandubas, 794
+Sallangan, Tandubas, 1,593
+Sapa, Tandubas, 2,197
+Sibakloon, Tandubas, 1,054
+Silantup, Tandubas, 3,244
+Tandubato, Tandubas, 1,362
+Tangngah (Tangngah Ungus Matata), Tandubas, 1,991
+Tapian, Tandubas, 1,298
+Tapian Sukah, Tandubas, 1,163
+Taruk, Tandubas, 987
+Tongbangkaw, Tandubas, 1,772
+Likud Bakkao, Turtle Islands, 1,351
+Taganak Poblacion, Turtle Islands, 3,376
