@@ -1,0 +1,1249 @@
+Agao Poblacion (Barangay 3), Butuan, 778
+Agusan Pequeño, Butuan, 5,070
+Ambago, Butuan, 12,656
+Amparo, Butuan, 2,981
+Ampayon, Butuan, 12,720
+Anticala, Butuan, 3,864
+Antongalon, Butuan, 3,643
+Aupagan, Butuan, 1,660
+Baan KM 3, Butuan, 11,308
+Baan Riverside Poblacion (Barangay 20), Butuan, 5,376
+Babag, Butuan, 1,823
+Bading Poblacion (Barangay 22), Butuan, 4,921
+Bancasi, Butuan, 4,925
+Banza, Butuan, 4,235
+Baobaoan, Butuan, 1,438
+Basag, Butuan, 3,786
+Bayanihan Poblacion (Barangay 27), Butuan, 4,599
+Bilay, Butuan, 1,349
+Bitan‑agan, Butuan, 1,243
+Bit‑os, Butuan, 3,166
+Bobon, Butuan, 1,689
+Bonbon, Butuan, 5,446
+Bugabus, Butuan, 1,417
+Bugsukan, Butuan, 1,570
+Buhangin Poblacion (Barangay 19), Butuan, 4,407
+Cabcabon, Butuan, 2,326
+Camayahan, Butuan, 1,258
+Dagohoy Poblacion (Barangay 7), Butuan, 1,177
+Dankias, Butuan, 1,195
+De Oro, Butuan, 1,968
+Diego Silang Poblacion (Barangay 6), Butuan, 908
+Don Francisco, Butuan, 1,183
+Doongan, Butuan, 13,728
+Dulag, Butuan, 2,047
+Dumalagan, Butuan, 2,580
+Florida, Butuan, 2,507
+Golden Ribbon Poblacion (Barangay 2), Butuan, 3,833
+Holy Redeemer Poblacion (Barangay 23), Butuan, 7,267
+Humabon Poblacion (Barangay 11), Butuan, 137
+Imadejas Poblacion (Barangay 24), Butuan, 1,954
+Jose Rizal Poblacion (Barangay 25), Butuan, 5,036
+Kinamlutan, Butuan, 3,097
+Lapu‑lapu Poblacion (Barangay 8), Butuan, 1,135
+Lemon, Butuan, 1,871
+Leon Kilat Poblacion (Barangay 13), Butuan, 163
+Libertad, Butuan, 21,703
+Limaha Poblacion (Barangay 14), Butuan, 6,301
+Los Angeles, Butuan, 5,234
+Lumbocan, Butuan, 4,462
+Maguinda, Butuan, 3,600
+Mahay, Butuan, 4,062
+Mahogany Poblacion (Barangay 21), Butuan, 5,218
+Maibu, Butuan, 1,492
+Mandamo, Butuan, 859
+Manila de Bugabus, Butuan, 3,785
+Maon Poblacion (Barangay 1), Butuan, 5,072
+Masao, Butuan, 1,786
+Maug, Butuan, 2,778
+New Society Village Poblacion (Barangay 26), Butuan, 1,481
+Nong‑nong, Butuan, 1,594
+Obrero Poblacion (Barangay 18), Butuan, 9,774
+Ong Yiu Poblacion (Barangay 16), Butuan, 4,859
+Pagatpatan, Butuan, 5,933
+Pangabugan, Butuan, 2,630
+Pianing, Butuan, 2,165
+Pigdaulan, Butuan, 2,529
+Pinamanculan, Butuan, 3,060
+Port Poyohon Poblacion (Barangay 17-New Asia), Butuan, 4,798
+Rajah Soliman Poblacion (Barangay 4), Butuan, 465
+Salvacion, Butuan, 1,580
+San Ignacio Poblacion (Barangay 15), Butuan, 2,637
+San Mateo, Butuan, 2,828
+San Vicente, Butuan, 16,187
+Santo Niño, Butuan, 2,658
+Sikatuna Poblacion (Barangay 10), Butuan, 43
+Silongan Poblacion (Barangay 5), Butuan, 661
+Sumile, Butuan, 2,087
+Sumilihon, Butuan, 4,989
+Tagabaca, Butuan, 3,487
+Taguibo, Butuan, 4,238
+Taligaman, Butuan, 4,100
+Tandang Sora Poblacion (Barangay 12), Butuan, 3,846
+Tiniwisan, Butuan, 3,684
+Tungao, Butuan, 5,702
+Urduja Poblacion (Barangay 9), Butuan, 83
+Villa Kananga, Butuan, 11,173
+A. Bonifacio‑Caguioa‑Rimando (ABCR), Baguio, 1,697
+Abanao‑Zandueta‑Kayong‑Chugum‑Otek (AZKCO), Baguio, 344
+Alfonso Tabora, Baguio, 2,079
+Ambiong, Baguio, 2,525
+Andres Bonifacio (Lower Bokawkan), Baguio, 1,307
+Apugan‑Loakan, Baguio, 2,887
+Asin Road, Baguio, 13,145
+Atok Trail, Baguio, 1,550
+Aurora Hill Proper (Malvar-Sgt. Floresca), Baguio, 822
+Aurora Hill, North Central, North Central, 386
+Aurora Hill, South Central, South Central, 959
+Bagong Lipunan (Market Area), Baguio, 28
+Bakakeng Central, Baguio, 9,216
+Bakakeng North, Baguio, 8,780
+Bal‑Marcoville (Marcoville), Baguio, 821
+Balsigan, Baguio, 2,169
+Bayan Park East, Baguio, 1,125
+Bayan Park Village, Baguio, 837
+Bayan Park West (Bayan Park), Baguio, 1,526
+BGH Compound, Baguio, 1,480
+Brookside, Baguio, 2,216
+Brookspoint, Baguio, 2,048
+Cabinet Hill‑Teacher's Camp, Baguio, 3,444
+Camdas Subdivision, Baguio, 1,523
+Camp 7, Baguio, 10,969
+Camp 8, Baguio, 2,536
+Camp Allen, Baguio, 2,417
+Campo Filipino, Baguio, 1,321
+City Camp Central, Baguio, 2,024
+City Camp Proper, Baguio, 1,447
+Country Club Village, Baguio, 1,833
+Cresencia Village, Baguio, 1,881
+Dagsian, Lower, Lower, 1,391
+Dagsian, Upper, Upper, 683
+Dizon Subdivision, Baguio, 1,712
+Dominican Hill‑Mirador, Baguio, 4,810
+Dontogan, Baguio, 5,152
+DPS Area, Baguio, 1,121
+Engineers' Hill, Baguio, 1,947
+Fairview Village, Baguio, 8,429
+Ferdinand (Happy Homes-Campo Sioco), Baguio, 1,723
+Fort del Pilar, Baguio, 3,068
+Gabriela Silang, Baguio, 3,041
+General Emilio F. Aguinaldo (Quirino-Magsaysay, Lower), Baguio, 1,982
+General Luna, Lower, Lower, 617
+General Luna, Upper, Upper, 1,495
+Gibraltar, Baguio, 7,613
+Greenwater Village, Baguio, 1,724
+Guisad Central, Baguio, 2,424
+Guisad Sorong, Baguio, 1,679
+Happy Hollow, Baguio, 2,570
+Happy Homes (Happy Homes-Lucban), Baguio, 1,477
+Harrison‑Claudio Carantes, Baguio, 273
+Hillside, Baguio, 1,562
+Holy Ghost Extension, Baguio, 3,032
+Holy Ghost Proper, Baguio, 1,954
+Honeymoon (Honeymoon-Holy Ghost), Baguio, 3,316
+Imelda R. Marcos (La Salle), Baguio, 1,106
+Imelda Village, Baguio, 1,889
+Irisan, Baguio, 30,507
+Kabayanihan, Baguio, 116
+Kagitingan, Baguio, 151
+Kayang Extension, Baguio, 1,592
+Kayang‑Hilltop, Baguio, 147
+Kias, Baguio, 5,992
+Legarda‑Burnham‑Kisad, Baguio, 670
+Liwanag‑Loakan, Baguio, 3,554
+Loakan Proper, Baguio, 10,189
+Lopez Jaena, Baguio, 1,304
+Lourdes Subdivision Extension, Baguio, 1,263
+Lourdes Subdivision, Lower, Lower, 245
+Lourdes Subdivision, Proper, Proper, 656
+Lualhati, Baguio, 1,087
+Lucnab, Baguio, 2,120
+Magsaysay Private Road, Baguio, 999
+Magsaysay, Lower, Lower, 1,112
+Magsaysay, Upper, Upper, 152
+Malcolm Square‑Perfecto (Jose Abad Santos), Baguio, 31
+Manuel A. Roxas, Baguio, 921
+Market Subdivision, Upper, Upper, 1,028
+Middle Quezon Hill Subdivision (Quezon Hill Middle), Baguio, 3,438
+Military Cut‑off, Baguio, 2,245
+Mines View Park, Baguio, 1,409
+Modern Site, East, East, 2,887
+Modern Site, West, West, 1,060
+MRR‑Queen of Peace, Baguio, 2,206
+New Lucban, Baguio, 3,305
+Outlook Drive, Baguio, 1,905
+Pacdal, Baguio, 6,269
+Padre Burgos, Baguio, 2,910
+Padre Zamora, Baguio, 2,513
+Palma‑Urbano (Cariño-Palma), Baguio, 1,003
+Phil‑Am, Baguio, 414
+Pinget, Baguio, 6,918
+Pinsao Pilot Project, Baguio, 4,520
+Pinsao Proper, Baguio, 6,903
+Poliwes, Baguio, 3,254
+Pucsusan, Baguio, 711
+Quezon Hill Proper, Baguio, 1,464
+Quezon Hill, Upper, Upper, 2,659
+Quirino Hill, East, East, 3,654
+Quirino Hill, Lower, Lower, 2,123
+Quirino Hill, Middle, Middle, 2,635
+Quirino Hill, West, West, 1,708
+Quirino‑Magsaysay, Upper, Upper (Upper QM), 2,776
+Rizal Monument Area, Baguio, 131
+Rock Quarry, Lower, Lower, 1,489
+Rock Quarry, Middle, Middle, 1,310
+Rock Quarry, Upper, Upper, 1,708
+Saint Joseph Village, Baguio, 4,397
+Salud Mitra, Baguio, 1,742
+San Antonio Village, Baguio, 1,547
+San Luis Village, Baguio, 7,529
+San Roque Village, Baguio, 878
+San Vicente, Baguio, 5,062
+Sanitary Camp, North, North, 2,891
+Sanitary Camp, South, South, 2,054
+Santa Escolastica, Baguio, 1,337
+Santo Rosario, Baguio, 1,687
+Santo Tomas Proper, Baguio, 7,058
+Santo Tomas School Area, Baguio, 1,256
+Scout Barrio, Baguio, 1,408
+Session Road Area, Baguio, 121
+Slaughter House Area (Santo Niño Slaughter), Baguio, 2,214
+SLU‑SVP Housing Village, Baguio, 1,949
+South Drive, Baguio, 311
+Teodora Alonzo, Baguio, 1,090
+Trancoville, Baguio, 3,239
+Victoria Village, Baguio, 3,101
+Adlaon, Cebu City, 4,028
+Agsungot, Cebu City, 2,290
+Apas, Cebu City, 24,591
+Babag, Cebu City, 4,452
+Bacayan, Cebu City, 15,919
+Banilad, Cebu City, 7,890
+Basak Pardo, Cebu City, 19,415
+Basak San Nicolas, Cebu City, 35,422
+Binaliw, Cebu City, 3,417
+Bonbon, Cebu City, 5,632
+Budla‑an (Poblacion), Cebu City, 5,316
+Buhisan, Cebu City, 14,977
+Bulacao, Cebu City, 30,450
+Buot‑Taup Pardo, Cebu City, 2,475
+Busay (Poblacion), Cebu City, 13,048
+Calamba, Cebu City, 11,177
+Cambinocot, Cebu City, 3,099
+Camputhaw (Poblacion), Cebu City, 20,030
+Capitol Site (Poblacion), Cebu City, 11,307
+Carreta, Cebu City, 12,557
+Central (Poblacion), Cebu City, 1,213
+Cogon Pardo, Cebu City, 21,276
+Cogon Ramos (Poblacion), Cebu City, 3,339
+Day‑as, Cebu City, 4,817
+Duljo (Poblacion), Cebu City, 17,664
+Ermita (Poblacion), Cebu City, 8,451
+Guadalupe, Cebu City, 61,238
+Guba, Cebu City, 4,976
+Hippodromo, Cebu City, 9,684
+Inayawan, Cebu City, 30,707
+Kalubihan (Poblacion), Cebu City, 866
+Kalunasan, Cebu City, 26,756
+Kamagayan (Poblacion), Cebu City, 2,170
+Kasambagan, Cebu City, 8,428
+Kinasang‑an Pardo, Cebu City, 15,185
+Labangon, Cebu City, 33,477
+Lahug (Poblacion), Cebu City, 38,584
+Lorega (Lorega San Miguel), Cebu City, 11,873
+Lusaran, Cebu City, 2,931
+Luz, Cebu City, 18,313
+Mabini, Cebu City, 1,909
+Mabolo, Cebu City, 22,008
+Malubog, Cebu City, 2,568
+Mambaling, Cebu City, 32,564
+Pahina Central (Poblacion), Cebu City, 5,258
+Pahina San Nicolas, Cebu City, 3,196
+Pamutan, Cebu City, 1,862
+Pardo (Poblacion), Cebu City, 12,596
+Pari‑an, Cebu City, 1,574
+Paril, Cebu City, 1,479
+Pasil, Cebu City, 8,593
+Pit‑os, Cebu City, 6,244
+Pulangbato, Cebu City, 5,988
+Pung‑ol‑Sibugay, Cebu City, 2,556
+Punta Princesa, Cebu City, 22,369
+Quiot Pardo, Cebu City, 24,200
+Sambag I (Poblacion), Cebu City, 13,434
+Sambag II (Poblacion), Cebu City, 11,223
+San Antonio (Poblacion), Cebu City, 1,928
+San Jose, Cebu City, 6,870
+San Nicolas Central, Cebu City, 6,694
+San Roque (Ciudad), Cebu City, 4,444
+Santa Cruz (Poblacion), Cebu City, 2,316
+Sapangdaku, Cebu City, 7,594
+Sawang Calero (Poblacion), Cebu City, 8,259
+Sinsin, Cebu City, 2,161
+Sirao, Cebu City, 3,456
+Suba Poblacion (Suba San Nicolas), Cebu City, 11,026
+Sudlon I, Cebu City, 2,777
+Sudlon II, Cebu City, 3,913
+T. Padilla, Cebu City, 7,646
+Tabunan, Cebu City, 2,138
+Tagbao, Cebu City, 1,767
+Talamban, Cebu City, 32,139
+Taptap, Cebu City, 2,093
+Tejero (Villa Gonzalo), Cebu City, 14,496
+Tinago, Cebu City, 6,743
+Tisa, Cebu City, 37,766
+To‑ong Pardo, Cebu City, 4,178
+Zapatera, Cebu City, 3,146
+Agus, Lapu-Lapu, 15,767
+Babag, Lapu-Lapu, 22,756
+Bankal, Lapu-Lapu, 20,872
+Baring, Lapu-Lapu, 3,353
+Basak, Lapu-Lapu, 59,873
+Buaya, Lapu-Lapu, 16,072
+Calawisan, Lapu-Lapu, 11,454
+Canjulao, Lapu-Lapu, 13,245
+Caubian, Lapu-Lapu, 2,272
+Cawhagan, Lapu-Lapu, 638
+Caw‑oy, Lapu-Lapu, 1,837
+Gun‑ob, Lapu-Lapu, 31,219
+Ibo, Lapu-Lapu, 8,126
+Looc, Lapu-Lapu, 16,016
+Mactan, Lapu-Lapu, 33,465
+Maribago, Lapu-Lapu, 16,591
+Marigondon, Lapu-Lapu, 19,713
+Pajac, Lapu-Lapu, 17,402
+Pajo, Lapu-Lapu, 20,999
+Pangan‑an, Lapu-Lapu, 2,070
+Poblacion, Lapu-Lapu, 5,581
+Punta Engaño, Lapu-Lapu, 8,753
+Pusok, Lapu-Lapu, 28,810
+Sabang, Lapu-Lapu, 6,091
+San Vicente, Lapu-Lapu, 3,854
+Santa Rosa, Lapu-Lapu, 4,302
+Subabasbas, Lapu-Lapu, 6,288
+Talima, Lapu-Lapu, 5,734
+Tingo, Lapu-Lapu, 3,088
+Tungasan, Lapu-Lapu, 1,871
+Alang‑alang, Mandaue, 13,457
+Bakilid, Mandaue, 4,591
+Banilad, Mandaue, 22,771
+Basak, Mandaue, 10,606
+Cabancalan, Mandaue, 14,132
+Cambaro, Mandaue, 9,474
+Canduman, Mandaue, 18,852
+Casili, Mandaue, 4,558
+Casuntingan, Mandaue, 14,690
+Centro (Poblacion), Mandaue, 3,383
+Cubacub, Mandaue, 10,284
+Guizo, Mandaue, 9,623
+Ibabao‑Estancia, Mandaue, 9,503
+Jagobiao, Mandaue, 13,685
+Labogon, Mandaue, 21,028
+Looc, Mandaue, 17,143
+Maguikay, Mandaue, 14,645
+Mantuyong, Mandaue, 6,540
+Opao, Mandaue, 11,457
+Pagsabungan, Mandaue, 20,335
+Pakna‑an, Mandaue, 26,943
+Subangdaku, Mandaue, 17,714
+Tabok, Mandaue, 18,167
+Tawason, Mandaue, 4,958
+Tingub, Mandaue, 6,774
+Tipolo, Mandaue, 18,840
+Umapad, Mandaue, 18,501
+Acacia, Davao City, 3,262
+Agdao, Davao City, 8,897
+Alambre, Davao City, 2,010
+Alejandra Navarro (Lasang), Davao City, 10,223
+Alfonso Angliongto Sr., Davao City, 13,539
+Angalan, Davao City, 2,475
+Atan‑Awe, Davao City, 1,119
+Baganihan, Davao City, 1,295
+Bago Aplaya, Davao City, 15,918
+Bago Gallera, Davao City, 17,378
+Bago Oshiro, Davao City, 11,932
+Baguio (Poblacion), Davao City, 4,655
+Balengaeng, Davao City, 2,086
+Baliok, Davao City, 16,140
+Bangkas Heights, Davao City, 7,671
+Bantol, Davao City, 2,324
+Baracatan, Davao City, 2,895
+Barangay 10‑A (Poblacion), Davao City, 6,764
+Barangay 11‑B (Poblacion), Davao City, 1,901
+Barangay 12‑B (Poblacion), Davao City, 840
+Barangay 13‑B (Poblacion), Davao City, 427
+Barangay 14‑B (Poblacion), Davao City, 1,175
+Barangay 15‑B (Poblacion), Davao City, 2,891
+Barangay 16‑B (Poblacion), Davao City, 840
+Barangay 17‑B (Poblacion), Davao City, 810
+Barangay 18‑B (Poblacion), Davao City, 1,832
+Barangay 19‑B (Poblacion), Davao City, 31,766
+Barangay 1‑A (Poblacion), Davao City, 3,103
+Barangay 20‑B (Poblacion), Davao City, 4,581
+Barangay 21‑C (Poblacion), Davao City, 7,478
+Barangay 22‑C (Poblacion), Davao City, 6,634
+Barangay 23‑C (Poblacion), Davao City, 16,489
+Barangay 24‑C (Poblacion), Davao City, 2,602
+Barangay 25‑C (Poblacion), Davao City, 1,967
+Barangay 26‑C (Poblacion), Davao City, 2,510
+Barangay 27‑C (Poblacion), Davao City, 2,152
+Barangay 28‑C (Poblacion), Davao City, 2,270
+Barangay 29‑C (Poblacion), Davao City, 1,557
+Barangay 2‑A (Poblacion), Davao City, 3,589
+Barangay 30‑C (Poblacion), Davao City, 1,608
+Barangay 31‑D (Poblacion), Davao City, 8,321
+Barangay 32‑D (Poblacion), Davao City, 1,985
+Barangay 33‑D (Poblacion), Davao City, 2,033
+Barangay 34‑D (Poblacion), Davao City, 1,682
+Barangay 35‑D (Poblacion), Davao City, 578
+Barangay 36‑D (Poblacion), Davao City, 1,581
+Barangay 37‑D (Poblacion), Davao City, 6,740
+Barangay 38‑D (Poblacion), Davao City, 1,505
+Barangay 39‑D (Poblacion), Davao City, 5,143
+Barangay 3‑A (Poblacion), Davao City, 370
+Barangay 40‑D (Poblacion), Davao City, 2,437
+Barangay 4‑A (Poblacion), Davao City, 1,683
+Barangay 5‑A (Poblacion), Davao City, 11,436
+Barangay 6‑A (Poblacion), Davao City, 2,084
+Barangay 7‑A (Poblacion), Davao City, 3,984
+Barangay 8‑A (Poblacion), Davao City, 11,075
+Barangay 9‑A (Poblacion), Davao City, 5,698
+Bato, Davao City, 10,007
+Bayabas, Davao City, 2,989
+Biao Escuela, Davao City, 3,294
+Biao Guianga, Davao City, 3,664
+Biao Joaquin, Davao City, 2,289
+Binugao, Davao City, 6,934
+Bucana, Davao City, 83,964
+Buda, Davao City, 1,885
+Buhangin (Poblacion), Davao City, 65,461
+Bunawan (Poblacion), Davao City, 23,495
+Cabantian, Davao City, 43,758
+Cadalian, Davao City, 2,446
+Calinan (Poblacion), Davao City, 23,052
+Callawa, Davao City, 3,553
+Camansi, Davao City, 1,189
+Carmen, Davao City, 2,156
+Catalunan Grande, Davao City, 32,461
+Catalunan Pequeño, Davao City, 22,809
+Catigan, Davao City, 3,044
+Cawayan, Davao City, 2,295
+Centro (San Juan), Davao City, 15,586
+Colosas, Davao City, 4,731
+Communal, Davao City, 16,740
+Crossing Bayabas, Davao City, 11,490
+Dacudao, Davao City, 4,418
+Dalag, Davao City, 1,864
+Dalagdag, Davao City, 934
+Daliao, Davao City, 21,124
+Daliaon Plantation, Davao City, 3,214
+Datu Salumay, Davao City, 2,232
+Dominga, Davao City, 1,607
+Dumoy, Davao City, 18,622
+Eden, Davao City, 2,385
+Fatima (Benowang), Davao City, 3,502
+Gatungan, Davao City, 1,190
+Gov. Paciano Bangoy, Davao City, 8,816
+Gov. Vicente Duterte, Davao City, 8,904
+Gumalang, Davao City, 5,081
+Gumitan, Davao City, 1,756
+Ilang, Davao City, 24,947
+Inayangan, Davao City, 4,832
+Indangan, Davao City, 14,867
+Kap. Tomas Monteverde, Sr., Sr., 5,716
+Kilate, Davao City, 1,309
+Lacson, Davao City, 5,873
+Lamanan, Davao City, 4,538
+Lampianao, Davao City, 845
+Langub, Davao City, 2,883
+Lapu‑lapu, Davao City, 11,738
+Leon Garcia, Sr., Sr., 13,652
+Lizada, Davao City, 20,112
+Los Amigos, Davao City, 9,722
+Lubogan, Davao City, 12,156
+Lumiad, Davao City, 1,553
+Ma‑a, Davao City, 59,803
+Mabuhay, Davao City, 1,062
+Magsaysay, Davao City, 2,425
+Magtuod, Davao City, 5,058
+Mahayag, Davao City, 6,307
+Malabog, Davao City, 10,816
+Malagos, Davao City, 6,524
+Malamba, Davao City, 4,864
+Manambulan, Davao City, 2,661
+Mandug, Davao City, 13,594
+Manuel Guianga, Davao City, 6,436
+Mapula, Davao City, 2,876
+Marapangi, Davao City, 6,889
+Marilog, Davao City, 16,188
+Matina Aplaya, Davao City, 33,384
+Matina Biao, Davao City, 1,811
+Matina Crossing, Davao City, 32,436
+Matina Pangi, Davao City, 18,081
+Megkawayan, Davao City, 3,015
+Mintal, Davao City, 13,227
+Mudiang, Davao City, 2,937
+Mulig, Davao City, 2,477
+New Carmen, Davao City, 2,626
+New Valencia, Davao City, 1,679
+Pampanga, Davao City, 14,381
+Panacan, Davao City, 35,806
+Panalum, Davao City, 1,831
+Pandaitan, Davao City, 4,037
+Pangyan, Davao City, 2,035
+Paquibato (Poblacion), Davao City, 2,495
+Paradise Embak, Davao City, 2,654
+Rafael Castillo, Davao City, 5,783
+Riverside, Davao City, 5,450
+Salapawan, Davao City, 2,282
+Salaysay, Davao City, 4,431
+Saloy, Davao City, 2,112
+San Antonio, Davao City, 10,306
+San Isidro (Licanan), Davao City, 5,333
+Santo Niño, Davao City, 20,103
+Sasa, Davao City, 52,386
+Sibulan, Davao City, 2,479
+Sirawan, Davao City, 7,140
+Sirib, Davao City, 5,199
+Suawan (Tuli), Davao City, 4,586
+Subasta, Davao City, 3,641
+Sumimao, Davao City, 1,666
+Tacunan, Davao City, 12,773
+Tagakpan, Davao City, 4,208
+Tagluno, Davao City, 1,391
+Tagurano, Davao City, 1,230
+Talandang, Davao City, 3,392
+Talomo (Poblacion), Davao City, 59,678
+Talomo River, Davao City, 6,846
+Tamayong, Davao City, 7,273
+Tambobong, Davao City, 5,993
+Tamugan, Davao City, 8,351
+Tapak, Davao City, 5,258
+Tawan‑tawan, Davao City, 3,889
+Tibuloy, Davao City, 2,218
+Tibungco, Davao City, 41,864
+Tigatto, Davao City, 36,387
+Toril (Poblacion), Davao City, 12,140
+Tugbok (Poblacion), Davao City, 15,115
+Tungakalan, Davao City, 2,910
+Ubalde, Davao City, 2,966
+Ula, Davao City, 4,130
+Vicente Hizon Sr., Davao City, 11,265
+Waan, Davao City, 3,925
+Wangan, Davao City, 5,821
+Wilfredo Aquino, Davao City, 9,903
+Wines, Davao City, 3,129
+Abeto Mirasol Taft South (Quirino Abeto), Iloilo City, 2,207
+Aguinaldo, Iloilo City, 1,228
+Airport (Tabucan Airport), Iloilo City, 4,894
+Alalasan Lapuz, Iloilo City, 1,825
+Arguelles, Iloilo City, 760
+Arsenal Aduana, Iloilo City, 222
+Bakhaw, Iloilo City, 5,871
+Balabago, Iloilo City, 8,594
+Balantang, Iloilo City, 4,712
+Baldoza, Iloilo City, 6,739
+Bantud, Iloilo City, 766
+Banuyao, Iloilo City, 1,297
+Baybay Tanza, Iloilo City, 2,360
+Benedicto (Jaro), Iloilo City, 2,979
+Bito‑on, Iloilo City, 6,095
+Bolilao, Iloilo City, 6,519
+Bonifacio (Arevalo), Iloilo City, 2,348
+Bonifacio Tanza, Iloilo City, 3,081
+Buhang, Iloilo City, 3,225
+Buhang Taft North, Iloilo City, 1,953
+Buntatala, Iloilo City, 3,813
+Burgos‑Mabini‑Plaza, Iloilo City, 1,686
+Caingin, Iloilo City, 4,317
+Calahunan, Iloilo City, 4,064
+Calaparan, Iloilo City, 8,699
+Calubihan, Iloilo City, 1,026
+Calumpang, Iloilo City, 15,150
+Camalig, Iloilo City, 3,278
+Cochero, Iloilo City, 893
+Compania, Iloilo City, 3,297
+Concepcion‑Montes, Iloilo City, 2,268
+Cuartero, Iloilo City, 2,032
+Cubay, Iloilo City, 7,272
+Danao, Iloilo City, 260
+Delgado‑Jalandoni‑Bagumbayan, Iloilo City, 260
+Democracia, Iloilo City, 1,810
+Desamparados, Iloilo City, 781
+Divinagracia, Iloilo City, 1,278
+Don Esteban‑Lapuz, Iloilo City, 2,716
+Dulonan, Iloilo City, 4,582
+Dungon, Iloilo City, 3,570
+Dungon A, Iloilo City, 923
+Dungon B, Iloilo City, 2,924
+East Baluarte, Iloilo City, 1,883
+East Timawa, Iloilo City, 1,384
+Edganzon, Iloilo City, 170
+El 98 Castilla (Claudio Lopez), Iloilo City, 181
+Fajardo, Iloilo City, 1,201
+Flores, Iloilo City, 746
+General Hughes‑Montes, Iloilo City, 1,888
+Gloria, Iloilo City, 201
+Gustilo, Iloilo City, 2,772
+Guzman‑Jesena, Iloilo City, 6,541
+Habog‑habog Salvacion, Iloilo City, 2,212
+Hibao‑an Norte, Iloilo City, 2,290
+Hibao‑an Sur, Iloilo City, 2,410
+Hinactacan, Iloilo City, 586
+Hipodromo, Iloilo City, 856
+Inday, Iloilo City, 338
+Infante, Iloilo City, 1,148
+Ingore, Iloilo City, 4,187
+Jalandoni Estate‑Lapuz, Iloilo City, 1,892
+Jalandoni‑Wilson, Iloilo City, 827
+Javellana, Iloilo City, 310
+Jereos, Iloilo City, 3,839
+Kahirupan, Iloilo City, 482
+Kasingkasing, Iloilo City, 2,589
+Katilingban, Iloilo City, 1,185
+Kauswagan, Iloilo City, 517
+Laguda, Iloilo City, 185
+Lanit, Iloilo City, 5,484
+Lapuz Norte, Iloilo City, 2,527
+Lapuz Sur, Iloilo City, 1,778
+Legaspi dela Rama, Iloilo City, 997
+Liberation, Iloilo City, 307
+Libertad, Santa Isabel, Santa Isabel, 346
+Libertad‑Lapuz, Iloilo City, 897
+Loboc‑Lapuz, Iloilo City, 2,483
+Lopez Jaena (Jaro), Iloilo City, 637
+Lopez Jaena Norte, Iloilo City, 2,202
+Lopez Jaena Sur, Iloilo City, 1,609
+Luna (Jaro), Iloilo City, 248
+Luna (La Paz), Iloilo City, 248
+M. V. Hechanova, Iloilo City, 3,541
+Mabolo‑Delgado, Iloilo City, 614
+Macarthur, Iloilo City, 1,152
+Magdalo, Iloilo City, 867
+Magsaysay, Iloilo City, 522
+Magsaysay Village, Iloilo City, 1,611
+Malipayon‑Delgado, Iloilo City, 434
+Mansaya‑Lapuz, Iloilo City, 3,653
+Marcelo H. del Pilar, Iloilo City, 3,685
+Maria Clara, Iloilo City, 349
+Maria Cristina, Iloilo City, 752
+Mohon, Iloilo City, 1,429
+Molo Boulevard, Iloilo City, 7,192
+Monica Blumentritt, Iloilo City, 1,604
+Montinola, Iloilo City, 1,097
+Muelle Loney‑Montes, Iloilo City, 1,210
+Nabitasan, Iloilo City, 2,067
+Navais, Iloilo City, 3,283
+Nonoy, Iloilo City, 306
+North Avanceña, Iloilo City, 618
+North Baluarte, Iloilo City, 4,674
+North Fundidor, Iloilo City, 2,439
+North San Jose, Iloilo City, 1,058
+Obrero‑Lapuz, Iloilo City, 6,419
+Oñate de Leon, Iloilo City, 4,635
+Ortiz, Iloilo City, 1,492
+Osmeña, Iloilo City, 110
+Our Lady of Fatima, Iloilo City, 1,017
+Our Lady of Lourdes, Iloilo City, 2,415
+Pale Benedicto Rizal (Mandurriao), Iloilo City, 3,267
+PHHC Block 17, Iloilo City, 1,707
+PHHC Block 22 NHA, Iloilo City, 1,397
+Poblacion Molo, Iloilo City, 799
+President Roxas, Iloilo City, 186
+Progreso‑Lapuz, Iloilo City, 1,063
+Punong‑Lapuz, Iloilo City, 1,414
+Quezon, Iloilo City, 2,033
+Quintin Salas, Iloilo City, 4,699
+Railway, Iloilo City, 1,395
+Rima‑Rizal, Iloilo City, 684
+Rizal (La Paz), Iloilo City, 1,590
+Rizal Estanzuela, Iloilo City, 3,497
+Rizal Ibarra, Iloilo City, 686
+Rizal Palapala I, Iloilo City, 2,240
+Rizal Palapala II, Iloilo City, 2,080
+Roxas Village, Iloilo City, 75
+Sambag, Iloilo City, 5,943
+Sampaguita, Iloilo City, 509
+San Agustin, Iloilo City, 603
+San Antonio, Iloilo City, 2,334
+San Felix, Iloilo City, 1,209
+San Isidro (Jaro), Iloilo City, 4,238
+San Isidro (La Paz), Iloilo City, 4,238
+San Jose (Jaro), Iloilo City, 2,050
+San Jose (Arevalo), Iloilo City, 2,050
+San Jose (City Proper), Iloilo City, 2,050
+San Juan, Iloilo City, 11,891
+San Nicolas, Iloilo City, 1,083
+San Pedro (Molo), Iloilo City, 3,515
+San Pedro (Jaro), Iloilo City, 3,515
+San Rafael, Iloilo City, 1,302
+San Roque, Iloilo City, 1,441
+San Vicente, Iloilo City, 1,102
+Santa Cruz, Iloilo City, 3,591
+Santa Filomena, Iloilo City, 3,218
+Santa Rosa, Iloilo City, 757
+Santo Domingo, Iloilo City, 2,325
+Santo Niño Norte, Iloilo City, 3,910
+Santo Niño Sur, Iloilo City, 8,821
+Santo Rosario‑Duran, Iloilo City, 1,993
+Seminario (Burgos Jalandoni), Iloilo City, 234
+Simon Ledesma, Iloilo City, 2,218
+Sinikway (Bangkerohan Lapuz), Iloilo City, 3,717
+So‑oc, Iloilo City, 10,439
+South Baluarte, Iloilo City, 1,460
+South Fundidor, Iloilo City, 3,191
+South San Jose, Iloilo City, 2,389
+Taal, Iloilo City, 891
+Tabuc Suba (Jaro), Iloilo City, 3,313
+Tabuc Suba (La Paz), Iloilo City, 3,313
+Tabucan, Iloilo City, 2,095
+Tacas, Iloilo City, 4,969
+Tagbac, Iloilo City, 4,276
+Tanza‑Esperanza, Iloilo City, 2,144
+Tap‑oc, Iloilo City, 330
+Taytay Zone II, Iloilo City, 1,074
+Ticud (La Paz), Iloilo City, 3,058
+Timawa Tanza I, Iloilo City, 709
+Timawa Tanza II, Iloilo City, 2,009
+Ungka, Iloilo City, 3,249
+Veterans Village, Iloilo City, 5,716
+Villa Anita, Iloilo City, 1,293
+West Habog‑habog, Iloilo City, 1,507
+West Timawa, Iloilo City, 1,937
+Yulo Drive, Iloilo City, 3,433
+Yulo‑Arroyo, Iloilo City, 132
+Zamora‑Melliza, Iloilo City, 2,690
+Abuno, Iligan, 5,423
+Acmac, Iligan, 6,471
+Bagong Silang, Iligan, 6,978
+Bonbonon, Iligan, 1,786
+Bunawan, Iligan, 2,218
+Buru‑un, Iligan, 15,164
+Dalipuga, Iligan, 19,721
+Del Carmen, Iligan, 8,423
+Digkilaan, Iligan, 5,208
+Ditucalan, Iligan, 3,385
+Dulag, Iligan, 1,216
+Hinaplanon, Iligan, 12,346
+Hindang, Iligan, 913
+Kabacsanan, Iligan, 2,123
+Kalilangan, Iligan, 1,442
+Kiwalan, Iligan, 7,464
+Lanipao, Iligan, 2,759
+Luinab, Iligan, 8,603
+Mahayhay, Iligan, 9,179
+Mainit, Iligan, 2,588
+Mandulog, Iligan, 3,867
+Maria Cristina, Iligan, 11,383
+Palao, Iligan, 9,600
+Panoroganan, Iligan, 4,806
+Poblacion, Iligan, 3,470
+Puga‑an, Iligan, 7,460
+Rogongon, Iligan, 5,786
+San Miguel, Iligan, 4,955
+San Roque, Iligan, 4,740
+Santa Elena, Iligan, 9,735
+Santa Filomena, Iligan, 6,615
+Santiago, Iligan, 8,814
+Santo Rosario, Iligan, 2,174
+Saray‑Tibanga, Iligan, 10,171
+Suarez, Iligan, 16,657
+Tambacan, Iligan, 17,616
+Tibanga, Iligan, 9,595
+Tipanoy, Iligan, 14,730
+Tominobo Proper, Iligan, 8,780
+Tominobo Upper, Iligan, 3,429
+Tubod, Iligan, 31,913
+Ubaldo Laya, Iligan, 11,950
+Upper Hinaplanon, Iligan, 5,464
+Villa Verde, Iligan, 5,498
+Barangay 100 (San Roque), Tacloban, 2,965
+Barangay 101 (New Kawayan), Tacloban, 1,717
+Barangay 102 (Old Kawayan), Tacloban, 497
+Barangay 103 (Palanog), Tacloban, 4,198
+Barangay 103‑A (San Paglaum), Tacloban, 333
+Barangay 104 (Salvacion), Tacloban, 2,308
+Barangay 105 (Suhi), Tacloban, 2,411
+Barangay 106 (Santo Niño), Tacloban, 4,409
+Barangay 107 (Santa Elena), Tacloban, 1,115
+Barangay 108 (Tagapuro), Tacloban, 1,268
+Barangay 109 (V & G Subd.), Tacloban, 5,538
+Barangay 109‑A, Tacloban, 8,206
+Barangay 110 (Utap), Tacloban, 5,554
+Barangay 12 (Palanog Resettlement), Tacloban, 2,065
+Barangay 13, Tacloban, 63
+Barangay 14, Tacloban, 252
+Barangay 15, Tacloban, 81
+Barangay 16, Tacloban, 379
+Barangay 17, Tacloban, 137
+Barangay 18, Tacloban, 198
+Barangay 19, Tacloban, 155
+Barangay 2, Tacloban, 546
+Barangay 20, Tacloban, 495
+Barangay 21, Tacloban, 245
+Barangay 21‑A, Tacloban, 198
+Barangay 22, Tacloban, 93
+Barangay 23, Tacloban, 500
+Barangay 23‑A, Tacloban, 433
+Barangay 24, Tacloban, 268
+Barangay 25, Tacloban, 1,798
+Barangay 26, Tacloban, 144
+Barangay 27, Tacloban, 234
+Barangay 28, Tacloban, 253
+Barangay 29, Tacloban, 143
+Barangay 30, Tacloban, 124
+Barangay 31, Tacloban, 491
+Barangay 32, Tacloban, 137
+Barangay 33, Tacloban, 189
+Barangay 34, Tacloban, 230
+Barangay 35, Tacloban, 187
+Barangay 35‑A, Tacloban, 600
+Barangay 36, Tacloban, 1,300
+Barangay 36‑A, Tacloban, 786
+Barangay 37, Tacloban, 3,407
+Barangay 37‑A, Tacloban, 1,225
+Barangay 38, Tacloban, 284
+Barangay 39, Tacloban, 2,957
+Barangay 40, Tacloban, 237
+Barangay 41, Tacloban, 201
+Barangay 42, Tacloban, 848
+Barangay 42‑A, Tacloban, 1,718
+Barangay 43, Tacloban, 356
+Barangay 43‑A, Tacloban, 1,019
+Barangay 43‑B, Tacloban, 1,102
+Barangay 44, Tacloban, 432
+Barangay 44‑A, Tacloban, 189
+Barangay 45, Tacloban, 351
+Barangay 46, Tacloban, 464
+Barangay 47, Tacloban, 653
+Barangay 48, Tacloban, 424
+Barangay 48‑A, Tacloban, 417
+Barangay 48‑B, Tacloban, 556
+Barangay 49, Tacloban, 1,927
+Barangay 5, Tacloban, 331
+Barangay 50, Tacloban, 257
+Barangay 50‑A, Tacloban, 675
+Barangay 50‑B, Tacloban, 829
+Barangay 51, Tacloban, 534
+Barangay 51‑A, Tacloban, 205
+Barangay 52, Tacloban, 1,171
+Barangay 53, Tacloban, 567
+Barangay 54, Tacloban, 645
+Barangay 54‑A, Tacloban, 751
+Barangay 56, Tacloban, 1,222
+Barangay 56‑A, Tacloban, 582
+Barangay 57, Tacloban, 1,110
+Barangay 58, Tacloban, 886
+Barangay 59, Tacloban, 3,398
+Barangay 59‑A, Tacloban, 3,378
+Barangay 59‑B, Tacloban, 738
+Barangay 5‑A, Tacloban, 340
+Barangay 6, Tacloban, 1,161
+Barangay 60, Tacloban, 1,207
+Barangay 60‑A, Tacloban, 923
+Barangay 61, Tacloban, 973
+Barangay 62, Tacloban, 1,546
+Barangay 62‑A, Tacloban, 5,627
+Barangay 62‑B, Tacloban, 4,266
+Barangay 63, Tacloban, 2,645
+Barangay 64, Tacloban, 2,252
+Barangay 65, Tacloban, 1,278
+Barangay 66, Tacloban, 1,415
+Barangay 66‑A, Tacloban, 1,265
+Barangay 67, Tacloban, 1,277
+Barangay 68, Tacloban, 2,169
+Barangay 69, Tacloban, 2,436
+Barangay 6‑A, Tacloban, 1,453
+Barangay 7, Tacloban, 265
+Barangay 70, Tacloban, 992
+Barangay 71, Tacloban, 5,487
+Barangay 72, Tacloban, 670
+Barangay 73, Tacloban, 316
+Barangay 74, Tacloban, 8,518
+Barangay 75, Tacloban, 805
+Barangay 76, Tacloban, 849
+Barangay 77, Tacloban, 3,498
+Barangay 78 (Marasbaras), Tacloban, 2,269
+Barangay 79 (Marasbaras), Tacloban, 1,793
+Barangay 8, Tacloban, 252
+Barangay 80 (Marasbaras), Tacloban, 1,332
+Barangay 81 (Marasbaras), Tacloban, 892
+Barangay 82 (Marasbaras), Tacloban, 1,229
+Barangay 83 (San Jose), Tacloban, 3,105
+Barangay 83‑A (San Jose), Tacloban, 1,492
+Barangay 83‑B, Tacloban, 2,978
+Barangay 83‑C (San Jose), Tacloban, 3,904
+Barangay 84 (San Jose), Tacloban, 6,847
+Barangay 85 (San Jose), Tacloban, 1,512
+Barangay 86, Tacloban, 1,210
+Barangay 87, Tacloban, 3,366
+Barangay 88, Tacloban, 5,880
+Barangay 89, Tacloban, 4,528
+Barangay 8‑A, Tacloban, 150
+Barangay 90 (San Jose), Tacloban, 61
+Barangay 91 (Abucay), Tacloban, 9,361
+Barangay 92 (Apitong), Tacloban, 4,946
+Barangay 93 (Bagacay), Tacloban, 4,584
+Barangay 94 (Tigbao), Tacloban, 2,978
+Barangay 94‑A, Tacloban, 1,560
+Barangay 95 (Caibaan), Tacloban, 6,623
+Barangay 95‑A (Caibaan), Tacloban, 4,168
+Barangay 96 (Calanipawan), Tacloban, 7,113
+Barangay 97 (Cabalawan), Tacloban, 3,417
+Barangay 98 (Camansinay), Tacloban, 1,391
+Barangay 99 (Diit), Tacloban, 5,478
+El Reposo (Barangays 55 & 55A), Tacloban, 746
+Libertad (Barangays 1 & 4), Tacloban, 1,056
+Nula‑tula (Barangays 3 & 3A), Tacloban, 2,946
+Agusan, Cagayan de Oro, 16,261
+Baikingon, Cagayan de Oro, 2,291
+Balubal, Cagayan de Oro, 4,718
+Balulang, Cagayan de Oro, 34,793
+Barangay 1 (Poblacion), Cagayan de Oro, 349
+Barangay 10 (Poblacion), Cagayan de Oro, 786
+Barangay 11 (Poblacion), Cagayan de Oro, 204
+Barangay 12 (Poblacion), Cagayan de Oro, 257
+Barangay 13 (Poblacion), Cagayan de Oro, 1,156
+Barangay 14 (Poblacion), Cagayan de Oro, 526
+Barangay 15 (Poblacion), Cagayan de Oro, 2,049
+Barangay 16 (Poblacion), Cagayan de Oro, 36
+Barangay 17 (Poblacion), Cagayan de Oro, 2,280
+Barangay 18 (Poblacion), Cagayan de Oro, 1,561
+Barangay 19 (Poblacion), Cagayan de Oro, 352
+Barangay 2 (Poblacion), Cagayan de Oro, 71
+Barangay 20 (Poblacion), Cagayan de Oro, 69
+Barangay 21 (Poblacion), Cagayan de Oro, 535
+Barangay 22 (Poblacion), Cagayan de Oro, 2,192
+Barangay 23 (Poblacion), Cagayan de Oro, 928
+Barangay 24 (Poblacion), Cagayan de Oro, 795
+Barangay 25 (Poblacion), Cagayan de Oro, 1,113
+Barangay 26 (Poblacion), Cagayan de Oro, 2,621
+Barangay 27 (Poblacion), Cagayan de Oro, 1,610
+Barangay 28 (Poblacion), Cagayan de Oro, 536
+Barangay 29 (Poblacion), Cagayan de Oro, 448
+Barangay 3 (Poblacion), Cagayan de Oro, 271
+Barangay 30 (Poblacion), Cagayan de Oro, 822
+Barangay 31 (Poblacion), Cagayan de Oro, 1,170
+Barangay 32 (Poblacion), Cagayan de Oro, 1,166
+Barangay 33 (Poblacion), Cagayan de Oro, 67
+Barangay 34 (Poblacion), Cagayan de Oro, 634
+Barangay 35 (Poblacion), Cagayan de Oro, 2,239
+Barangay 36 (Poblacion), Cagayan de Oro, 679
+Barangay 37 (Poblacion), Cagayan de Oro, 141
+Barangay 38 (Poblacion), Cagayan de Oro, 67
+Barangay 39 (Poblacion), Cagayan de Oro, 36
+Barangay 4 (Poblacion), Cagayan de Oro, 80
+Barangay 40 (Poblacion), Cagayan de Oro, 791
+Barangay 5 (Poblacion), Cagayan de Oro, 78
+Barangay 6 (Poblacion), Cagayan de Oro, 110
+Barangay 7 (Poblacion), Cagayan de Oro, 511
+Barangay 8 (Poblacion), Cagayan de Oro, 129
+Barangay 9 (Poblacion), Cagayan de Oro, 315
+Bayabas, Cagayan de Oro, 13,670
+Bayanga, Cagayan de Oro, 3,289
+Besigan, Cagayan de Oro, 1,673
+Bonbon, Cagayan de Oro, 9,573
+Bugo, Cagayan de Oro, 30,893
+Bulua, Cagayan de Oro, 32,348
+Camaman‑an, Cagayan de Oro, 30,927
+Canito‑an, Cagayan de Oro, 27,815
+Carmen, Cagayan de Oro, 70,492
+Consolacion, Cagayan de Oro, 10,433
+Cugman, Cagayan de Oro, 22,383
+Dansolihon, Cagayan de Oro, 5,550
+F. S. Catanico, Cagayan de Oro, 2,502
+Gusa, Cagayan de Oro, 26,815
+Indahag, Cagayan de Oro, 16,179
+Iponan, Cagayan de Oro, 26,340
+Kauswagan, Cagayan de Oro, 35,069
+Lapasan, Cagayan de Oro, 43,611
+Lumbia, Cagayan de Oro, 22,429
+Macabalan, Cagayan de Oro, 20,721
+Macasandig, Cagayan de Oro, 20,738
+Mambuaya, Cagayan de Oro, 3,431
+Nazareth, Cagayan de Oro, 10,395
+Pagalungan, Cagayan de Oro, 2,290
+Pagatpat, Cagayan de Oro, 8,456
+Patag, Cagayan de Oro, 17,742
+Pigsag‑an, Cagayan de Oro, 1,347
+Puerto, Cagayan de Oro, 14,318
+Puntod, Cagayan de Oro, 18,796
+San Simon, Cagayan de Oro, 1,391
+Tablon, Cagayan de Oro, 23,004
+Taglimao, Cagayan de Oro, 2,249
+Tagpangi, Cagayan de Oro, 2,649
+Tignapoloan, Cagayan de Oro, 4,866
+Tuburan, Cagayan de Oro, 1,290
+Tumpagon, Cagayan de Oro, 2,433
+Alangilan, Bacolod, 7,304
+Alijis, Bacolod, 21,538
+Banago, Bacolod, 28,217
+Barangay 1 (Poblacion), Bacolod, 5,436
+Barangay 10 (Poblacion), Bacolod, 2,515
+Barangay 11 (Poblacion), Bacolod, 368
+Barangay 12 (Poblacion), Bacolod, 1,565
+Barangay 13 (Poblacion), Bacolod, 508
+Barangay 14 (Poblacion), Bacolod, 2,133
+Barangay 15 (Poblacion), Bacolod, 338
+Barangay 16 (Poblacion), Bacolod, 7,998
+Barangay 17 (Poblacion), Bacolod, 2,366
+Barangay 18 (Poblacion), Bacolod, 950
+Barangay 19 (Poblacion), Bacolod, 1,266
+Barangay 2 (Poblacion), Bacolod, 3,865
+Barangay 20 (Poblacion), Bacolod, 826
+Barangay 21 (Poblacion), Bacolod, 212
+Barangay 22 (Poblacion), Bacolod, 308
+Barangay 23 (Poblacion), Bacolod, 956
+Barangay 24 (Poblacion), Bacolod, 92
+Barangay 25 (Poblacion), Bacolod, 349
+Barangay 26 (Poblacion), Bacolod, 1,735
+Barangay 27 (Poblacion), Bacolod, 2,160
+Barangay 28 (Poblacion), Bacolod, 1,774
+Barangay 29 (Poblacion), Bacolod, 2,008
+Barangay 3 (Poblacion), Bacolod, 3,742
+Barangay 30 (Poblacion), Bacolod, 3,820
+Barangay 31 (Poblacion), Bacolod, 1,167
+Barangay 32 (Poblacion), Bacolod, 784
+Barangay 33 (Poblacion), Bacolod, 847
+Barangay 34 (Poblacion), Bacolod, 1,135
+Barangay 35 (Poblacion), Bacolod, 8,208
+Barangay 36 (Poblacion), Bacolod, 1,661
+Barangay 37 (Poblacion), Bacolod, 445
+Barangay 38 (Poblacion), Bacolod, 849
+Barangay 39 (Poblacion), Bacolod, 2,292
+Barangay 4 (Poblacion), Bacolod, 1,424
+Barangay 40 (Poblacion), Bacolod, 3,010
+Barangay 41 (Poblacion), Bacolod, 499
+Barangay 5 (Poblacion), Bacolod, 486
+Barangay 6 (Poblacion), Bacolod, 2,521
+Barangay 7 (Poblacion), Bacolod, 3,035
+Barangay 8 (Poblacion), Bacolod, 1,406
+Barangay 9 (Poblacion), Bacolod, 683
+Bata, Bacolod, 28,786
+Cabug, Bacolod, 9,872
+Estefania, Bacolod, 40,931
+Felisa, Bacolod, 9,646
+Granada, Bacolod, 27,036
+Handumanan, Bacolod, 27,591
+Mandalagan, Bacolod, 26,063
+Mansilingan, Bacolod, 45,181
+Montevista, Bacolod, 1,271
+Pahanocoy, Bacolod, 14,585
+Punta Taytay, Bacolod, 7,335
+Singcang‑Airport, Bacolod, 33,717
+Sum‑ag, Bacolod, 18,752
+Taculing, Bacolod, 39,891
+Tangub, Bacolod, 38,746
+Villamonte, Bacolod, 36,575
+Vista Alegre, Bacolod, 21,096
+Babuyan, Puerto Princesa, 2,472
+Bacungan, Puerto Princesa, 4,555
+Bagong Bayan, Puerto Princesa, 827
+Bagong Pag‑asa (Poblacion), Puerto Princesa, 750
+Bagong Sikat (Poblacion), Puerto Princesa, 7,497
+Bagong Silang (Poblacion), Puerto Princesa, 5,296
+Bahile, Puerto Princesa, 2,339
+Bancao‑bancao, Puerto Princesa, 13,612
+Barangay ng mga Mangingisda, Puerto Princesa, 5,350
+Binduyan, Puerto Princesa, 1,293
+Buenavista, Puerto Princesa, 1,212
+Cabayugan, Puerto Princesa, 3,368
+Concepcion, Puerto Princesa, 1,418
+Inagawan, Puerto Princesa, 1,623
+Inagawan Sub‑Colony, Puerto Princesa, 4,052
+Irawan, Puerto Princesa, 6,142
+Iwahig (Poblacion), Puerto Princesa, 4,527
+Kalipay (Poblacion), Puerto Princesa, 725
+Kamuning, Puerto Princesa, 1,978
+Langogan, Puerto Princesa, 2,067
+Liwanag (Poblacion), Puerto Princesa, 1,202
+Lucbuan, Puerto Princesa, 1,401
+Luzviminda, Puerto Princesa, 3,473
+Mabuhay (Poblacion), Puerto Princesa, 206
+Macarascas, Puerto Princesa, 1,609
+Magkakaibigan (Poblacion), Puerto Princesa, 375
+Maligaya (Poblacion), Puerto Princesa, 311
+Manalo, Puerto Princesa, 2,143
+Mandaragat, Puerto Princesa, 9,210
+Manggahan (Poblacion), Puerto Princesa, 644
+Maningning (Poblacion), Puerto Princesa, 791
+Maoyon, Puerto Princesa, 1,281
+Marufinas, Puerto Princesa, 609
+Maruyogon, Puerto Princesa, 1,450
+Masigla (Poblacion), Puerto Princesa, 609
+Masikap (Poblacion), Puerto Princesa, 958
+Masipag (Poblacion), Puerto Princesa, 1,971
+Matahimik (Poblacion), Puerto Princesa, 1,228
+Matiyaga (Poblacion), Puerto Princesa, 413
+Maunlad (Poblacion), Puerto Princesa, 3,865
+Milagrosa (Poblacion), Puerto Princesa, 3,100
+Model (Poblacion), Puerto Princesa, 327
+Montible (Poblacion), Puerto Princesa, 362
+Napsan, Puerto Princesa, 1,797
+New Panggangan, Puerto Princesa, 629
+Pagkakaisa (Poblacion), Puerto Princesa, 1,131
+Princesa (Poblacion), Puerto Princesa, 1,015
+Salvacion, Puerto Princesa, 1,197
+San Jose, Puerto Princesa, 17,521
+San Manuel, Puerto Princesa, 12,510
+San Miguel, Puerto Princesa, 19,649
+San Pedro, Puerto Princesa, 22,089
+San Rafael, Puerto Princesa, 1,836
+Santa Cruz, Puerto Princesa, 840
+Santa Lourdes, Puerto Princesa, 5,171
+Santa Lucia (Poblacion), Puerto Princesa, 147
+Santa Monica, Puerto Princesa, 20,094
+Seaside (Poblacion), Puerto Princesa, 312
+Sicsican, Puerto Princesa, 15,861
+Simpocan, Puerto Princesa, 1,272
+Tagabinit, Puerto Princesa, 1,170
+Tagburos, Puerto Princesa, 7,045
+Tagumpay (Poblacion), Puerto Princesa, 465
+Tanabag, Puerto Princesa, 700
+Tanglaw (Poblacion), Puerto Princesa, 1,739
+Tiniguiban, Puerto Princesa, 12,285
+Agapito del Rosario, Angeles, 3,230
+Amsic, Angeles, 14,379
+Anunas, Angeles, 20,911
+Balibago, Angeles, 40,087
+Capaya, Angeles, 8,870
+Claro M. Recto, Angeles, 3,981
+Cuayan, Angeles, 10,363
+Cutcut, Angeles, 27,843
+Cutud, Angeles, 23,177
+Lourdes North West, Angeles, 9,896
+Lourdes Sur, Angeles, 4,797
+Lourdes Sur East, Angeles, 4,741
+Malabanias, Angeles, 33,174
+Margot, Angeles, 5,239
+Mining, Angeles, 3,186
+Ninoy Aquino (Marisol), Angeles, 11,658
+Pampang, Angeles, 20,419
+Pandan, Angeles, 20,598
+Pulung Cacutud, Angeles, 23,891
+Pulung Maragul, Angeles, 18,067
+Pulungbulu, Angeles, 12,198
+Salapungan, Angeles, 5,443
+San Jose, Angeles, 5,579
+San Nicolas, Angeles, 3,424
+Santa Teresita, Angeles, 8,402
+Santa Trinidad, Angeles, 5,036
+Santo Cristo, Angeles, 4,222
+Santo Domingo, Angeles, 17,693
+Santo Rosario (Poblacion), Angeles, 4,902
+Sapalibutad, Angeles, 12,698
+Sapangbato, Angeles, 10,965
+Tabun, Angeles, 10,914
+Virgen Delos Remedios, Angeles, 1,651
+Barangay 1 (Poblacion), Lucena, 2,874
+Barangay 10 (Poblacion), Lucena, 5,597
+Barangay 11 (Poblacion), Lucena, 1,803
+Barangay 2 (Poblacion), Lucena, 1,640
+Barangay 3 (Poblacion), Lucena, 1,238
+Barangay 4 (Poblacion), Lucena, 3,399
+Barangay 5 (Poblacion), Lucena, 3,055
+Barangay 6 (Poblacion), Lucena, 914
+Barangay 7 (Poblacion), Lucena, 2,701
+Barangay 8 (Poblacion), Lucena, 4,399
+Barangay 9 (Poblacion), Lucena, 4,250
+Barra, Lucena, 4,703
+Bocohan, Lucena, 5,042
+Cotta, Lucena, 21,182
+Dalahican, Lucena, 22,676
+Domoit, Lucena, 4,635
+Gulang‑gulang, Lucena, 28,644
+Ibabang Dupay, Lucena, 31,867
+Ibabang Iyam, Lucena, 25,718
+Ibabang Talim, Lucena, 3,367
+Ilayang Dupay, Lucena, 2,123
+Ilayang Iyam, Lucena, 12,679
+Ilayang Talim, Lucena, 1,861
+Isabang, Lucena, 11,218
+Market View, Lucena, 11,983
+Mayao Castillo, Lucena, 3,073
+Mayao Crossing, Lucena, 12,352
+Mayao Kanluran, Lucena, 11,241
+Mayao Parada, Lucena, 3,742
+Mayao Silangan, Lucena, 8,849
+Ransohan, Lucena, 1,540
+Salinas, Lucena, 1,724
+Talao‑talao, Lucena, 4,159
+Apopong, General Santos, 46,384
+Baluan, General Santos, 7,611
+Batomelong, General Santos, 3,235
+Buayan, General Santos, 11,196
+Bula, General Santos, 31,363
+Calumpang, General Santos, 75,342
+City Heights, General Santos, 24,014
+Conel, General Santos, 11,164
+Dadiangas East (Poblacion), General Santos, 4,746
+Dadiangas North, General Santos, 8,056
+Dadiangas South, General Santos, 6,199
+Dadiangas West, General Santos, 13,827
+Fatima, General Santos, 66,460
+Katangawan, General Santos, 13,948
+Labangal, General Santos, 61,713
+Lagao (1st & 3rd), General Santos, 50,789
+Ligaya, General Santos, 5,298
+Mabuhay, General Santos, 28,288
+Olympog, General Santos, 3,352
+San Isidro (Lagao 2nd), General Santos, 52,832
+San Jose, General Santos, 11,333
+Siguel, General Santos, 12,757
+Sinawal, General Santos, 13,285
+Tambler, General Santos, 21,474
+Tinagacan, General Santos, 6,322
+Upper Labay, General Santos, 3,458
+Asinan, Olongapo, 3,445
+Banicain, Olongapo, 6,851
+Barreto, Olongapo, 19,340
+East Bajac‑bajac, Olongapo, 17,165
+East Tapinac, Olongapo, 9,253
+Gordon Heights, Olongapo, 27,874
+Kalaklan, Olongapo, 13,137
+Mabayuan, Olongapo, 10,622
+New Cabalan, Olongapo, 27,714
+New Ilalim, Olongapo, 1,518
+New Kababae, Olongapo, 2,404
+New Kalalake, Olongapo, 9,808
+Old Cabalan, Olongapo, 19,274
+Pag‑asa, Olongapo, 6,070
+Santa Rita, Olongapo, 43,632
+West Bajac‑bajac, Olongapo, 8,007
+West Tapinac, Olongapo, 6,926
+Bagua, Cotabato City, 18,137
+Bagua I, Cotabato City, 9,206
+Bagua II, Cotabato City, 19,720
+Bagua III, Cotabato City, 6,847
+Kalanganan, Cotabato City, 15,019
+Kalanganan I, Cotabato City, 5,808
+Kalanganan II, Cotabato City, 5,999
+Poblacion, Cotabato City, 20,734
+Poblacion I, Cotabato City, 5,677
+Poblacion II, Cotabato City, 6,302
+Poblacion III, Cotabato City, 2,985
+Poblacion IV, Cotabato City, 6,456
+Poblacion IX, Cotabato City, 5,998
+Poblacion V, Cotabato City, 3,070
+Poblacion VI, Cotabato City, 5,151
+Poblacion VII, Cotabato City, 15,712
+Poblacion VIII, Cotabato City, 8,786
+Rosary Heights, Cotabato City, 13,943
+Rosary Heights I, Cotabato City, 3,931
+Rosary Heights II, Cotabato City, 5,006
+Rosary Heights III, Cotabato City, 10,786
+Rosary Heights IV, Cotabato City, 4,377
+Rosary Heights IX, Cotabato City, 7,802
+Rosary Heights V, Cotabato City, 5,870
+Rosary Heights VI, Cotabato City, 6,846
+Rosary Heights VII, Cotabato City, 9,257
+Rosary Heights VIII, Cotabato City, 8,524
+Rosary Heights X, Cotabato City, 15,732
+Rosary Heights XI, Cotabato City, 7,864
+Rosary Heights XII, Cotabato City, 4,664
+Rosary Heights XIII, Cotabato City, 4,947
+Tamontaka, Cotabato City, 12,027
+Tamontaka I, Cotabato City, 4,423
+Tamontaka II, Cotabato City, 4,184
+Tamontaka III, Cotabato City, 2,730
+Tamontaka IV, Cotabato City, 3,741
+Tamontaka V, Cotabato City, 1,177

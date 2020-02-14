@@ -1,0 +1,1706 @@
+Barangay 1, Caloocan, 2,417
+Barangay 10, Caloocan, 1,339
+Barangay 100, Caloocan, 984
+Barangay 101, Caloocan, 2,384
+Barangay 102, Caloocan, 1,157
+Barangay 103, Caloocan, 462
+Barangay 104, Caloocan, 886
+Barangay 105, Caloocan, 2,384
+Barangay 106, Caloocan, 421
+Barangay 107, Caloocan, 798
+Barangay 108, Caloocan, 700
+Barangay 109, Caloocan, 1,121
+Barangay 11, Caloocan, 1,652
+Barangay 110, Caloocan, 509
+Barangay 111, Caloocan, 1,435
+Barangay 112, Caloocan, 1,069
+Barangay 113, Caloocan, 169
+Barangay 114, Caloocan, 1,082
+Barangay 115, Caloocan, 1,127
+Barangay 116, Caloocan, 1,179
+Barangay 117, Caloocan, 1,414
+Barangay 118, Caloocan, 4,651
+Barangay 119, Caloocan, 785
+Barangay 12, Caloocan, 32,427
+Barangay 120, Caloocan, 8,794
+Barangay 121, Caloocan, 299
+Barangay 122, Caloocan, 2,062
+Barangay 123, Caloocan, 903
+Barangay 124, Caloocan, 328
+Barangay 125, Caloocan, 1,278
+Barangay 126, Caloocan, 1,083
+Barangay 127, Caloocan, 2,113
+Barangay 128, Caloocan, 1,752
+Barangay 129, Caloocan, 1,839
+Barangay 13, Caloocan, 1,411
+Barangay 130, Caloocan, 3,055
+Barangay 131, Caloocan, 2,286
+Barangay 132, Caloocan, 7,924
+Barangay 133, Caloocan, 5,694
+Barangay 134, Caloocan, 888
+Barangay 135, Caloocan, 619
+Barangay 136, Caloocan, 406
+Barangay 137, Caloocan, 1,221
+Barangay 138, Caloocan, 1,535
+Barangay 139, Caloocan, 3,414
+Barangay 14, Caloocan, 21,579
+Barangay 140, Caloocan, 1,027
+Barangay 141, Caloocan, 3,010
+Barangay 142, Caloocan, 3,936
+Barangay 143, Caloocan, 3,673
+Barangay 144, Caloocan, 4,743
+Barangay 145, Caloocan, 4,507
+Barangay 146, Caloocan, 3,117
+Barangay 147, Caloocan, 3,664
+Barangay 148, Caloocan, 3,754
+Barangay 149, Caloocan, 4,426
+Barangay 15, Caloocan, 1,204
+Barangay 150, Caloocan, 4,161
+Barangay 151, Caloocan, 4,273
+Barangay 152, Caloocan, 3,916
+Barangay 153, Caloocan, 4,078
+Barangay 154, Caloocan, 3,876
+Barangay 155, Caloocan, 3,531
+Barangay 156, Caloocan, 5,266
+Barangay 157, Caloocan, 2,883
+Barangay 158, Caloocan, 1,901
+Barangay 159, Caloocan, 4,996
+Barangay 16, Caloocan, 4,103
+Barangay 160, Caloocan, 15,268
+Barangay 161, Caloocan, 9,613
+Barangay 162, Caloocan, 16,065
+Barangay 163, Caloocan, 14,427
+Barangay 164, Caloocan, 16,073
+Barangay 165, Caloocan, 30,240
+Barangay 166, Caloocan, 17,806
+Barangay 167, Caloocan, 53,835
+Barangay 168, Caloocan, 32,620
+Barangay 169, Caloocan, 4,700
+Barangay 17, Caloocan, 3,272
+Barangay 170, Caloocan, 11,322
+Barangay 171, Caloocan, 98,166
+Barangay 172, Caloocan, 21,719
+Barangay 173, Caloocan, 15,697
+Barangay 174, Caloocan, 22,415
+Barangay 175, Caloocan, 64,031
+Barangay 176, Caloocan, 246,515
+Barangay 177, Caloocan, 79,624
+Barangay 178, Caloocan, 107,596
+Barangay 179, Caloocan, 37,335
+Barangay 18, Caloocan, 10,306
+Barangay 180, Caloocan, 16,500
+Barangay 181, Caloocan, 21,918
+Barangay 182, Caloocan, 8,723
+Barangay 183, Caloocan, 4,625
+Barangay 184, Caloocan, 2,669
+Barangay 185, Caloocan, 27,333
+Barangay 186, Caloocan, 21,668
+Barangay 187, Caloocan, 23,529
+Barangay 188, Caloocan, 28,301
+Barangay 19, Caloocan, 3,251
+Barangay 2, Caloocan, 5,134
+Barangay 20, Caloocan, 9,015
+Barangay 21, Caloocan, 3,234
+Barangay 22, Caloocan, 5,548
+Barangay 23, Caloocan, 2,260
+Barangay 24, Caloocan, 2,255
+Barangay 25, Caloocan, 1,567
+Barangay 26, Caloocan, 3,694
+Barangay 27, Caloocan, 3,822
+Barangay 28, Caloocan, 30,968
+Barangay 29, Caloocan, 1,491
+Barangay 3, Caloocan, 2,621
+Barangay 30, Caloocan, 3,652
+Barangay 31, Caloocan, 4,997
+Barangay 32, Caloocan, 2,548
+Barangay 33, Caloocan, 5,668
+Barangay 34, Caloocan, 6,313
+Barangay 35, Caloocan, 21,778
+Barangay 36, Caloocan, 5,266
+Barangay 37, Caloocan, 2,964
+Barangay 38, Caloocan, 4,300
+Barangay 39, Caloocan, 928
+Barangay 4, Caloocan, 2,809
+Barangay 40, Caloocan, 1,349
+Barangay 41, Caloocan, 1,169
+Barangay 42, Caloocan, 760
+Barangay 43, Caloocan, 3,827
+Barangay 44, Caloocan, 700
+Barangay 45, Caloocan, 651
+Barangay 46, Caloocan, 1,426
+Barangay 47, Caloocan, 395
+Barangay 48, Caloocan, 652
+Barangay 49, Caloocan, 6,080
+Barangay 5, Caloocan, 3,004
+Barangay 50, Caloocan, 1,333
+Barangay 51, Caloocan, 964
+Barangay 52, Caloocan, 2,816
+Barangay 53, Caloocan, 1,181
+Barangay 54, Caloocan, 833
+Barangay 55, Caloocan, 1,262
+Barangay 56, Caloocan, 3,328
+Barangay 57, Caloocan, 738
+Barangay 58, Caloocan, 637
+Barangay 59, Caloocan, 4,843
+Barangay 6, Caloocan, 1,221
+Barangay 60, Caloocan, 1,944
+Barangay 61, Caloocan, 1,055
+Barangay 62, Caloocan, 354
+Barangay 63, Caloocan, 3,423
+Barangay 64, Caloocan, 1,345
+Barangay 65, Caloocan, 1,021
+Barangay 66, Caloocan, 1,361
+Barangay 67, Caloocan, 2,509
+Barangay 68, Caloocan, 1,173
+Barangay 69, Caloocan, 3,191
+Barangay 7, Caloocan, 2,619
+Barangay 70, Caloocan, 4,208
+Barangay 71, Caloocan, 825
+Barangay 72, Caloocan, 0
+Barangay 73, Caloocan, 17,993
+Barangay 74, Caloocan, 3,501
+Barangay 75, Caloocan, 3,246
+Barangay 76, Caloocan, 3
+Barangay 77, Caloocan, 977
+Barangay 78, Caloocan, 1,842
+Barangay 79, Caloocan, 632
+Barangay 8, Caloocan, 23,766
+Barangay 80, Caloocan, 1,813
+Barangay 81, Caloocan, 2,528
+Barangay 82, Caloocan, 1,949
+Barangay 83, Caloocan, 1,347
+Barangay 84, Caloocan, 1,277
+Barangay 85, Caloocan, 1,301
+Barangay 86, Caloocan, 1,454
+Barangay 87, Caloocan, 1,310
+Barangay 88, Caloocan, 2,488
+Barangay 89, Caloocan, 1,550
+Barangay 9, Caloocan, 1,986
+Barangay 90, Caloocan, 1,429
+Barangay 91, Caloocan, 598
+Barangay 92, Caloocan, 610
+Barangay 93, Caloocan, 3,248
+Barangay 94, Caloocan, 927
+Barangay 95, Caloocan, 2,784
+Barangay 96, Caloocan, 1,540
+Barangay 97, Caloocan, 1,654
+Barangay 98, Caloocan, 2,182
+Barangay 99, Caloocan, 772
+Almanza Dos, Las Piñas, 37,595
+Almanza Uno, Las Piñas, 30,405
+B. F. International Village, Las Piñas, 77,264
+Daniel Fajardo, Las Piñas, 10,425
+Elias Aldana, Las Piñas, 10,402
+Ilaya, Las Piñas, 6,055
+Manuyo Dos, Las Piñas, 37,007
+Manuyo Uno, Las Piñas, 15,405
+Pamplona Dos, Las Piñas, 10,765
+Pamplona Tres, Las Piñas, 35,612
+Pamplona Uno, Las Piñas, 18,577
+Pilar, Las Piñas, 31,459
+Pulang Lupa Dos, Las Piñas, 33,171
+Pulang Lupa Uno, Las Piñas, 31,401
+Talon Dos, Las Piñas, 53,091
+Talon Kuatro, Las Piñas, 21,420
+Talon Singko, Las Piñas, 45,374
+Talon Tres, Las Piñas, 27,874
+Talon Uno, Las Piñas, 34,821
+Zapote, Las Piñas, 20,771
+Bangkal, Makati, 21,650
+Bel‑Air, Makati, 23,685
+Carmona, Makati, 3,109
+Cembo, Makati, 26,213
+Comembo, Makati, 16,818
+Dasmariñas, Makati, 5,589
+East Rembo, Makati, 28,114
+Forbes Park, Makati, 2,335
+Guadalupe Nuevo, Makati, 18,341
+Guadalupe Viejo, Makati, 13,415
+Kasilawan, Makati, 5,881
+La Paz, Makati, 7,356
+Magallanes, Makati, 5,672
+Olympia, Makati, 20,251
+Palanan, Makati, 14,110
+Pembo, Makati, 48,275
+Pinagkaisahan, Makati, 5,739
+Pio del Pilar, Makati, 30,732
+Pitogo, Makati, 14,395
+Poblacion, Makati, 25,393
+Post Proper Northside, Makati, 28,572
+Post Proper Southside, Makati, 52,428
+Rizal, Makati, 42,635
+San Antonio, Makati, 16,840
+San Isidro, Makati, 8,045
+San Lorenzo, Makati, 12,995
+Santa Cruz, Makati, 7,207
+Singkamas, Makati, 7,370
+South Cembo, Makati, 15,103
+Tejeros, Makati, 13,696
+Urdaneta, Makati, 4,429
+Valenzuela, Makati, 6,310
+West Rembo, Makati, 29,899
+Acacia, Malabon, 5,127
+Baritan, Malabon, 10,193
+Bayan‑bayanan, Malabon, 6,702
+Catmon, Malabon, 39,466
+Concepcion, Malabon, 13,311
+Dampalit, Malabon, 12,124
+Flores, Malabon, 4,060
+Hulong Duhat, Malabon, 11,957
+Ibaba, Malabon, 8,471
+Longos, Malabon, 53,549
+Maysilo, Malabon, 11,262
+Muzon, Malabon, 5,668
+Niugan, Malabon, 6,232
+Panghulo, Malabon, 15,102
+Potrero, Malabon, 42,768
+San Agustin, Malabon, 11,195
+Santolan, Malabon, 13,769
+Tañong, Malabon, 14,404
+Tinajeros, Malabon, 18,228
+Tonsuya, Malabon, 38,019
+Tugatog, Malabon, 23,918
+Addition Hills, Mandaluyong, 99,058
+Bagong Silang, Mandaluyong, 5,572
+Barangka Drive, Mandaluyong, 13,310
+Barangka Ibaba, Mandaluyong, 9,540
+Barangka Ilaya, Mandaluyong, 17,896
+Barangka Itaas, Mandaluyong, 11,252
+Buayang Bato, Mandaluyong, 1,782
+Burol, Mandaluyong, 2,740
+Daang Bakal, Mandaluyong, 3,660
+Hagdang Bato Itaas, Mandaluyong, 10,314
+Hagdang Bato Libis, Mandaluyong, 6,962
+Harapin Ang Bukas, Mandaluyong, 4,496
+Highway Hills, Mandaluyong, 28,703
+Hulo, Mandaluyong, 27,515
+Mabini‑J. Rizal, Mandaluyong, 7,628
+Malamig, Mandaluyong, 12,667
+Mauway, Mandaluyong, 29,103
+Namayan, Mandaluyong, 6,123
+New Zañiga, Mandaluyong, 7,534
+Old Zañiga, Mandaluyong, 7,013
+Pag‑asa, Mandaluyong, 4,053
+Plainview, Mandaluyong, 26,575
+Pleasant Hills, Mandaluyong, 5,910
+Poblacion, Mandaluyong, 14,733
+San Jose, Mandaluyong, 7,262
+Vergara, Mandaluyong, 5,910
+Wack‑wack Greenhills, Mandaluyong, 8,965
+Barangay 1, Manila, 1,976
+Barangay 10, Manila, 378
+Barangay 100, Manila, 1,979
+Barangay 101, Manila, 11,853
+Barangay 102, Manila, 3,418
+Barangay 103, Manila, 4,431
+Barangay 104, Manila, 5,334
+Barangay 105, Manila, 23,206
+Barangay 106, Manila, 2,851
+Barangay 107, Manila, 6,377
+Barangay 108, Manila, 5,079
+Barangay 109, Manila, 3,646
+Barangay 11, Manila, 2,188
+Barangay 110, Manila, 2,524
+Barangay 111, Manila, 1,978
+Barangay 112, Manila, 3,752
+Barangay 116, Manila, 6,946
+Barangay 117, Manila, 4,396
+Barangay 118, Manila, 10,077
+Barangay 119, Manila, 3,251
+Barangay 12, Manila, 2,654
+Barangay 120, Manila, 3,525
+Barangay 121, Manila, 5,617
+Barangay 122, Manila, 4,257
+Barangay 123, Manila, 8,490
+Barangay 124, Manila, 2,626
+Barangay 125, Manila, 2,098
+Barangay 126, Manila, 1,054
+Barangay 127, Manila, 597
+Barangay 128, Manila, 18,218
+Barangay 129, Manila, 5,361
+Barangay 13, Manila, 2,280
+Barangay 130, Manila, 1,816
+Barangay 131, Manila, 1,443
+Barangay 132, Manila, 1,036
+Barangay 133, Manila, 2,263
+Barangay 134, Manila, 1,041
+Barangay 135, Manila, 2,057
+Barangay 136, Manila, 928
+Barangay 137, Manila, 827
+Barangay 138, Manila, 2,990
+Barangay 139, Manila, 426
+Barangay 14, Manila, 2,283
+Barangay 140, Manila, 671
+Barangay 141, Manila, 506
+Barangay 142, Manila, 1,729
+Barangay 143, Manila, 992
+Barangay 144, Manila, 1,775
+Barangay 145, Manila, 1,117
+Barangay 146, Manila, 2,734
+Barangay 147, Manila, 2,140
+Barangay 148, Manila, 2,414
+Barangay 149, Manila, 1,739
+Barangay 15, Manila, 1,085
+Barangay 150, Manila, 2,396
+Barangay 151, Manila, 1,399
+Barangay 152, Manila, 3,502
+Barangay 153, Manila, 2,703
+Barangay 154, Manila, 1,112
+Barangay 155, Manila, 2,916
+Barangay 156, Manila, 1,581
+Barangay 157, Manila, 2,075
+Barangay 158, Manila, 2,213
+Barangay 159, Manila, 1,701
+Barangay 16, Manila, 1,792
+Barangay 160, Manila, 2,375
+Barangay 161, Manila, 1,157
+Barangay 162, Manila, 716
+Barangay 163, Manila, 5,390
+Barangay 164, Manila, 2,083
+Barangay 165, Manila, 989
+Barangay 166, Manila, 1,139
+Barangay 167, Manila, 1,256
+Barangay 168, Manila, 1,342
+Barangay 169, Manila, 1,707
+Barangay 17, Manila, 1,211
+Barangay 170, Manila, 882
+Barangay 171, Manila, 1,383
+Barangay 172, Manila, 1,464
+Barangay 173, Manila, 2,037
+Barangay 174, Manila, 635
+Barangay 175, Manila, 1,108
+Barangay 176, Manila, 1,396
+Barangay 177, Manila, 3,239
+Barangay 178, Manila, 1,250
+Barangay 179, Manila, 3,076
+Barangay 18, Manila, 2,140
+Barangay 180, Manila, 3,267
+Barangay 181, Manila, 2,498
+Barangay 182, Manila, 6,002
+Barangay 183, Manila, 2,874
+Barangay 184, Manila, 3,562
+Barangay 185, Manila, 3,497
+Barangay 186, Manila, 1,884
+Barangay 187, Manila, 871
+Barangay 188, Manila, 1,292
+Barangay 189, Manila, 1,546
+Barangay 19, Manila, 2,361
+Barangay 190, Manila, 1,171
+Barangay 191, Manila, 712
+Barangay 192, Manila, 1,638
+Barangay 193, Manila, 1,183
+Barangay 194, Manila, 888
+Barangay 195, Manila, 1,225
+Barangay 196, Manila, 1,029
+Barangay 197, Manila, 873
+Barangay 198, Manila, 5,397
+Barangay 199, Manila, 3,355
+Barangay 2, Manila, 1,662
+Barangay 20, Manila, 38,602
+Barangay 200, Manila, 1,852
+Barangay 201, Manila, 1,711
+Barangay 202, Manila, 1,115
+Barangay 202‑A, Manila, 578
+Barangay 203, Manila, 2,816
+Barangay 204, Manila, 2,219
+Barangay 205, Manila, 1,496
+Barangay 206, Manila, 2,065
+Barangay 207, Manila, 1,101
+Barangay 208, Manila, 1,075
+Barangay 209, Manila, 3,195
+Barangay 210, Manila, 3,154
+Barangay 211, Manila, 2,688
+Barangay 212, Manila, 2,649
+Barangay 213, Manila, 2,913
+Barangay 214, Manila, 1,373
+Barangay 215, Manila, 2,896
+Barangay 216, Manila, 2,787
+Barangay 217, Manila, 1,053
+Barangay 218, Manila, 682
+Barangay 219, Manila, 817
+Barangay 220, Manila, 1,536
+Barangay 221, Manila, 2,914
+Barangay 222, Manila, 1,966
+Barangay 223, Manila, 1,489
+Barangay 224, Manila, 1,039
+Barangay 225, Manila, 2,444
+Barangay 226, Manila, 1,513
+Barangay 227, Manila, 2,939
+Barangay 228, Manila, 2,015
+Barangay 229, Manila, 1,281
+Barangay 230, Manila, 1,345
+Barangay 231, Manila, 2,432
+Barangay 232, Manila, 2,339
+Barangay 233, Manila, 1,648
+Barangay 234, Manila, 1,650
+Barangay 235, Manila, 1,721
+Barangay 236, Manila, 620
+Barangay 237, Manila, 605
+Barangay 238, Manila, 464
+Barangay 239, Manila, 1,744
+Barangay 240, Manila, 103
+Barangay 241, Manila, 634
+Barangay 242, Manila, 712
+Barangay 243, Manila, 338
+Barangay 244, Manila, 1,029
+Barangay 245, Manila, 350
+Barangay 246, Manila, 1,260
+Barangay 247, Manila, 542
+Barangay 248, Manila, 485
+Barangay 249, Manila, 784
+Barangay 25, Manila, 2,606
+Barangay 250, Manila, 1,284
+Barangay 251, Manila, 723
+Barangay 252, Manila, 253
+Barangay 253, Manila, 1,491
+Barangay 254, Manila, 2,853
+Barangay 255, Manila, 2,000
+Barangay 256, Manila, 2,086
+Barangay 257, Manila, 796
+Barangay 258, Manila, 908
+Barangay 259, Manila, 3,362
+Barangay 26, Manila, 2,806
+Barangay 260, Manila, 1,341
+Barangay 261, Manila, 800
+Barangay 262, Manila, 2,226
+Barangay 263, Manila, 1,786
+Barangay 264, Manila, 1,823
+Barangay 265, Manila, 593
+Barangay 266, Manila, 1,482
+Barangay 267, Manila, 2,195
+Barangay 268, Manila, 885
+Barangay 269, Manila, 1,050
+Barangay 270, Manila, 1,179
+Barangay 271, Manila, 572
+Barangay 272, Manila, 1,255
+Barangay 273, Manila, 988
+Barangay 274, Manila, 1,857
+Barangay 275, Manila, 19,031
+Barangay 276, Manila, 2,524
+Barangay 28, Manila, 2,578
+Barangay 281, Manila, 2,181
+Barangay 282, Manila, 2,548
+Barangay 283, Manila, 1,982
+Barangay 284, Manila, 1,032
+Barangay 285, Manila, 2,306
+Barangay 286, Manila, 3,679
+Barangay 287, Manila, 2,049
+Barangay 288, Manila, 1,549
+Barangay 289, Manila, 571
+Barangay 29, Manila, 4,652
+Barangay 290, Manila, 1,413
+Barangay 291, Manila, 1,383
+Barangay 292, Manila, 3,144
+Barangay 293, Manila, 2,937
+Barangay 294, Manila, 2,415
+Barangay 295, Manila, 1,154
+Barangay 296, Manila, 1,425
+Barangay 297, Manila, 1,076
+Barangay 298, Manila, 698
+Barangay 299, Manila, 1,684
+Barangay 3, Manila, 1,134
+Barangay 30, Manila, 436
+Barangay 300, Manila, 615
+Barangay 301, Manila, 271
+Barangay 302, Manila, 682
+Barangay 303, Manila, 393
+Barangay 304, Manila, 250
+Barangay 305, Manila, 533
+Barangay 306, Manila, 1,310
+Barangay 307, Manila, 1,142
+Barangay 308, Manila, 925
+Barangay 309, Manila, 1,283
+Barangay 31, Manila, 2,835
+Barangay 310, Manila, 20,483
+Barangay 311, Manila, 1,891
+Barangay 312, Manila, 2,887
+Barangay 313, Manila, 1,534
+Barangay 314, Manila, 2,189
+Barangay 315, Manila, 1,716
+Barangay 316, Manila, 1,217
+Barangay 317, Manila, 1,619
+Barangay 318, Manila, 1,057
+Barangay 319, Manila, 1,036
+Barangay 32, Manila, 2,221
+Barangay 320, Manila, 1,126
+Barangay 321, Manila, 499
+Barangay 322, Manila, 767
+Barangay 323, Manila, 1,270
+Barangay 324, Manila, 868
+Barangay 325, Manila, 863
+Barangay 326, Manila, 927
+Barangay 327, Manila, 1,310
+Barangay 328, Manila, 752
+Barangay 329, Manila, 728
+Barangay 33, Manila, 4,206
+Barangay 330, Manila, 2,393
+Barangay 331, Manila, 1,134
+Barangay 332, Manila, 482
+Barangay 333, Manila, 967
+Barangay 334, Manila, 1,751
+Barangay 335, Manila, 1,753
+Barangay 336, Manila, 2,108
+Barangay 337, Manila, 1,662
+Barangay 338, Manila, 1,281
+Barangay 339, Manila, 1,705
+Barangay 34, Manila, 1,612
+Barangay 340, Manila, 2,096
+Barangay 341, Manila, 1,819
+Barangay 342, Manila, 1,877
+Barangay 343, Manila, 1,880
+Barangay 344, Manila, 633
+Barangay 345, Manila, 1,324
+Barangay 346, Manila, 1,548
+Barangay 347, Manila, 1,320
+Barangay 348, Manila, 1,049
+Barangay 349, Manila, 704
+Barangay 35, Manila, 2,412
+Barangay 350, Manila, 4,232
+Barangay 351, Manila, 3,805
+Barangay 352, Manila, 1,640
+Barangay 353, Manila, 2,246
+Barangay 354, Manila, 1,824
+Barangay 355, Manila, 1,075
+Barangay 356, Manila, 386
+Barangay 357, Manila, 884
+Barangay 358, Manila, 831
+Barangay 359, Manila, 363
+Barangay 36, Manila, 2,024
+Barangay 360, Manila, 893
+Barangay 361, Manila, 781
+Barangay 362, Manila, 575
+Barangay 363, Manila, 562
+Barangay 364, Manila, 2,039
+Barangay 365, Manila, 1,328
+Barangay 366, Manila, 1,062
+Barangay 367, Manila, 1,653
+Barangay 368, Manila, 1,293
+Barangay 369, Manila, 1,186
+Barangay 37, Manila, 1,960
+Barangay 370, Manila, 744
+Barangay 371, Manila, 839
+Barangay 372, Manila, 3,638
+Barangay 373, Manila, 4,004
+Barangay 374, Manila, 3,615
+Barangay 375, Manila, 3,711
+Barangay 376, Manila, 1,006
+Barangay 377, Manila, 516
+Barangay 378, Manila, 1,136
+Barangay 379, Manila, 680
+Barangay 38, Manila, 3,001
+Barangay 380, Manila, 897
+Barangay 381, Manila, 1,376
+Barangay 382, Manila, 946
+Barangay 383, Manila, 1,821
+Barangay 384, Manila, 3,195
+Barangay 385, Manila, 2,920
+Barangay 386, Manila, 1,341
+Barangay 387, Manila, 2,994
+Barangay 388, Manila, 989
+Barangay 389, Manila, 1,056
+Barangay 39, Manila, 2,460
+Barangay 390, Manila, 762
+Barangay 391, Manila, 2,639
+Barangay 392, Manila, 677
+Barangay 393, Manila, 3,876
+Barangay 394, Manila, 1,548
+Barangay 395, Manila, 632
+Barangay 396, Manila, 1,709
+Barangay 397, Manila, 2,111
+Barangay 398, Manila, 2,228
+Barangay 399, Manila, 909
+Barangay 4, Manila, 1,872
+Barangay 400, Manila, 1,327
+Barangay 401, Manila, 2,058
+Barangay 402, Manila, 3,649
+Barangay 403, Manila, 1,406
+Barangay 404, Manila, 903
+Barangay 405, Manila, 1,005
+Barangay 406, Manila, 622
+Barangay 407, Manila, 1,155
+Barangay 408, Manila, 1,199
+Barangay 409, Manila, 2,379
+Barangay 41, Manila, 3,706
+Barangay 410, Manila, 1,821
+Barangay 411, Manila, 1,263
+Barangay 412, Manila, 1,646
+Barangay 413, Manila, 2,283
+Barangay 414, Manila, 1,220
+Barangay 415, Manila, 840
+Barangay 416, Manila, 1,078
+Barangay 417, Manila, 1,748
+Barangay 418, Manila, 2,977
+Barangay 419, Manila, 2,016
+Barangay 42, Manila, 2,238
+Barangay 420, Manila, 2,811
+Barangay 421, Manila, 1,351
+Barangay 422, Manila, 2,283
+Barangay 423, Manila, 1,397
+Barangay 424, Manila, 2,274
+Barangay 425, Manila, 1,578
+Barangay 426, Manila, 1,342
+Barangay 427, Manila, 677
+Barangay 428, Manila, 1,351
+Barangay 429, Manila, 2,428
+Barangay 43, Manila, 3,388
+Barangay 430, Manila, 595
+Barangay 431, Manila, 787
+Barangay 432, Manila, 3,544
+Barangay 433, Manila, 456
+Barangay 434, Manila, 1,134
+Barangay 435, Manila, 847
+Barangay 436, Manila, 1,186
+Barangay 437, Manila, 1,048
+Barangay 438, Manila, 722
+Barangay 439, Manila, 1,786
+Barangay 44, Manila, 951
+Barangay 440, Manila, 1,017
+Barangay 441, Manila, 944
+Barangay 442, Manila, 874
+Barangay 443, Manila, 1,471
+Barangay 444, Manila, 1,016
+Barangay 445, Manila, 891
+Barangay 446, Manila, 798
+Barangay 447, Manila, 1,591
+Barangay 448, Manila, 1,229
+Barangay 449, Manila, 1,562
+Barangay 45, Manila, 2,329
+Barangay 450, Manila, 2,020
+Barangay 451, Manila, 1,598
+Barangay 452, Manila, 977
+Barangay 453, Manila, 1,464
+Barangay 454, Manila, 1,268
+Barangay 455, Manila, 1,416
+Barangay 456, Manila, 2,094
+Barangay 457, Manila, 806
+Barangay 458, Manila, 2,555
+Barangay 459, Manila, 615
+Barangay 46, Manila, 1,914
+Barangay 460, Manila, 925
+Barangay 461, Manila, 912
+Barangay 462, Manila, 734
+Barangay 463, Manila, 422
+Barangay 464, Manila, 4,242
+Barangay 465, Manila, 497
+Barangay 466, Manila, 530
+Barangay 467, Manila, 820
+Barangay 468, Manila, 453
+Barangay 469, Manila, 513
+Barangay 47, Manila, 1,490
+Barangay 470, Manila, 590
+Barangay 471, Manila, 1,016
+Barangay 472, Manila, 1,179
+Barangay 473, Manila, 1,498
+Barangay 474, Manila, 1,652
+Barangay 475, Manila, 1,892
+Barangay 476, Manila, 1,145
+Barangay 477, Manila, 827
+Barangay 478, Manila, 1,079
+Barangay 479, Manila, 974
+Barangay 48, Manila, 4,174
+Barangay 480, Manila, 820
+Barangay 481, Manila, 306
+Barangay 482, Manila, 874
+Barangay 483, Manila, 1,571
+Barangay 484, Manila, 1,640
+Barangay 485, Manila, 1,688
+Barangay 486, Manila, 1,074
+Barangay 487, Manila, 1,474
+Barangay 488, Manila, 915
+Barangay 489, Manila, 921
+Barangay 49, Manila, 2,052
+Barangay 490, Manila, 357
+Barangay 491, Manila, 905
+Barangay 492, Manila, 1,110
+Barangay 493, Manila, 1,077
+Barangay 494, Manila, 1,967
+Barangay 495, Manila, 1,908
+Barangay 496, Manila, 989
+Barangay 497, Manila, 1,289
+Barangay 498, Manila, 1,291
+Barangay 499, Manila, 1,551
+Barangay 5, Manila, 1,199
+Barangay 50, Manila, 3,869
+Barangay 500, Manila, 2,717
+Barangay 501, Manila, 1,402
+Barangay 502, Manila, 957
+Barangay 503, Manila, 1,438
+Barangay 504, Manila, 1,299
+Barangay 505, Manila, 1,380
+Barangay 506, Manila, 610
+Barangay 507, Manila, 1,448
+Barangay 508, Manila, 1,217
+Barangay 509, Manila, 1,599
+Barangay 51, Manila, 3,019
+Barangay 510, Manila, 876
+Barangay 511, Manila, 1,323
+Barangay 512, Manila, 2,197
+Barangay 513, Manila, 1,778
+Barangay 514, Manila, 2,394
+Barangay 515, Manila, 2,489
+Barangay 516, Manila, 895
+Barangay 517, Manila, 883
+Barangay 518, Manila, 1,965
+Barangay 519, Manila, 1,408
+Barangay 52, Manila, 2,876
+Barangay 520, Manila, 614
+Barangay 521, Manila, 2,872
+Barangay 522, Manila, 839
+Barangay 523, Manila, 1,367
+Barangay 524, Manila, 916
+Barangay 525, Manila, 1,783
+Barangay 526, Manila, 930
+Barangay 527, Manila, 2,017
+Barangay 528, Manila, 1,238
+Barangay 529, Manila, 1,026
+Barangay 53, Manila, 2,582
+Barangay 530, Manila, 760
+Barangay 531, Manila, 1,431
+Barangay 532, Manila, 943
+Barangay 533, Manila, 975
+Barangay 534, Manila, 984
+Barangay 535, Manila, 1,047
+Barangay 536, Manila, 1,146
+Barangay 537, Manila, 1,148
+Barangay 538, Manila, 1,020
+Barangay 539, Manila, 1,576
+Barangay 54, Manila, 1,791
+Barangay 540, Manila, 1,906
+Barangay 541, Manila, 805
+Barangay 542, Manila, 900
+Barangay 543, Manila, 561
+Barangay 544, Manila, 90
+Barangay 545, Manila, 774
+Barangay 546, Manila, 977
+Barangay 547, Manila, 1,321
+Barangay 548, Manila, 779
+Barangay 549, Manila, 869
+Barangay 55, Manila, 2,797
+Barangay 550, Manila, 660
+Barangay 551, Manila, 931
+Barangay 552, Manila, 864
+Barangay 553, Manila, 1,204
+Barangay 554, Manila, 1,357
+Barangay 555, Manila, 1,343
+Barangay 556, Manila, 702
+Barangay 557, Manila, 1,270
+Barangay 558, Manila, 1,235
+Barangay 559, Manila, 1,188
+Barangay 56, Manila, 3,324
+Barangay 560, Manila, 1,183
+Barangay 561, Manila, 2,419
+Barangay 562, Manila, 2,404
+Barangay 563, Manila, 1,455
+Barangay 564, Manila, 1,362
+Barangay 565, Manila, 2,239
+Barangay 566, Manila, 2,078
+Barangay 567, Manila, 2,317
+Barangay 568, Manila, 2,017
+Barangay 569, Manila, 2,093
+Barangay 57, Manila, 1,115
+Barangay 570, Manila, 2,033
+Barangay 571, Manila, 2,006
+Barangay 572, Manila, 1,667
+Barangay 573, Manila, 950
+Barangay 574, Manila, 1,343
+Barangay 575, Manila, 909
+Barangay 576, Manila, 2,746
+Barangay 577, Manila, 720
+Barangay 578, Manila, 1,124
+Barangay 579, Manila, 1,615
+Barangay 58, Manila, 3,735
+Barangay 580, Manila, 1,876
+Barangay 581, Manila, 2,136
+Barangay 582, Manila, 1,582
+Barangay 583, Manila, 1,327
+Barangay 584, Manila, 3,941
+Barangay 585, Manila, 907
+Barangay 586, Manila, 2,340
+Barangay 587, Manila, 1,699
+Barangay 587‑A, Manila, 1,332
+Barangay 588, Manila, 1,359
+Barangay 589, Manila, 832
+Barangay 59, Manila, 2,000
+Barangay 590, Manila, 3,368
+Barangay 591, Manila, 2,419
+Barangay 592, Manila, 2,132
+Barangay 593, Manila, 1,927
+Barangay 594, Manila, 1,099
+Barangay 595, Manila, 4,108
+Barangay 596, Manila, 2,006
+Barangay 597, Manila, 2,017
+Barangay 598, Manila, 12,130
+Barangay 599, Manila, 4,088
+Barangay 6, Manila, 664
+Barangay 60, Manila, 2,141
+Barangay 600, Manila, 5,021
+Barangay 601, Manila, 8,521
+Barangay 602, Manila, 2,434
+Barangay 603, Manila, 705
+Barangay 604, Manila, 1,785
+Barangay 605, Manila, 879
+Barangay 606, Manila, 482
+Barangay 607, Manila, 1,599
+Barangay 608, Manila, 737
+Barangay 609, Manila, 972
+Barangay 61, Manila, 3,521
+Barangay 610, Manila, 1,190
+Barangay 611, Manila, 937
+Barangay 612, Manila, 648
+Barangay 613, Manila, 672
+Barangay 614, Manila, 568
+Barangay 615, Manila, 2,076
+Barangay 616, Manila, 1,014
+Barangay 617, Manila, 740
+Barangay 618, Manila, 865
+Barangay 619, Manila, 1,527
+Barangay 62, Manila, 1,879
+Barangay 620, Manila, 753
+Barangay 621, Manila, 1,874
+Barangay 622, Manila, 1,264
+Barangay 623, Manila, 1,081
+Barangay 624, Manila, 1,144
+Barangay 625, Manila, 1,137
+Barangay 626, Manila, 1,404
+Barangay 627, Manila, 1,148
+Barangay 628, Manila, 11,922
+Barangay 629, Manila, 1,682
+Barangay 63, Manila, 1,661
+Barangay 630, Manila, 2,138
+Barangay 631, Manila, 2,529
+Barangay 632, Manila, 1,426
+Barangay 633, Manila, 1,698
+Barangay 634, Manila, 1,707
+Barangay 635, Manila, 716
+Barangay 636, Manila, 2,562
+Barangay 637, Manila, 1,395
+Barangay 638, Manila, 649
+Barangay 639, Manila, 479
+Barangay 64, Manila, 555
+Barangay 640, Manila, 2,242
+Barangay 641, Manila, 705
+Barangay 642, Manila, 1,214
+Barangay 643, Manila, 665
+Barangay 644, Manila, 734
+Barangay 645, Manila, 1,988
+Barangay 646, Manila, 867
+Barangay 647, Manila, 1,153
+Barangay 648, Manila, 5,373
+Barangay 649, Manila, 59,847
+Barangay 65, Manila, 1,758
+Barangay 650, Manila, 3,857
+Barangay 651, Manila, 2,967
+Barangay 652, Manila, 51
+Barangay 653, Manila, 20
+Barangay 654, Manila, 1,137
+Barangay 655, Manila, 1,671
+Barangay 656, Manila, 369
+Barangay 657, Manila, 677
+Barangay 658, Manila, 2,081
+Barangay 659, Manila, 413
+Barangay 659‑A, Manila, 1,401
+Barangay 66, Manila, 3,721
+Barangay 660, Manila, 490
+Barangay 660‑A, Manila, 553
+Barangay 661, Manila, 331
+Barangay 662, Manila, 2,891
+Barangay 663, Manila, 436
+Barangay 663‑A, Manila, 370
+Barangay 664, Manila, 202
+Barangay 664‑A, Manila, 540
+Barangay 666, Manila, 524
+Barangay 667, Manila, 1,238
+Barangay 668, Manila, 1,223
+Barangay 669, Manila, 1,904
+Barangay 67, Manila, 3,983
+Barangay 670, Manila, 1,438
+Barangay 671, Manila, 1,169
+Barangay 672, Manila, 3,237
+Barangay 673, Manila, 2,605
+Barangay 674, Manila, 1,616
+Barangay 675, Manila, 2,532
+Barangay 676, Manila, 1,570
+Barangay 677, Manila, 2,757
+Barangay 678, Manila, 456
+Barangay 679, Manila, 949
+Barangay 68, Manila, 1,113
+Barangay 680, Manila, 1,123
+Barangay 681, Manila, 1,499
+Barangay 682, Manila, 1,204
+Barangay 683, Manila, 918
+Barangay 684, Manila, 2,747
+Barangay 685, Manila, 1,098
+Barangay 686, Manila, 2,995
+Barangay 687, Manila, 1,243
+Barangay 688, Manila, 1,237
+Barangay 689, Manila, 733
+Barangay 69, Manila, 2,199
+Barangay 690, Manila, 887
+Barangay 691, Manila, 416
+Barangay 692, Manila, 942
+Barangay 693, Manila, 606
+Barangay 694, Manila, 990
+Barangay 695, Manila, 756
+Barangay 696, Manila, 1,104
+Barangay 697, Manila, 679
+Barangay 698, Manila, 1,400
+Barangay 699, Manila, 1,064
+Barangay 7, Manila, 1,010
+Barangay 70, Manila, 2,124
+Barangay 700, Manila, 162
+Barangay 701, Manila, 1,608
+Barangay 702, Manila, 3,445
+Barangay 703, Manila, 407
+Barangay 704, Manila, 5,848
+Barangay 705, Manila, 2,450
+Barangay 706, Manila, 477
+Barangay 707, Manila, 964
+Barangay 708, Manila, 725
+Barangay 709, Manila, 741
+Barangay 71, Manila, 2,298
+Barangay 710, Manila, 663
+Barangay 711, Manila, 1,254
+Barangay 712, Manila, 1,634
+Barangay 713, Manila, 1,442
+Barangay 714, Manila, 1,006
+Barangay 715, Manila, 333
+Barangay 716, Manila, 872
+Barangay 717, Manila, 759
+Barangay 718, Manila, 1,189
+Barangay 719, Manila, 3,461
+Barangay 72, Manila, 3,342
+Barangay 720, Manila, 606
+Barangay 721, Manila, 716
+Barangay 722, Manila, 806
+Barangay 723, Manila, 480
+Barangay 724, Manila, 2,012
+Barangay 725, Manila, 547
+Barangay 726, Manila, 560
+Barangay 727, Manila, 752
+Barangay 728, Manila, 739
+Barangay 729, Manila, 480
+Barangay 73, Manila, 1,745
+Barangay 730, Manila, 1,435
+Barangay 731, Manila, 3,018
+Barangay 732, Manila, 3,583
+Barangay 733, Manila, 4,496
+Barangay 734, Manila, 879
+Barangay 735, Manila, 2,937
+Barangay 736, Manila, 2,713
+Barangay 737, Manila, 2,356
+Barangay 738, Manila, 4,052
+Barangay 739, Manila, 3,164
+Barangay 74, Manila, 887
+Barangay 740, Manila, 3,928
+Barangay 741, Manila, 2,288
+Barangay 742, Manila, 583
+Barangay 743, Manila, 1,515
+Barangay 744, Manila, 1,297
+Barangay 745, Manila, 1,696
+Barangay 746, Manila, 2,066
+Barangay 747, Manila, 429
+Barangay 748, Manila, 731
+Barangay 749, Manila, 580
+Barangay 75, Manila, 1,564
+Barangay 750, Manila, 1,075
+Barangay 751, Manila, 1,559
+Barangay 752, Manila, 595
+Barangay 753, Manila, 2,222
+Barangay 754, Manila, 2,434
+Barangay 755, Manila, 780
+Barangay 756, Manila, 580
+Barangay 757, Manila, 389
+Barangay 758, Manila, 357
+Barangay 759, Manila, 750
+Barangay 76, Manila, 1,699
+Barangay 760, Manila, 990
+Barangay 761, Manila, 1,307
+Barangay 762, Manila, 416
+Barangay 763, Manila, 1,535
+Barangay 764, Manila, 1,717
+Barangay 765, Manila, 1,744
+Barangay 766, Manila, 3,057
+Barangay 767, Manila, 4,523
+Barangay 768, Manila, 1,078
+Barangay 769, Manila, 1,827
+Barangay 77, Manila, 1,429
+Barangay 770, Manila, 7,589
+Barangay 771, Manila, 2,224
+Barangay 772, Manila, 2,671
+Barangay 773, Manila, 3,108
+Barangay 774, Manila, 3,427
+Barangay 775, Manila, 10,660
+Barangay 776, Manila, 4,640
+Barangay 777, Manila, 3,280
+Barangay 778, Manila, 2,360
+Barangay 779, Manila, 5,256
+Barangay 78, Manila, 1,081
+Barangay 780, Manila, 2,791
+Barangay 781, Manila, 3,383
+Barangay 782, Manila, 1,387
+Barangay 783, Manila, 1,991
+Barangay 784, Manila, 2,679
+Barangay 785, Manila, 936
+Barangay 786, Manila, 1,957
+Barangay 787, Manila, 1,995
+Barangay 788, Manila, 1,024
+Barangay 789, Manila, 1,669
+Barangay 79, Manila, 1,543
+Barangay 790, Manila, 3,015
+Barangay 791, Manila, 1,794
+Barangay 792, Manila, 2,420
+Barangay 793, Manila, 1,494
+Barangay 794, Manila, 669
+Barangay 795, Manila, 546
+Barangay 796, Manila, 841
+Barangay 797, Manila, 710
+Barangay 798, Manila, 1,585
+Barangay 799, Manila, 495
+Barangay 8, Manila, 137
+Barangay 80, Manila, 2,268
+Barangay 800, Manila, 1,559
+Barangay 801, Manila, 674
+Barangay 802, Manila, 1,398
+Barangay 803, Manila, 1,565
+Barangay 804, Manila, 1,155
+Barangay 805, Manila, 993
+Barangay 806, Manila, 1,386
+Barangay 807, Manila, 2,588
+Barangay 808, Manila, 2,154
+Barangay 809, Manila, 1,312
+Barangay 81, Manila, 2,042
+Barangay 810, Manila, 1,791
+Barangay 811, Manila, 1,991
+Barangay 812, Manila, 1,829
+Barangay 813, Manila, 1,120
+Barangay 814, Manila, 2,131
+Barangay 815, Manila, 1,166
+Barangay 816, Manila, 1,039
+Barangay 817, Manila, 1,122
+Barangay 818, Manila, 1,486
+Barangay 818‑A, Manila, 1,994
+Barangay 819, Manila, 2,194
+Barangay 82, Manila, 2,652
+Barangay 820, Manila, 1,432
+Barangay 821, Manila, 1,748
+Barangay 822, Manila, 1,874
+Barangay 823, Manila, 2,660
+Barangay 824, Manila, 1,760
+Barangay 825, Manila, 453
+Barangay 826, Manila, 2,286
+Barangay 827, Manila, 3,409
+Barangay 828, Manila, 2,867
+Barangay 829, Manila, 4,103
+Barangay 83, Manila, 1,303
+Barangay 830, Manila, 7,923
+Barangay 831, Manila, 1,324
+Barangay 832, Manila, 297
+Barangay 833, Manila, 1,669
+Barangay 834, Manila, 1,618
+Barangay 835, Manila, 2,675
+Barangay 836, Manila, 5,953
+Barangay 837, Manila, 3,218
+Barangay 838, Manila, 3,073
+Barangay 839, Manila, 1,819
+Barangay 84, Manila, 838
+Barangay 840, Manila, 2,554
+Barangay 841, Manila, 2,191
+Barangay 842, Manila, 3,941
+Barangay 843, Manila, 5,462
+Barangay 844, Manila, 5,273
+Barangay 845, Manila, 1,939
+Barangay 846, Manila, 2,002
+Barangay 847, Manila, 3,188
+Barangay 848, Manila, 1,295
+Barangay 849, Manila, 2,670
+Barangay 85, Manila, 3,614
+Barangay 850, Manila, 2,257
+Barangay 851, Manila, 1,142
+Barangay 852, Manila, 1,084
+Barangay 853, Manila, 569
+Barangay 855, Manila, 1,760
+Barangay 856, Manila, 2,089
+Barangay 857, Manila, 1,860
+Barangay 858, Manila, 580
+Barangay 859, Manila, 2,355
+Barangay 86, Manila, 1,440
+Barangay 860, Manila, 1,390
+Barangay 861, Manila, 1,013
+Barangay 862, Manila, 2,408
+Barangay 863, Manila, 1,565
+Barangay 864, Manila, 783
+Barangay 865, Manila, 2,481
+Barangay 866, Manila, 2,487
+Barangay 867, Manila, 3,097
+Barangay 868, Manila, 2,447
+Barangay 869, Manila, 1,761
+Barangay 87, Manila, 1,580
+Barangay 870, Manila, 1,829
+Barangay 871, Manila, 1,989
+Barangay 872, Manila, 2,406
+Barangay 873, Manila, 846
+Barangay 874, Manila, 2,170
+Barangay 875, Manila, 1,306
+Barangay 876, Manila, 626
+Barangay 877, Manila, 1,784
+Barangay 878, Manila, 1,357
+Barangay 879, Manila, 925
+Barangay 88, Manila, 868
+Barangay 880, Manila, 1,471
+Barangay 881, Manila, 2,496
+Barangay 882, Manila, 1,187
+Barangay 883, Manila, 1,863
+Barangay 884, Manila, 2,082
+Barangay 885, Manila, 479
+Barangay 886, Manila, 475
+Barangay 887, Manila, 717
+Barangay 888, Manila, 807
+Barangay 889, Manila, 902
+Barangay 89, Manila, 747
+Barangay 890, Manila, 1,288
+Barangay 891, Manila, 1,044
+Barangay 892, Manila, 1,262
+Barangay 893, Manila, 881
+Barangay 894, Manila, 2,279
+Barangay 895, Manila, 597
+Barangay 896, Manila, 1,370
+Barangay 897, Manila, 2,219
+Barangay 898, Manila, 7,444
+Barangay 899, Manila, 1,575
+Barangay 9, Manila, 437
+Barangay 90, Manila, 473
+Barangay 900, Manila, 8,082
+Barangay 901, Manila, 1,639
+Barangay 902, Manila, 1,559
+Barangay 903, Manila, 3,115
+Barangay 904, Manila, 1,795
+Barangay 905, Manila, 6,527
+Barangay 91, Manila, 5,569
+Barangay 92, Manila, 2,383
+Barangay 93, Manila, 4,528
+Barangay 94, Manila, 1,841
+Barangay 95, Manila, 5,046
+Barangay 96, Manila, 4,375
+Barangay 97, Manila, 3,558
+Barangay 98, Manila, 1,022
+Barangay 99, Manila, 0
+Barangka, Marikina, 18,504
+Calumpang, Marikina, 14,857
+Concepcion Dos, Marikina, 25,637
+Concepcion Uno, Marikina, 42,564
+Fortune, Marikina, 36,142
+Industrial Valley, Marikina, 15,995
+Jesus de La Peña, Marikina, 10,175
+Malanday, Marikina, 55,442
+Marikina Heights (Concepcion), Marikina, 38,795
+Nangka, Marikina, 43,828
+Parang, Marikina, 41,661
+San Roque, Marikina, 17,945
+Santa Elena, Marikina, 6,928
+Santo Niño, Marikina, 30,759
+Tañong, Marikina, 8,270
+Tumana, Marikina, 43,239
+Alabang, Muntinlupa, 63,793
+Bayanan, Muntinlupa, 36,673
+Buli, Muntinlupa, 9,292
+Cupang, Muntinlupa, 58,331
+New Alabang Village, Muntinlupa, 21,429
+Poblacion, Muntinlupa, 115,387
+Putatan, Muntinlupa, 89,022
+Sucat, Muntinlupa, 57,504
+Tunasan, Muntinlupa, 53,078
+Bagumbayan North, Navotas, 2,579
+Bagumbayan South, Navotas, 5,051
+Bangculasi, Navotas, 7,954
+Daanghari, Navotas, 16,894
+Navotas East, Navotas, 2,214
+Navotas West, Navotas, 6,108
+North Bay Blvd., North, North, 14,134
+North Bay Blvd., South, South, 70,934
+San Jose, Navotas, 25,581
+San Rafael Village, Navotas, 3,595
+San Roque, Navotas, 19,641
+Sipac‑Almacen, Navotas, 8,635
+Tangos, Navotas, 36,926
+Tanza, Navotas, 29,217
+B. F. Homes, Parañaque, 88,035
+Baclaran, Parañaque, 28,385
+Don Bosco, Parañaque, 52,297
+Don Galo, Parañaque, 11,645
+La Huerta, Parañaque, 9,569
+Marcelo Green Village, Parañaque, 34,554
+Merville, Parañaque, 27,508
+Moonwalk, Parañaque, 67,723
+San Antonio, Parañaque, 67,401
+San Dionisio, Parañaque, 63,506
+San Isidro, Parañaque, 78,912
+San Martin de Porres, Parañaque, 21,181
+Santo Niño, Parañaque, 34,860
+Sun Valley, Parañaque, 48,913
+Tambo, Parañaque, 25,699
+Vitalez, Parañaque, 5,634
+Barangay 1, Pasay, 1,233
+Barangay 10, Pasay, 1,501
+Barangay 100, Pasay, 1,360
+Barangay 101, Pasay, 409
+Barangay 102, Pasay, 845
+Barangay 103, Pasay, 1,024
+Barangay 104, Pasay, 1,718
+Barangay 105, Pasay, 620
+Barangay 106, Pasay, 1,131
+Barangay 107, Pasay, 1,840
+Barangay 108, Pasay, 2,134
+Barangay 109, Pasay, 1,094
+Barangay 11, Pasay, 471
+Barangay 110, Pasay, 1,973
+Barangay 111, Pasay, 1,237
+Barangay 112, Pasay, 382
+Barangay 113, Pasay, 1,926
+Barangay 114, Pasay, 932
+Barangay 115, Pasay, 1,072
+Barangay 116, Pasay, 1,320
+Barangay 117, Pasay, 1,021
+Barangay 118, Pasay, 1,963
+Barangay 119, Pasay, 1,398
+Barangay 12, Pasay, 1,192
+Barangay 120, Pasay, 330
+Barangay 121, Pasay, 847
+Barangay 122, Pasay, 1,176
+Barangay 123, Pasay, 1,295
+Barangay 124, Pasay, 1,473
+Barangay 125, Pasay, 1,591
+Barangay 126, Pasay, 1,168
+Barangay 127, Pasay, 1,977
+Barangay 128, Pasay, 1,133
+Barangay 129, Pasay, 1,076
+Barangay 13, Pasay, 2,405
+Barangay 130, Pasay, 3,537
+Barangay 131, Pasay, 1,555
+Barangay 132, Pasay, 3,501
+Barangay 133, Pasay, 1,805
+Barangay 134, Pasay, 1,747
+Barangay 135, Pasay, 2,239
+Barangay 136, Pasay, 1,550
+Barangay 137, Pasay, 4,174
+Barangay 138, Pasay, 1,520
+Barangay 139, Pasay, 848
+Barangay 14, Pasay, 7,219
+Barangay 140, Pasay, 816
+Barangay 141, Pasay, 711
+Barangay 142, Pasay, 495
+Barangay 143, Pasay, 1,402
+Barangay 144, Pasay, 1,714
+Barangay 145, Pasay, 7,428
+Barangay 146, Pasay, 533
+Barangay 147, Pasay, 1,580
+Barangay 148, Pasay, 3,888
+Barangay 149, Pasay, 460
+Barangay 15, Pasay, 2,718
+Barangay 150, Pasay, 622
+Barangay 151, Pasay, 864
+Barangay 152, Pasay, 1,386
+Barangay 153, Pasay, 1,382
+Barangay 154, Pasay, 682
+Barangay 155, Pasay, 814
+Barangay 156, Pasay, 3,299
+Barangay 157, Pasay, 2,425
+Barangay 158, Pasay, 798
+Barangay 159, Pasay, 1,543
+Barangay 16, Pasay, 1,035
+Barangay 160, Pasay, 1,174
+Barangay 161, Pasay, 2,700
+Barangay 162, Pasay, 1,429
+Barangay 163, Pasay, 1,203
+Barangay 164, Pasay, 1,735
+Barangay 165, Pasay, 5,330
+Barangay 166, Pasay, 1,023
+Barangay 167, Pasay, 805
+Barangay 168, Pasay, 421
+Barangay 169, Pasay, 3,111
+Barangay 17, Pasay, 1,013
+Barangay 170, Pasay, 1,939
+Barangay 171, Pasay, 3,202
+Barangay 172, Pasay, 5,442
+Barangay 173, Pasay, 2,020
+Barangay 174, Pasay, 1,731
+Barangay 175, Pasay, 2,064
+Barangay 176, Pasay, 1,833
+Barangay 177, Pasay, 5,074
+Barangay 178, Pasay, 5,620
+Barangay 179, Pasay, 5,058
+Barangay 18, Pasay, 896
+Barangay 180, Pasay, 2,074
+Barangay 181, Pasay, 2,453
+Barangay 182, Pasay, 2,725
+Barangay 183, Pasay, 32,146
+Barangay 184, Pasay, 15,059
+Barangay 185, Pasay, 5,179
+Barangay 186, Pasay, 5,093
+Barangay 187, Pasay, 4,077
+Barangay 188, Pasay, 1,857
+Barangay 189, Pasay, 1,238
+Barangay 19, Pasay, 968
+Barangay 190, Pasay, 3,553
+Barangay 191, Pasay, 3,086
+Barangay 192, Pasay, 4,364
+Barangay 193, Pasay, 8,067
+Barangay 194, Pasay, 5,779
+Barangay 195, Pasay, 2,246
+Barangay 196, Pasay, 1,506
+Barangay 197, Pasay, 4,139
+Barangay 198, Pasay, 1,846
+Barangay 199, Pasay, 2,195
+Barangay 2, Pasay, 1,562
+Barangay 20, Pasay, 1,048
+Barangay 200, Pasay, 558
+Barangay 201, Pasay, 22,165
+Barangay 21, Pasay, 1,265
+Barangay 22, Pasay, 801
+Barangay 23, Pasay, 1,806
+Barangay 24, Pasay, 1,229
+Barangay 25, Pasay, 864
+Barangay 26, Pasay, 659
+Barangay 27, Pasay, 416
+Barangay 28, Pasay, 926
+Barangay 29, Pasay, 2,031
+Barangay 3, Pasay, 906
+Barangay 30, Pasay, 773
+Barangay 31, Pasay, 1,495
+Barangay 32, Pasay, 2,044
+Barangay 33, Pasay, 855
+Barangay 34, Pasay, 2,090
+Barangay 35, Pasay, 741
+Barangay 36, Pasay, 1,162
+Barangay 37, Pasay, 1,457
+Barangay 38, Pasay, 2,800
+Barangay 39, Pasay, 1,287
+Barangay 4, Pasay, 1,888
+Barangay 40, Pasay, 2,147
+Barangay 41, Pasay, 1,706
+Barangay 42, Pasay, 1,752
+Barangay 43, Pasay, 2,871
+Barangay 44, Pasay, 1,235
+Barangay 45, Pasay, 1,262
+Barangay 46, Pasay, 6,038
+Barangay 47, Pasay, 1,005
+Barangay 48, Pasay, 531
+Barangay 49, Pasay, 451
+Barangay 5, Pasay, 1,035
+Barangay 50, Pasay, 468
+Barangay 51, Pasay, 2,078
+Barangay 52, Pasay, 2,074
+Barangay 53, Pasay, 794
+Barangay 54, Pasay, 1,560
+Barangay 55, Pasay, 761
+Barangay 56, Pasay, 891
+Barangay 57, Pasay, 1,209
+Barangay 58, Pasay, 1,723
+Barangay 59, Pasay, 1,641
+Barangay 6, Pasay, 605
+Barangay 60, Pasay, 1,516
+Barangay 61, Pasay, 2,962
+Barangay 62, Pasay, 1,294
+Barangay 63, Pasay, 702
+Barangay 64, Pasay, 1,603
+Barangay 65, Pasay, 2,883
+Barangay 66, Pasay, 2,472
+Barangay 67, Pasay, 1,127
+Barangay 68, Pasay, 1,007
+Barangay 69, Pasay, 1,012
+Barangay 7, Pasay, 709
+Barangay 70, Pasay, 1,588
+Barangay 71, Pasay, 659
+Barangay 72, Pasay, 1,383
+Barangay 73, Pasay, 1,143
+Barangay 74, Pasay, 589
+Barangay 75, Pasay, 1,128
+Barangay 76, Pasay, 4,902
+Barangay 77, Pasay, 1,238
+Barangay 78, Pasay, 100
+Barangay 79, Pasay, 622
+Barangay 8, Pasay, 1,028
+Barangay 80, Pasay, 713
+Barangay 81, Pasay, 2,162
+Barangay 82, Pasay, 707
+Barangay 83, Pasay, 956
+Barangay 84, Pasay, 783
+Barangay 85, Pasay, 1,223
+Barangay 86, Pasay, 1,097
+Barangay 87, Pasay, 681
+Barangay 88, Pasay, 1,356
+Barangay 89, Pasay, 1,041
+Barangay 9, Pasay, 281
+Barangay 90, Pasay, 1,856
+Barangay 91, Pasay, 1,738
+Barangay 92, Pasay, 562
+Barangay 93, Pasay, 279
+Barangay 94, Pasay, 1,801
+Barangay 95, Pasay, 1,147
+Barangay 96, Pasay, 1,121
+Barangay 97, Pasay, 1,123
+Barangay 98, Pasay, 1,199
+Barangay 99, Pasay, 1,334
+Bagong Ilog, Pasig, 16,797
+Bagong Katipunan, Pasig, 1,231
+Bambang, Pasig, 20,657
+Buting, Pasig, 11,093
+Caniogan, Pasig, 27,574
+Dela Paz, Pasig, 20,156
+Kalawaan, Pasig, 29,892
+Kapasigan, Pasig, 5,523
+Kapitolyo, Pasig, 12,974
+Malinao, Pasig, 5,974
+Manggahan, Pasig, 93,976
+Maybunga, Pasig, 37,151
+Oranbo, Pasig, 4,320
+Palatiw, Pasig, 18,356
+Pinagbuhatan, Pasig, 151,979
+Pineda, Pasig, 18,167
+Rosario, Pasig, 61,920
+Sagad, Pasig, 7,064
+San Antonio, Pasig, 21,224
+San Joaquin, Pasig, 13,207
+San Jose, Pasig, 1,407
+San Miguel, Pasig, 30,960
+San Nicolas, Pasig, 2,113
+Santa Cruz, Pasig, 5,562
+Santa Lucia, Pasig, 44,538
+Santa Rosa, Pasig, 1,025
+Santo Tomas, Pasig, 9,338
+Santolan, Pasig, 53,254
+Sumilang, Pasig, 5,358
+Ugong, Pasig, 22,510
+Aguho, Pateros, 6,533
+Magtanggol, Pateros, 1,652
+Martires del 96, Pateros, 4,914
+Poblacion, Pateros, 2,323
+San Pedro, Pateros, 2,172
+San Roque, Pateros, 4,493
+Santa Ana, Pateros, 28,217
+Santo Rosario‑Kanluran, Pateros, 5,325
+Santo Rosario‑Silangan, Pateros, 5,225
+Tabacalera, Pateros, 2,986
+Alicia, Quezon City, 6,527
+Amihan, Quezon City, 4,788
+Apolonio Samson, Quezon City, 38,583
+Aurora, Quezon City, 5,636
+Baesa, Quezon City, 61,278
+Bagbag, Quezon City, 56,936
+Bagong Lipunan ng Crame, Quezon City, 14,996
+Bagong Pag‑asa, Quezon City, 32,267
+Bagong Silangan, Quezon City, 88,299
+Bagumbayan, Quezon City, 13,832
+Bagumbuhay, Quezon City, 6,767
+Bahay Toro, Quezon City, 70,774
+Balingasa, Quezon City, 20,609
+Balong Bato, Quezon City, 8,228
+Batasan Hills, Quezon City, 161,409
+Bayanihan, Quezon City, 1,222
+Blue Ridge A, Quezon City, 1,730
+Blue Ridge B, Quezon City, 1,701
+Botocan, Quezon City, 8,234
+Bungad, Quezon City, 8,057
+Camp Aguinaldo, Quezon City, 4,977
+Capri, Quezon City, 14,587
+Central, Quezon City, 17,590
+Claro, Quezon City, 4,432
+Commonwealth, Quezon City, 198,285
+Culiat, Quezon City, 74,304
+Damar, Quezon City, 1,646
+Damayan, Quezon City, 8,716
+Damayang Lagi, Quezon City, 18,599
+Del Monte, Quezon City, 12,185
+Dioquino Zobel, Quezon City, 1,887
+Don Manuel, Quezon City, 3,753
+Doña Imelda, Quezon City, 16,915
+Doña Josefa, Quezon City, 2,909
+Duyan‑duyan, Quezon City, 3,870
+E. Rodriguez, Quezon City, 19,594
+East Kamias, Quezon City, 6,206
+Escopa I, Quezon City, 2,221
+Escopa II, Quezon City, 1,766
+Escopa III, Quezon City, 8,554
+Escopa IV, Quezon City, 1,919
+Fairview, Quezon City, 53,151
+Greater Lagro, Quezon City, 22,764
+Gulod, Quezon City, 53,325
+Holy Spirit, Quezon City, 110,447
+Horseshoe, Quezon City, 3,004
+Immaculate Concepcion, Quezon City, 8,670
+Kaligayahan, Quezon City, 54,576
+Kalusugan, Quezon City, 1,745
+Kamuning, Quezon City, 15,661
+Katipunan, Quezon City, 2,818
+Kaunlaran, Quezon City, 8,167
+Kristong Hari, Quezon City, 4,089
+Krus na Ligas, Quezon City, 21,513
+Laging Handa, Quezon City, 6,750
+Libis, Quezon City, 4,018
+Lourdes, Quezon City, 4,813
+Loyola Heights, Quezon City, 18,884
+Maharlika, Quezon City, 4,425
+Malaya, Quezon City, 4,109
+Mangga, Quezon City, 1,158
+Manresa, Quezon City, 21,413
+Mariana, Quezon City, 11,227
+Mariblo, Quezon City, 4,078
+Marilag, Quezon City, 9,812
+Masagana, Quezon City, 4,421
+Masambong, Quezon City, 12,841
+Matandang Balara, Quezon City, 71,022
+Milagrosa, Quezon City, 6,130
+N. S. Amoranto (Gintong Silahis), Quezon City, 6,859
+Nagkaisang Nayon, Quezon City, 49,048
+Nayong Kanluran, Quezon City, 2,428
+New Era (Constitution Hills), Quezon City, 13,365
+North Fairview, Quezon City, 41,154
+Novaliches Proper, Quezon City, 15,381
+Obrero, Quezon City, 8,269
+Old Capitol Site, Quezon City, 1,192
+Paang Bundok, Quezon City, 5,643
+Pag‑ibig sa Nayon, Quezon City, 5,441
+Paligsahan, Quezon City, 5,611
+Paltok, Quezon City, 17,342
+Pansol, Quezon City, 34,240
+Paraiso, Quezon City, 3,790
+Pasong Putik Proper, Quezon City, 35,135
+Pasong Tamo, Quezon City, 103,100
+Payatas, Quezon City, 130,333
+Phil‑Am, Quezon City, 2,673
+Pinagkaisahan, Quezon City, 6,929
+Pinyahan, Quezon City, 27,653
+Project 6, Quezon City, 15,255
+Quirino 2‑A, Quezon City, 5,520
+Quirino 2‑B, Quezon City, 3,612
+Quirino 2‑C, Quezon City, 2,830
+Quirino 3‑A, Quezon City, 1,141
+Ramon Magsaysay, Quezon City, 16,281
+Roxas, Quezon City, 16,060
+Sacred Heart, Quezon City, 8,282
+Saint Ignatius, Quezon City, 2,005
+Saint Peter, Quezon City, 4,550
+Salvacion, Quezon City, 8,056
+San Agustin, Quezon City, 22,423
+San Antonio, Quezon City, 25,043
+San Bartolome, Quezon City, 45,188
+San Isidro, Quezon City, 8,578
+San Isidro Labrador, Quezon City, 7,181
+San Jose, Quezon City, 6,271
+San Martin de Porres, Quezon City, 12,315
+San Roque, Quezon City, 20,095
+San Vicente, Quezon City, 7,274
+Sangandaan, Quezon City, 24,061
+Santa Cruz, Quezon City, 4,784
+Santa Lucia, Quezon City, 25,577
+Santa Monica, Quezon City, 46,553
+Santa Teresita, Quezon City, 8,377
+Santo Cristo, Quezon City, 10,392
+Santo Domingo (Matalahib), Quezon City, 13,989
+Santo Niño, Quezon City, 10,278
+Santol, Quezon City, 7,548
+Sauyo, Quezon City, 76,039
+Sienna, Quezon City, 3,383
+Sikatuna Village, Quezon City, 6,996
+Silangan, Quezon City, 5,036
+Socorro, Quezon City, 25,073
+South Triangle, Quezon City, 15,546
+Tagumpay, Quezon City, 2,208
+Talayan, Quezon City, 5,669
+Talipapa, Quezon City, 35,077
+Tandang Sora, Quezon City, 90,290
+Tatalon, Quezon City, 63,129
+Teachers Village East, Quezon City, 3,401
+Teachers Village West, Quezon City, 4,270
+U.P. Campus, Quezon City, 45,520
+U.P. Village, Quezon City, 5,157
+Ugong Norte, Quezon City, 9,953
+Unang Sigaw, Quezon City, 7,267
+Valencia, Quezon City, 8,547
+Vasra, Quezon City, 8,867
+Veterans Village, Quezon City, 11,520
+Villa Maria Clara, Quezon City, 2,393
+West Kamias, Quezon City, 4,918
+West Triangle, Quezon City, 4,199
+White Plains, Quezon City, 4,734
+Addition Hills, San Juan, 3,739
+Balong‑Bato, San Juan, 7,775
+Batis, San Juan, 9,774
+Corazon de Jesus, San Juan, 7,928
+Ermitaño, San Juan, 3,381
+Greenhills, San Juan, 14,114
+Halo‑halo (Saint Joseph), San Juan, 660
+Isabelita, San Juan, 1,709
+Kabayanan, San Juan, 5,252
+Little Baguio, San Juan, 6,162
+Maytunas, San Juan, 3,181
+Onse, San Juan, 4,065
+Pasadeña, San Juan, 4,825
+Pedro Cruz, San Juan, 4,427
+Progreso, San Juan, 1,420
+Rivera, San Juan, 2,208
+Salapan, San Juan, 8,747
+San Perfecto, San Juan, 4,293
+Santa Lucia, San Juan, 7,657
+Tibagan, San Juan, 4,090
+West Crame, San Juan, 16,773
+Bagumbayan, Taguig, 40,685
+Bambang, Taguig, 10,010
+Calzada, Taguig, 21,747
+Central Bicutan, Taguig, 28,705
+Central Signal Village (Signal Village), Taguig, 39,674
+Fort Bonifacio, Taguig, 11,739
+Hagonoy, Taguig, 18,652
+Ibayo‑Tipas, Taguig, 20,932
+Katuparan, Taguig, 23,062
+Ligid‑Tipas, Taguig, 9,700
+Lower Bicutan, Taguig, 56,754
+Maharlika Village, Taguig, 22,944
+Napindan, Taguig, 19,346
+New Lower Bicutan, Taguig, 49,829
+North Daang Hari, Taguig, 11,771
+North Signal Village, Taguig, 32,112
+Palingon, Taguig, 13,705
+Pinagsama, Taguig, 57,343
+San Miguel, Taguig, 8,590
+Santa Ana, Taguig, 18,057
+South Daang Hari, Taguig, 19,166
+South Signal Village, Taguig, 39,214
+Tanyag (Bagong Tanyag), Taguig, 22,711
+Tuktukan, Taguig, 10,730
+Upper Bicutan, Taguig, 41,216
+Ususan, Taguig, 54,186
+Wawa, Taguig, 11,177
+Western Bicutan, Taguig, 91,158
+Arkong Bato, Valenzuela, 10,004
+Bagbaguin, Valenzuela, 13,770
+Balangkas, Valenzuela, 11,892
+Bignay, Valenzuela, 27,059
+Bisig, Valenzuela, 1,333
+Canumay East, Valenzuela, 12,462
+Canumay West, Valenzuela, 22,215
+Coloong, Valenzuela, 11,154
+Dalandanan, Valenzuela, 18,733
+Gen. T. de Leon, Valenzuela, 89,441
+Isla, Valenzuela, 4,793
+Karuhatan, Valenzuela, 40,996
+Lawang Bato, Valenzuela, 19,301
+Lingunan, Valenzuela, 21,217
+Mabolo, Valenzuela, 1,217
+Malanday, Valenzuela, 17,948
+Malinta, Valenzuela, 48,397
+Mapulang Lupa, Valenzuela, 27,354
+Marulas, Valenzuela, 53,978
+Maysan, Valenzuela, 24,293
+Palasan, Valenzuela, 6,089
+Parada, Valenzuela, 14,894
+Pariancillo Villa, Valenzuela, 1,634
+Paso de Blas, Valenzuela, 13,350
+Pasolo, Valenzuela, 6,395
+Poblacion, Valenzuela, 372
+Pulo, Valenzuela, 1,103
+Punturin, Valenzuela, 20,930
+Rincon, Valenzuela, 6,603
+Tagalag, Valenzuela, 3,209
+Ugong, Valenzuela, 41,821
+Viente Reales, Valenzuela, 22,949
+Wawang Pulo, Valenzuela, 3,516
