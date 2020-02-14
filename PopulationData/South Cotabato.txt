@@ -1,0 +1,199 @@
+Benitez (Poblacion), Banga, 3,149
+Cabudian, Banga, 1,581
+Cabuling, Banga, 2,852
+Cinco (Barrio 5), Banga, 6,754
+Derilon, Banga, 1,132
+El Nonok, Banga, 3,771
+Improgo Village (Poblacion), Banga, 1,251
+Kusan (Barrio 8), Banga, 4,451
+Lam‑Apos, Banga, 1,180
+Lamba, Banga, 6,655
+Lambingi, Banga, 3,293
+Lampari, Banga, 2,624
+Liwanay (Barrio 1), Banga, 5,897
+Malaya (Barrio 9), Banga, 4,464
+Punong Grande (Barrio 2), Banga, 3,508
+Rang‑ay (Barrio 4), Banga, 4,855
+Reyes (Poblacion), Banga, 5,105
+Rizal (Barrio 3), Banga, 4,866
+Rizal Poblacion, Banga, 4,924
+San Jose (Barrio 7), Banga, 4,077
+San Vicente (Barrio 6), Banga, 6,092
+Yangco Poblacion, Banga, 1,508
+Assumption (Bulol), Koronadal, 2,025
+Avanceña (Bo. 3), Koronadal, 4,079
+Cacub, Koronadal, 2,477
+Caloocan, Koronadal, 4,183
+Carpenter Hill, Koronadal, 6,584
+Concepcion (Bo. 6), Koronadal, 4,268
+Esperanza, Koronadal, 2,655
+General Paulino Santos (Bo. 1), Koronadal, 24,612
+Mabini, Koronadal, 3,871
+Magsaysay, Koronadal, 3,169
+Mambucal, Koronadal, 1,321
+Morales, Koronadal, 8,656
+Namnama, Koronadal, 3,416
+New Pangasinan (Bo. 4), Koronadal, 3,626
+Paraiso, Koronadal, 5,669
+Rotonda, Koronadal, 3,279
+San Isidro, Koronadal, 7,198
+San Jose (Bo. 5), Koronadal, 7,410
+San Roque, Koronadal, 4,066
+Santa Cruz, Koronadal, 13,534
+Santo Niño (Bo. 2), Koronadal, 10,770
+Sarabia (Bo. 8), Koronadal, 8,935
+Zone I (Poblacion), Koronadal, 4,652
+Zone II (Poblacion), Koronadal, 4,214
+Zone III (Poblacion), Koronadal, 12,423
+Zone IV (Poblacion), Koronadal, 8,833
+Zulueta (Bo. 7), Koronadal, 9,017
+Bacdulong, Lake Sebu, 2,112
+Denlag, Lake Sebu, 2,861
+Halilan, Lake Sebu, 2,406
+Hanoon, Lake Sebu, 1,435
+Klubi, Lake Sebu, 3,823
+Lake Lahit, Lake Sebu, 2,331
+Lamcade, Lake Sebu, 2,758
+Lamdalag, Lake Sebu, 4,849
+Lamfugon, Lake Sebu, 6,358
+Lamlahak, Lake Sebu, 4,110
+Lower Maculan, Lake Sebu, 1,781
+Luhib, Lake Sebu, 2,357
+Ned, Lake Sebu, 28,490
+Poblacion, Lake Sebu, 7,974
+Siluton, Lake Sebu, 2,677
+Takunel, Lake Sebu, 2,562
+Talisay, Lake Sebu, 2,736
+Tasiman, Lake Sebu, 2,927
+Upper Maculan, Lake Sebu, 2,895
+Benigno Aquino, Jr., Jr., 1,639
+Dumaguil, Norala, 2,169
+Esperanza, Norala, 2,269
+Kibid, Norala, 1,763
+Lapuz, Norala, 3,141
+Liberty, Norala, 2,616
+Lopez Jaena, Norala, 3,219
+Matapol, Norala, 1,774
+Poblacion, Norala, 12,592
+Puti, Norala, 2,432
+San Jose, Norala, 2,621
+San Miguel, Norala, 4,799
+Simsiman, Norala, 3,604
+Tinago, Norala, 2,004
+Bentung, Polomolok, 1,374
+Cannery Site, Polomolok, 23,310
+Crossing Palkan, Polomolok, 1,967
+Glamang, Polomolok, 7,061
+Kinilis, Polomolok, 1,717
+Klinan 6, Polomolok, 3,594
+Koronadal Proper, Polomolok, 3,976
+Lam‑Caliaf, Polomolok, 1,388
+Landan, Polomolok, 6,004
+Lapu, Polomolok, 2,242
+Lumakil, Polomolok, 3,410
+Magsaysay, Polomolok, 12,156
+Maligo, Polomolok, 3,165
+Pagalungan, Polomolok, 2,915
+Palkan, Polomolok, 3,766
+Poblacion, Polomolok, 45,298
+Polo, Polomolok, 2,468
+Rubber, Polomolok, 3,149
+Silway 7, Polomolok, 2,433
+Silway 8, Polomolok, 10,447
+Sulit, Polomolok, 5,083
+Sumbakil, Polomolok, 1,794
+Upper Klinan, Polomolok, 3,872
+Ambalgan, Santo Niño, 3,930
+Guinsang‑an, Santo Niño, 3,368
+Katipunan, Santo Niño, 3,582
+Manuel Roxas, Santo Niño, 4,642
+Panay, Santo Niño, 4,028
+Poblacion, Santo Niño, 10,149
+Sajaneba, Santo Niño, 1,586
+San Isidro, Santo Niño, 3,691
+San Vicente, Santo Niño, 3,476
+Teresita, Santo Niño, 2,495
+Buenavista, Surallah, 1,938
+Canahay (Godwino), Surallah, 2,847
+Centrala, Surallah, 10,310
+Colongulo, Surallah, 5,689
+Dajay, Surallah, 9,395
+Duengas, Surallah, 1,186
+Lambontong, Surallah, 4,219
+Lamian, Surallah, 5,003
+Lamsugod, Surallah, 3,194
+Libertad (Poblacion), Surallah, 15,574
+Little Baguio, Surallah, 3,003
+Moloy, Surallah, 3,616
+Naci (Doce), Surallah, 4,734
+Talahik, Surallah, 2,795
+Tubiala, Surallah, 4,548
+Upper Sepaka, Surallah, 4,774
+Veterans, Surallah, 1,714
+Albagan, Tampakan, 731
+Buto, Tampakan, 1,763
+Danlag, Tampakan, 3,194
+Kipalbig, Tampakan, 5,679
+Lambayong, Tampakan, 2,515
+Lampitak, Tampakan, 2,840
+Liberty, Tampakan, 2,166
+Maltana, Tampakan, 4,050
+Palo, Tampakan, 1,049
+Poblacion, Tampakan, 7,308
+Pula‑bato, Tampakan, 1,838
+San Isidro, Tampakan, 1,507
+Santa Cruz, Tampakan, 2,322
+Tablu, Tampakan, 2,563
+Bukay Pait, Tantangan, 4,383
+Cabuling, Tantangan, 2,497
+Dumadalig, Tantangan, 4,743
+Libas, Tantangan, 2,995
+Magon, Tantangan, 2,548
+Maibo, Tantangan, 2,697
+Mangilala, Tantangan, 1,283
+New Cuyapo, Tantangan, 1,279
+New Iloilo, Tantangan, 4,227
+New Lambunao, Tantangan, 2,329
+Poblacion, Tantangan, 8,040
+San Felipe, Tantangan, 4,066
+Tinongcop, Tantangan, 2,158
+Aflek, T'boli, 2,153
+Afus, T'boli, 1,998
+Basag, T'boli, 7,619
+Datal Bob, T'boli, 2,572
+Desawo, T'boli, 2,070
+Dlanag, T'boli, 2,485
+Edwards (Poblacion), T'boli, 3,563
+Kematu, T'boli, 7,302
+Laconon, T'boli, 9,020
+Lambangan, T'boli, 2,867
+Lambuling, T'boli, 4,329
+Lamhako, T'boli, 2,756
+Lamsalome, T'boli, 2,439
+Lemsnolon, T'boli, 2,980
+Maan, T'boli, 4,779
+Malugong, T'boli, 1,902
+Mongocayo, T'boli, 2,857
+New Dumangas, T'boli, 4,020
+Poblacion, T'boli, 9,780
+Salacafe, T'boli, 3,134
+Sinolon, T'boli, 3,915
+Talcon, T'boli, 1,653
+Talufo, T'boli, 1,942
+T'bolok, T'boli, 720
+Tudok, T'boli, 2,598
+Acmonan, Tupi, 4,613
+Bololmala, Tupi, 3,780
+Bunao, Tupi, 4,548
+Cebuano, Tupi, 5,627
+Crossing Rubber, Tupi, 4,214
+Kablon, Tupi, 5,553
+Kalkam, Tupi, 1,524
+Linan, Tupi, 3,188
+Lunen, Tupi, 3,105
+Miasong, Tupi, 4,244
+Palian, Tupi, 2,869
+Poblacion, Tupi, 15,781
+Polonuling, Tupi, 6,759
+Simbo, Tupi, 1,820
+Tubeng, Tupi, 2,351

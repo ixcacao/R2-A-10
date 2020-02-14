@@ -1,0 +1,500 @@
+Amagusan, Anahawan, 626
+Calintaan, Anahawan, 309
+Canlabian, Anahawan, 425
+Capacuhan, Anahawan, 226
+Cogon, Anahawan, 495
+Kagingkingan, Anahawan, 234
+Lewing, Anahawan, 499
+Lo‑ok, Anahawan, 942
+Mahalo, Anahawan, 822
+Mainit, Anahawan, 255
+Manigawong, Anahawan, 163
+Poblacion, Anahawan, 1,354
+San Vicente, Anahawan, 852
+Tagup‑on, Anahawan, 1,009
+Anahao, Bontoc, 225
+Banahao, Bontoc, 385
+Baugo, Bontoc, 579
+Beniton, Bontoc, 800
+Buenavista, Bontoc, 1,245
+Bunga, Bontoc, 768
+Casao, Bontoc, 675
+Catmon, Bontoc, 356
+Catoogan, Bontoc, 353
+Cawayanan, Bontoc, 558
+Dao, Bontoc, 270
+Divisoria, Bontoc, 1,931
+Esperanza, Bontoc, 745
+Guinsangaan, Bontoc, 710
+Hibagwan, Bontoc, 15
+Hilaan, Bontoc, 1,578
+Himakilo, Bontoc, 313
+Hitawos, Bontoc, 377
+Lanao, Bontoc, 195
+Lawgawan, Bontoc, 182
+Mahayahay, Bontoc, 1,180
+Malbago, Bontoc, 728
+Mauylab, Bontoc, 588
+Olisihan, Bontoc, 153
+Paku, Bontoc, 1,186
+Pamahawan, Bontoc, 367
+Pamigsian, Bontoc, 541
+Pangi, Bontoc, 344
+Poblacion, Bontoc, 1,269
+Pong‑on, Bontoc, 396
+Sampongon, Bontoc, 604
+San Ramon, Bontoc, 1,236
+San Vicente, Bontoc, 935
+Santa Cruz, Bontoc, 1,428
+Santo Niño, Bontoc, 1,143
+Taa, Bontoc, 630
+Talisay, Bontoc, 1,744
+Taytagan, Bontoc, 583
+Tuburan, Bontoc, 180
+Union, Bontoc, 1,410
+Ambacon, Hinunangan, 678
+Badiangon, Hinunangan, 641
+Bangcas A, Hinunangan, 777
+Bangcas B, Hinunangan, 982
+Biasong, Hinunangan, 599
+Bugho, Hinunangan, 1,061
+Calag‑itan, Hinunangan, 1,206
+Calayugan, Hinunangan, 754
+Calinao, Hinunangan, 261
+Canipaan, Hinunangan, 1,635
+Catublian, Hinunangan, 1,580
+Ilaya, Hinunangan, 518
+Ingan, Hinunangan, 1,049
+Labrador, Hinunangan, 844
+Libas, Hinunangan, 512
+Lumbog, Hinunangan, 381
+Manalog, Hinunangan, 754
+Manlico, Hinunangan, 766
+Matin‑ao, Hinunangan, 547
+Nava, Hinunangan, 1,946
+Nueva Esperanza, Hinunangan, 683
+Otama, Hinunangan, 531
+Palongpong, Hinunangan, 533
+Panalaron, Hinunangan, 753
+Patong, Hinunangan, 718
+Poblacion, Hinunangan, 923
+Pondol, Hinunangan, 1,035
+Salog, Hinunangan, 374
+Salvacion, Hinunangan, 496
+San Pablo Island, Hinunangan, 460
+San Pedro Island, Hinunangan, 493
+Santo Niño I, Hinunangan, 552
+Santo Niño II, Hinunangan, 1,043
+Tahusan, Hinunangan, 991
+Talisay, Hinunangan, 693
+Tawog, Hinunangan, 557
+Toptop, Hinunangan, 443
+Tuburan, Hinunangan, 635
+Union, Hinunangan, 402
+Upper Bantawon, Hinunangan, 170
+Amaga, Hinundayan, 299
+Ambao, Hinundayan, 892
+An‑an, Hinundayan, 562
+Baculod, Hinundayan, 1,013
+Biasong, Hinundayan, 742
+Bugho, Hinundayan, 893
+Cabulisan, Hinundayan, 283
+Cat‑iwing, Hinundayan, 440
+District I (Poblacion), Hinundayan, 680
+District II (Poblacion), Hinundayan, 943
+District III (Poblacion), Hinundayan, 1,069
+Hubasan, Hinundayan, 577
+Lungsodaan, Hinundayan, 1,296
+Navalita, Hinundayan, 675
+Plaridel, Hinundayan, 345
+Sabang, Hinundayan, 617
+Sagbok, Hinundayan, 959
+Biasong, Libagon, 613
+Bogasong, Libagon, 920
+Cawayan, Libagon, 925
+Gakat, Libagon, 1,292
+Jubas (Poblacion), Libagon, 706
+Magkasag, Libagon, 881
+Mayuga, Libagon, 1,174
+Nahaong, Libagon, 1,836
+Nahulid, Libagon, 1,720
+Otikon, Libagon, 1,095
+Pangi, Libagon, 639
+Punta, Libagon, 262
+Talisay (Poblacion), Libagon, 1,169
+Tigbao, Libagon, 1,937
+Amaga, Liloan, 382
+Anilao, Liloan, 1,085
+Bahay, Liloan, 475
+Cagbungalon, Liloan, 524
+Calian, Liloan, 944
+Caligangan, Liloan, 1,173
+Candayuman, Liloan, 412
+Catig, Liloan, 21
+Estela, Liloan, 978
+Fatima, Liloan, 1,057
+Gud‑an, Liloan, 353
+Guintoylan, Liloan, 1,040
+Himayangan, Liloan, 2,009
+Ilag, Liloan, 1,359
+Magaupas, Liloan, 859
+Malangsa, Liloan, 563
+Molopolo, Liloan, 878
+Pandan, Liloan, 688
+Poblacion, Liloan, 3,749
+Pres. Quezon (Maugoc), Liloan, 763
+President Roxas, Liloan, 657
+San Isidro, Liloan, 990
+San Roque, Liloan, 2,262
+Tabugon, Liloan, 760
+Cabulihan, Limasawa, 829
+Lugsongan, Limasawa, 1,216
+Magallanes, Limasawa, 1,645
+San Agustin, Limasawa, 625
+San Bernardo, Limasawa, 556
+Triana, Limasawa, 1,190
+Abgao (Poblacion), Maasin, 3,459
+Acasia, Maasin, 313
+Asuncion, Maasin, 5,007
+Bactul I, Maasin, 545
+Bactul II, Maasin, 576
+Badiang, Maasin, 1,261
+Bagtican, Maasin, 609
+Basak, Maasin, 784
+Bato I, Maasin, 690
+Bato II, Maasin, 518
+Batuan, Maasin, 1,013
+Baugo, Maasin, 551
+Bilibol, Maasin, 1,047
+Bogo, Maasin, 654
+Cabadiangan, Maasin, 420
+Cabulihan, Maasin, 1,238
+Cagnituan, Maasin, 330
+Cambooc, Maasin, 757
+Cansirong, Maasin, 956
+Canturing, Maasin, 1,120
+Canyuom, Maasin, 577
+Combado, Maasin, 5,835
+Dongon, Maasin, 1,136
+Gawisan, Maasin, 547
+Guadalupe, Maasin, 1,692
+Hanginan, Maasin, 749
+Hantag, Maasin, 770
+Hinapu Daku, Maasin, 930
+Hinapu Gamay, Maasin, 865
+Ibarra, Maasin, 3,976
+Isagani, Maasin, 1,256
+Laboon, Maasin, 1,421
+Lanao, Maasin, 464
+Libertad, Maasin, 428
+Libhu, Maasin, 1,772
+Lib‑og, Maasin, 1,474
+Lonoy, Maasin, 679
+Lunas, Maasin, 1,693
+Mahayahay, Maasin, 1,115
+Malapoc Norte, Maasin, 905
+Malapoc Sur, Maasin, 443
+Mambajao (Poblacion), Maasin, 1,926
+Manhilo, Maasin, 1,505
+Mantahan (Poblacion), Maasin, 4,084
+Maria Clara, Maasin, 2,289
+Matin‑ao, Maasin, 681
+Nasaug, Maasin, 643
+Nati, Maasin, 338
+Nonok Norte, Maasin, 472
+Nonok Sur, Maasin, 698
+Panan‑awan, Maasin, 1,309
+Pansaan, Maasin, 511
+Pasay, Maasin, 1,008
+Pinascohan, Maasin, 532
+Rizal, Maasin, 2,042
+San Agustin, Maasin, 451
+San Isidro, Maasin, 444
+San Jose, Maasin, 1,091
+San Rafael, Maasin, 1,855
+Santa Cruz, Maasin, 863
+Santa Rosa, Maasin, 215
+Santo Niño, Maasin, 714
+Santo Rosario, Maasin, 1,008
+Soro‑soro, Maasin, 1,199
+Tagnipa (Poblacion), Maasin, 3,248
+Tam‑is, Maasin, 1,422
+Tawid, Maasin, 928
+Tigbawan, Maasin, 1,075
+Tomoy‑tomoy, Maasin, 485
+Tunga‑tunga (Poblacion), Maasin, 1,949
+Aguinaldo, Macrohon, 629
+Amparo, Macrohon, 1,587
+Asuncion, Macrohon, 745
+Bagong Silang, Macrohon, 149
+Buscayan, Macrohon, 781
+Cambaro, Macrohon, 412
+Canlusay, Macrohon, 272
+Danao, Macrohon, 263
+Flordeliz, Macrohon, 789
+Guadalupe, Macrohon, 490
+Ichon, Macrohon, 3,671
+Ilihan, Macrohon, 739
+Laray, Macrohon, 934
+Lower Villa Jacinta, Macrohon, 761
+Mabini, Macrohon, 1,182
+Mohon, Macrohon, 443
+Molopolo, Macrohon, 1,137
+Rizal, Macrohon, 1,329
+Salvador (Mangyang), Macrohon, 595
+San Isidro, Macrohon, 352
+San Joaquin, Macrohon, 1,138
+San Roque, Macrohon, 1,816
+San Vicente (Upper San Roque), Macrohon, 320
+San Vicente Poblacion, Macrohon, 555
+Santa Cruz (Poblacion), Macrohon, 1,557
+Santo Niño, Macrohon, 478
+Santo Rosario (Poblacion), Macrohon, 923
+Sindangan, Macrohon, 775
+Upper Ichon, Macrohon, 541
+Upper Villa Jacinta, Macrohon, 881
+Abgao, Malitbog, 692
+Asuncion, Malitbog, 246
+Aurora, Malitbog, 381
+Benit, Malitbog, 434
+Caaga, Malitbog, 477
+Cabul‑anonan (Poblacion), Malitbog, 535
+Cadaruhan, Malitbog, 484
+Cadaruhan Sur, Malitbog, 400
+Candatag, Malitbog, 1,131
+Cantamuac, Malitbog, 540
+Caraatan, Malitbog, 199
+Concepcion, Malitbog, 656
+Fatima, Malitbog, 176
+Guinabonan, Malitbog, 331
+Iba, Malitbog, 434
+Juangon, Malitbog, 1,125
+Kauswagan, Malitbog, 338
+Lambonao, Malitbog, 531
+Mahayahay, Malitbog, 468
+Maningning, Malitbog, 358
+Maujo, Malitbog, 892
+New Katipunan, Malitbog, 298
+Pancil, Malitbog, 376
+Pasil (Poblacion), Malitbog, 719
+Sabang, Malitbog, 957
+San Antonio (Poblacion), Malitbog, 511
+San Isidro, Malitbog, 210
+San Jose, Malitbog, 1,392
+San Roque, Malitbog, 560
+San Vicente, Malitbog, 1,571
+Sangahon, Malitbog, 836
+Santa Cruz, Malitbog, 1,273
+Santo Niño, Malitbog, 464
+Taliwa (Poblacion), Malitbog, 1,258
+Tigbawan I, Malitbog, 386
+Tigbawan II, Malitbog, 429
+Timba, Malitbog, 855
+Buenavista, Padre Burgos, 1,009
+Bunga, Padre Burgos, 494
+Cantutang, Padre Burgos, 990
+Dinahugan, Padre Burgos, 745
+Laca, Padre Burgos, 715
+Lungsodaan, Padre Burgos, 1,286
+Poblacion, Padre Burgos, 1,252
+San Juan, Padre Burgos, 873
+Santa Sofia, Padre Burgos, 1,937
+Santo Rosario, Padre Burgos, 779
+Tangkaan, Padre Burgos, 1,011
+Badiang, Pintuyan, 270
+Balongbalong, Pintuyan, 158
+Buenavista, Pintuyan, 451
+Bulawan, Pintuyan, 252
+Canlawis, Pintuyan, 340
+Catbawan, Pintuyan, 685
+Caubang, Pintuyan, 286
+Cogon, Pintuyan, 328
+Dan‑an, Pintuyan, 506
+Lobo, Pintuyan, 279
+Mainit, Pintuyan, 246
+Manglit, Pintuyan, 624
+Nueva Estrella Norte, Pintuyan, 402
+Nueva Estrella Sur, Pintuyan, 400
+Poblacion Ibabao, Pintuyan, 458
+Poblacion Ubos, Pintuyan, 589
+Pociano D. Equipilag, Pintuyan, 351
+Ponod, Pintuyan, 600
+San Roque, Pintuyan, 585
+Santa Cruz, Pintuyan, 654
+Son‑ok I, Pintuyan, 603
+Son‑ok II, Pintuyan, 473
+Tautag, Pintuyan, 286
+Atuyan, Saint Bernard, 459
+Ayahag, Saint Bernard, 1,193
+Bantawon, Saint Bernard, 0
+Bolodbolod, Saint Bernard, 1,249
+Cabagawan, Saint Bernard, 1,193
+Carnaga, Saint Bernard, 916
+Catmon, Saint Bernard, 2,976
+Guinsaugon, Saint Bernard, 6
+Himatagon (Poblacion), Saint Bernard, 1,773
+Himbangan, Saint Bernard, 2,580
+Himos‑onan, Saint Bernard, 707
+Hinabian, Saint Bernard, 73
+Hindag‑an, Saint Bernard, 1,577
+Kauswagan, Saint Bernard, 0
+Libas, Saint Bernard, 422
+Lipanto, Saint Bernard, 1,268
+Magatas, Saint Bernard, 44
+Magbagacay, Saint Bernard, 2,425
+Mahayag, Saint Bernard, 641
+Mahayahay, Saint Bernard, 1,694
+Malibago, Saint Bernard, 1,004
+Malinao, Saint Bernard, 54
+Nueva Esperanza (Cabac-an), Saint Bernard, 103
+Panian, Saint Bernard, 1,365
+San Isidro, Saint Bernard, 1,944
+Santa Cruz, Saint Bernard, 310
+Sug‑angon, Saint Bernard, 371
+Tabontabon, Saint Bernard, 301
+Tambis I, Saint Bernard, 857
+Tambis II, Saint Bernard, 890
+Anislagon, San Francisco, 329
+Bongawisan, San Francisco, 322
+Bongbong, San Francisco, 750
+Cahayag, San Francisco, 353
+Causi, San Francisco, 311
+Central (Poblacion), San Francisco, 1,270
+Dakit (Poblacion), San Francisco, 1,003
+Gabi, San Francisco, 459
+Habay, San Francisco, 556
+Malico, San Francisco, 303
+Marayag, San Francisco, 787
+Napantao, San Francisco, 982
+Pasanon, San Francisco, 406
+Pinamudlan, San Francisco, 737
+Punta, San Francisco, 379
+Santa Cruz, San Francisco, 539
+Santa Paz Norte, San Francisco, 714
+Santa Paz Sur, San Francisco, 443
+Sudmon, San Francisco, 619
+Tinaan, San Francisco, 519
+Tuno, San Francisco, 627
+Ubos (Poblacion), San Francisco, 994
+Agay‑ay, San Juan, 579
+Basak, San Juan, 1,215
+Bobon A, San Juan, 391
+Bobon B, San Juan, 352
+Dayanog, San Juan, 893
+Garrido, San Juan, 413
+Minoyho, San Juan, 1,024
+Osao, San Juan, 1,241
+Pong‑oy, San Juan, 1,185
+San Jose (Poblacion), San Juan, 974
+San Roque, San Juan, 496
+San Vicente, San Juan, 672
+Santa Cruz (Poblacion), San Juan, 1,211
+Santa Filomena, San Juan, 385
+Santo Niño (Poblacion), San Juan, 2,055
+Somoje, San Juan, 613
+Sua, San Juan, 713
+Timba, San Juan, 446
+Benit, San Ricardo, 740
+Bitoon, San Ricardo, 278
+Cabutan, San Ricardo, 358
+Camang, San Ricardo, 509
+Esperanza, San Ricardo, 927
+Esperanza Dos, San Ricardo, 1,198
+Inolinan, San Ricardo, 677
+Kinachawa, San Ricardo, 636
+Looc, San Ricardo, 274
+Pinut‑an, San Ricardo, 1,844
+Poblacion, San Ricardo, 838
+San Antonio (Alangalang), San Ricardo, 604
+San Ramon, San Ricardo, 389
+Saub, San Ricardo, 803
+Timba, San Ricardo, 419
+Balagawan, Silago, 825
+Catmon, Silago, 179
+Hingatungan, Silago, 2,129
+Imelda, Silago, 268
+Katipunan, Silago, 589
+Laguma, Silago, 800
+Mercedes, Silago, 1,840
+Poblacion District I, Silago, 1,339
+Poblacion District II, Silago, 1,406
+Puntana, Silago, 356
+Salvacion, Silago, 642
+Sap‑ang, Silago, 609
+Sudmon, Silago, 445
+Tuba‑on, Silago, 437
+Tubod, Silago, 911
+Benit, Sogod, 70
+Buac Daku, Sogod, 127
+Buac Gamay, Sogod, 769
+Cabadbaran, Sogod, 196
+Concepcion, Sogod, 1,246
+Consolacion, Sogod, 1,222
+Dagsa, Sogod, 483
+Hibod‑hibod, Sogod, 432
+Hindangan, Sogod, 123
+Hipantag, Sogod, 313
+Javier, Sogod, 762
+Kahupian, Sogod, 1,456
+Kanangkaan, Sogod, 351
+Kauswagan, Sogod, 365
+La Purisima Concepcion, Sogod, 1,153
+Libas, Sogod, 1,876
+Lum‑an, Sogod, 143
+Mabicay, Sogod, 822
+Mac, Sogod, 1,811
+Magatas, Sogod, 1,285
+Mahayahay, Sogod, 997
+Malinao, Sogod, 503
+Maria Plana, Sogod, 236
+Milagroso, Sogod, 700
+Olisihan, Sogod, 540
+Pancho Villa, Sogod, 1,065
+Pandan, Sogod, 1,412
+Rizal, Sogod, 2,028
+Salvacion, Sogod, 781
+San Francisco Mabuhay, Sogod, 467
+San Isidro, Sogod, 1,098
+San Jose, Sogod, 1,483
+San Juan (Agata), Sogod, 720
+San Miguel, Sogod, 1,586
+San Pedro, Sogod, 1,867
+San Roque, Sogod, 1,717
+San Vicente, Sogod, 204
+Santa Maria, Sogod, 217
+Suba, Sogod, 1,216
+Tampoong, Sogod, 1,989
+Zone I (Poblacion), Sogod, 1,567
+Zone II (Poblacion), Sogod, 857
+Zone III (Poblacion), Sogod, 2,359
+Zone IV (Poblacion), Sogod, 470
+Zone V (Poblacion), Sogod, 3,902
+Anahawan, Tomas Oppus, 436
+Banday (Poblacion), Tomas Oppus, 560
+Biasong, Tomas Oppus, 216
+Bogo (Poblacion), Tomas Oppus, 910
+Cabascan, Tomas Oppus, 364
+Camansi, Tomas Oppus, 374
+Cambite (Poblacion), Tomas Oppus, 812
+Canlupao, Tomas Oppus, 683
+Carnaga, Tomas Oppus, 436
+Cawayan, Tomas Oppus, 789
+Higosoan, Tomas Oppus, 312
+Hinagtikan, Tomas Oppus, 387
+Hinapo, Tomas Oppus, 594
+Hugpa, Tomas Oppus, 331
+Iniguihan Poblacion (Salvacion), Tomas Oppus, 433
+Looc, Tomas Oppus, 937
+Luan, Tomas Oppus, 261
+Maanyag, Tomas Oppus, 469
+Mag‑ata, Tomas Oppus, 293
+Mapgap, Tomas Oppus, 432
+Maslog, Tomas Oppus, 887
+Ponong, Tomas Oppus, 486
+Rizal, Tomas Oppus, 752
+San Agustin, Tomas Oppus, 672
+San Antonio, Tomas Oppus, 581
+San Isidro, Tomas Oppus, 1,227
+San Miguel, Tomas Oppus, 399
+San Roque, Tomas Oppus, 500
+Tinago, Tomas Oppus, 1,075

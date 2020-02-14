@@ -1,0 +1,541 @@
+Alegria, Barcelona, 767
+Bagacay, Barcelona, 507
+Bangate, Barcelona, 831
+Bugtong, Barcelona, 430
+Cagang, Barcelona, 647
+Fabrica, Barcelona, 918
+Jibong, Barcelona, 576
+Lago, Barcelona, 455
+Layog, Barcelona, 735
+Luneta, Barcelona, 870
+Macabari, Barcelona, 1,480
+Mapapac, Barcelona, 906
+Olandia, Barcelona, 1,016
+Paghaluban, Barcelona, 846
+Poblacion Central, Barcelona, 971
+Poblacion Norte, Barcelona, 1,654
+Poblacion Sur, Barcelona, 1,224
+Putiao, Barcelona, 651
+San Antonio, Barcelona, 937
+San Isidro, Barcelona, 720
+San Ramon, Barcelona, 572
+San Vicente, Barcelona, 645
+Santa Cruz, Barcelona, 735
+Santa Lourdes, Barcelona, 1,136
+Tagdon, Barcelona, 761
+A. Bonifacio, Bulan, 475
+Abad Santos, Bulan, 1,010
+Aguinaldo, Bulan, 1,033
+Antipolo, Bulan, 371
+Beguin, Bulan, 1,739
+Benigno S. Aquino (Imelda), Bulan, 3,386
+Bical, Bulan, 663
+Bonga, Bulan, 613
+Butag, Bulan, 2,921
+Cadandanan, Bulan, 809
+Calomagon, Bulan, 1,679
+Calpi, Bulan, 918
+Cocok‑Cabitan, Bulan, 309
+Daganas, Bulan, 391
+Danao, Bulan, 1,073
+Dolos, Bulan, 500
+E. Quirino, Bulan, 593
+Fabrica, Bulan, 2,339
+G. del Pilar (Tanga), Bulan, 1,704
+Gate, Bulan, 1,940
+Inararan, Bulan, 1,940
+J. Gerona, Bulan, 960
+J. P. Laurel (Pon-od), Bulan, 3,494
+Jamorawon, Bulan, 860
+Lajong, Bulan, 3,166
+Libertad, Bulan, 780
+M. Roxas, Bulan, 1,027
+Magsaysay, Bulan, 1,160
+Managanaga, Bulan, 3,086
+Marinab, Bulan, 1,350
+Montecalvario, Bulan, 1,145
+N. Roque (Rizal), Bulan, 1,168
+Namo, Bulan, 1,771
+Nasuje, Bulan, 1,278
+Obrero, Bulan, 2,691
+Osmeña, Bulan, 612
+Otavi, Bulan, 3,169
+Padre Diaz, Bulan, 508
+Palale, Bulan, 604
+Quezon, Bulan, 2,091
+R. Gerona, Bulan, 695
+Recto, Bulan, 401
+Sagrada, Bulan, 567
+San Francisco, Bulan, 2,910
+San Isidro, Bulan, 3,258
+San Juan Bag‑o, Bulan, 1,559
+San Juan Daan, Bulan, 1,090
+San Rafael, Bulan, 1,847
+San Ramon, Bulan, 1,384
+San Vicente, Bulan, 4,898
+Santa Remedios, Bulan, 1,447
+Santa Teresita, Bulan, 1,195
+Sigad, Bulan, 806
+Somagongsong, Bulan, 1,294
+Taromata, Bulan, 1,441
+Zone I Poblacion (Barangay 1- South Ilawod), Bulan, 648
+Zone II Poblacion (Barangay 2- West Ilawod), Bulan, 6,129
+Zone III Poblacion (Barangay 3- East Ilawod), Bulan, 646
+Zone IV Poblacion (Barangay 4- West Central), Bulan, 1,444
+Zone V Poblacion (Barangay 5-Lanipan), Bulan, 1,706
+Zone VI Poblacion (Barangay 6- Baybay), Bulan, 1,025
+Zone VII Poblacion (Barangay 7- Iraya), Bulan, 4,133
+Zone VIII Poblacion (Barangay 8- Loyo), Bulan, 2,227
+Bagacay, Bulusan, 824
+Central (Poblacion), Bulusan, 321
+Cogon, Bulusan, 330
+Dancalan, Bulusan, 1,577
+Dapdap (Poblacion), Bulusan, 1,398
+Lalud, Bulusan, 534
+Looban (Poblacion), Bulusan, 211
+Mabuhay (Poblacion), Bulusan, 1,172
+Madlawon (Poblacion), Bulusan, 1,146
+Poctol (Poblacion), Bulusan, 333
+Porog, Bulusan, 805
+Sabang (Poblacion), Bulusan, 1,328
+Salvacion, Bulusan, 435
+San Antonio, Bulusan, 587
+San Bernardo, Bulusan, 806
+San Francisco, Bulusan, 1,077
+San Isidro, Bulusan, 1,973
+San Jose, Bulusan, 900
+San Rafael, Bulusan, 1,129
+San Roque, Bulusan, 2,378
+San Vicente (Buhang), Bulusan, 1,628
+Santa Barbara, Bulusan, 1,068
+Sapngan (Poblacion), Bulusan, 492
+Tinampo, Bulusan, 432
+Adovis (Poblacion), Casiguran, 756
+Boton, Casiguran, 2,341
+Burgos, Casiguran, 1,385
+Casay, Casiguran, 1,769
+Cawit, Casiguran, 1,423
+Central (Poblacion), Casiguran, 1,380
+Cogon, Casiguran, 908
+Colambis, Casiguran, 1,237
+Escuala, Casiguran, 1,164
+Inlagadian, Casiguran, 1,513
+Lungib, Casiguran, 1,348
+Mabini, Casiguran, 448
+Ponong, Casiguran, 1,055
+Rizal, Casiguran, 1,244
+San Antonio (Boho), Casiguran, 1,080
+San Isidro, Casiguran, 745
+San Juan, Casiguran, 1,673
+San Pascual, Casiguran, 813
+Santa Cruz, Casiguran, 2,158
+Somal‑ot (Poblacion), Casiguran, 1,419
+Tigbao, Casiguran, 957
+Timbayog (Poblacion), Casiguran, 1,423
+Tiris, Casiguran, 717
+Trece Martirez, Casiguran, 1,822
+Tulay, Casiguran, 2,064
+Amomonting, Castilla, 1,179
+Bagalayag, Castilla, 603
+Bagong Sirang, Castilla, 1,164
+Bonga, Castilla, 1,100
+Buenavista, Castilla, 1,856
+Burabod, Castilla, 1,937
+Caburacan, Castilla, 817
+Canjela, Castilla, 800
+Cogon, Castilla, 1,073
+Cumadcad, Castilla, 6,428
+Dangcalan, Castilla, 454
+Dinapa, Castilla, 2,547
+La Union, Castilla, 1,263
+Libtong, Castilla, 978
+Loreto, Castilla, 1,166
+Macalaya, Castilla, 4,152
+Maracabac, Castilla, 829
+Mayon, Castilla, 2,764
+Maypangi, Castilla, 637
+Milagrosa, Castilla, 1,534
+Miluya, Castilla, 1,207
+Monte Carmelo, Castilla, 1,125
+Oras, Castilla, 2,072
+Pandan, Castilla, 1,875
+Poblacion, Castilla, 3,387
+Quirapi, Castilla, 1,617
+Saclayan, Castilla, 573
+Salvacion, Castilla, 644
+San Isidro, Castilla, 4,139
+San Rafael, Castilla, 1,695
+San Roque, Castilla, 622
+San Vicente, Castilla, 2,815
+Sogoy, Castilla, 1,595
+Tomalaytay, Castilla, 1,180
+Alin, Donsol, 659
+Awai, Donsol, 790
+Banban, Donsol, 918
+Bandi, Donsol, 384
+Banuang Gurang, Donsol, 1,134
+Baras, Donsol, 369
+Bayawas, Donsol, 477
+Bororan Barangay 1 (Poblacion), Donsol, 963
+Cabugao, Donsol, 770
+Central Barangay 2 (Poblacion), Donsol, 457
+Cristo, Donsol, 415
+Dancalan, Donsol, 3,061
+De Vera, Donsol, 532
+Gimagaan, Donsol, 1,849
+Girawan, Donsol, 339
+Gogon, Donsol, 1,090
+Gura, Donsol, 1,156
+Juan Adre, Donsol, 418
+Lourdes, Donsol, 341
+Mabini, Donsol, 704
+Malapoc, Donsol, 561
+Malinao, Donsol, 241
+Market Site Barangay 3 (Poblacion), Donsol, 334
+New Maguisa, Donsol, 315
+Ogod (Crossing), Donsol, 3,755
+Old Maguisa, Donsol, 242
+Orange, Donsol, 390
+Pangpang, Donsol, 1,237
+Parina, Donsol, 254
+Pawala, Donsol, 256
+Pinamanaan, Donsol, 327
+Poso Poblacion (Barangay 5), Donsol, 151
+Punta Waling‑Waling Poblacion (Barangay 4), Donsol, 2,000
+Rawis, Donsol, 2,314
+San Antonio, Donsol, 729
+San Isidro, Donsol, 896
+San Jose, Donsol, 478
+San Rafael, Donsol, 1,240
+San Ramon, Donsol, 547
+San Vicente, Donsol, 636
+Santa Cruz, Donsol, 2,648
+Sevilla, Donsol, 825
+Sibago, Donsol, 1,766
+Suguian, Donsol, 439
+Tagbac, Donsol, 323
+Tinanogan, Donsol, 2,023
+Tongdol, Donsol, 636
+Tres Marias, Donsol, 1,725
+Tuba, Donsol, 849
+Tupas, Donsol, 1,937
+Vinisitahan, Donsol, 2,811
+Ariman, Gubat, 1,657
+Bagacay, Gubat, 3,328
+Balud del Norte (Poblacion), Gubat, 1,961
+Balud del Sur (Poblacion), Gubat, 1,192
+Benguet, Gubat, 543
+Bentuco, Gubat, 1,676
+Beriran, Gubat, 1,007
+Buenavista, Gubat, 997
+Bulacao, Gubat, 2,024
+Cabigaan, Gubat, 1,116
+Cabiguhan, Gubat, 771
+Carriedo, Gubat, 2,244
+Casili, Gubat, 1,101
+Cogon, Gubat, 2,289
+Cota na Daco (Poblacion), Gubat, 1,707
+Dita, Gubat, 488
+Jupi, Gubat, 1,095
+Lapinig, Gubat, 485
+Luna‑Candol (Poblacion), Gubat, 2,356
+Manapao, Gubat, 968
+Manook (Poblacion), Gubat, 1,401
+Naagtan, Gubat, 975
+Nato, Gubat, 1,129
+Nazareno, Gubat, 522
+Ogao, Gubat, 1,327
+Paco, Gubat, 1,552
+Panganiban (Poblacion), Gubat, 2,211
+Paradijon (Poblacion), Gubat, 1,295
+Patag, Gubat, 593
+Payawin, Gubat, 1,611
+Pinontingan (Poblacion), Gubat, 1,265
+Rizal, Gubat, 2,690
+San Ignacio, Gubat, 2,244
+Sangat, Gubat, 832
+Santa Ana, Gubat, 2,015
+Tabi, Gubat, 1,681
+Tagaytay, Gubat, 1,031
+Tigkiw, Gubat, 1,019
+Tiris, Gubat, 2,053
+Togawe, Gubat, 1,265
+Union, Gubat, 1,193
+Villareal, Gubat, 625
+Bacolod (Poblacion), Irosin, 4,518
+Bagsangan, Irosin, 2,961
+Batang, Irosin, 2,231
+Bolos, Irosin, 882
+Buenavista, Irosin, 1,320
+Bulawan, Irosin, 1,149
+Carriedo, Irosin, 3,197
+Casini, Irosin, 1,155
+Cawayan, Irosin, 428
+Cogon, Irosin, 1,164
+Gabao, Irosin, 4,286
+Gulang‑Gulang, Irosin, 2,965
+Gumapia, Irosin, 719
+Liang, Irosin, 943
+Macawayan, Irosin, 2,873
+Mapaso, Irosin, 860
+Monbon, Irosin, 4,414
+Patag, Irosin, 3,136
+Salvacion, Irosin, 1,427
+San Agustin (Poblacion), Irosin, 2,125
+San Isidro, Irosin, 720
+San Juan (Poblacion), Irosin, 2,161
+San Julian (Poblacion), Irosin, 2,431
+San Pedro, Irosin, 3,154
+Santo Domingo (Lamboon), Irosin, 950
+Tabon‑Tabon, Irosin, 1,628
+Tinampo, Irosin, 1,489
+Tongdol, Irosin, 1,376
+Anog, Juban, 607
+Aroroy, Juban, 1,224
+Bacolod, Juban, 1,693
+Binanuahan, Juban, 1,264
+Biriran, Juban, 2,091
+Buraburan, Juban, 2,322
+Calateo, Juban, 731
+Calmayon, Juban, 534
+Carohayon, Juban, 662
+Catanagan, Juban, 1,432
+Catanusan, Juban, 996
+Cogon, Juban, 2,105
+Embarcadero, Juban, 1,155
+Guruyan, Juban, 2,850
+Lajong, Juban, 1,837
+Maalo, Juban, 348
+North Poblacion, Juban, 886
+Puting Sapa, Juban, 791
+Rangas, Juban, 1,793
+Sablayan, Juban, 968
+Sipaya, Juban, 642
+South Poblacion, Juban, 1,304
+Taboc, Juban, 1,568
+Tinago, Juban, 822
+Tughan, Juban, 1,695
+Aguada Norte, Magallanes, 1,515
+Aguada Sur, Magallanes, 1,159
+Anibong, Magallanes, 493
+Bacalon, Magallanes, 650
+Bacolod, Magallanes, 1,027
+Banacud, Magallanes, 1,240
+Behia, Magallanes, 2,518
+Biga, Magallanes, 1,194
+Binisitahan del Norte, Magallanes, 917
+Binisitahan del Sur, Magallanes, 682
+Biton, Magallanes, 2,011
+Bulala, Magallanes, 610
+Busay, Magallanes, 604
+Caditaan, Magallanes, 3,443
+Cagbolo, Magallanes, 1,120
+Cagtalaba, Magallanes, 557
+Cawit Extension, Magallanes, 1,727
+Cawit Proper, Magallanes, 1,184
+Ginangra, Magallanes, 781
+Hubo, Magallanes, 869
+Incarizan, Magallanes, 1,387
+Lapinig, Magallanes, 761
+Magsaysay, Magallanes, 262
+Malbog, Magallanes, 343
+Pantalan, Magallanes, 1,170
+Pawik, Magallanes, 638
+Pili, Magallanes, 1,371
+Poblacion, Magallanes, 648
+Salvacion, Magallanes, 1,044
+Santa Elena, Magallanes, 1,144
+Siuton, Magallanes, 1,959
+Tagas, Magallanes, 483
+Tulatula Norte, Magallanes, 911
+Tulatula Sur, Magallanes, 616
+Balocawe, Matnog, 1,035
+Banogao, Matnog, 506
+Banuangdaan, Matnog, 590
+Bariis, Matnog, 1,242
+Bolo, Matnog, 1,298
+Bon‑Ot Big, Matnog, 1,569
+Bon‑Ot Small, Matnog, 422
+Cabagahan, Matnog, 506
+Calayuan, Matnog, 652
+Calintaan, Matnog, 1,319
+Caloocan (Poblacion), Matnog, 1,246
+Calpi, Matnog, 133
+Camachiles (Poblacion), Matnog, 1,639
+Camcaman (Poblacion), Matnog, 1,157
+Coron‑coron, Matnog, 1,545
+Culasi, Matnog, 2,130
+Gadgaron, Matnog, 2,188
+Genablan Occidental, Matnog, 630
+Genablan Oriental, Matnog, 1,240
+Hidhid, Matnog, 1,205
+Laboy, Matnog, 843
+Lajong, Matnog, 617
+Mambajog, Matnog, 751
+Manjunlad, Matnog, 1,086
+Manurabi, Matnog, 756
+Naburacan, Matnog, 429
+Paghuliran, Matnog, 533
+Pangi, Matnog, 667
+Pawa, Matnog, 1,383
+Poropandan, Matnog, 891
+Santa Isabel, Matnog, 864
+Sinalmacan, Matnog, 455
+Sinang‑Atan, Matnog, 424
+Sinibaran, Matnog, 1,111
+Sisigon, Matnog, 1,545
+Sua, Matnog, 1,560
+Sulangan, Matnog, 764
+Tablac (Poblacion), Matnog, 1,512
+Tabunan (Poblacion), Matnog, 1,788
+Tugas, Matnog, 870
+Abas, Pilar, 1,172
+Abucay, Pilar, 2,952
+Bantayan, Pilar, 1,836
+Banuyo (Poblacion), Pilar, 3,637
+Bayasong, Pilar, 1,583
+Bayawas, Pilar, 311
+Binanuahan (Poblacion), Pilar, 1,851
+Cabiguan, Pilar, 2,330
+Cagdongon, Pilar, 956
+Calongay, Pilar, 2,078
+Calpi, Pilar, 702
+Catamlangan, Pilar, 1,220
+Comapo‑capo, Pilar, 955
+Danlog, Pilar, 1,156
+Dao (Poblacion), Pilar, 2,404
+Dapdap, Pilar, 1,643
+Del Rosario (Bual), Pilar, 3,036
+Esmerada, Pilar, 512
+Esperanza, Pilar, 1,687
+Ginablan, Pilar, 1,842
+Guiron, Pilar, 767
+Inang, Pilar, 1,816
+Inapugan, Pilar, 2,690
+Leona, Pilar, 337
+Lipason, Pilar, 966
+Lourdes, Pilar, 827
+Lubiano, Pilar, 838
+Lumbang, Pilar, 1,494
+Lungib, Pilar, 2,043
+Mabanate, Pilar, 1,616
+Malbog, Pilar, 935
+Marifosque (Poblacion), Pilar, 2,277
+Mercedes, Pilar, 948
+Migabod, Pilar, 478
+Naspi, Pilar, 866
+Palanas, Pilar, 1,196
+Pangpang, Pilar, 1,255
+Pinagsalog, Pilar, 532
+Pineda, Pilar, 912
+Poctol, Pilar, 1,185
+Pudo, Pilar, 349
+Putiao, Pilar, 2,345
+Sacnangan, Pilar, 1,144
+Salvacion, Pilar, 2,077
+San Antonio (Millabas), Pilar, 2,778
+San Antonio (Sapa), Pilar, 2,778
+San Jose, Pilar, 1,360
+San Rafael, Pilar, 3,488
+Santa Fe, Pilar, 2,181
+Brillante (Poblacion), Prieto Diaz, 647
+Bulawan, Prieto Diaz, 1,002
+Calao, Prieto Diaz, 1,956
+Carayat, Prieto Diaz, 728
+Diamante, Prieto Diaz, 1,718
+Gogon, Prieto Diaz, 1,693
+Lupi, Prieto Diaz, 764
+Maningcay de Oro, Prieto Diaz, 1,249
+Manlabong, Prieto Diaz, 781
+Perlas, Prieto Diaz, 417
+Quidolog, Prieto Diaz, 893
+Rizal, Prieto Diaz, 1,081
+San Antonio, Prieto Diaz, 548
+San Fernando, Prieto Diaz, 1,469
+San Isidro, Prieto Diaz, 1,318
+San Juan, Prieto Diaz, 713
+San Rafael, Prieto Diaz, 640
+San Ramon, Prieto Diaz, 599
+Santa Lourdes, Prieto Diaz, 889
+Santo Domingo, Prieto Diaz, 331
+Talisayan, Prieto Diaz, 933
+Tupaz, Prieto Diaz, 1,023
+Ulag, Prieto Diaz, 1,050
+Barangay Poblacion I, Santa Magdalena, 1,139
+Barangay Poblacion II, Santa Magdalena, 584
+Barangay Poblacion III, Santa Magdalena, 792
+Barangay Poblacion IV, Santa Magdalena, 1,151
+La Esperanza, Santa Magdalena, 475
+Peñafrancia, Santa Magdalena, 781
+Salvacion, Santa Magdalena, 1,527
+San Antonio, Santa Magdalena, 1,474
+San Bartolome (Talaongan), Santa Magdalena, 3,037
+San Eugenio, Santa Magdalena, 961
+San Isidro, Santa Magdalena, 1,557
+San Rafael, Santa Magdalena, 1,204
+San Roque, Santa Magdalena, 1,249
+San Sebastian, Santa Magdalena, 917
+Abuyog, Sorsogon City, 4,359
+Almendras‑Cogon (Poblacion), Sorsogon City, 1,169
+Balete, Sorsogon City, 2,684
+Balogo (Sorsogon East District), Sorsogon City, 6,932
+Balogo (Bacon District), Sorsogon City, 6,932
+Barayong, Sorsogon City, 1,008
+Basud, Sorsogon City, 2,811
+Bato, Sorsogon City, 1,756
+Bibincahan, Sorsogon City, 15,738
+Bitan‑o/Dalipay (Poblacion), Sorsogon City, 3,240
+Bogña, Sorsogon City, 1,413
+Bon‑Ot, Sorsogon City, 623
+Bucalbucalan, Sorsogon City, 2,533
+Buenavista, Sorsogon City, 1,469
+Buenavista, Sorsogon City, 1,469
+Buhatan, Sorsogon City, 3,395
+Bulabog, Sorsogon City, 2,443
+Burabod (Poblacion), Sorsogon City, 2,867
+Cabarbuhan, Sorsogon City, 858
+Cabid‑An, Sorsogon City, 7,255
+Cambulaga, Sorsogon City, 4,418
+Capuy, Sorsogon City, 2,561
+Caricaran, Sorsogon City, 2,371
+Del Rosario, Sorsogon City, 950
+Gatbo, Sorsogon City, 2,494
+Gimaloto, Sorsogon City, 1,050
+Guinlajon, Sorsogon City, 4,609
+Jamislagan, Sorsogon City, 565
+Macabog, Sorsogon City, 3,643
+Maricrum, Sorsogon City, 1,365
+Marinas, Sorsogon City, 761
+Osiao, Sorsogon City, 3,174
+Pamurayan, Sorsogon City, 1,966
+Pangpang, Sorsogon City, 9,230
+Panlayaan, Sorsogon City, 1,524
+Peñafrancia, Sorsogon City, 1,763
+Piot (Poblacion), Sorsogon City, 2,647
+Poblacion, Sorsogon City, 4,187
+Polvorista (Poblacion), Sorsogon City, 602
+Rawis, Sorsogon City, 1,354
+Rizal, Sorsogon City, 3,645
+Salog (Poblacion), Sorsogon City, 2,920
+Salvacion, Sorsogon City, 1,308
+Salvacion, Sorsogon City, 1,308
+Sampaloc (Poblacion), Sorsogon City, 4,719
+San Isidro, Sorsogon City, 1,563
+San Isidro, Sorsogon City, 1,563
+San Juan, Sorsogon City, 2,040
+San Juan (fr. the mun. of Bacon), Sorsogon City, 2,040
+San Pascual, Sorsogon City, 1,579
+San Ramon, Sorsogon City, 1,075
+San Roque, Sorsogon City, 3,059
+San Vicente, Sorsogon City, 1,490
+Santa Cruz, Sorsogon City, 1,157
+Santa Lucia, Sorsogon City, 481
+Santo Domingo, Sorsogon City, 1,300
+Santo Niño, Sorsogon City, 2,455
+Sawanga, Sorsogon City, 1,533
+Sirangan (Poblacion), Sorsogon City, 2,595
+Sugod, Sorsogon City, 2,148
+Sulucan (Poblacion), Sorsogon City, 523
+Talisay (Poblacion), Sorsogon City, 2,600
+Ticol, Sorsogon City, 2,114
+Tugos, Sorsogon City, 3,154
