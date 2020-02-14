@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<script type="text/javascript">
+			//this is the graph's edge
+			class edge {
+				constructor(source=null, dest=null, weight= null) { //array, array, int
+					this.source = source;
+					this.dest = dest;
+					this.weight = weight;
+				}
+				setWeight(weight){
+					this.weight = weight;
+				}
+			}
+			
+			//this is the graph's vertex 
+			class Node {
+				constructor(parent=null, position=null, h){ //array, array, int
+					this.parent = parent;
+					this.position = position;
+					this.h = h; //straight-line distance to end
+					this.s = Number.MAX_VALUE; //shortest distance from start
+					this.t = 0; //h + s
+					this.visited = false;
+				}
+			}
+			
+			//just a priorityqueue as of the moment. It uses Node.t to sort, lowest first
+			class PriorityQueue {
+				constructor(){
+					this.items = [];
+				}
+				enqueue(element) {
+					var contain = false;
+					//fix this sorting algo; right now it's just bubble sort :/
+					for (var i = 0; i < this.items.length; i++) {
+						if (this.items[i].t > element.t) {
+							this.items.splice(i, 0, element);
+							contain = true;
+							break;
+						}
+					}
+					if (!contain)
+						this.items.push(element);
+				}
+				dequeue(){
+					if (this.isEmpty()) return "Underflow";
+					return this.items.shift();
+				}
+				front(){
+					if (this.isEmpty()) return "No elements";
+					return this.items[0];
+				}
+				rear() {
+					if (this.isEmpty()) return "No elements";
+					return this.items[this.items.length - 1];
+				}
+				isEmpty() {
+					return this.items.length == 0;
+				}
+				print() {
+					let string = "";
+					for (let i = 0; i < this.items.length; i++)
+						string += "[" + this.items[i].position[0] + "," + this.items[i].position[0] + "] ";
+					console.log(string);
+				}
+			}
+			
+			function generateGraph(mapx, mapy) { //int, int
+				//create an unfilled 3d array of size mapx, mapy, with the z axis having connected nodes
+				(map = []).length = mapx;
+				for (let i = 0; i < mapx; i++) {
+					(map[i] = []).length = mapy;
+					for(let j = 0; j < mapy; j++) map[i][j] = [];
+				}
+				
+				//generate "directions" from each node, where you can only go one step at a time, flush to z axis
+				for (let i = 0; i < map.length; i++) {
+					for (let j = 0; j < map[0].length; j++) {
+						let adjacent = [[0,-1], [0,1], [-1,0], [1,0], [-1,-1], [-1,1], [1,-1], [1,1]];
+						for (let k = 0; k < adjacent.length; k++) {
+							let newx = i + adjacent[k][0];
+							let newy = j + adjacent[k][1];
+							if (newx >= 0 && newx < mapx && newy >= 0 && newy < mapy)
+								map[i][j].push(new edge([i, j],[newx, newy],5));
+						}
+					}
+				}
+				return map;
+			}
+			
+			//sets all edge weights of a graph to the same weight
+			function setAllWeights(map, weight) { //graph, int
+				for (let i = 0; i < map.length; i++) {
+					for (let j = 0; j < map[0].length; j++) {
+						for (let k = 0; k < map[i][j].length; k++)
+							map[i][j][k].setWeight(weight);
+					}
+				}
+			}
+			
+			//sets a particular edge's weight
+			function setWeight(map, source, dest, weight) { //graph, array, array, int
+				let src = map[source[0]][source[1]];
+				for (let i = 0; i < src.length; i++) { //linear search; children can only be a maximum of 8 anyway
+					if (src[i].dest == dest) src[i].weight = weight;
+				}
+			}
+			
+			//djikstra's algorithm, returns a grid with the lowest weights to get to each nodes from start
+			function djikstra(map, start){ //graph, array
+				console.time("djikstra");
+				//initialize 2d array filled with the max value as the default (so new values are instantly lower)
+				(grid = []).length = map.length;
+				for (let i = 0; i < grid.length; i++)
+					(grid[i] = []).length = map[0].length;
+				for (let i = 0; i < grid.length; i++) {
+					for (let j = 0; j < grid[0].length; j++)
+						grid[i][j] = Number.MAX_VALUE;
+				}
+				
+				//set the start node to 0, doesn't take any weight to go from start to start
+				grid[start[0]][start[1]] = 0;
+				
+				let queue = new PriorityQueue();
+				queue.enqueue(new Node(null, start, 0));
+				
+				while(!queue.isEmpty()){
+					let curr = queue.dequeue();
+					let source = curr.position;
+					//if curr's weight is already larger, just skip it
+					if (curr.t > grid[source[0]][source[1]]) continue;
+					for (let i = 0; i < map[source[0]][source[1]].length; i++) {
+						let destx = map[source[0]][source[1]][i].dest[0];
+						let desty = map[source[0]][source[1]][i].dest[1];
+						//check if the new weight is less than the old
+						if (grid[source[0]][source[1]] + map[source[0]][source[1]][i].weight < grid[destx][desty]) {
+							grid[destx][desty] = grid[source[0]][source[1]] + map[source[0]][source[1]][i].weight;
+							let node = new Node([source[0], source[1]], [destx, desty],0);
+							node.t = grid[source[0]][source[1]]
+							queue.enqueue(node);
+						}
+					}
+				}
+				console.timeEnd("djikstra");
+				return grid;
+			}
+			
+			function aStar(map, start, end){
+				console.time("a*");
+				(grid = []).length = map.length;
+				for (let i = 0; i < grid.length; i++)
+					(grid[i] = []).length = map[0].length;
+				for (let i = 0; i < grid.length; i++) {
+					for (let j = 0; j < grid[0].length; j++)
+						grid[i][j] = new Node(null, [i, j], Math.sqrt(Math.pow(i - end[0],2) + Math.pow(j - end[1],2)));
+				}
+				
+				//create a priorityqueue
+				let queue = new PriorityQueue();
+				
+				//start by queueing up the start node
+				queue.enqueue(grid[start[0]][start[1]]);
+				queue.items[0].s = 0;
+				
+				while(!queue.isEmpty()) {
+					//queue in starting node
+					let currentNode = queue.dequeue();
+					
+					//if it's already visited, no reason to go back to it
+					if(currentNode.visited) continue;
+					
+					currentNode.visited = true;
+					let currentx = currentNode.position[0];
+					let currenty = currentNode.position[1];
+					let children = map[currentx][currenty];
+					
+					for (let i = 0; i < children.length; i++) {
+						let destx = children[i].dest[0];
+						let desty = children[i].dest[1];
+						//if the destination is already visited, no reason to go there either
+						if (grid[destx][desty].visited) continue;
+						
+						//if the parent of the destination is null, set it to the current node
+						if (grid[destx][desty].parent == null) grid[destx][desty].parent = currentNode;
+						
+						//if the new weight is less than the old weight, change the weight
+						if (grid[destx][desty].parent.s + children[i].weight < grid[destx][desty].s) {
+							grid[destx][desty].s = grid[destx][desty].parent.s + children[i].weight;
+							grid[destx][desty].parent = currentNode;
+						}
+						
+						//set t
+						grid[destx][desty].t = grid[destx][desty].s + grid[destx][desty].h;
+						queue.enqueue(grid[destx][desty]);
+					}
+					
+					//if at end, output an array with [weight to get to end, path to get to end]
+					if (currentx == end[0] && currenty == end[1]) {
+						let path = [];
+						let current = currentNode;
+						while(current != null) {
+							path.push(current.position);
+							current = current.parent;
+						}
+						console.timeEnd("a*");
+						return [currentNode.s, path.reverse()];
+					}
+				}
+			}
+			
+			//deprecated repeated a* algorithm
+			function allStar(map, source){
+				console.time("astar");
+				(ans = []).length = map.length;
+				for (let i = 0; i < ans.length; i++) {
+					(ans[i] = []).length = map[0].length;
+					ans[i].fill(0, 0, map[0].length);
+				}
+				for (let i = 0; i < ans.length; i++) {
+					for (let j = 0; j < ans[0].length; j++) {
+						if (i == source[0] && j == source[1]) continue;
+						ans[i][j] = aStar(map, source, [i, j])[0];
+					}
+				}
+				console.timeEnd("astar");
+				return ans;
+			}
+			
+			//flattens a set of grids into one grid with all the grids' standard deviations
+			function stddev(gridSet) {
+				(grid = []).length = gridSet[0].length;
+				for (let i = 0; i < grid.length; i++) {
+					(grid[i] = []).length = gridSet[0][0].length;
+					grid[i].fill(0, 0, grid[0].length);
+				}
+				
+				let sum = 0;
+				for (let i = 0; i < gridSet[0].length; i++) {
+					for (let j = 0; j < gridSet[0][0].length; j++) {
+						for (let k = 0; k < gridSet.length; k++)
+							sum += gridSet[k][i][j]; 
+						grid[i][j] = sum / gridSet.length;
+						sum = 0;
+					}
+				}
+				
+				let stddev = 0;
+				for (let i = 0; i < gridSet[0].length; i++) {
+					for (let j = 0; j < gridSet[0][0].length; j++) {
+						for (let k = 0; k < gridSet.length; k++)
+							stddev += Math.pow(gridSet[k][i][j] - grid[i][j], 2) 
+						grid[i][j] = Math.sqrt(stddev / gridSet.length);
+						stddev = 0;
+					}
+				}
+				
+				return grid;
+			}
+			
+			//flattens a set of grids into one grid with all the grids' averages
+			function avg(gridSet) {
+				(grid = []).length = gridSet[0].length;
+				for (let i = 0; i < grid.length; i++) {
+					(grid[i] = []).length = gridSet[0][0].length;
+					grid[i].fill(0, 0, grid[0].length);
+				}
+				
+				let sum = 0;
+				for (let i = 0; i < gridSet[0].length; i++) {
+					for (let j = 0; j < gridSet[0][0].length; j++) {
+						for (let k = 0; k < gridSet.length; k++)
+							sum += gridSet[k][i][j]; 
+						grid[i][j] = sum / gridSet.length;
+						sum = 0;
+					}
+				}
+				
+				return grid;
+			}
+
+		</script>
+	</body>
+</html>
