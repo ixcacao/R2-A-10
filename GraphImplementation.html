@@ -1,12 +1,60 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<script type="text/javascript" src="APITestData.js"></script>
 	</head>
 	<body>
 		<script type="text/javascript">
-			//this is the graph's edge
+			let mapData = [];
+			const inc = 1000;
+
+			const mappingAPICall = async () => {
+				// let initLat = 16.400393;
+				// let initLng = 120.601372;
+
+				// let inc = (1 / 111120) * 1000; // 1000 meter increments
+				// let latLng = "";
+
+				// // looping through to make a 10 x 10 area 
+				// // from (initLat, initLng) to (initLat + 10*inc, initLng + 10*inc)
+				// for(let i = 0; i < 10; i++){
+				// 	for(let j = 0; j < 10; j++){
+				// 		latLng += (initLat + inc * i).toString() + "," + (initLng + inc * j).toString() + ",";
+				// 	}
+				// }
+
+				// let reqStr = 'http://open.mapquestapi.com/elevation/v1/profile?key=M300DEIjTJNjTiiibYvSJfDeBw5LGSKu&shapeFormat=raw&latLngCollection=' + latLng;
+
+				// const response = await fetch(reqStr);
+				// const myJson = await response.json(); 
+				const myJson = data;
+
+				let arr = [];
+				let newArr = [];
+
+				for(let i = 0; i < 10; i++){
+					newArr.push([]);
+				}
+
+				// list of values goes from top to bottom then left to right (first column fills up, then second column)
+
+				for(let i = 0; i < myJson.elevationProfile.length; i++){
+					let temp = [];
+					temp.push(myJson.elevationProfile[i]["height"]);
+					temp.push([myJson.shapePoints[i * 2], myJson.shapePoints[(i * 2) + 1]]);
+					arr.push(temp);
+				}
+
+				for(let i = 0; i < arr.length; i++){
+					newArr[i % 10].push(arr[i]);
+				}
+
+				mapData = newArr;
+			}
+
+			//path from node a to node b
 			class edge {
-				constructor(source=null, dest=null, weight= null) { //array, array, int
+				constructor(source=null, dest=null, weight=null) {
 					this.source = source;
 					this.dest = dest;
 					this.weight = weight;
@@ -16,26 +64,24 @@
 				}
 			}
 			
-			//this is the graph's vertex 
+			//positions, more accurately vertices, holds the heuristic data
 			class Node {
-				constructor(parent=null, position=null, h){ //array, array, int
+				constructor(parent=null, position=null, h){
 					this.parent = parent;
 					this.position = position;
-					this.h = h; //straight-line distance to end
-					this.s = Number.MAX_VALUE; //shortest distance from start
-					this.t = 0; //h + s
-					this.visited = false;
+					this.h = h; //tobler's hiking function -> seconds
+					this.s = Number.MAX_VALUE; //shortest distance from start - what if we make this weight
+					this.t = 0; //total heuristic; h + s
+					this.visited = false; //replaces the closed list
 				}
 			}
 			
-			//just a priorityqueue as of the moment. It uses Node.t to sort, lowest first
 			class PriorityQueue {
 				constructor(){
 					this.items = [];
 				}
 				enqueue(element) {
 					var contain = false;
-					//fix this sorting algo; right now it's just bubble sort :/
 					for (var i = 0; i < this.items.length; i++) {
 						if (this.items[i].t > element.t) {
 							this.items.splice(i, 0, element);
@@ -43,8 +89,9 @@
 							break;
 						}
 					}
-					if (!contain)
+					if (!contain) {
 						this.items.push(element);
+					}
 				}
 				dequeue(){
 					if (this.isEmpty()) return "Underflow";
@@ -63,100 +110,80 @@
 				}
 				print() {
 					let string = "";
-					for (let i = 0; i < this.items.length; i++)
+					for (let i = 0; i < this.items.length; i++) {
 						string += "[" + this.items[i].position[0] + "," + this.items[i].position[0] + "] ";
+					}
 					console.log(string);
 				}
 			}
+
+			function p2pDist(xy1, xy2){
+				let dist = Math.sqrt(Math.pow(Math.abs(xy1[0] - xy2[0]) * inc, 2) + Math.pow(Math.abs(xy1[1] - xy2[1]) * inc, 2));
+				return dist;
+			}
+
+			function hikingFunction(xy1, xy2, alt1, alt2, inc){
+				let dist = p2pDist(xy1, xy2);
+				let slope = Math.atan((alt2-alt1)/dist);
+				console.log(slope*180/Math.PI);
+				return 0.6 * 6 * Math.pow(Math.E, (-3.5 * Math.abs(Math.tan(slope) + 0.05)));
+			}
+
+			function getAlt(xy){
+				return mapData[xy[1]][xy[0]][0];
+			}
+
+			function generateWeight(xy1, xy2){
+				let speed = hikingFunction(xy1, xy2, getAlt(xy1), getAlt(xy2), inc);
+				let speedMperS = speed * 1000 * 60 * 60;
+				let time = (1 / speed) * p2pDist(xy1, xy2);
+				return time;
+			}
 			
-			function generateGraph(mapx, mapy) { //int, int
-				//create an unfilled 3d array of size mapx, mapy, with the z axis having connected nodes
+			//creates a three dimensional array; x for height, y for width, z for children
+			function generateGraph(mapx, mapy) {
 				(map = []).length = mapx;
 				for (let i = 0; i < mapx; i++) {
 					(map[i] = []).length = mapy;
 					for(let j = 0; j < mapy; j++) map[i][j] = [];
 				}
-				
-				//generate "directions" from each node, where you can only go one step at a time, flush to z axis
 				for (let i = 0; i < map.length; i++) {
 					for (let j = 0; j < map[0].length; j++) {
 						let adjacent = [[0,-1], [0,1], [-1,0], [1,0], [-1,-1], [-1,1], [1,-1], [1,1]];
 						for (let k = 0; k < adjacent.length; k++) {
 							let newx = i + adjacent[k][0];
 							let newy = j + adjacent[k][1];
-							if (newx >= 0 && newx < mapx && newy >= 0 && newy < mapy)
-								map[i][j].push(new edge([i, j],[newx, newy],5));
+							if (newx >= 0 && newx < mapx && newy >= 0 && newy < mapy) {
+								map[i][j].push(new edge([i, j],[newx, newy], generateWeight([i, j], [newx, newy])));
+							}
 						}
 					}
 				}
 				return map;
 			}
 			
-			//sets all edge weights of a graph to the same weight
-			function setAllWeights(map, weight) { //graph, int
+
+			//debug
+			function setAllWeights(map, weight) {
 				for (let i = 0; i < map.length; i++) {
 					for (let j = 0; j < map[0].length; j++) {
-						for (let k = 0; k < map[i][j].length; k++)
+						for (let k = 0; k < map[i][j].length; k++) {
 							map[i][j][k].setWeight(weight);
-					}
-				}
-			}
-			
-			//sets a particular edge's weight
-			function setWeight(map, source, dest, weight) { //graph, array, array, int
-				let src = map[source[0]][source[1]];
-				for (let i = 0; i < src.length; i++) { //linear search; children can only be a maximum of 8 anyway
-					if (src[i].dest == dest) src[i].weight = weight;
-				}
-			}
-			
-			//djikstra's algorithm, returns a grid with the lowest weights to get to each nodes from start
-			function djikstra(map, start){ //graph, array
-				console.time("djikstra");
-				//initialize 2d array filled with the max value as the default (so new values are instantly lower)
-				(grid = []).length = map.length;
-				for (let i = 0; i < grid.length; i++)
-					(grid[i] = []).length = map[0].length;
-				for (let i = 0; i < grid.length; i++) {
-					for (let j = 0; j < grid[0].length; j++)
-						grid[i][j] = Number.MAX_VALUE;
-				}
-				
-				//set the start node to 0, doesn't take any weight to go from start to start
-				grid[start[0]][start[1]] = 0;
-				
-				let queue = new PriorityQueue();
-				queue.enqueue(new Node(null, start, 0));
-				
-				while(!queue.isEmpty()){
-					let curr = queue.dequeue();
-					let source = curr.position;
-					//if curr's weight is already larger, just skip it
-					if (curr.t > grid[source[0]][source[1]]) continue;
-					for (let i = 0; i < map[source[0]][source[1]].length; i++) {
-						let destx = map[source[0]][source[1]][i].dest[0];
-						let desty = map[source[0]][source[1]][i].dest[1];
-						//check if the new weight is less than the old
-						if (grid[source[0]][source[1]] + map[source[0]][source[1]][i].weight < grid[destx][desty]) {
-							grid[destx][desty] = grid[source[0]][source[1]] + map[source[0]][source[1]][i].weight;
-							let node = new Node([source[0], source[1]], [destx, desty],0);
-							node.t = grid[source[0]][source[1]]
-							queue.enqueue(node);
 						}
 					}
 				}
-				console.timeEnd("djikstra");
-				return grid;
 			}
 			
+			//SSSP graph implementation of AStar
 			function aStar(map, start, end){
-				console.time("a*");
 				(grid = []).length = map.length;
-				for (let i = 0; i < grid.length; i++)
-					(grid[i] = []).length = map[0].length;
 				for (let i = 0; i < grid.length; i++) {
-					for (let j = 0; j < grid[0].length; j++)
-						grid[i][j] = new Node(null, [i, j], Math.sqrt(Math.pow(i - end[0],2) + Math.pow(j - end[1],2)));
+					(grid[i] = []).length = map[0].length;
+				}
+				for (let i = 0; i < grid.length; i++) {
+					for (let j = 0; j < grid[0].length; j++) {
+						grid[i][j] = new Node(null, [i, j], generateWeight([i, j], end));
+					}
 				}
 				
 				//create a priorityqueue
@@ -167,12 +194,8 @@
 				queue.items[0].s = 0;
 				
 				while(!queue.isEmpty()) {
-					//queue in starting node
 					let currentNode = queue.dequeue();
-					
-					//if it's already visited, no reason to go back to it
 					if(currentNode.visited) continue;
-					
 					currentNode.visited = true;
 					let currentx = currentNode.position[0];
 					let currenty = currentNode.position[1];
@@ -181,24 +204,16 @@
 					for (let i = 0; i < children.length; i++) {
 						let destx = children[i].dest[0];
 						let desty = children[i].dest[1];
-						//if the destination is already visited, no reason to go there either
 						if (grid[destx][desty].visited) continue;
-						
-						//if the parent of the destination is null, set it to the current node
 						if (grid[destx][desty].parent == null) grid[destx][desty].parent = currentNode;
-						
-						//if the new weight is less than the old weight, change the weight
 						if (grid[destx][desty].parent.s + children[i].weight < grid[destx][desty].s) {
 							grid[destx][desty].s = grid[destx][desty].parent.s + children[i].weight;
 							grid[destx][desty].parent = currentNode;
 						}
-						
-						//set t
 						grid[destx][desty].t = grid[destx][desty].s + grid[destx][desty].h;
 						queue.enqueue(grid[destx][desty]);
 					}
 					
-					//if at end, output an array with [weight to get to end, path to get to end]
 					if (currentx == end[0] && currenty == end[1]) {
 						let path = [];
 						let current = currentNode;
@@ -206,15 +221,13 @@
 							path.push(current.position);
 							current = current.parent;
 						}
-						console.timeEnd("a*");
 						return [currentNode.s, path.reverse()];
 					}
 				}
-			}
+			};
 			
-			//deprecated repeated a* algorithm
+			//ASSP A* star, literally just expand from source
 			function allStar(map, source){
-				console.time("astar");
 				(ans = []).length = map.length;
 				for (let i = 0; i < ans.length; i++) {
 					(ans[i] = []).length = map[0].length;
@@ -223,65 +236,17 @@
 				for (let i = 0; i < ans.length; i++) {
 					for (let j = 0; j < ans[0].length; j++) {
 						if (i == source[0] && j == source[1]) continue;
+						console.log(i, j);
 						ans[i][j] = aStar(map, source, [i, j])[0];
 					}
 				}
-				console.timeEnd("astar");
-				return ans;
+				return ans; //returns a 2D array of shortest weight to reach a point.
 			}
-			
-			//flattens a set of grids into one grid with all the grids' standard deviations
-			function stddev(gridSet) {
-				(grid = []).length = gridSet[0].length;
-				for (let i = 0; i < grid.length; i++) {
-					(grid[i] = []).length = gridSet[0][0].length;
-					grid[i].fill(0, 0, grid[0].length);
-				}
-				
-				let sum = 0;
-				for (let i = 0; i < gridSet[0].length; i++) {
-					for (let j = 0; j < gridSet[0][0].length; j++) {
-						for (let k = 0; k < gridSet.length; k++)
-							sum += gridSet[k][i][j]; 
-						grid[i][j] = sum / gridSet.length;
-						sum = 0;
-					}
-				}
-				
-				let stddev = 0;
-				for (let i = 0; i < gridSet[0].length; i++) {
-					for (let j = 0; j < gridSet[0][0].length; j++) {
-						for (let k = 0; k < gridSet.length; k++)
-							stddev += Math.pow(gridSet[k][i][j] - grid[i][j], 2) 
-						grid[i][j] = Math.sqrt(stddev / gridSet.length);
-						stddev = 0;
-					}
-				}
-				
-				return grid;
-			}
-			
-			//flattens a set of grids into one grid with all the grids' averages
-			function avg(gridSet) {
-				(grid = []).length = gridSet[0].length;
-				for (let i = 0; i < grid.length; i++) {
-					(grid[i] = []).length = gridSet[0][0].length;
-					grid[i].fill(0, 0, grid[0].length);
-				}
-				
-				let sum = 0;
-				for (let i = 0; i < gridSet[0].length; i++) {
-					for (let j = 0; j < gridSet[0][0].length; j++) {
-						for (let k = 0; k < gridSet.length; k++)
-							sum += gridSet[k][i][j]; 
-						grid[i][j] = sum / gridSet.length;
-						sum = 0;
-					}
-				}
-				
-				return grid;
-			}
-
+			mappingAPICall();
+			generateWeight([0, 0], [7, 7]);
+			generateWeight([0, 0], [1, 8]);
+			let graph = generateGraph(10, 10);
+			console.log(allStar(graph, [1,1]));
 		</script>
 	</body>
 </html>
