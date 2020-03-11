@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<script type="text/javascript">
+		let sources = [];
+		function generateGrid(sources) {
+			let start = [sources[source.length-1][0], sources[sources.length-1][1]];
+			//init 10x10 grid
+			(grid = []).length = 10;
+			for (let i = 0; i < grid.length; i++)
+					(grid[i] = []).length = 10;
+			
+			let lat = 1000 / 111132.952778; //approx. 1000m in degrees latitude
+			
+			//have the start point, find the length of rows 0 and 1 in longitude
+			let length1 = 9000 / (Math.cos(start[0] * Math.PI / 180) * 111319.491667);
+			let length2 = 9000 / (Math.cos((start[0] - (9 * lat)) * Math.PI / 180) * 111319.491667);
+			let startSpace = (length1 - length2) / 18; //find the differences in their length over 2
+			
+			//since the final trapezoid is proportional, all longitudinal lengths in increments of 10km latitude have the same
+			//differences in start length.
+			
+			let currLong;
+			let currLat = start[0];
+			for (let i = 0; i < grid.length; i++) {
+				currLong = start[1] + (startSpace * i);
+				for (let j = 0; j < grid[0].length; j++) {
+					if (currLong > 180) currLong = currLong - 360
+					if (currLong < -180) currLong = currLong + 360
+					grid[i][j] = [currLat, currLong];
+					currLong += 1000 / (Math.cos(currLat * Math.PI / 180) * 111319.491667);
+				}
+				currLat -= lat;
+			}
+			
+			for (let i = 0; i < grid.length; i++) {
+				for (let j = 0; j < grid[0].length; j++) {
+					console.log(grid[i][j][1] + ", " + grid[i][j][0]);
+				}	
+			}
+			return grid;
+		}
+		
+		function addSource(source) {
+			if (source[0] > 90 || source[0] < (-90 + (1000 / 111132.952778)) || source[1] > 180 || source[1] < -180) {
+				console.log("Invalid source!");
+				break;
+			}
+			if(!sources.length) {
+				sources[0] = source;
+				sources[1] = source;
+			}
+			else {
+				let bak = sources[sources.length-1]; 
+				sources[sources.length-1] = source;
+				let x = SAT(sources);
+				if (x[0]) sources[sources.length] = [x[1], x[2]];
+				else {
+					console.log("Invalid source!");
+					sources[sources.length-1] = bak;
+				}
+			}
+		}
+		
+		function SAT(sources) {
+			let minlong = 0, minlat = 0, maxlong = 0, maxlat = 0;
+			sources.forEach(item => {
+				if (item[0] < minlat)
+					minlat = item[0];
+				if (item[0] > maxlat)
+					maxlat = item[0];
+				if (item[1] < minlong)
+					minlong = item[1];
+				if (item[1] > maxlong)
+					maxlong = item[1];
+			});
+			let latDist = 9000 / 111132.952778;
+			let length1 = 9000 / (Math.cos(maxlat * Math.PI / 180) * 111319.491667);
+			let length2 = 9000 / (Math.cos((maxlat-latDist) * Math.PI / 180) * 111319.491667);
+			if (maxlat - minlat < latDist && maxlong-minlong < longdist1 && maxlong-minlong < longdist2) return [true, maxlat, minlong];
+			return [false, 0, 0];
+		}
+		</script>
+	</body>
+</html>
+
