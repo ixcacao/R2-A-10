@@ -379,7 +379,6 @@
 		<script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>
 		<link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css"/>
 		<script type="text/javascript">
-			let minCoords;
 			async function driver(){
 				let initLat = 16.400393;
 				let initLng = 120.601372;
@@ -391,14 +390,16 @@
 				let sources = [[9, 0], [3, 9], [6, 7], [3, 4], [0, 0], [4, 6]]; 
 				let result = await mainAlgorithm(initLat, initLng, sources, inc);
 
+				console.log('Grid of all A* Algorithms averaged:');
 				console.log(result[0]); // printing algorithm result (average of all A* algorithms per point)
+				console.log('Optimal destination vertex (in relative coordinates):');
 				console.log(result[1]); // printing final destination location (in relative coordinates [4, 5])
-				drawMap(sources, result);
+				drawMap(sources, result); // destination is marked in red, sources in yellow, all other points in blue
 			}
 
 			async function drawMap(sources, result){
 				let ave = result[0];
-				minCoords = result[1]; 
+				let minCoords = result[1]; 
 
 				L.mapquest.key = 'M300DEIjTJNjTiiibYvSJfDeBw5LGSKu'; // red's mapquest API key
 
@@ -421,15 +422,14 @@
 						if(i == minCoords[0] && j == minCoords[1]){
 							L.circle(latLngArr[i][j], { radius: 10, color: 'red' }).addTo(map);
 						} else if(sourceFlag){
-							L.circle(latLngArr[i][j], { radius: 10, color: 'green' }).addTo(map);
-							console.log('hi')
+							L.circle(latLngArr[i][j], { radius: 10, color: 'yellow' }).addTo(map);
 						} else {
 							L.circle(latLngArr[i][j], { radius: 10, color: 'blue' }).addTo(map);
 						}
 						// L.marker(latLngArr[i][j], {
-				  		//         icon: L.mapquest.icons.marker(),
-				  		//         draggable: false
-				  		//       }).bindPopup([i,j].toString()).addTo(map);
+						//         icon: L.mapquest.icons.marker(),
+						//         draggable: false
+						//       }).bindPopup([i,j].toString()).addTo(map);
 					}
 				}
 			}
