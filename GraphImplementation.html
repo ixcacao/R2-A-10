@@ -3,9 +3,12 @@
 	<head>
 	</head>
 	<body>
+		<div id="map" style="height: 95vh; width: 100%"></div>
 		<script type="text/javascript">
+			let latLngArr = [];
 			let mapData = [];
-			const inc = 1000; // increment distance in meters (constant)
+			
+
 			//this is the graph's edge
 			class edge {
 				constructor(source=null, dest=null, weight= null) { //array, array, int
@@ -71,8 +74,8 @@
 				}
 			}
 			
-			async function generateGraph(mapx, mapy) { //int, int
-				await mappingAPICall();
+			async function generateGraph(initLat, initLng, mapx, mapy, inc) { //int, int, int, int, int
+				await mappingAPICall(initLat, initLng, inc);
 				//create an unfilled 3d array of size mapx, mapy, with the z axis having connected nodes
 				(map = []).length = mapx;
 				for (let i = 0; i < mapx; i++) {
@@ -88,7 +91,7 @@
 							let newx = i + adjacent[k][0];
 							let newy = j + adjacent[k][1];
 							if (newx >= 0 && newx < mapx && newy >= 0 && newy < mapy){
-								let weight = await generateWeight([i, j], [newx, newy]);
+								let weight = await generateWeight([i, j], [newx, newy], inc);
 								map[i][j].push(new edge([i, j],[newx, newy], weight));
 							}
 						}
@@ -287,21 +290,22 @@
 				return grid;
 			}
 
-			const mappingAPICall = async () => {
-				let initLat = 16.400393;
-				let initLng = 120.601372;
-
-				let inc = (1 / 111120) * 1000; // how many deg in 1000 meters
+			const mappingAPICall = async (initLat, initLng, inc) => {
+				let incDeg = (1 / 111120) * inc; // how many deg in 1000 meters
 
 				let latLng = "";
 
 				// looping through to make a 10 x 10 area 
 				// from (initLat, initLng) to (initLat + 10*inc, initLng + 10*inc)
 				for(let i = 0; i < 10; i++){
+					let lngArr = [];
 					for(let j = 0; j < 10; j++){
-						latLng += (initLat + inc * i).toString() + "," + (initLng + inc * j).toString() + ",";
+						latLng += (initLat + incDeg * i).toString() + "," + (initLng + incDeg * j).toString() + ",";
+						lngArr.push([initLat + incDeg * i, initLng + incDeg * j])
 					}
+					latLngArr.push(lngArr);
 				}
+				console.log(latLngArr)
 
 				let reqStr = 'http://open.mapquestapi.com/elevation/v1/profile?key=M300DEIjTJNjTiiibYvSJfDeBw5LGSKu&shapeFormat=raw&latLngCollection=' + latLng;
 
@@ -330,28 +334,28 @@
 				mapData = newArr;
 			}
 
-			function p2pDist(xy1, xy2){
+			function p2pDist(xy1, xy2, inc){
 				let dist = Math.sqrt(Math.pow(Math.abs(xy1[0] - xy2[0]) * inc, 2) + Math.pow(Math.abs(xy1[1] - xy2[1]) * inc, 2));
 				return dist;
 			}
 
 			function hikingFunction(xy1, xy2, alt1, alt2, inc){
-				let dist = p2pDist(xy1, xy2);
+				let dist = p2pDist(xy1, xy2, inc);
 				let slope = -Math.atan((alt1-alt2)/dist);
 				return 0.6 * 6 * Math.pow(Math.E, (-3.5 * Math.abs(Math.tan(slope) + 0.05)));
 			}
 
-			async function generateWeight(xy1, xy2){
+			async function generateWeight(xy1, xy2, inc){
 				let speed = hikingFunction(xy1, xy2, mapData[xy1[1]][xy1[0]][0], mapData[xy2[1]][xy2[0]][0], inc); //xy1[1] goes first because lists are (column, row) not (row, column)
 				let speedMperS = speed * 1000 * 60 * 60;
-				let time = (1 / speed) * p2pDist(xy1, xy2);
+				let time = (1 / speed) * p2pDist(xy1, xy2, inc);
 				return time;
 			}
 
-			async function main(){
-				let graph = await generateGraph(10, 10);
+			async function mainAlgorithm(initLat, initLng, sources, inc){
+				let graph = await generateGraph(initLat, initLng, 10, 10, inc);
+				console.log(graph)
 
-				let sources = [[9, 0], [3, 9], [6, 7], [3, 4], [0, 0], [4, 6]];
 				let gridSet = [];
 				for(let i = 0; i < sources.length; i++){
 					gridSet.push(djikstra(graph, sources[i]));
@@ -372,8 +376,70 @@
 				return [ave, minCoords];
 			}
 		</script>
+		<script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>
+		<link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css"/>
 		<script type="text/javascript">
-			(async () => console.log(await main()))()
+			let minCoords;
+			async function driver(){
+				let initLat = 16.400393;
+				let initLng = 120.601372;
+
+				const inc = 1000; // increment distance in meters (constant)
+
+				// sources (where communities should be)
+				// sources start from initLat, initLng [0, 0] and go up [9, 0] and right [9, 9]
+				let sources = [[9, 0], [3, 9], [6, 7], [3, 4], [0, 0], [4, 6]]; 
+				let result = await mainAlgorithm(initLat, initLng, sources, inc);
+
+				console.log(result[0]); // printing algorithm result (average of all A* algorithms per point)
+				console.log(result[1]); // printing final destination location (in relative coordinates [4, 5])
+				drawMap(sources, result);
+			}
+
+			async function drawMap(sources, result){
+				let ave = result[0];
+				minCoords = result[1]; 
+
+				L.mapquest.key = 'M300DEIjTJNjTiiibYvSJfDeBw5LGSKu'; // red's mapquest API key
+
+				// 'map' refers to a <div> element with the ID map
+				let map = L.mapquest.map('map', {
+				  center: [16.400393, 120.601372],
+				  layers: L.mapquest.tileLayer('map'),
+				  zoom: 12
+				});
+
+				for(let i = 0; i < latLngArr.length; i++){
+					for(let j = 0; j < latLngArr[i].length; j++){
+						let sourceFlag = false;
+						for(let k = 0; k < sources.length; k++){
+							if(sources[k][0] == i && sources[k][1] == j){
+								sourceFlag = true;
+							}
+						}
+
+						if(i == minCoords[0] && j == minCoords[1]){
+							L.circle(latLngArr[i][j], { radius: 10, color: 'red' }).addTo(map);
+						} else if(sourceFlag){
+							L.circle(latLngArr[i][j], { radius: 10, color: 'green' }).addTo(map);
+							console.log('hi')
+						} else {
+							L.circle(latLngArr[i][j], { radius: 10, color: 'blue' }).addTo(map);
+						}
+						// L.marker(latLngArr[i][j], {
+				  		//         icon: L.mapquest.icons.marker(),
+				  		//         draggable: false
+				  		//       }).bindPopup([i,j].toString()).addTo(map);
+					}
+				}
+			}
+
+			driver()
+		</script>
+
+
+		<script type="text/javascript">
+
 		</script>
 	</body>
 </html>
