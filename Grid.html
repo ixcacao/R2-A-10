@@ -3,10 +3,18 @@
 	<head>
 	</head>
 	<body>
+				<script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>
+		<link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css"/>
+		<div id="map" style="height: 95vh; width: 100%"></div>
 		<script type="text/javascript">
 		let sources = [];
-		function generateGrid(sources) {
-			let start = [sources[source.length-1][0], sources[sources.length-1][1]];
+		let topleft = [];
+
+		function roundNum(num, places){
+			return Math.round((num + Number.EPSILON) * Math.pow(10, places)) / Math.pow(10, places)
+		}
+		function generateGrid(sources, topleft) {
+			let start = topleft;
 			//init 10x10 grid
 			(grid = []).length = 10;
 			for (let i = 0; i < grid.length; i++)
@@ -34,39 +42,32 @@
 				}
 				currLat -= lat;
 			}
-			
-			for (let i = 0; i < grid.length; i++) {
-				for (let j = 0; j < grid[0].length; j++) {
-					console.log(grid[i][j][1] + ", " + grid[i][j][0]);
-				}	
-			}
 			return grid;
 		}
 		
 		function addSource(source) {
 			if (source[0] > 90 || source[0] < (-90 + (1000 / 111132.952778)) || source[1] > 180 || source[1] < -180) {
-				console.log("Invalid source!");
-				break;
-			}
-			if(!sources.length) {
-				sources[0] = source;
-				sources[1] = source;
+				console.log("Invalid source! (out of bounds)");
+				return;
 			}
 			else {
 				let bak = sources[sources.length-1]; 
-				sources[sources.length-1] = source;
+				sources.push(source);
 				let x = SAT(sources);
-				if (x[0]) sources[sources.length] = [x[1], x[2]];
-				else {
-					console.log("Invalid source!");
-					sources[sources.length-1] = bak;
+				if (x[0]){ 
+					topleft = [x[1], x[2]];
+					console.log(topleft)
+				} else {
+					console.log("Invalid source! (out of source[-1] range)");
+					sources.pop()
+					sources.push(bak)
 				}
 			}
 		}
 		
-		function SAT(sources) {
-			let minlong = 0, minlat = 0, maxlong = 0, maxlat = 0;
-			sources.forEach(item => {
+		function SAT(sources) { // check if within range, if yes, set topleft to topleft corner so it can generate grid
+			let minlong = sources[0][1], minlat = sources[0][0], maxlong = sources[0][1], maxlat = sources[0][0];
+			sources.forEach(item => { // get minimum and maximum latitude and longitude
 				if (item[0] < minlat)
 					minlat = item[0];
 				if (item[0] > maxlat)
@@ -76,12 +77,80 @@
 				if (item[1] > maxlong)
 					maxlong = item[1];
 			});
-			let latDist = 9000 / 111132.952778;
-			let length1 = 9000 / (Math.cos(maxlat * Math.PI / 180) * 111319.491667);
-			let length2 = 9000 / (Math.cos((maxlat-latDist) * Math.PI / 180) * 111319.491667);
+
+			let latDist = 9000 / 111132.952778; // max distance (9000 meters) for latitude 
+			let longdist1 = 9000 / (Math.cos(maxlat * Math.PI / 180) * 111319.491667); // bound 1 for longitude
+			let longdist2 = 9000 / (Math.cos((maxlat-latDist) * Math.PI / 180) * 111319.491667); // bound 2 for longitude
 			if (maxlat - minlat < latDist && maxlong-minlong < longdist1 && maxlong-minlong < longdist2) return [true, maxlat, minlong];
 			return [false, 0, 0];
 		}
+
+		function getRelativeSources(latLngArr, sources){ // can still be optimized, but for now is okay
+			let relativeSources = [];
+			for(let i = 0; i < sources.length; i++){
+				let closestLat = latLngArr[0][0][0], closestLng = latLngArr[0][0][1], relativeX = 0, relativeY = 0; 
+				for(let j = 0; j < latLngArr.length; j++){
+					for(let k = 0; k < latLngArr[j].length; k++){
+						if(Math.abs(sources[i][0] - latLngArr[j][k][0]) < Math.abs(sources[i][0] - closestLat)){
+							closestLat = latLngArr[j][k][0];
+							relativeX = j;
+						}
+						if(Math.abs(sources[i][1] - latLngArr[j][k][1]) < Math.abs(sources[i][1] - closestLng)){
+							closestLng = latLngArr[j][k][1];
+							relativeY = k;
+						}
+					}
+				}
+				relativeSources.push([relativeX, relativeY])
+			}
+			console.log(relativeSources)
+			return relativeSources;
+		}
+
+		sources = [[15.94019, 121.04294]];
+		addSource([15.90419,121.07899]);
+		addSource([15.89002,121.01899]);
+		addSource([15.86002,121.02899]);
+		addSource([15.88002,121.03899]);
+		addSource([15.93002,121.06899]);
+		addSource([15.92002,121.06199]);
+		addSource([15.93102,121.07499]);
+		let latLngArr = generateGrid(sources, topleft);
+		let relativeSources = getRelativeSources(latLngArr, sources);
+
+		async function drawMap(sources){
+			L.mapquest.key = 'M300DEIjTJNjTiiibYvSJfDeBw5LGSKu'; // red's mapquest API key
+
+			// 'map' refers to a <div> element with the ID map
+			let map = L.mapquest.map('map', {
+			  center: [15.925355, 121.134665],
+			  layers: L.mapquest.tileLayer('map'),
+			  zoom: 12
+			});
+
+			for(let i = 0; i < latLngArr.length; i++){
+				for(let j = 0; j < latLngArr[i].length; j++){
+					let sourceFlag = false;
+					for(let k = 0; k < relativeSources.length; k++){
+						if(relativeSources[k][0] == i && relativeSources[k][1] == j){
+							sourceFlag = true;
+						}
+					}
+
+					if(sourceFlag){
+						L.circle(latLngArr[i][j], { radius: 10, color: 'yellow' }).addTo(map);
+					} else {
+						L.circle(latLngArr[i][j], { radius: 10, color: 'blue' }).addTo(map);
+					}
+					L.marker(latLngArr[i][j], {
+				        icon: L.mapquest.icons.marker(),
+				        draggable: false
+				    }).bindPopup(([i,j] + ":" + latLngArr[i][j]).toString()).addTo(map);
+				}
+			}
+		}
+		
+		drawMap(sources)
 		</script>
 	</body>
 </html>
